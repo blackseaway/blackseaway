@@ -47,29 +47,6 @@
    "places": []
   },
   {
-   "id": "d07e250eac58",
-   "lang": "en",
-   "title": "Новости СВО : ВС РФ ударили по судну с военными грузами в порту Черноморска",
-   "titles": {
-    "en": "Новости СВО : ВС РФ ударили по судну с военными грузами в порту Черноморска",
-    "ro": "Știri din zona de operațiuni speciale: Forțele Armate ale Federației Ruse au lovit o navă care transporta încărcături militare în portul Cernomorsk",
-    "bg": "Новини от СВО: Въоръжените сили на Русия нанесоха удар по кораб с военен товар в пристанището на Черноморск"
-   },
-   "summary": "",
-   "url": "https://iz.ru/2207876/2026-11-25/armiia-rossii-udarila-po-sudnu-s-voennymi-gruzami-v-portu-chernomorska",
-   "source": "iz.ru",
-   "published": "2026-11-25T05:45:00Z",
-   "fetched": "2026-11-25T13:50:37Z",
-   "image": "http://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2026-11/20260904_gaf_ux2_017%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_0.jpg?itok=BzXyn-ME",
-   "fallback_image": "",
-   "topics": [
-    "attacks"
-   ],
-   "places": [
-    "chornomorsk"
-   ]
-  },
-  {
    "id": "7d3389a5e6bf",
    "lang": "en",
    "title": "Ukraine battles to keep lights on in Odesa as Russia strikes grid",

@@ -222,6 +222,8 @@ def collect(sources: dict) -> list[dict]:
             pub = e["published"] or now
             if now - pub > MAX_FETCH_AGE or pub > now + dt.timedelta(hours=2):
                 continue
+            if re.search(r"[ыэё]", (title + " " + summary).lower()):
+                continue  # Russian-language text (Bulgarian has no ы, э, ё)
             ok, topics, places = classify(f"{title} {summary}", sources)
             if not ok:
                 continue
