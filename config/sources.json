@@ -652,6 +652,61 @@
       "lang": "bg",
       "mkt": "bg-BG",
       "q": "\"Черно море\" кораб"
+    },
+    {
+      "lang": "en",
+      "mkt": "en-US",
+      "q": "\"Black Sea\" corridor vessels"
+    },
+    {
+      "lang": "en",
+      "mkt": "en-US",
+      "q": "\"Black Sea\" grain exports shipping"
+    },
+    {
+      "lang": "en",
+      "mkt": "en-US",
+      "q": "\"Black Sea\" sea mine ship"
+    },
+    {
+      "lang": "en",
+      "mkt": "en-US",
+      "q": "\"Black Sea\" tanker drone"
+    },
+    {
+      "lang": "ro",
+      "mkt": "ro-RO",
+      "q": "\"Marea Neagră\" atac navă"
+    },
+    {
+      "lang": "ro",
+      "mkt": "ro-RO",
+      "q": "portul Constanța transport război"
+    },
+    {
+      "lang": "ro",
+      "mkt": "ro-RO",
+      "q": "\"Marea Neagră\" mină navă"
+    },
+    {
+      "lang": "ro",
+      "mkt": "ro-RO",
+      "q": "\"Marea Neagră\" asigurări transport maritim"
+    },
+    {
+      "lang": "bg",
+      "mkt": "bg-BG",
+      "q": "\"Черно море\" кораб атака"
+    },
+    {
+      "lang": "bg",
+      "mkt": "bg-BG",
+      "q": "\"Черно море\" мина кораб"
+    },
+    {
+      "lang": "bg",
+      "mkt": "bg-BG",
+      "q": "пристанище Варна Бургас война корабоплаване"
     }
   ]
 }

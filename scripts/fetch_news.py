@@ -196,6 +196,8 @@ def collect(sources: dict) -> list[dict]:
     out, now = [], now_utc()
     for url, lang, name, is_gn in jobs:
         try:
+            if "bing.com" in url:
+                time.sleep(2)
             if url.startswith("gdelt:"):
                 time.sleep(6)  # GDELT asks for at most one request every few seconds
                 entries = gdelt_entries(url[6:])
