@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:37:33Z",
+ "updated": "2026-11-25T12:49:03Z",
  "items": [
   {
    "id": "7d3389a5e6bf",
@@ -23,6 +23,25 @@
    ]
   },
   {
+   "id": "b6e6da3525e5",
+   "lang": "en",
+   "title": "Egypt warns ships against sailing through Black Sea",
+   "titles": {
+    "en": "Egypt warns ships against sailing through Black Sea",
+    "ro": "Egiptul avertizează navele să nu navigheze prin Marea Neagră",
+    "bg": "Египет предупреждава корабите да не плават през Черно море"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DdTQ4bV9sX1Q0aFpqNmJHSlVGZ1FzV29hZDlvYnJtSmtDdkpjZ0tSb21Db2JZdTlUbXBkdGpOMERvdHVOUW5IcTVR?oc=5",
+   "source": "المنصة | ما رواه الناس",
+   "published": "2026-11-25T11:18:51Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "shipping"
+   ],
+   "places": []
+  },
+  {
    "id": "727849cf7816",
    "lang": "en",
    "title": "Ukraine’s naval war on Russia spills out of Black Sea with new attacks off coasts of Finland, Libya",
@@ -43,6 +62,26 @@
    "places": []
   },
   {
+   "id": "163705d43ce7",
+   "lang": "bg",
+   "title": "Русия: Зърно през Черно море, когато Киев спре атаките срещу кораби - Maritime.bg",
+   "titles": {
+    "bg": "Русия: Зърно през Черно море, когато Киев спре атаките срещу кораби - Maritime.bg",
+    "en": "Russia: Grain via the Black Sea once Kyiv stops its attacks on ships - Maritime.bg",
+    "ro": "Rusia: Transportul de cereale pe Marea Neagră va fi reluat atunci când Kievul va înceta atacurile împotriva navelor - Maritime.bg"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WdllxWUlLSV9zcHBWTy05UFk2RktRMF9YWTVGLTJwc3Q1ZGhJOHVucnJNcTB6cXVaNnMxS2ZsN3NMRm1CWlE?oc=5",
+   "source": "Maritime.bg - Морският портал",
+   "published": "2026-11-25T10:02:25Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "shipping",
+    "grain"
+   ],
+   "places": []
+  },
+  {
    "id": "b6d215abe5ff",
    "lang": "en",
    "title": "Russia hides full shipping blockade between Azov and Black seas – expert",
@@ -56,6 +95,25 @@
    "source": "The New Voice of Ukraine",
    "published": "2026-11-25T10:00:00Z",
    "fetched": "2026-11-25T12:37:24Z",
+   "topics": [
+    "shipping"
+   ],
+   "places": []
+  },
+  {
+   "id": "874a10533da8",
+   "lang": "bg",
+   "title": "От Черно море до Либия: Къде са били атакувани руски кораби",
+   "titles": {
+    "bg": "От Черно море до Либия: Къде са били атакувани руски кораби",
+    "en": "From the Black Sea to Libya: Where were the Russian ships attacked?",
+    "ro": "De la Marea Neagră până în Libia: Unde au fost atacate navele rusești"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPajJiMFpXdnlUX1pJTGE0ZzFjU2RhcDhtTUxkNDc2NHNtQXdhU1V4Ql8zQ1dSQjUwdk1vaWN0WGxxMXNqbHNIRF8yOWR4Z21xeklRbGpLUTNfTUxLOFJOQ3Vnb3BDWjNBekw4anN6RGZkNVpDMm96ak9BVnZ1c252b0k1S2N2dTZEdWtfYkZ6VXRFOHhxVjhBUWRJYw?oc=5",
+   "source": "Vesti.bg",
+   "published": "2026-11-25T08:36:00Z",
+   "fetched": "2026-11-25T12:48:52Z",
    "topics": [
     "shipping"
    ],
@@ -81,68 +139,13 @@
    "places": []
   },
   {
-   "id": "08fecf5ba8d2",
-   "lang": "ro",
-   "title": "Un container cu decorațiuni de Crăciun care ar aparține unei firme din România, eșuat pe o plajă din Bulgaria / Ar proveni de pe o navă lovită de drone luna trecută în Marea Neagră",
-   "titles": {
-    "ro": "Un container cu decorațiuni de Crăciun care ar aparține unei firme din România, eșuat pe o plajă din Bulgaria / Ar proveni de pe o navă lovită de drone luna trecută în Marea Neagră",
-    "en": "A container full of Christmas decorations, believed to belong to a Romanian company, has washed up on a beach in Bulgaria / It is thought to have come from a ship struck by drones last month in the Black Sea",
-    "bg": "Контейнер с коледни украшения, който вероятно принадлежи на фирма от Румъния, е изхвърлен на плаж в България / Предполага се, че произхожда от кораб, ударен от дронове миналия месец в Черно море"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORVdFLWdHVWQ2UEJXdVVaN0VDUDZ5cEtqbGpXZzBPN0Q1ZjNySTVZa1V4MFg0UzFoZHVpNnNRSkZOYnJlbTNPbC1FSkl0SWVNaUpSeU5DVUpUeWR2aUlOM0N5OFFJSUUtM1ZlMGJIcXN5M2RYOGU1dGhaay1aNkcwSW5MZkJUcDc5NjlWbzdHYmFwWXNpMExFckRaM3JDaEs4?oc=5",
-   "source": "Informat.ro",
-   "published": "2026-11-25T07:47:46Z",
-   "fetched": "2026-11-25T12:37:24Z",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": []
-  },
-  {
-   "id": "ef139967fce8",
-   "lang": "ro",
-   "title": "Container cu decorațiuni de Crăciun, eșuat pe o plajă la Marea Neagră. Ar proveni de pe o navă atacată cu drone",
-   "titles": {
-    "ro": "Container cu decorațiuni de Crăciun, eșuat pe o plajă la Marea Neagră. Ar proveni de pe o navă atacată cu drone",
-    "en": "A container filled with Christmas decorations, washed up on a beach on the Black Sea. It is believed to have come from a ship attacked by drones",
-    "bg": "Контейнер с коледни украшения, изхвърлен на плаж на Черно море. Предполага се, че произхожда от кораб, атакуван с дронове"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVnJEdHRseEVGVFV4c25sbWpuaENKX0toT2JYZHlNY191ZFMxLW1qcEhfQ2d6TkFNbU5QaWFySDEtcGVMNllHRVhfQ3gzVURLSG5CSUtVRmdTTTNTZWl2TVc1Z2p2WUplZ083cUc1MlpjdUFoWk5VRnZabDVsak02WjJDZXVCVW44OFFlZk5LRndIRmtNOXl4d3dZY2wzYXBzVXBPMlplRFVXc2dfOEJESm0zUHlOdlZFSlFFLTdmaldpSWtYNF9uU2MxZTNYRjZ3Znp6NU9pQW9JV0RfbUIzbVlPUXVXQlF2NjR5Rw?oc=5",
-   "source": "Realitatea.NET",
-   "published": "2026-11-25T06:44:00Z",
-   "fetched": "2026-11-25T12:37:24Z",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": []
-  },
-  {
-   "id": "cac568f6c64b",
-   "lang": "ro",
-   "title": "Un container plin cu dulciuri și figurine de Crăciun a eșuat pe o plajă de la Marea Neagră, după ce...",
-   "titles": {
-    "ro": "Un container plin cu dulciuri și figurine de Crăciun a eșuat pe o plajă de la Marea Neagră, după ce..."
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMC1SNTN6ZVRqdnhQeGlqNzh3ODMxT19WdkRSY1FBdEluVllYd0xRM21VSjBoZThPLTB2OTFVcHlVdVMxUXo2OHMxOEQyeEw1enRIejdiNDZXY1E5WVgyZmNaZVFuMGpoRnlfaHdJQnFVQ0NnWi13aWJLdDVkSnpSanFXT2xlTXk2X2ozUlVvZnZTSUlGYTI5ZnhVUdIBowFBVV95cUxNZGxzRmptNG5FamwwWm1wNXNheHZEZTdjTDZNRkY0c0JrQXlTN09Zbk5ZUkdMbFJIZkZYSzJUcWpMUXZQSEtLUFpKckVDN3RtXzlWS0ZIZmNQVV9pamRjZ01JazJDMXNkN0FUcXhZbDZUeThnOWxXWVpvTXd4WG1LdDlSdVJZLW9VS2pLcDg5blBfSlFlcFpzU1FUS1F1M3NXVGpv?oc=5",
-   "source": "Ziare.com",
-   "published": "2026-11-25T06:19:06Z",
-   "fetched": "2026-11-25T12:37:24Z",
-   "topics": [
-    "shipping"
-   ],
-   "places": []
-  },
-  {
    "id": "779a714685f6",
    "lang": "en",
    "title": "UN calls for opening a grain corridor in the Black Sea",
    "titles": {
-    "en": "UN calls for opening a grain corridor in the Black Sea"
+    "en": "UN calls for opening a grain corridor in the Black Sea",
+    "ro": "ONU solicită deschiderea unui coridor pentru transportul cerealelor în Marea Neagră",
+    "bg": "ООН призовава за откриването на зърнен коридор в Черно море"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTjh0bF9XbV9vMVprRDNqM2N2ZGVMRVVUbWRRdmxacG9lSk16b3JqYldiOGdtLTNweWgwZHpsb0VRWFZFenduQmJOQUxGRUJEOTFwOWZMNzRDa2tHYnJZbkQxdDgwVVFRUlZLWWN6d1BlRVFzSU1Ub2g0TDY1SXFHeFQtTjZsVnhZLVhkeXVDOHg0ck1W?oc=5",
@@ -160,7 +163,9 @@
    "lang": "en",
    "title": "Insurance costs for Black Sea merchant ships surge",
    "titles": {
-    "en": "Insurance costs for Black Sea merchant ships surge"
+    "en": "Insurance costs for Black Sea merchant ships surge",
+    "ro": "Costurile asigurărilor pentru navele comerciale din Marea Neagră cresc vertiginos",
+    "bg": "Разходите за застраховка на търговските кораби в Черно море се увеличават рязко"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT1hvcU1Ib0lvT0Fic2Qyb1NSVktreDc3dXhrN3VLQ3NsbHhCLUxjN1B3N2tySVRXMjlvZ0pNdGwtbWRWLThKQW5nSGlFZVdlcDI5SExxTHc3cGZ5czFqSWhzeEMwVENSRVU4eWp5eElJRTdFUFU5NGRxdlNKTW50M0lKWFFrd3I5Q2tEZlp6VXM?oc=5",
@@ -179,7 +184,9 @@
    "lang": "en",
    "title": "Why India’s Black Sea food corridor ambition likely to run into troubled waters",
    "titles": {
-    "en": "Why India’s Black Sea food corridor ambition likely to run into troubled waters"
+    "en": "Why India’s Black Sea food corridor ambition likely to run into troubled waters",
+    "ro": "De ce ambiția Indiei de a crea un coridor alimentar în regiunea Mării Negre riscă să se confrunte cu dificultăți",
+    "bg": "Защо амбицията на Индия за създаване на хранителен коридор по Черно море вероятно ще се сблъска с трудности"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUmVHTk9aNHNpMHNkSmpaV2IxZjhrbDV6Q1c5UkkxUXlLNWxjYl9lZEpmWGNSWlNmbWU5U2d3M0t6eXRYY1FoQllEd3YycF8xREtsQmtkUUxiSEQ4THFjNWM5U2haUzZCaGZCaHQ4bFVuejRJUDRoSndHVDJYTUVxWWdqMi16SUpSd2twX2J30gGTAUFVX3lxTE4yNGg1YnVXSUNHc0VCZ2hFaVNHbFVrSHRkbnY2OEFaaWRvbkpxaUFYQmNUS3BqVmdEZEZQVThiU3A2SVF2YWExVFJMX1Y3a3JiZzJfaDVuVlA1azV6TUNrVk9zbG5FTUJTVmRfdjFka3VnT1FJXzNIT3NFSU95VkRtNzVjcjN3ZFc3SHB5ZnA1Q0t6SQ?oc=5",
@@ -208,24 +215,32 @@
    ],
    "places": [
     "odesa"
+   ],
+   "also": [
+    {
+     "source": "The Times of India",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPX0FjZXUySVRWVmM2TEg0b1BUSEpNMDlkSnRrSlpEUzIzV1VtTkJKMXUyVkhhN2ZsS2hiWE8xeUtrQ2NsQWFhcklPRTZTN2NDMGpfY3JVNWlIQkFDb2xBbWhsTEtLNzQ2d215TmdUZnFkcmVmTUZUcFRpYjRNdkplUE1FRnVkQ28wRWYyeVprSzgzTFV6cHRuTVgtUXVkZFhFV01POUc4N00xenhQcFk4b3VLLUFlSkxTQUx4dnZ0VnVXODVuTFlyZ285eE01UVUwVGhrWDdEWXZ2bUpQT2hmZ3RGc0XSAeoBQVVfeXFMUHBuWXR4OWhPeHk0dUs1c0NXUXgzYS1qczNqLThMblRFd1F3UlJjajFIUkRqR1VVTkozRkhBX01iRGJxZi10cDRkVW5WazJONlNMUVVWMnFjU1ZEMC15NGwyR1A1dmxSYTlGb0xYWFdfRGxyblJYNVBJQXBDT0diRFNnN0hTZ2xlUDBWaHctQUhoRkhGVk9pemF0TmptYlZMRzRTX3dJZEFfLUxQX000Q0E0YmJRd1NTa1c3YU5xRUx4dWNFaVp4R0RvVWZBVmxQMzJDcTI3RUlwOXVEU3ZxM1plUWJVd040akhB?oc=5"
+    }
    ]
   },
   {
-   "id": "b6482345c346",
+   "id": "92e1679a87dc",
    "lang": "en",
-   "title": "Russia rules out new Black Sea grain deal at UN meeting",
+   "title": "Ukraine war latest: Russian strikes kill two in Odesa, injure five across Ukraine",
    "titles": {
-    "en": "Russia rules out new Black Sea grain deal at UN meeting"
+    "en": "Ukraine war latest: Russian strikes kill two in Odesa, injure five across Ukraine"
    },
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGNwRUl4ZXcwUloyUkpSWEZnTWhZVjY5bEJpZ1cwdGhYaGw2cDFsY1ZoZ0NPQnN1WGYwTHpVaGFNNGlaVnpKNFRQSWlJakZXMHNucVFCYXZqSFlET1c1RnJqQXozT0tUYWlCT0psVUFDN0NES3JDTUh6Q1pTejc0aS1zbVdOc0lnZExVOHR3dlJnQTlJZjhIdXlQQXhIdDZ6V3Ita1Jn?oc=5",
-   "source": "Shipping Telegraph",
-   "published": "2026-11-25T01:55:34Z",
-   "fetched": "2026-11-25T12:37:24Z",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYzFlT0xXeng5MGFqZk9kN2RGNlQ4eGFpcjJybHd4SWRnTzNPWldqQ1MzRDBySVFaOEdLeGNoa3kydmdRMGJOSXFITVBoZUtfdlVQYlRhdkRPUzVDTmlxcnA4QWZJUFY2QnhTRjk5YjlpcTc3T1JtQll3OGczcWNDUDlRWm1QTHhEWHotZTgtZXdUWTdTbUliUE5HckhpVEtqMXc?oc=5",
+   "source": "Latest news from Azerbaijan",
+   "published": "2026-11-25T02:35:19Z",
+   "fetched": "2026-11-25T12:48:52Z",
    "topics": [
-    "grain"
+    "attacks"
    ],
-   "places": []
+   "places": [
+    "odesa"
+   ]
   },
   {
    "id": "da9dad1a35a6",
@@ -279,7 +294,21 @@
     "attacks",
     "shipping"
    ],
-   "places": []
+   "places": [],
+   "also": [
+    {
+     "source": "Ziare.com",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMC1SNTN6ZVRqdnhQeGlqNzh3ODMxT19WdkRSY1FBdEluVllYd0xRM21VSjBoZThPLTB2OTFVcHlVdVMxUXo2OHMxOEQyeEw1enRIejdiNDZXY1E5WVgyZmNaZVFuMGpoRnlfaHdJQnFVQ0NnWi13aWJLdDVkSnpSanFXT2xlTXk2X2ozUlVvZnZTSUlGYTI5ZnhVUdIBowFBVV95cUxNZGxzRmptNG5FamwwWm1wNXNheHZEZTdjTDZNRkY0c0JrQXlTN09Zbk5ZUkdMbFJIZkZYSzJUcWpMUXZQSEtLUFpKckVDN3RtXzlWS0ZIZmNQVV9pamRjZ01JazJDMXNkN0FUcXhZbDZUeThnOWxXWVpvTXd4WG1LdDlSdVJZLW9VS2pLcDg5blBfSlFlcFpzU1FUS1F1M3NXVGpv?oc=5"
+    },
+    {
+     "source": "Realitatea.NET",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVnJEdHRseEVGVFV4c25sbWpuaENKX0toT2JYZHlNY191ZFMxLW1qcEhfQ2d6TkFNbU5QaWFySDEtcGVMNllHRVhfQ3gzVURLSG5CSUtVRmdTTTNTZWl2TVc1Z2p2WUplZ083cUc1MlpjdUFoWk5VRnZabDVsak02WjJDZXVCVW44OFFlZk5LRndIRmtNOXl4d3dZY2wzYXBzVXBPMlplRFVXc2dfOEJESm0zUHlOdlZFSlFFLTdmaldpSWtYNF9uU2MxZTNYRjZ3Znp6NU9pQW9JV0RfbUIzbVlPUXVXQlF2NjR5Rw?oc=5"
+    },
+    {
+     "source": "Informat.ro",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORVdFLWdHVWQ2UEJXdVVaN0VDUDZ5cEtqbGpXZzBPN0Q1ZjNySTVZa1V4MFg0UzFoZHVpNnNRSkZOYnJlbTNPbC1FSkl0SWVNaUpSeU5DVUpUeWR2aUlOM0N5OFFJSUUtM1ZlMGJIcXN5M2RYOGU1dGhaay1aNkcwSW5MZkJUcDc5NjlWbzdHYmFwWXNpMExFckRaM3JDaEs4?oc=5"
+    }
+   ]
   },
   {
    "id": "2547ad230a96",
@@ -335,21 +364,24 @@
    "places": []
   },
   {
-   "id": "34cd2d602214",
-   "lang": "en",
-   "title": "Türkiye plans new mechanism to protect Black Sea shipping",
+   "id": "6050460f9cf0",
+   "lang": "bg",
+   "title": "Нова атака в Черно море! Русия удари кораб с военен товар край Одеса",
    "titles": {
-    "en": "Türkiye plans new mechanism to protect Black Sea shipping"
+    "bg": "Нова атака в Черно море! Русия удари кораб с военен товар край Одеса"
    },
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSno0WmFRZGRHaFJReS1WU01KbnlyZW16eUE3OXVqWUNDOU5uQnlNVDBTQU5aSm80bGIyQVIweUJVWHJQTlkwZjhvN1EtNUd1blFqZTZLSWI1cmZENVRsSDAwZ1RVRFhxTUI1NkxRVHI1Y0NhNWVYUEsyM3Jnd0tNOXhRdFZxR1ZYZEN6TUlmWklQNUIwRVU2cg?oc=5",
-   "source": "Operativ Məlumat Mərkəzi",
-   "published": "2026-11-24T15:18:11Z",
-   "fetched": "2026-11-25T12:37:24Z",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUFJXNHdJNzc1MGdZQWVVM0c5U0xwTEhIb0dERVZlNHhYMVY5MEdtOUg1TUxxMmU2OGxPYTh2c0FBT18yVlkxZ0dqRzZmRkw2SDNyMzlFeE1QY2lDSXVLU1lpNkRGNVNUc2FhSUszQzBsRlVCVnNFOVJSU2lYREZzOExDcmRYc1dkTnk0RUVrQ2FPQkM2?oc=5",
+   "source": "SafeNews.bg",
+   "published": "2026-11-24T14:25:49Z",
+   "fetched": "2026-11-25T12:48:52Z",
    "topics": [
+    "attacks",
     "shipping"
    ],
-   "places": []
+   "places": [
+    "odesa"
+   ]
   },
   {
    "id": "13aa13a26b01",
@@ -363,6 +395,23 @@
    "source": "Sibiu 100",
    "published": "2026-11-24T13:30:37Z",
    "fetched": "2026-11-25T12:37:24Z",
+   "topics": [
+    "shipping"
+   ],
+   "places": []
+  },
+  {
+   "id": "1cfdbaf9e03c",
+   "lang": "bg",
+   "title": "България и Турция обсъдиха как да спрат атаките срещу търговски кораби в Черно море - Maritime.bg",
+   "titles": {
+    "bg": "България и Турция обсъдиха как да спрат атаките срещу търговски кораби в Черно море - Maritime.bg"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1nMXE5TFZaTWpELW9BcldnQUhOTVFUUDBiYlQ5OU1CWTZZRW0tSlk4djNRUzQ5LUtVTjRlNHBzdUxqYXh3T1E?oc=5",
+   "source": "Maritime.bg - Морският портал",
+   "published": "2026-11-24T13:28:03Z",
+   "fetched": "2026-11-25T12:48:52Z",
    "topics": [
     "shipping"
    ],
@@ -479,23 +528,6 @@
    ]
   },
   {
-   "id": "3ceb7c4b7b47",
-   "lang": "en",
-   "title": "UN official warns escalating Black Sea attacks drive food insecurity",
-   "titles": {
-    "en": "UN official warns escalating Black Sea attacks drive food insecurity"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNnJ5MWVxNmpvMEcyelFQNThZcDBUYlpXdXd6TEIzTnZrUjVCWk9OVWZTMnRYZ29pQnlUR3hpY1VMRzJKTGZRa0Z5ZEEyT3NPNVh2OTBZbWVkWVJUcmFWZjFISGdrNkVwR1dtQWp4LVpqTTg2dFctaHpCc1ZQcHN6NXZIUEU5S2dmV2gzZjVSYW9Qbmh6bkFJY21CRHVDLUdBZTN2STNmX3UybHhTMzNHMlBzNXdHSndZU1ZGSA?oc=5",
-   "source": "巴士的報",
-   "published": "2026-11-24T10:26:00Z",
-   "fetched": "2026-11-25T12:37:24Z",
-   "topics": [
-    "attacks"
-   ],
-   "places": []
-  },
-  {
    "id": "8baabe68689e",
    "lang": "en",
    "title": "Black Sea Attacks Threaten Ukraine Grain Exports and 2027 Crops",
@@ -563,7 +595,13 @@
    "topics": [
     "attacks"
    ],
-   "places": []
+   "places": [],
+   "also": [
+    {
+     "source": "巴士的報",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNnJ5MWVxNmpvMEcyelFQNThZcDBUYlpXdXd6TEIzTnZrUjVCWk9OVWZTMnRYZ29pQnlUR3hpY1VMRzJKTGZRa0Z5ZEEyT3NPNVh2OTBZbWVkWVJUcmFWZjFISGdrNkVwR1dtQWp4LVpqTTg2dFctaHpCc1ZQcHN6NXZIUEU5S2dmV2gzZjVSYW9Qbmh6bkFJY21CRHVDLUdBZTN2STNmX3UybHhTMzNHMlBzNXdHSndZU1ZGSA?oc=5"
+    }
+   ]
   },
   {
    "id": "a7987dc8fbf2",
@@ -602,23 +640,6 @@
    "places": []
   },
   {
-   "id": "e19349726a60",
-   "lang": "en",
-   "title": "EU Urges Russia to Accept Ceasefire as Black Sea Attacks Threaten Global Food Security",
-   "titles": {
-    "en": "EU Urges Russia to Accept Ceasefire as Black Sea Attacks Threaten Global Food Security"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakhtZWFfU01rdV9hd2RkV3J3cU1LOVBRUVpQaEMxLU9pN1Vpb19hdmtlUFBuQnB0MWRia0h3M0pQZUpJeGtmUVE5YThSLXAtdDJ3ZXlaOEdtdk4xLW5NRWRqSEw3dFcteVR1MFl1ZnNYZ2xGemdjTEZXbkFpU09Oa0JaUDlTek5nTjBNaFlsR3FEQTg1TkhQallWLXJNVGlvcEdrc1lsZ2I1RGFQclpZcGcxZw?oc=5",
-   "source": "SSBCrack",
-   "published": "2026-11-24T07:48:15Z",
-   "fetched": "2026-11-25T12:37:24Z",
-   "topics": [
-    "attacks"
-   ],
-   "places": []
-  },
-  {
    "id": "cb4856a3690e",
    "lang": "en",
    "title": "UN warns Black Sea drone attacks threaten food exports as Russia-Ukraine war widens",
@@ -636,21 +657,19 @@
    "places": []
   },
   {
-   "id": "8f28cc1f6c70",
-   "lang": "en",
-   "title": "Russia rules out new Black Sea grain deal at UN, cites strikes on Turkish ships",
+   "id": "8ca4072383fb",
+   "lang": "bg",
+   "title": "Двоен аршин: САЩ поразяват търговски кораби в Ормузкия проток, но сочат Москва за атаките в Черно море - Maritime.bg",
    "titles": {
-    "en": "Russia rules out new Black Sea grain deal at UN, cites strikes on Turkish ships"
+    "bg": "Двоен аршин: САЩ поразяват търговски кораби в Ормузкия проток, но сочат Москва за атаките в Черно море - Maritime.bg"
    },
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWXFISExkQzZZNi0wdUc5QVZpNFg4R05JNnBuLTdkVzhOS1czOC1hc2VOXzh4d3lSWWlpRWhfNE1vWTUwT181SnB1cWFaazRlRXdUX25TMXZscGUxOEFxSFJvY3pNNnZuci16aTFZZWZjOHlSdG9xYzZJUlFOUW9ubmRkdzliblpJZmRpWnZ2R29meVNYcmtyblRfcEswb0xHTlh6WTVYQVROMk1OaVZVOWdDREJmZzdjUWZreFRn?oc=5",
-   "source": "Türkiye Today",
-   "published": "2026-11-24T06:13:03Z",
-   "fetched": "2026-11-25T12:37:24Z",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMZnlzbUZoNkNLQTJNV3RIdkFSakJyWkNxdUsxVTB6UWFGUlJBdjZmd1Fyajd6d1FOWlE2NHd3YlExRmhpMlE?oc=5",
+   "source": "Maritime.bg - Морският портал",
+   "published": "2026-11-24T07:08:05Z",
+   "fetched": "2026-11-25T12:48:52Z",
    "topics": [
-    "attacks",
-    "shipping",
-    "grain"
+    "shipping"
    ],
    "places": []
   },
@@ -669,7 +688,13 @@
    "topics": [
     "shipping"
    ],
-   "places": []
+   "places": [],
+   "also": [
+    {
+     "source": "Operativ Məlumat Mərkəzi",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSno0WmFRZGRHaFJReS1WU01KbnlyZW16eUE3OXVqWUNDOU5uQnlNVDBTQU5aSm80bGIyQVIweUJVWHJQTlkwZjhvN1EtNUd1blFqZTZLSWI1cmZENVRsSDAwZ1RVRFhxTUI1NkxRVHI1Y0NhNWVYUEsyM3Jnd0tNOXhRdFZxR1ZYZEN6TUlmWklQNUIwRVU2cg?oc=5"
+    }
+   ]
   },
   {
    "id": "4866bf4712e7",
@@ -687,25 +712,13 @@
     "attacks",
     "shipping"
    ],
-   "places": []
-  },
-  {
-   "id": "8a67868e3ad8",
-   "lang": "en",
-   "title": "India urges UNSC to end Black Sea shipping attacks, restore safe navigation amid Russia-Ukraine conflict",
-   "titles": {
-    "en": "India urges UNSC to end Black Sea shipping attacks, restore safe navigation amid Russia-Ukraine conflict"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMmQyTlBZSDFtbkpzZXZkeGdBVEVIdVF2QUROT3A3SkpaaEl3NVRtUDlSQ3djbGdyb2k2cU8wMHZLODlqbnhDV09GWmJ4TmRmTXJoRjJIVGFJUUtlN09FQ0dCaVJvZjdhc2tkQXBNeHpVbm51T3RJMnU5WlhTenA3aWdYMkJxLS1KTFY5QXd4ZURqZW5IRkp3dXZRTzh6cUNIbU9GN042V2N5N05GN2xrdkttdFdzZnBXQ0NLWHF5YThscWY3bktqanJDUkdQUmJtU3NSTXF3ZGtFTk5uLW8wd0dvWdIB6AFBVV95cUxQeHJqSnVUS1hCaVVvS3Q4ZFNSUGJfemtIOVVYdUVhVzl0MUNGVUlvRmg1bkJJNldSVGczaS1OMWNKTEpwNTZPMHNTdTlZMUtMMDZBaU5iODdtV0s5WXB4UXZjVDVaaTZmV2NYQ3U0YktWZWtXczVDazYzdkRvMVZzMnFFOG0zNUJudmxYU0ozR245VDdqTDRqeXVrakhFTFpvMFNMdk9pblM4UW9pblZwTFp6LTlEb1VIdmFuVXltb3dpN2R1dGJKV3h5UlJ6S3Y3WGdNcEwyN2hzckRPZHIxUTBfcmxFdkhw?oc=5",
-   "source": "DNA India",
-   "published": "2026-11-24T04:09:53Z",
-   "fetched": "2026-11-25T12:37:24Z",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": []
+   "places": [],
+   "also": [
+    {
+     "source": "thechronicle.com.ph",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbjdJS1h5eHgwSXp5SC04YUt5QTl0VmduREpiZGRBTWVuc0pqdEpObkU3SkV2TjROdlo5cjhCMXVsdG1vY3hBREtfUWVyckhhRVZ1QjhkYWNjdGUtUEtaS0lKeUV1S2dtTkt6a280X3AtNDhnV1I3aE9vZ3VCd05NS3NqTEFJaHJIT1dGSnRYdHJKSG9DRlFEZ3NfVWlPLUxYcE8xcXlzLVlJWnUtaDFF?oc=5"
+    }
+   ]
   },
   {
    "id": "06d6e20ba8fc",
@@ -723,7 +736,13 @@
     "attacks",
     "shipping"
    ],
-   "places": []
+   "places": [],
+   "also": [
+    {
+     "source": "DNA India",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMmQyTlBZSDFtbkpzZXZkeGdBVEVIdVF2QUROT3A3SkpaaEl3NVRtUDlSQ3djbGdyb2k2cU8wMHZLODlqbnhDV09GWmJ4TmRmTXJoRjJIVGFJUUtlN09FQ0dCaVJvZjdhc2tkQXBNeHpVbm51T3RJMnU5WlhTenA3aWdYMkJxLS1KTFY5QXd4ZURqZW5IRkp3dXZRTzh6cUNIbU9GN042V2N5N05GN2xrdkttdFdzZnBXQ0NLWHF5YThscWY3bktqanJDUkdQUmJtU3NSTXF3ZGtFTk5uLW8wd0dvWdIB6AFBVV95cUxQeHJqSnVUS1hCaVVvS3Q4ZFNSUGJfemtIOVVYdUVhVzl0MUNGVUlvRmg1bkJJNldSVGczaS1OMWNKTEpwNTZPMHNTdTlZMUtMMDZBaU5iODdtV0s5WXB4UXZjVDVaaTZmV2NYQ3U0YktWZWtXczVDazYzdkRvMVZzMnFFOG0zNUJudmxYU0ozR245VDdqTDRqeXVrakhFTFpvMFNMdk9pblM4UW9pblZwTFp6LTlEb1VIdmFuVXltb3dpN2R1dGJKV3h5UlJ6S3Y3WGdNcEwyN2hzckRPZHIxUTBfcmxFdkhw?oc=5"
+    }
+   ]
   },
   {
    "id": "d4ebe19359aa",
@@ -792,7 +811,13 @@
     "attacks",
     "shipping"
    ],
-   "places": []
+   "places": [],
+   "also": [
+    {
+     "source": "SSBCrack",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakhtZWFfU01rdV9hd2RkV3J3cU1LOVBRUVpQaEMxLU9pN1Vpb19hdmtlUFBuQnB0MWRia0h3M0pQZUpJeGtmUVE5YThSLXAtdDJ3ZXlaOEdtdk4xLW5NRWRqSEw3dFcteVR1MFl1ZnNYZ2xGemdjTEZXbkFpU09Oa0JaUDlTek5nTjBNaFlsR3FEQTg1TkhQallWLXJNVGlvcEdrc1lsZ2I1RGFQclpZcGcxZw?oc=5"
+    }
+   ]
   },
   {
    "id": "db84d37536b7",
@@ -848,21 +873,20 @@
    "places": []
   },
   {
-   "id": "cb5f593a24d0",
+   "id": "53990a8744ec",
    "lang": "en",
-   "title": "Wheat Prices Black Sea Region, 23 Nov 2026: Risk Premiums Rise — CMB News",
+   "title": "UN Security Council Clash Over Black Sea Grain and Energy Attacks",
    "titles": {
-    "en": "Wheat Prices Black Sea Region, 23 Nov 2026: Risk Premiums Rise — CMB News"
+    "en": "UN Security Council Clash Over Black Sea Grain and Energy Attacks"
    },
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLVltamZpQnVIcXZkcDZBU01kR2tmcEZRdm4xOEJ2bVpTX1BycUl5QzlUbkFOekhrY2ZVc2RlcF9aeEpMZlItTjZLZVdHaUdjLXpnTjNJT3Y2QW9NRXlfeVZCQ1ZrdFNkMHR2dUx0QXVlZ3VGaDNWYktkNE5lZXJ3MmtvN2hyZw?oc=5",
-   "source": "CMB News",
-   "published": "2026-11-23T22:06:51Z",
-   "fetched": "2026-11-25T12:37:24Z",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSEVsWUlaTDhaQnBmem1KLXRQQXcxTEluRGRnNlVqM0ZIUWR4RXhFUlpRODVPaHNxUkZuRnZyQ05uVEFvS0l2U1otdWZmVHZaeXBuazhyQW9lNGI0VnFaNUtEYjEtRXk5UzcxQ0FwQjh5Ukc0aHB5THdGbE84SWxQTFlCR0hxTDNKRzQ4cERVWXJfbF9CQ2VHWTlfaHZ2QQ?oc=5",
+   "source": "Head Topics",
+   "published": "2026-11-23T23:22:00Z",
+   "fetched": "2026-11-25T12:48:52Z",
    "topics": [
-    "insurance",
-    "grain",
-    "prices"
+    "attacks",
+    "grain"
    ],
    "places": []
   },
@@ -901,81 +925,6 @@
    "places": []
   },
   {
-   "id": "b918088785e3",
-   "lang": "ro",
-   "title": "MApN mobilizează nave militare în Marea Neagră și pe Dunăre. Forțele Navale intensifică misiunile de supraveghere",
-   "titles": {
-    "ro": "MApN mobilizează nave militare în Marea Neagră și pe Dunăre. Forțele Navale intensifică misiunile de supraveghere"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUklmTVFLVFB5YUpNVDBUZkZFbEt2cHZGVTZsM1p4eUYwckE3MFFLTEFYcUQ5NXpybmRObkFOQkNuc1RqQVpDd2pOSEJoNEVhNjhZd2lzeXlTblN2VXN6STAzdHdlVnFLTUYwMWktWW5tMEhJTmd5d20tVnZ1ZTdubTFnV2VfU3JnaTF5UjUzY2VkdzRfeDZUN2l4MVNlaHNrSXJRbmJHcjFfNkxvYWoyOW80MUFqMzV4Wk5hWDE1aUtEZVROdWU3ZVJCMldNT0hlYk4zQS1ORQ?oc=5",
-   "source": "CAPITAL",
-   "published": "2026-11-23T19:28:02Z",
-   "fetched": "2026-11-25T12:37:24Z",
-   "topics": [
-    "shipping"
-   ],
-   "places": [
-    "danube"
-   ]
-  },
-  {
-   "id": "4197e1273849",
-   "lang": "ro",
-   "title": "Forțele Navale Române desfășoară misiuni pentru siguranța navigației pe Dunăre și în Marea Neagră",
-   "titles": {
-    "ro": "Forțele Navale Române desfășoară misiuni pentru siguranța navigației pe Dunăre și în Marea Neagră"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTJDWC1HczZrS2JtUTZ1RFBJV2xTNm1ENFRyOVZldHEwR1ktbndSeGxJTDA1Z0RMWURVWVkyQmx0dTVOSGg4TWUzX3NlSlJuMk40NmhZQkkyU3NhNFhLeHpnTmVVTmE0SC1YajlQVWdlaEtvOXRkenNDVlBSRlhRaTU4YmNwN0FKdFRDVFdjVkVZVHdadDBwdkZKekJ2VFFJOVRyS3BB?oc=5",
-   "source": "Newsweek România",
-   "published": "2026-11-23T19:24:24Z",
-   "fetched": "2026-11-25T12:37:24Z",
-   "topics": [
-    "shipping"
-   ],
-   "places": [
-    "danube"
-   ]
-  },
-  {
-   "id": "34fe049451ac",
-   "lang": "ro",
-   "title": "Mobilizare navală în Marea Neagră! Fregate, corvete și elicoptere militare, în misiuni de supraveghere pentru posibile mine marine și fragmente de drone",
-   "titles": {
-    "ro": "Mobilizare navală în Marea Neagră! Fregate, corvete și elicoptere militare, în misiuni de supraveghere pentru posibile mine marine și fragmente de drone"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPM0JPUkptM0hXT2dlYVNWbjY1R2hROExRcTNLeklQTW9rU0NhUEZaTl9feFhVd3BYbVE1SWtETTNta2dRNzBaRC00RFk5UWpFN2s0OUNVcURhRmxFZW1RMzl6TkFIUXZMQ3Y0WWwxaWx6eE4wanBUaFJfTVhIbkRNTDV6UUhIblBiWEhzWWtQUTlIVllKQzQ5UG4zU0g2bXdISmhtQXp1c3RHMUk1WWtCbW5wTy1UQWhKU01PTElhMzEtS19KUVFSNUVUbGp2UXk4clBLazl3b2JOQWZnUG9uNzRXMmNQWnZ2OFJZeUpaYkZHR2FBOVV3ZVRKSEM1V2Q5d0pPVW16d1VBMW9LV1NV?oc=5",
-   "source": "FocusPress",
-   "published": "2026-11-23T19:16:21Z",
-   "fetched": "2026-11-25T12:37:24Z",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": []
-  },
-  {
-   "id": "1c073e8ed9ea",
-   "lang": "ro",
-   "title": "MApN: nave militare și aeronave de patrulare în Marea Neagră și pe Dunăre",
-   "titles": {
-    "ro": "MApN: nave militare și aeronave de patrulare în Marea Neagră și pe Dunăre"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdmt0bzV3MHdkQ1NUZjRUeGJIRWNFQ1hfeklHQ0dfR3BINlViOGJibzZTc09UdmVXaXZFYXA4T1NWdkdGNFVEeVczNzRhVm9vTnlBR0Vra1NjVkZHdWRxazFKWVpXNERLdjM2eHRmdkpqdF8zRThCVElRdUVuLXNFMWxscmJnWGFCdElSUmFsMkV4OWR1eE43dE9WdGV4UUs0X2ctUXZEak5fSldqUmRaaUhFenc3aDg1ZkxnZHpqUFY5OWFtTG1YbXJLWTg1U29MTFB3SV9UNjhLQ2I4MFI5c3FrdWtuenoyRjZXQlkwOWpTSGUzTXQ5NXZkV2g?oc=5",
-   "source": "Stiripesurse",
-   "published": "2026-11-23T17:49:05Z",
-   "fetched": "2026-11-25T12:37:24Z",
-   "topics": [
-    "shipping"
-   ],
-   "places": [
-    "danube"
-   ]
-  },
-  {
    "id": "3ead16f96a9e",
    "lang": "ro",
    "title": "Portul Constanța riscă să piardă clienți, iar românii să plătească mai mult. Efectele războiului din Marea Neagră",
@@ -1011,6 +960,16 @@
    ],
    "places": [
     "danube"
+   ],
+   "also": [
+    {
+     "source": "Newsweek România",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTJDWC1HczZrS2JtUTZ1RFBJV2xTNm1ENFRyOVZldHEwR1ktbndSeGxJTDA1Z0RMWURVWVkyQmx0dTVOSGg4TWUzX3NlSlJuMk40NmhZQkkyU3NhNFhLeHpnTmVVTmE0SC1YajlQVWdlaEtvOXRkenNDVlBSRlhRaTU4YmNwN0FKdFRDVFdjVkVZVHdadDBwdkZKekJ2VFFJOVRyS3BB?oc=5"
+    },
+    {
+     "source": "CAPITAL",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUklmTVFLVFB5YUpNVDBUZkZFbEt2cHZGVTZsM1p4eUYwckE3MFFLTEFYcUQ5NXpybmRObkFOQkNuc1RqQVpDd2pOSEJoNEVhNjhZd2lzeXlTblN2VXN6STAzdHdlVnFLTUYwMWktWW5tMEhJTmd5d20tVnZ1ZTdubTFnV2VfU3JnaTF5UjUzY2VkdzRfeDZUN2l4MVNlaHNrSXJRbmJHcjFfNkxvYWoyOW80MUFqMzV4Wk5hWDE1aUtEZVROdWU3ZVJCMldNT0hlYk4zQS1ORQ?oc=5"
+    }
    ]
   },
   {
@@ -1028,7 +987,13 @@
    "topics": [
     "shipping"
    ],
-   "places": []
+   "places": [],
+   "also": [
+    {
+     "source": "Stiripesurse",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdmt0bzV3MHdkQ1NUZjRUeGJIRWNFQ1hfeklHQ0dfR3BINlViOGJibzZTc09UdmVXaXZFYXA4T1NWdkdGNFVEeVczNzRhVm9vTnlBR0Vra1NjVkZHdWRxazFKWVpXNERLdjM2eHRmdkpqdF8zRThCVElRdUVuLXNFMWxscmJnWGFCdElSUmFsMkV4OWR1eE43dE9WdGV4UUs0X2ctUXZEak5fSldqUmRaaUhFenc3aDg1ZkxnZHpqUFY5OWFtTG1YbXJLWTg1U29MTFB3SV9UNjhLQ2I4MFI5c3FrdWtuenoyRjZXQlkwOWpTSGUzTXQ5NXZkV2g?oc=5"
+    }
+   ]
   },
   {
    "id": "29b05e47de6b",
@@ -1048,6 +1013,12 @@
    ],
    "places": [
     "danube"
+   ],
+   "also": [
+    {
+     "source": "FocusPress",
+     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPM0JPUkptM0hXT2dlYVNWbjY1R2hROExRcTNLeklQTW9rU0NhUEZaTl9feFhVd3BYbVE1SWtETTNta2dRNzBaRC00RFk5UWpFN2s0OUNVcURhRmxFZW1RMzl6TkFIUXZMQ3Y0WWwxaWx6eE4wanBUaFJfTVhIbkRNTDV6UUhIblBiWEhzWWtQUTlIVllKQzQ5UG4zU0g2bXdISmhtQXp1c3RHMUk1WWtCbW5wTy1UQWhKU01PTElhMzEtS19KUVFSNUVUbGp2UXk4clBLazl3b2JOQWZnUG9uNzRXMmNQWnZ2OFJZeUpaYkZHR2FBOVV3ZVRKSEM1V2Q5d0pPVW16d1VBMW9LV1NV?oc=5"
+    }
    ]
   },
   {
@@ -1065,7 +1036,17 @@
    "topics": [
     "grain"
    ],
-   "places": []
+   "places": [],
+   "also": [
+    {
+     "source": "Türkiye Today",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWXFISExkQzZZNi0wdUc5QVZpNFg4R05JNnBuLTdkVzhOS1czOC1hc2VOXzh4d3lSWWlpRWhfNE1vWTUwT181SnB1cWFaazRlRXdUX25TMXZscGUxOEFxSFJvY3pNNnZuci16aTFZZWZjOHlSdG9xYzZJUlFOUW9ubmRkdzliblpJZmRpWnZ2R29meVNYcmtyblRfcEswb0xHTlh6WTVYQVROMk1OaVZVOWdDREJmZzdjUWZreFRn?oc=5"
+    },
+    {
+     "source": "Shipping Telegraph",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGNwRUl4ZXcwUloyUkpSWEZnTWhZVjY5bEJpZ1cwdGhYaGw2cDFsY1ZoZ0NPQnN1WGYwTHpVaGFNNGlaVnpKNFRQSWlJakZXMHNucVFCYXZqSFlET1c1RnJqQXozT0tUYWlCT0psVUFDN0NES3JDTUh6Q1pTejc0aS1zbVdOc0lnZExVOHR3dlJnQTlJZjhIdXlQQXhIdDZ6V3Ita1Jn?oc=5"
+    }
+   ]
   },
   {
    "id": "995921c49887",
@@ -1122,26 +1103,6 @@
    "places": []
   },
   {
-   "id": "9a8968cd78d1",
-   "lang": "en",
-   "title": "Black Sea shipping faces fresh risks as Russia reports strike on cargo vessel near Odesa",
-   "titles": {
-    "en": "Black Sea shipping faces fresh risks as Russia reports strike on cargo vessel near Odesa"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN0FYN3hQV2F5bXRCakFMR2FJYk1ZYk1aVXZ3bklGQndXeHprYnVQaGFkWUh0SFZ0M2c5cURzd2RJYTJyRWtXcHhTY2NMaHdvTlVFSXQ3VTUtdldnTHhhN2pPdDlkZS0wZW9uOFNMN2lTd1N0SGRnZVRfRnVrS3NfRXJ5SE50VXRWUngxSjBBMnRNMlB2cjIwSFp1M2lSSUlwVEx0VjBzRWdCSEZlM0VMa3Q0ckVfQXRMWXdwNzMtY1gtbFN5SWc5dlltS1dsWlhqUC01VldmSzhyUQ?oc=5",
-   "source": "Business Upturn",
-   "published": "2026-11-23T15:06:23Z",
-   "fetched": "2026-11-25T12:37:24Z",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [
-    "odesa"
-   ]
-  },
-  {
    "id": "752deab32feb",
    "lang": "ro",
    "title": "NEWS ALERT O altă navă s-a scufundat în Marea Neagră după ce ar fi fost lovită de o dronă! Ce s-a întâmplat cu cei 19 marinari aflați la bord",
@@ -1195,6 +1156,23 @@
    "places": []
   },
   {
+   "id": "a03f3f2d691c",
+   "lang": "bg",
+   "title": "Възраждане: Кризата в Черно море застрашава хиляди работни места в корабния бранш - Maritime.bg",
+   "titles": {
+    "bg": "Възраждане: Кризата в Черно море застрашава хиляди работни места в корабния бранш - Maritime.bg"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1rUTVNVmdwOUVkb3ROQXBVYWdwcTVkWmhVUDNBT1RRNW8wU2NkWjJLRmc2UWxBSWdsLWlQWVlWc0pFTm1zeHc?oc=5",
+   "source": "Maritime.bg - Морският портал",
+   "published": "2026-11-23T12:05:57Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "shipping"
+   ],
+   "places": []
+  },
+  {
    "id": "df854e8e63ab",
    "lang": "en",
    "title": "Russia-Ukraine war latest : Moscow strikes Odesa port and Black Sea cargo ship",
@@ -1233,37 +1211,20 @@
    "places": []
   },
   {
-   "id": "ad8ee9e41ee1",
+   "id": "8222cacd8190",
    "lang": "en",
-   "title": "Ukraine opens new phase of attacks on Russian naval assets far beyond Black Sea — TWZ",
+   "title": "Ukraine’s Benghazi Strike: How Ukraine is Threatening Russia’s Naval Logistics Beyond The Black Sea",
    "titles": {
-    "en": "Ukraine opens new phase of attacks on Russian naval assets far beyond Black Sea — TWZ"
+    "en": "Ukraine’s Benghazi Strike: How Ukraine is Threatening Russia’s Naval Logistics Beyond The Black Sea"
    },
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSjk5Rm5DU3VwTE5BRHRmLWNzd1RvMDQxcEZEV1p0MEtXR0JfNXRoenBnWjZMMERraEo1U2p3WUpGQzZPRFJLQjEyNFVsOUhqakk0TzVyQnpJM1lpSUZuREM4NHRkek1uQzl5bjJBQUlncFN5cTROR2h0ZEZmQUhMSnhibHhBY0NhYzJJZ2NaQzZyMUl1ZFpsd3RjY1ladzE5QjdNa0xSV1J5SE1TWHV4bnVwMHYzN0xiTVRIck1vNGFHYnFVZzd2RHJhN203UdIBygFBVV95cUxPQXFISHViQ1BMcEU5Z0lsaEVxWGt0blZuUjBlSzdGYU5WQjdIYXRubWFyY09XcFRjc1RMMVZtRWFvbVpMRGxzMXp3dVVrNkt6ZWtOOFlRYTFncVFQN1psWmlWWldHR25ST29XN3NRem1YZ0FsaTZWT21YaHlSTV90WTJjOVVhaUpzeU5qMjEwUHNCSWppc1lfZHlHaHdlMGdqcC1lUlRlcnVVSXR5aWhNbXFVSVYwNFZhbDJjY2o2OXQ3YktsZHpKMGFB?oc=5",
-   "source": "The New Voice of Ukraine",
-   "published": "2026-11-23T10:38:00Z",
-   "fetched": "2026-11-25T12:37:24Z",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNDU2NVpWeXRUR29iRmUxRDBYelFXQU0zbnhLdDkxYVFkaE1CR0pGSHJpcmJ2WW00NHlub3VTdk9veV96VjNFbU0zTnpwcTl1QXdGRVJwNkphdTVzLV9Va0Z3R1NZSlpFaF9JZlgzdDVYdVFwUmpYaUdSRzNHVjNLUjhvQmZzZ3NhUnZfSEl1aERVVkdidDZwNW9xMUo5NHdIa3VpdVRDeU9nRk5IYWpObVZCRE1NTjRVRGxzLWZpcW1BM2wtVlHSAcYBQVVfeXFMTzQ1NjVaVnl0VEdvYkZlMUQwWHpRV0FNM254S3Q5MWFRZGhNQkdKRkhyaXJidlltNDR5bm91U3ZPb3lfelYzRW1NM056cHE5dUF3RkVScDZKYXU1cy1fVWtGd0dTWUpaRWhfSWZYM3Q1WHVRcFJqWGlHUkczR1YzS1I4b0Jmc2dzYVJ2X0hJdWhEVVZHYnQ2cDVvcTFKOTR3SGt1aXVUQ3lPZ0ZOSGFqTm1WQkRNTU40VURscy1maXFtQTNsLVZR?oc=5",
+   "source": "EurAsian Times",
+   "published": "2026-11-23T10:36:38Z",
+   "fetched": "2026-11-25T12:48:52Z",
    "topics": [
     "attacks",
     "shipping"
-   ],
-   "places": []
-  },
-  {
-   "id": "1502d9a425d6",
-   "lang": "ro",
-   "title": "Atacurile din Marea Neagră testează limitele NATO",
-   "titles": {
-    "ro": "Atacurile din Marea Neagră testează limitele NATO"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVEtxNXpTMjd0NEo5dGtwb2tUVzN5dnFva3hxeHVyaE1WSUFzaHpUZVhKb3dOeTVsNFJxUWVNZV9NSHp5UXJZcllpUmxfMW5FXzh6Zi1KNWxxNTFqUDYzTDhFaV9CVFEzMXNiMlRnWmh0T2xwR2lubmpJU2N6c1A0eWlsLVk5OG5rdFpQNFVQRVZyd0RmX2g5MUJlRVdjWkl1cm85TEZtTmNfZVRMWTNfRmRQQmVYMWN2QzdYdFpjUHRFU3U3SFNvRmtoMUtrTGpqQlNXeDcxcVMtVnNtX3VtLVFBUEVpSnZuLWV5Vw?oc=5",
-   "source": "Economedia",
-   "published": "2026-11-23T09:11:28Z",
-   "fetched": "2026-11-25T12:37:24Z",
-   "topics": [
-    "attacks"
    ],
    "places": []
   },
@@ -1286,6 +1247,12 @@
    "places": [
     "danube",
     "constanta"
+   ],
+   "also": [
+    {
+     "source": "Economedia",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVEtxNXpTMjd0NEo5dGtwb2tUVzN5dnFva3hxeHVyaE1WSUFzaHpUZVhKb3dOeTVsNFJxUWVNZV9NSHp5UXJZcllpUmxfMW5FXzh6Zi1KNWxxNTFqUDYzTDhFaV9CVFEzMXNiMlRnWmh0T2xwR2lubmpJU2N6c1A0eWlsLVk5OG5rdFpQNFVQRVZyd0RmX2g5MUJlRVdjWkl1cm85TEZtTmNfZVRMWTNfRmRQQmVYMWN2QzdYdFpjUHRFU3U3SFNvRmtoMUtrTGpqQlNXeDcxcVMtVnNtX3VtLVFBUEVpSnZuLWV5Vw?oc=5"
+    }
    ]
   },
   {
@@ -1336,6 +1303,23 @@
    "source": "OC Media",
    "published": "2026-11-23T08:04:54Z",
    "fetched": "2026-11-25T12:37:24Z",
+   "topics": [
+    "shipping"
+   ],
+   "places": []
+  },
+  {
+   "id": "5b03227ae9f3",
+   "lang": "bg",
+   "title": "Гръцките медии бият тревога: Кораби потъват един след друг в Черно море край България",
+   "titles": {
+    "bg": "Гръцките медии бият тревога: Кораби потъват един след друг в Черно море край България"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzQyRTRBbWN6dDlwSVRFcGo4Yy00RGZubG92UERabi1xQm00U2ZyaWRYaURiaHp2eFpoQ0R0dFRsR3VLRXVRVXNPQUttZU1UTDNCRWJaNFZINHR4cEFXc0FMRE1BTmY5bVo1ZFFIZ01wMHUyRzlHNlUyeml6Z2hOdUVGMXVWX05zRjlmLXN2M2tlaEpVWWVBUVdNdkYyTG5yVmx5ZGJQRkpfZS15NFZGNXBMYW0zNEHSAbcBQVVfeXFMTUM0MkU0QW1jenQ5cElURXBqOGMtNERmbmxvdlBEWm4tcUJtNFNmcmlkWGlEYmh6dnhaaENEdHRUbEd1S0V1UVVzT0FLbWVNVEwzQkViWjRWSDR0eHBBV3NBTERNQU5mOW1aNWRRSGdNcDB1Mkc5RzZVMnppemdoTnVFRjF1Vl9Oc0Y5Zi1zdjNrZWhKVVllQVFXTXZGMkxuclZseWRiUEZKX2UteTRWRjVwTGFtMzRB?oc=5",
+   "source": "marica.bg",
+   "published": "2026-11-23T07:45:00Z",
+   "fetched": "2026-11-25T12:48:52Z",
    "topics": [
     "shipping"
    ],
@@ -1409,7 +1393,13 @@
    "topics": [
     "shipping"
    ],
-   "places": []
+   "places": [],
+   "also": [
+    {
+     "source": "The New Voice of Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSjk5Rm5DU3VwTE5BRHRmLWNzd1RvMDQxcEZEV1p0MEtXR0JfNXRoenBnWjZMMERraEo1U2p3WUpGQzZPRFJLQjEyNFVsOUhqakk0TzVyQnpJM1lpSUZuREM4NHRkek1uQzl5bjJBQUlncFN5cTROR2h0ZEZmQUhMSnhibHhBY0NhYzJJZ2NaQzZyMUl1ZFpsd3RjY1ladzE5QjdNa0xSV1J5SE1TWHV4bnVwMHYzN0xiTVRIck1vNGFHYnFVZzd2RHJhN203UdIBygFBVV95cUxPQXFISHViQ1BMcEU5Z0lsaEVxWGt0blZuUjBlSzdGYU5WQjdIYXRubWFyY09XcFRjc1RMMVZtRWFvbVpMRGxzMXp3dVVrNkt6ZWtOOFlRYTFncVFQN1psWmlWWldHR25ST29XN3NRem1YZ0FsaTZWT21YaHlSTV90WTJjOVVhaUpzeU5qMjEwUHNCSWppc1lfZHlHaHdlMGdqcC1lUlRlcnVVSXR5aWhNbXFVSVYwNFZhbDJjY2o2OXQ3YktsZHpKMGFB?oc=5"
+    }
+   ]
   },
   {
    "id": "f7fd81dbbec4",
@@ -1425,6 +1415,23 @@
    "fetched": "2026-11-25T12:37:24Z",
    "topics": [
     "grain"
+   ],
+   "places": []
+  },
+  {
+   "id": "26945477a318",
+   "lang": "bg",
+   "title": "Кой ли удря кораби край бреговете ни? 21 от 22 атаки в Черно море са руски - Новини от България",
+   "titles": {
+    "bg": "Кой ли удря кораби край бреговете ни? 21 от 22 атаки в Черно море са руски - Новини от България"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTAyejFxMXRHUkpJR2xwZDRtelJaTXhzOFJiQ2xQamdFd1R5Z19jYWsyZnV3WmhCaWZNbVRCMmxJT2l2aGUxX0pKS2ZqdjBvbDFTWURMSFEyMUxRTHNUR2lSeTk1QzlqMU9zNDg1SlVZQXdMYnBGZkNvLU9GN1NDbjdhTjJZSTVhSkZoREJfc2VsMkx0N3lWcnp6MW9HWGM5VmYwN2c2ck8zT1dh?oc=5",
+   "source": "Новини от България - Защото | Zashtoto",
+   "published": "2026-11-22T17:51:22Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "shipping"
    ],
    "places": []
   },
@@ -1447,6 +1454,59 @@
    "places": [
     "odesa"
    ]
+  },
+  {
+   "id": "f084b08d73df",
+   "lang": "bg",
+   "title": "Русия нанася масирани удари с дронове по кораби в Черно море",
+   "titles": {
+    "bg": "Русия нанася масирани удари с дронове по кораби в Черно море"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0xBbnBZNjQzYkZxUGlHN0x4MncyMmJIQ2dYa0xSYTV1cmkwQUZIdWIzaHBHeW4xS3JQYmVOXzRMX25UZTlrejl5dkd6cmI3c2Noc3lrcFk5RHkyTktHcUtfWkRmX0daMTRyZzRuS3Z0TmtJeEtQN2xzWFRHaGluT1htNkliczVrbzgtbWZPUVI3cEs0OG5JMTN1c0o1cko1Ulc1b0tn?oc=5",
+   "source": "Epicenter",
+   "published": "2026-11-22T13:50:00Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": []
+  },
+  {
+   "id": "fefa2e49d59c",
+   "lang": "bg",
+   "title": "Русия съобщи, че е ударила кораб в Черно море",
+   "titles": {
+    "bg": "Русия съобщи, че е ударила кораб в Черно море"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSlpxN196dnpucVdPSUZWQU85Nkh6a2xNRkFVS2RJZEEtb00wVVpRRlJjZExJR1Y0SHFfQkt1eG85VHNmQnpCUVNBSTU3SmhLQWR3bnpDNzNVUDNRTURWWV94dDhJcFY4cmZqMTlfRl8wRlA2cExGQ0YtWTV3azFJbFNUbnNNOGd6V1ptYw?oc=5",
+   "source": "Vesti.bg",
+   "published": "2026-11-22T12:55:00Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": []
+  },
+  {
+   "id": "81c9b92431db",
+   "lang": "en",
+   "title": "Russia Shifts Grain and Metal Exports from Black Sea to Baltic and Northern Sea Routes",
+   "titles": {
+    "en": "Russia Shifts Grain and Metal Exports from Black Sea to Baltic and Northern Sea Routes"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZFJkOTVQNEQ1R0NLdERlZFJQeVdGUmxGSVhoNnFldlFicHRDS2xIWFlGdjF2Z2Q0UGJ6WVFVVmNPaTZBT0l5Q3FuQW4wOG9sRHJ6RURVbTRGNVlmUGZCaEUxN1pVZnN2YjhzVHBadExwbGxScTFmcXM4ekdLdGZ2N2xnekI4M2hwVWV4OEpDVE5JbThNem5Sd1NiSGZEQ1dRNEtJWmkxWFB3U29FWjlWcHJzbnY?oc=5",
+   "source": "112.ua",
+   "published": "2026-11-22T12:54:39Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "grain"
+   ],
+   "places": []
   },
   {
    "id": "de5bf4b6cbe8",
@@ -1488,6 +1548,12 @@
    ],
    "places": [
     "odesa"
+   ],
+   "also": [
+    {
+     "source": "Business Upturn",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN0FYN3hQV2F5bXRCakFMR2FJYk1ZYk1aVXZ3bklGQndXeHprYnVQaGFkWUh0SFZ0M2c5cURzd2RJYTJyRWtXcHhTY2NMaHdvTlVFSXQ3VTUtdldnTHhhN2pPdDlkZS0wZW9uOFNMN2lTd1N0SGRnZVRfRnVrS3NfRXJ5SE50VXRWUngxSjBBMnRNMlB2cjIwSFp1M2lSSUlwVEx0VjBzRWdCSEZlM0VMa3Q0ckVfQXRMWXdwNzMtY1gtbFN5SWc5dlltS1dsWlhqUC01VldmSzhyUQ?oc=5"
+    }
    ]
   },
   {
@@ -1505,24 +1571,6 @@
    "topics": [
     "shipping",
     "prices"
-   ],
-   "places": []
-  },
-  {
-   "id": "65750c82c76d",
-   "lang": "ro",
-   "title": "De ce Bulgaria nu doboară dronele care atacă și scufundă nave în Marea Neagră. Rumen Radev spune că \"nu e posibil, din motive tehnice\"",
-   "titles": {
-    "ro": "De ce Bulgaria nu doboară dronele care atacă și scufundă nave în Marea Neagră. Rumen Radev spune că \"nu e posibil, din motive tehnice\""
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQjQxNEV6Z0doOEVoYUh1S01hd2EwN2l3WTJhYkpPSXBTVW9XYzNFbS1fbVU0aE9FTGRCVmE0TmRqcFdWYk1TajhoU0tKRzZzMFNTNXkzYXZJNzBEWURjb2hOMlA1MU5ZdzFJVFRKZEJnN1FzNDR3Y1VpVzZTbERudVlIMlVndS02RHdhZi1SYXdZQWF3eUYtWDhiRHg2SjNKQ2EwYTd2b3V6d210VHJlamk2cDZDbllhbGRSTmlfSVc5V3hHY0ZIS190eGFrSGtQT0NYVDVjNGV6U1I2eUdoMktQZ016YWNaYkg5Q0VIbzFrQ21BLWFCSXZRZUVKNVpVZGtj0gH-AUFVX3lxTE55T1l3bFR2ZzZFeEpYRVRYalZHQWUtMVlQVHQ1X2s0bGlSakI3em95cHNNWlJSY2JTSkRfNW1Sd05DajdHbzdkUHAtYk5ZaUVUSFo5M3lldmdDeFRJZE1DWUVfZV9VU1lhLVpUZTNjdWhzbGNsZ3pHekpSSXA1M1B2QmIwR011M1VzY1BjY20tMkJLQ1pLUUxqd1lub2FDN19XMW00cFAwZFVmMGFQTFVJeVRLUWpsaFc3WHBzaUFfdTNaZzJyZmtMMUY0NXR2a240ZmUydUg4R1R3N2p0M1UzeTR4UmZwOEFMT1BTYjdNYl9tNUtybklTZ2Q5endn?oc=5",
-   "source": "Antena 3",
-   "published": "2026-11-22T08:00:00Z",
-   "fetched": "2026-11-25T12:37:24Z",
-   "topics": [
-    "attacks",
-    "shipping"
    ],
    "places": []
   },
@@ -1581,6 +1629,31 @@
    ]
   },
   {
+   "id": "116a64908ef2",
+   "lang": "en",
+   "title": "Corn Price Update: India Premium Widens Amid Black Sea Risk — CMB News",
+   "titles": {
+    "en": "Corn Price Update: India Premium Widens Amid Black Sea Risk — CMB News"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdVNRd3huNkctWkI4dTlIdVEtUjBDQV9pU1B4Q0F5VHcwZUYtTFJIZC1pZE9LeFF2T09TcFVKT2Q3N3BwbGhUd09mQ1Brd1cxZXoyMzZ4cmNfdzJweTA4eG1XX1ByZFNPV1hXTU1McklHbnFSenZ6cnlZNlNsbV9JVkdlVmF0dUdqUlVEU1ZsandYZTFLMk1nTXBmUFd3QQ?oc=5",
+   "source": "CMB News",
+   "published": "2026-11-22T02:00:08Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "insurance",
+    "grain",
+    "prices"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "CMB News",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLVltamZpQnVIcXZkcDZBU01kR2tmcEZRdm4xOEJ2bVpTX1BycUl5QzlUbkFOekhrY2ZVc2RlcF9aeEpMZlItTjZLZVdHaUdjLXpnTjNJT3Y2QW9NRXlfeVZCQ1ZrdFNkMHR2dUx0QXVlZ3VGaDNWYktkNE5lZXJ3MmtvN2hyZw?oc=5"
+    }
+   ]
+  },
+  {
    "id": "ec45a9f2a7b8",
    "lang": "en",
    "title": "EU wheat exports run ahead of pace as Black Sea trade is disrupted",
@@ -1594,6 +1667,41 @@
    "fetched": "2026-11-25T12:37:24Z",
    "topics": [
     "grain"
+   ],
+   "places": []
+  },
+  {
+   "id": "1ef616b2a7ad",
+   "lang": "bg",
+   "title": "bTV Новините. . 🚨 „Ние просто оцеляхме. Другите колеги са мъртви.“ Разкази от първо лице след зачестилите атаки срещу търговски кораби в Черно море. 🚢 Морски и въздушни дронове поразяват плавателни съдове, а екипажите са принудени",
+   "titles": {
+    "bg": "bTV Новините. . 🚨 „Ние просто оцеляхме. Другите колеги са мъртви.“ Разкази от първо лице след зачестилите атаки срещу търговски кораби в Черно море. 🚢 Морски и въздушни дронове поразяват плавателни съдове, а екипажите са принудени"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimgVBVV95cUxPNVYwaldGMDI4TFJ3c1l2ZGJaVURuUHJ4cENKeVN0SHY0NVdDbER0QUNOb21kNzFQbnlPNEdnNjZRSFJUZC14c1MyeWNMV1ZiUVV2X1F1d1c3X2J5eGlCSlhJc2NpYnFRYmp2ZXdyaGxGNmtvd3psakc3QjRFU0hZYU9CT1VHSl9XUkVielFiV0lTYXd2YWhiSWhuUUFBdXU2NmtOSGU0VDR0ME1uU09UVkJmXzN3Z3MyUDdoM2s1MEVXLWdZMi1kV3hsRWdZeGpLYnp1Y3NjLVpRWXpDWWkxaUlreHJuMUNrSUUzTVVYZkdSRFp1M3U3cUlPZ0UxeDJFT1VZaW1WdnhGMDFyZUUxYzAyOFRyT3p5cDFvZ0wwSHNXUVQ1VDVRZWRPcUFSR1ZpN3ByRUppNW03Yzhnb0tMZWwzS2lpNEh0YWpvRUtmNXBjNVBrc0FWaFhWRnlQS1E0ZTZJU0lZUm4yQ0k3c3l4cWY2UWRvdlMxY0Y5bHR6RkI3VWM0RU9tVW1hSFpfa1ByY1JTMnAxY0w1cnl6THRxbTR6Q2c5VDRXeFFlMWYxOWNTSFduVDRfT0xPTkF4NTdMLVpJTFZfeVVFLVdRWXBIU3N2SGx3VGlrSFo5WHZuTkRmVzFfVFBQN0piRDZQZ3FycFA4bjkyMWVNVG5jTWRxNDltZDFycHpCRTE1SDlvVW5yNDVBejdZdE5zbHdORGlRMDdPc29CUVhDeXdwc0VycGxmLS15QjJHQXVUemtkOHNtTXV5bkVOQVlOdk8tVFo5M3pGTnJ3RS1DblVSTkdMdmJEVVlnUmcwVmstd2poRDNuTHdyS0c1UjhucXYyNVlUWjhSZlRUcmEtVzVSbUdmeHlibXZFRXVRVXc?oc=5",
+   "source": "Facebook",
+   "published": "2026-11-21T14:12:15Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": []
+  },
+  {
+   "id": "0fcf27c1a280",
+   "lang": "en",
+   "title": "'Coincidence?': NATO called out over silence on Black Sea drone attacks",
+   "titles": {
+    "en": "'Coincidence?': NATO called out over silence on Black Sea drone attacks"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDhCSHlNbGpRYlRram1oOVVlYU5SalU2QzhuQjlXN3dGN3lrdjVCR0xHcWtCSWZyNjdKQ1ZVbHhfTGR6WTREajlrdkl5SG5UV2dIUTJmN2hZZTZMdlhZVE5FdWV1TmVwdFdGcTdBU1N1SHBobkQzRC1OQTR3eTZKaFNTZWpoZE0yVkllcERtdkRNRHhqVS1uX1BNR1BHVF9zclpWaDluM2ZBWTE2Qm1BT1RIYw?oc=5",
+   "source": "Big News Network.com",
+   "published": "2026-11-20T22:20:00Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "attacks"
    ],
    "places": []
   },
@@ -1652,6 +1760,23 @@
    "places": []
   },
   {
+   "id": "8665dc42d36e",
+   "lang": "en",
+   "title": "Black Sea danger zone expanded as seafarer war risk protections widened",
+   "titles": {
+    "en": "Black Sea danger zone expanded as seafarer war risk protections widened"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZEUwMlpaWnBxRU41SHV3X3FTTXlWUU1MUDFBM1cwd1lTNi01SFVGYlBWX3BBdUR4bFgxUHo2eEVwWFRMNmh2eDdmQ3JTYWl4b1Y3R2hoRXJpQWNzR2FDYmxUcjZ2eTB6cEZmM0M1ODJyMmIyVjNoZENyMUdHWnp4NWFnblRBeGRraks4S2pGQWtVVlpzQzJDVmpB?oc=5",
+   "source": "Splash247",
+   "published": "2026-11-20T09:01:33Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "insurance"
+   ],
+   "places": []
+  },
+  {
    "id": "96b88199ec44",
    "lang": "en",
    "title": "19 Pinoy seafarers safe from Black Sea drone attack",
@@ -1684,7 +1809,13 @@
     "attacks",
     "shipping"
    ],
-   "places": []
+   "places": [],
+   "also": [
+    {
+     "source": "Antena 3",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQjQxNEV6Z0doOEVoYUh1S01hd2EwN2l3WTJhYkpPSXBTVW9XYzNFbS1fbVU0aE9FTGRCVmE0TmRqcFdWYk1TajhoU0tKRzZzMFNTNXkzYXZJNzBEWURjb2hOMlA1MU5ZdzFJVFRKZEJnN1FzNDR3Y1VpVzZTbERudVlIMlVndS02RHdhZi1SYXdZQWF3eUYtWDhiRHg2SjNKQ2EwYTd2b3V6d210VHJlamk2cDZDbllhbGRSTmlfSVc5V3hHY0ZIS190eGFrSGtQT0NYVDVjNGV6U1I2eUdoMktQZ016YWNaYkg5Q0VIbzFrQ21BLWFCSXZRZUVKNVpVZGtj0gH-AUFVX3lxTE55T1l3bFR2ZzZFeEpYRVRYalZHQWUtMVlQVHQ1X2s0bGlSakI3em95cHNNWlJSY2JTSkRfNW1Sd05DajdHbzdkUHAtYk5ZaUVUSFo5M3lldmdDeFRJZE1DWUVfZV9VU1lhLVpUZTNjdWhzbGNsZ3pHekpSSXA1M1B2QmIwR011M1VzY1BjY20tMkJLQ1pLUUxqd1lub2FDN19XMW00cFAwZFVmMGFQTFVJeVRLUWpsaFc3WHBzaUFfdTNaZzJyZmtMMUY0NXR2a240ZmUydUg4R1R3N2p0M1UzeTR4UmZwOEFMT1BTYjdNYl9tNUtybklTZ2Q5endn?oc=5"
+    }
+   ]
   },
   {
    "id": "b29afc2aa4f9",
@@ -1722,19 +1853,19 @@
    "places": []
   },
   {
-   "id": "b431ae45804d",
+   "id": "0b44ffe0dacf",
    "lang": "en",
-   "title": "Bulgaria's Prime Minister claims that his country cannot shoot down the drones threatening the Black Sea region: “Bulgaria currently lacks the military technical capabilities to shoot down drones”",
+   "title": "Russia rejects Türkiye’s Black Sea moratorium push under the grain deal model",
    "titles": {
-    "en": "Bulgaria's Prime Minister claims that his country cannot shoot down the drones threatening the Black Sea region: “Bulgaria currently lacks the military technical capabilities to shoot down drones”"
+    "en": "Russia rejects Türkiye’s Black Sea moratorium push under the grain deal model"
    },
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZDlObDVNSlVXMkwyNF9LTE5nRE40ck9YX0lJdnp0TmIxZDd6b3Judml1bzhFNjM3WVNWRlpkNWhhTS1RcHV3QmRfMlpJZDUwb3UyR0lYQ2FIQW03TUdWajMyVjRhMFZqQW0wdEY2YVZ5eHBueHhVNm9ESlZ5RWdrVHpMQzhMTDFTblk4Yl9LdEIyd1d5dUhiSGo0Vkw1enpleGFaeHZlX2p1d25tQUt5TmlyTlVsTENyYXZ1V0h6cw?oc=5",
-   "source": "Informat.ro",
-   "published": "2026-11-20T07:02:23Z",
-   "fetched": "2026-11-25T12:37:24Z",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR1Q2R0wtRmNnSG45c0xJY0lOUTdSUjRoeHlzQVhSMWlhcnpObU9CRnVMcmZ5V2YwRi0zOGU5X1FDZXIyOUx1dEU0Rmk4WDJlSEo4Ty04aXdGNkdvWHFHS0lXdlJndmxya3lOdDJfdWhQd1JDbDhhZmZYVUdMS2duUG1wQ2lPS0tRS1luYllJU0VoYncwc0NmZ1M0MWpqM2djb2cyYjhYdmFzclNZRkJGdG4zcU5VQ3NTVFhVbVVFNzY4Zw?oc=5",
+   "source": "Shipping Telegraph",
+   "published": "2026-11-20T08:00:00Z",
+   "fetched": "2026-11-25T12:48:52Z",
    "topics": [
-    "attacks"
+    "grain"
    ],
    "places": []
   },
@@ -1773,6 +1904,23 @@
    "places": []
   },
   {
+   "id": "a974948cbb4d",
+   "lang": "en",
+   "title": "NATO steps up air surveillance over Black Sea amid escalating maritime attacks",
+   "titles": {
+    "en": "NATO steps up air surveillance over Black Sea amid escalating maritime attacks"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSU9ldTd1LU9WNU1oTEVlNHJadkZRNEV6SS1DR2dCVGFRcTVJUjdoZTRJU0NaUlJWZnFiNUl6N0JRdHBwNnc2dGozSEtxY1hJNTlldEFjRUZpM1ktWF9VSUQ3dDN6Tm5qcGFfVjBWNkRKbmRIRE15cW1xVVZfcmpfRy11M2RhVVhKOGZucW5TaDluXzFhWDdRdU9ZZ2thV2R5?oc=5",
+   "source": "EUalive",
+   "published": "2026-11-20T03:22:07Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "attacks"
+   ],
+   "places": []
+  },
+  {
    "id": "f162637701d8",
    "lang": "en",
    "title": "Moscow drops plan for energy and Black Sea truce after Crimean Bridge strike",
@@ -1790,42 +1938,6 @@
    "places": [
     "crimea"
    ]
-  },
-  {
-   "id": "6c96ea3b0a3b",
-   "lang": "en",
-   "title": "2 Filipino seafarers hurt in Black Sea ship attack – DMW",
-   "titles": {
-    "en": "2 Filipino seafarers hurt in Black Sea ship attack – DMW"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZjFRZUlMajVXV3VtS3Eta1VheUVFUm85VnpvOV8ydXJSaXdXb3EySjZpbVQ2RjBRenZHZV84UFVicXprZjV5WE9LMjdMWE1jWTNDeUxldDNxREVOS1JDSWJ6VURqejEzb0hxd3NNMVl3Y2prM3JrbzNLc3ZHOW5iVlF5Z1A5Z1dhZlpGdERBZG9uNzlHNVB0U3FCbzlFZ9IBowFBVV95cUxQNm9Sd0NnU2wzNmVBN3A1bHAzRmZ3TVdlRTBQWmdGNUZQUEViS1hFSEFnSHZacEJXdDAzWjhuMjBENTY1NXFpcURNcEY0REtIcWpkYldyMld1NVVlUU1MRXMzbC1OSlJFallfYmdhQ1pTVHFKWEM3cWNYMXNET1RQZjRLTDh6a0NOZ01xT09QLWs1Q1dHQlVhY3FHelhHQnM0MXo0?oc=5",
-   "source": "Inquirer.net",
-   "published": "2026-11-19T21:46:00Z",
-   "fetched": "2026-11-25T12:37:24Z",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": []
-  },
-  {
-   "id": "d04b95d8cf89",
-   "lang": "en",
-   "title": "Black Sea attacks raise risk premium and disrupt Ukrainian barley flows — CMB News",
-   "titles": {
-    "en": "Black Sea attacks raise risk premium and disrupt Ukrainian barley flows — CMB News"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUFdfQTlwRlduZFFIVVBvQ2tyeVZicmNXLV9IZDN4TkowX0J3bFVMWFpKNTROMXZNei1aS1lvYkpPZVJTTGs2cm1EcU0xQTZ2QjhMWUxWS3NZRDFTeXNQOTlicUdIMHBsV0FlYXVYWk1qSFdFenJoVDFxbWc0YzFPNVlIOHZmbWFuVjBMT28zYWIycXU1OWs1cVJ6WQ?oc=5",
-   "source": "CMB News",
-   "published": "2026-11-19T21:36:36Z",
-   "fetched": "2026-11-25T12:37:24Z",
-   "topics": [
-    "attacks",
-    "insurance"
-   ],
-   "places": []
   },
   {
    "id": "ba2d518a5136",
@@ -1886,24 +1998,6 @@
    ]
   },
   {
-   "id": "5addd3b4a59a",
-   "lang": "en",
-   "title": "Helicopter rescues 19 Filipino seafarers after drone strike sinks LPG tanker in Black Sea",
-   "titles": {
-    "en": "Helicopter rescues 19 Filipino seafarers after drone strike sinks LPG tanker in Black Sea"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcU5nOWdweV83bEtneV9hdm8wazc0TGRURWwwT3FrbXBheDJMUHpCbDN3UG1ZZXQzSnN0SjJST2ltUXBuTnZsWnBxOV8tVmhmN2docFctZlJld1lnUGljWFh2X1ZJVGRoSWREdjBIMWpWTVFaY0syZENnN25XWUktZ0VGanpMa1lTdlFGSDFFejh6a2ZudEliLV9vTWl3bG9QdTJKOWtZMFk2VklHSmdDRF9DTkVDZnA0Z2RUVnY2blRINHlxZTVN?oc=5",
-   "source": "The Global Filipino Magazine",
-   "published": "2026-11-19T16:53:12Z",
-   "fetched": "2026-11-25T12:37:24Z",
-   "topics": [
-    "attacks",
-    "energy"
-   ],
-   "places": []
-  },
-  {
    "id": "4b54ef7ab443",
    "lang": "en",
    "title": "UK and Norway Partner to Fund Two Advanced Combat Vessels for Ukraine, Boosting Black Sea Security",
@@ -1921,19 +2015,18 @@
    "places": []
   },
   {
-   "id": "2367d8432d1d",
+   "id": "6a93631f9eb3",
    "lang": "bg",
-   "title": "Путин призна: Русия нанася ответни удари по кораби в Черно море",
+   "title": "Путин потвърди за руски атаки по търговски кораби в Черно море",
    "titles": {
-    "bg": "Путин призна: Русия нанася ответни удари по кораби в Черно море"
+    "bg": "Путин потвърди за руски атаки по търговски кораби в Черно море"
    },
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVnBWVVpOc3ZWSXdvVHdFb00wTmt3bnVkTkc0aGVMelNiWXVHYzdvUXZ6czgwam83b0V1ZksyNVlJVUtKVkZ0Z2Itdms4dVZkX3VLRDVVOXg1OEFKMFJQQ2NidlVqbWh4bml2TWtFNkRTcFh0RDJMNjdobzZ3UVNwNXdrdG5MNVBsODNMM1Jic0ptUWFzdXNwQmM4enFvdGxFSmUza050bDB1Zw?oc=5",
-   "source": "Горещите новини на Подбалкана",
-   "published": "2026-11-19T16:44:39Z",
-   "fetched": "2026-11-25T12:37:24Z",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU0hpUWtYWWxWMkZkUE4ya2FOc1BHQ2l5ZTFxMTlhRjlFUGNUdTJlVHFiNXJKS1JtNGpiM2JwQXZoYmhrVFJadTdsVmx3MlMyd3QxbnJYQ0JRVmJLNFBiOWN5a2FWWFRydXhfMEg3a3hzNmJiUVIwXzJrcmp0Qjg1MkhBTnZiSW5UTVNhUUlxUC1vLTZULUV0cFZn?oc=5",
+   "source": "Евроком",
+   "published": "2026-11-19T15:44:00Z",
+   "fetched": "2026-11-25T12:48:52Z",
    "topics": [
-    "attacks",
     "shipping"
    ],
    "places": []
@@ -1991,6 +2084,38 @@
    "places": []
   },
   {
+   "id": "702a0cf62523",
+   "lang": "bg",
+   "title": "Путин призна за руските удари срещу кораби в Черно море",
+   "titles": {
+    "bg": "Путин призна за руските удари срещу кораби в Черно море"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEVRNml3a1JoMDRqcFh4bmpweFNScGhPLWNQZldWSlBZU3RyU0d3ZlN6YmxpWERNOUUzR0otZ1U2Q2czRktpNG5BcWFRS0VPWVgwS1FfQUxmMW56NGt3akZrRVBTRnA0TDg1V0RmVGlsZXhMSW5tZXRPWVJHVGZzRmJ4YU16cGdOY1MwQzA0MjJZX2twa0t1UjNpODM5WDVzRGFvZE9keW5kX0tM?oc=5",
+   "source": "Новини СЕГА",
+   "published": "2026-11-19T14:27:43Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "Tribune.bg",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwT1RsMDJ0b2tacE1vTGc2WDgzU3V0TzJRc1NpYk5DYW1veTI5WnJiaFhtRWtWOUdmSWVCSHQ5YlQ2X1dDUWZZZXZ5TXJsUDRwSGJLVHludC16T1lJTmxPeERRSC1WQVZGZmJsM0xZcw?oc=5"
+    },
+    {
+     "source": "Горещите новини на Подбалкана",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVnBWVVpOc3ZWSXdvVHdFb00wTmt3bnVkTkc0aGVMelNiWXVHYzdvUXZ6czgwam83b0V1ZksyNVlJVUtKVkZ0Z2Itdms4dVZkX3VLRDVVOXg1OEFKMFJQQ2NidlVqbWh4bml2TWtFNkRTcFh0RDJMNjdobzZ3UVNwNXdrdG5MNVBsODNMM1Jic0ptUWFzdXNwQmM4enFvdGxFSmUza050bDB1Zw?oc=5"
+    },
+    {
+     "source": "Ruse news",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXNoTlNGNVdvb1l5OGJXZTJJYzdJWVVFakVkZ2sxTHRzYVBmRUxQOHpIYmtYYlV3eWlfYlRoMmNDeTI4bk1nLTBqVEMzWWlicFVOQzZjWXBNNWNuNEpYRzhaQmRVbEt1WkotNGcySHJzSGtxSHlHbks1VHVUcUdyYV9nQVVzZFBmMFBoY29yczVzVHBPNDNOR0ZBWVVHanZs?oc=5"
+    }
+   ]
+  },
+  {
    "id": "35e7711eb38b",
    "lang": "en",
    "title": "INTERVIEW - Bulgaria more exposed than Romania to Black Sea shipping risks",
@@ -2008,20 +2133,64 @@
    "places": []
   },
   {
-   "id": "eb5aaee87af1",
+   "id": "3ae005c644e8",
    "lang": "en",
-   "title": "19 Filipino crew members safe after drone attack on LPG Tanker in Black Sea – DMW",
+   "title": "Radev: Bulgaria Cannot Shoot Down Black Sea Drones for Technical Reasons",
    "titles": {
-    "en": "19 Filipino crew members safe after drone attack on LPG Tanker in Black Sea – DMW"
+    "en": "Radev: Bulgaria Cannot Shoot Down Black Sea Drones for Technical Reasons"
    },
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdG5WbWNOTm9oaXBDNUNQenRKMFdUb3Zka19OYjAyLWk0NEl5enpBeTN6bE5TS2Q5QVg3enRsMGpDUHc4YWxLUjZTVkpXTmlrZ0dndDZvX3J6enczc1UydldOVmRKbmtVWWRyUFNKUGJxWUZVdDR0NWE2bTZVSWVlSHVsdzloYTdNSjBOOVhkZkpVNkhBZXBvR2sxREM5NVNpS2RQTTdEU3U4OWxv?oc=5",
-   "source": "DZRH",
-   "published": "2026-11-19T11:15:35Z",
-   "fetched": "2026-11-25T12:37:24Z",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObWhtczl1WDc2Y1FWM3dEVGpqYjNvZFE2bUpfV3NuS05qUm5YN2VoUmIzTjhuVHpFUWlhOWh1ZVhpaGZYamdjTkswSXlVM3hXWFlhVzFKVDBEOXhzdzI1UURrSG04SkFuX0NrSlFTZnBKQkFFTjh6UWNOOUpzRTJacXhicjlPWHZSc0NtcGpwWGZFaS1oNVpiY3V5SWJ6ZjJqYk1fVEZQdW1iVWJpMzBzNnotcndXZw?oc=5",
+   "source": "Novinite.com",
+   "published": "2026-11-19T12:22:39Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "attacks"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "Informat.ro",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZDlObDVNSlVXMkwyNF9LTE5nRE40ck9YX0lJdnp0TmIxZDd6b3Judml1bzhFNjM3WVNWRlpkNWhhTS1RcHV3QmRfMlpJZDUwb3UyR0lYQ2FIQW03TUdWajMyVjRhMFZqQW0wdEY2YVZ5eHBueHhVNm9ESlZ5RWdrVHpMQzhMTDFTblk4Yl9LdEIyd1d5dUhiSGo0Vkw1enpleGFaeHZlX2p1d25tQUt5TmlyTlVsTENyYXZ1V0h6cw?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "55e8e05712e4",
+   "lang": "en",
+   "title": "Ships Have Fled Novorossiysk en Masse: How Drone Attacks Hit Russia’s Logistics",
+   "titles": {
+    "en": "Ships Have Fled Novorossiysk en Masse: How Drone Attacks Hit Russia’s Logistics"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT2NKS2JaOGtFQXNlMjhDMWNGWktCUTkzbGR1Sk9QanhLZ1RIRkZjWXBkY2gzWUp6VlpaaTdrbXE5aER0ZWRJeW1iM0EtM2h3ZFJBWWV6S01yV3FBaVYycy1UUXcxNW9VUGROZUFaNUZMakxpRlhLdmgyTV9pSjJyRTRVbXlWSy1mRDhUVU5UNmdhSGxMRFhGVDR5QQ?oc=5",
+   "source": "www.unian.info",
+   "published": "2026-11-19T12:20:00Z",
+   "fetched": "2026-11-25T12:48:52Z",
    "topics": [
     "attacks",
-    "energy"
+    "shipping"
+   ],
+   "places": [
+    "novorossiysk"
+   ]
+  },
+  {
+   "id": "cf61ecd13255",
+   "lang": "en",
+   "title": "Ships with previous calls at Ukrainian ports could face attacks in the Black Sea — Ambrey",
+   "titles": {
+    "en": "Ships with previous calls at Ukrainian ports could face attacks in the Black Sea — Ambrey"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSlJvMTROX3dnRG1Lc3psam0ydTFrRk9GREVEeGppeElxVkFpNGQyVHo1ZkJyWU1VajlvbzV3VnBqR1Rzc0h6TnJfVTFlVG56SHZGZ2U4Um5RbG5ocWxnX3ZCMVV0cDBGNTBYdEhfblJNTzlTV29zMVJZRjdNYXpacFhLWlVlQ2ZRM1FLRG8xZEpaSG93WGlLS3B5U3FwTzF2T0xKcDM1M2N4ZG9uNXhJMnR4OTJacndhd3I0bGgwTGI?oc=5",
+   "source": "УкрАгроКонсалт",
+   "published": "2026-11-19T10:57:53Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "attacks",
+    "shipping",
+    "ports"
    ],
    "places": []
   },
@@ -2060,7 +2229,17 @@
     "attacks",
     "energy"
    ],
-   "places": []
+   "places": [],
+   "also": [
+    {
+     "source": "DZRH",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdG5WbWNOTm9oaXBDNUNQenRKMFdUb3Zka19OYjAyLWk0NEl5enpBeTN6bE5TS2Q5QVg3enRsMGpDUHc4YWxLUjZTVkpXTmlrZ0dndDZvX3J6enczc1UydldOVmRKbmtVWWRyUFNKUGJxWUZVdDR0NWE2bTZVSWVlSHVsdzloYTdNSjBOOVhkZkpVNkhBZXBvR2sxREM5NVNpS2RQTTdEU3U4OWxv?oc=5"
+    },
+    {
+     "source": "The Global Filipino Magazine",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcU5nOWdweV83bEtneV9hdm8wazc0TGRURWwwT3FrbXBheDJMUHpCbDN3UG1ZZXQzSnN0SjJST2ltUXBuTnZsWnBxOV8tVmhmN2docFctZlJld1lnUGljWFh2X1ZJVGRoSWREdjBIMWpWTVFaY0syZENnN25XWUktZ0VGanpMa1lTdlFGSDFFejh6a2ZudEliLV9vTWl3bG9QdTJKOWtZMFk2VklHSmdDRF9DTkVDZnA0Z2RUVnY2blRINHlxZTVN?oc=5"
+    }
+   ]
   },
   {
    "id": "d47a06306b1a",
@@ -2080,6 +2259,42 @@
    "places": []
   },
   {
+   "id": "35ffff68a0a7",
+   "lang": "en",
+   "title": "Philippines seeks wider Black Sea war risk cover for seafarers",
+   "titles": {
+    "en": "Philippines seeks wider Black Sea war risk cover for seafarers"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZHlrbExaX2JrWklFa1hXcmV2RkVPSmt3cGRhdGl2RXlHSFBHalFoaWxCbWZQaDR0N3VaX2dwQk5iT3BiazlNRnoySXNMZTFsamZ5TGxSWWZhczl1cjNoaThEc1VhVnJiOGFpcGJZcVdOd3hVNUxlM0U4aTdVM21kY0gxcDRKLWhyY3JMeTNR?oc=5",
+   "source": "Splash247",
+   "published": "2026-11-19T08:35:23Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "insurance"
+   ],
+   "places": []
+  },
+  {
+   "id": "81bce0dbc2b5",
+   "lang": "en",
+   "title": "Russia massively attacked the south of Odesa region: industrial and energy facilities damaged",
+   "titles": {
+    "en": "Russia massively attacked the south of Odesa region: industrial and energy facilities damaged"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN3NaRENMeVE1VnRGMUlGQ25DenJZdGdyeWFBeGFSZEJuTW9GQzRiU0NMQ0gxa0R3aVhHVS0yVnBBMFZZSW9DRkJ2LWNZUHZUbi1YWXUtZnpqTXZZNGZjVnRnbFFqXzNzcHBnQUs4X3FSVVhEUHFoTmJyVWNFZFpJdVhuNklkaEczeVZtZTFIT19qajgxendQSUdrUzY0LWt4dnhVbGlWajlWcU9vTUJmWkJ5SUhBRjVqQ2N5dVpiRjE5dzFocmJoakdmcDJZcEJmQWpnUlFEX1Z0dw?oc=5",
+   "source": "АНТИКОР",
+   "published": "2026-11-19T07:59:47Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "attacks"
+   ],
+   "places": [
+    "odesa"
+   ]
+  },
+  {
    "id": "9220f9b3fa36",
    "lang": "en",
    "title": "Previous Ukraine port calls could put ships in Black Sea firing line",
@@ -2094,6 +2309,42 @@
    "topics": [
     "shipping",
     "ports"
+   ],
+   "places": []
+  },
+  {
+   "id": "534223af8e37",
+   "lang": "en",
+   "title": "Ukraine Strikes Crimean Bridge for Third Time This Week",
+   "titles": {
+    "en": "Ukraine Strikes Crimean Bridge for Third Time This Week"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jUkI5ampyd083R2d1cllualNXTFhKcjJVMFA5NW9ubVhGTlZ0R3EwU1JZQlVsdUFjaFNyZmZyNnlITFJzOGdhUFhSZC1vTWpWclYzZC1zZENfbHVtLVdGQ1c2VWlHdGNwWXc?oc=5",
+   "source": "Demokratis.co.id",
+   "published": "2026-11-19T06:44:34Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "attacks"
+   ],
+   "places": [
+    "crimea"
+   ]
+  },
+  {
+   "id": "ae9862b1e5b6",
+   "lang": "bg",
+   "title": "Путин призна, че Русия атакува кораби в Черно море. Покани Европа на масата за преговори – в Москва",
+   "titles": {
+    "bg": "Путин призна, че Русия атакува кораби в Черно море. Покани Европа на масата за преговори – в Москва"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KSWRzUU41R1hmRjM4OTZxLXVEYjBzNWh2eW1FOEQybWx5Smgyc3pxTExGR2lwOVktWlV0WDhudE5GZ0tkR1BJZ1ZoQnRHLXMwc0M0ejQ4Rlg?oc=5",
+   "source": "Profit.bg",
+   "published": "2026-11-19T06:12:00Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "shipping"
    ],
    "places": []
   },
@@ -2135,24 +2386,6 @@
    "places": []
   },
   {
-   "id": "7542486ea18c",
-   "lang": "en",
-   "title": "2 Filipino seafarers hurt in Black Sea ship attack — DMW",
-   "titles": {
-    "en": "2 Filipino seafarers hurt in Black Sea ship attack — DMW"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2s1R0ZvLUtmOFhpakNPZFhtTzBxQWJFdlJ0ODRlZDNmLVgyaFBIYnBST0d5cjdnSmtwbkhpN0NSa1VIelExVWloVHY3SHJ3UHF5dnlxcE1HaFVabTR0WS1meDBfUkdzZ2dILW93b0paenVxYnVpVVhhYWo4TVZFT3kxT1lTUkpfem5ud3ZZeDcxUHRCOEgzVWJYTdIBoAFBVV95cUxQM3NvenJOMnRZTks0YTRpUUhQZldoWFFsMFZGS1pfbkRZUGIzMXhUZjBCc0xXZmt1c0VqVzhOVllvaGJhMGNNMjBfZ0Q5SEZJUmhfbnE1YkZxaEFYV0RvWk56TWEzN0Y4SGdza3VXeGprQ0phdDdScktOTFdPeFB0MnVMRXBVUm0tN2RkWlBQQnZqakhPXzJBaEFkVDhZdEI4?oc=5",
-   "source": "Inquirer.net",
-   "published": "2026-11-19T02:31:00Z",
-   "fetched": "2026-11-25T12:37:24Z",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": []
-  },
-  {
    "id": "eedd0d651543",
    "lang": "en",
    "title": "DMW: 19 Filipino seafarers rescued in Black Sea drone attack By Marita Moaje MANILA – Nineteen Filipino seafarers were rescued after their vessel was hit in an apparent drone attack and sank in the Black Sea off Bulgaria on Nov. 17, the Department of Migr",
@@ -2168,7 +2401,17 @@
     "attacks",
     "shipping"
    ],
-   "places": []
+   "places": [],
+   "also": [
+    {
+     "source": "Inquirer.net",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2s1R0ZvLUtmOFhpakNPZFhtTzBxQWJFdlJ0ODRlZDNmLVgyaFBIYnBST0d5cjdnSmtwbkhpN0NSa1VIelExVWloVHY3SHJ3UHF5dnlxcE1HaFVabTR0WS1meDBfUkdzZ2dILW93b0paenVxYnVpVVhhYWo4TVZFT3kxT1lTUkpfem5ud3ZZeDcxUHRCOEgzVWJYTdIBoAFBVV95cUxQM3NvenJOMnRZTks0YTRpUUhQZldoWFFsMFZGS1pfbkRZUGIzMXhUZjBCc0xXZmt1c0VqVzhOVllvaGJhMGNNMjBfZ0Q5SEZJUmhfbnE1YkZxaEFYV0RvWk56TWEzN0Y4SGdza3VXeGprQ0phdDdScktOTFdPeFB0MnVMRXBVUm0tN2RkWlBQQnZqakhPXzJBaEFkVDhZdEI4?oc=5"
+    },
+    {
+     "source": "Inquirer.net",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZjFRZUlMajVXV3VtS3Eta1VheUVFUm85VnpvOV8ydXJSaXdXb3EySjZpbVQ2RjBRenZHZV84UFVicXprZjV5WE9LMjdMWE1jWTNDeUxldDNxREVOS1JDSWJ6VURqejEzb0hxd3NNMVl3Y2prM3JrbzNLc3ZHOW5iVlF5Z1A5Z1dhZlpGdERBZG9uNzlHNVB0U3FCbzlFZ9IBowFBVV95cUxQNm9Sd0NnU2wzNmVBN3A1bHAzRmZ3TVdlRTBQWmdGNUZQUEViS1hFSEFnSHZacEJXdDAzWjhuMjBENTY1NXFpcURNcEY0REtIcWpkYldyMld1NVVlUU1MRXMzbC1OSlJFallfYmdhQ1pTVHFKWEM3cWNYMXNET1RQZjRLTDh6a0NOZ01xT09QLWs1Q1dHQlVhY3FHelhHQnM0MXo0?oc=5"
+    }
+   ]
   },
   {
    "id": "98a40b54403f",
@@ -2190,6 +2433,23 @@
    "places": []
   },
   {
+   "id": "d6f59cf234a3",
+   "lang": "bg",
+   "title": "Ангел Найденов: България трябва да засили защитата на корабоплаването в Черно море",
+   "titles": {
+    "bg": "Ангел Найденов: България трябва да засили защитата на корабоплаването в Черно море"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFFCQzZnVkthUzN0c1AwWkQ4dGpZRzFURXFwdzRvdHRxOW5QMEZFSng0QkYtQm8wckhUQmt4alRSVXVEbnhKbUNGaFRqc3JMWmZGOE4xZWRzYngzWW9fLXJSd0tOZ1NqbERwWm93c0p0c1J5WWl2QTFQN1J4blhhZHBRZHFSWTMzRXFCT2Z4UzVNWDVSNE1iR0VsMjV6WjNsZ2tySWlnTlAtcGNxdHFpUmZDS0F6RFU?oc=5",
+   "source": "Euronews Bulgaria",
+   "published": "2026-11-19T00:14:59Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "shipping"
+   ],
+   "places": []
+  },
+  {
    "id": "261778940420",
    "lang": "en",
    "title": "Ukraine: TV producer Khrystyna Lysenko killed in Russian strike on Odesa",
@@ -2206,6 +2466,48 @@
    ],
    "places": [
     "odesa"
+   ],
+   "also": [
+    {
+     "source": "Journalism Pakistan",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzI5b3cxNWlfaEN0bDN1NXZfbUJVNUwtOTdxdXJDYVVaOERPOFZTTTRCM0JRTHNCOE1HQUZmZVItWEVJdFV3WGkyeUlFY1pBY1J1MHpiV09nRFdFR0ppT1BKejR5MGNMYzZDSmdQQ2MxdGhFQTR4UEtGSW9fcllUZmhueElMOW9mM3FPVXAxT0lSYjNzSXdRVg?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "4ff9dc46354f",
+   "lang": "ro",
+   "title": "Marea Neagră - transformată într-un câmp de luptă pentru navele comerciale",
+   "titles": {
+    "ro": "Marea Neagră - transformată într-un câmp de luptă pentru navele comerciale"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSW5XUGpSaGRwLUR5OEQtQVkzR2NGc25abm9yME9sUEI1b1RQZUdDbXFTRXRKTlVZd1J4WW53UE96R0RnYmlteTJEYjhTVl9FNmNfR2JXQmR2c1FlbGdudkVvaTlsM0VpUDlrLW1FemU5cmZqbUF3SExXZFp3eDNjQU42RlBRa0dPWjM1ZmNRY1p4dWN3VUExM2xldFR6Nkc4bXludQ?oc=5",
+   "source": "Ziarul Bursa",
+   "published": "2026-11-18T22:00:00Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "shipping"
+   ],
+   "places": []
+  },
+  {
+   "id": "a324b8443542",
+   "lang": "en",
+   "title": "What the Crimean bridge attack means for Russia",
+   "titles": {
+    "en": "What the Crimean bridge attack means for Russia"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWNJeU52cmNIWXVxYXloM1RVdm5SQWdTd3pFWUd6QzhXYmhNeWx4enlkSjNENHBLcnBDY240aV96SEdiTnFVOUtuTWJ4ZmVIUHYySmJaczR6NzJLXzQwc2p0Y1lfSnpNaUdfOEdHLUwyZDdGVkVFODZFZjRtVVVXUjNVdWl5REXSAYcBQVVfeXFMTWR5dF9IVHRBaVhOc2RKbGpGR193aDhrRHRwSFRDZzVLeV9EdnloLTFHRU9CRi01TU5VV09iSXJ0V2VBTGJndFo0R3BSdDhmcXpraFhlSllSREJLVEZYcDVfT3NDQXRLTVdyWEpRNEw3YUY1TVJQT09KWEowOHVWSkFMeHlRVVhB?oc=5",
+   "source": "DW.com",
+   "published": "2026-11-18T21:18:54Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "attacks"
+   ],
+   "places": [
+    "crimea"
    ]
   },
   {
@@ -2226,6 +2528,60 @@
    "places": [
     "odesa"
    ]
+  },
+  {
+   "id": "10199eda310f",
+   "lang": "en",
+   "title": "A Russian strike damaged the Museum of Contemporary Art in Odesa",
+   "titles": {
+    "en": "A Russian strike damaged the Museum of Contemporary Art in Odesa"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb3NReVRZU243b3JrdC1WMWNSeVNkQlhrWEcxc1RCNUdvak5aQTZmTnF2UENCNjNCVEthNDZRbWZfWFJYT1pXdUYzMzZfWEFGaVpxX3FXWjltdUZ5RzhrdGcyY05ZX2wwcmE3eDBSUElOdjBtcF9vTTAtUllSZEhCZHNrZU9FcWVFQXFLZ3AyNXZ2YUlhTThOREpR?oc=5",
+   "source": "UA.NEWS",
+   "published": "2026-11-18T18:10:01Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "attacks"
+   ],
+   "places": [
+    "odesa"
+   ]
+  },
+  {
+   "id": "7d33261ccefc",
+   "lang": "en",
+   "title": "Ukraine Will Step Up Protection of Ports and Ships in the Black Sea — Zelenskyy",
+   "titles": {
+    "en": "Ukraine Will Step Up Protection of Ports and Ships in the Black Sea — Zelenskyy"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT3dRS0lvRXZFblVmbDFyMDkwVzhxME5JWEkzcnhIdnNGR0RkNzdBcEp0X1lvTGZvZVJGVFIyYTFyZFlDMUtnSy02ZkJ6Skp6Qjgxcjc2ME5fT2huSWFRQlJrdkdjVVM2azNEQjFVWkJuMkN2UmFTLUw2a3N0ZTk3OXRXajU3VHdOSzlBVGJLVGJSQQ?oc=5",
+   "source": "Комерсант Український",
+   "published": "2026-11-18T17:52:00Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "shipping",
+    "ports"
+   ],
+   "places": []
+  },
+  {
+   "id": "6ef5bfbf361e",
+   "lang": "bg",
+   "title": "Шест седмици атаки в Черно море: 15 са засегнатите кораби край България и Румъния",
+   "titles": {
+    "bg": "Шест седмици атаки в Черно море: 15 са засегнатите кораби край България и Румъния"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYU5xbHk0bjZvcUI4X0ZyMVl6SEZRRVVzUVVfLXFmTGt3eUZxZXAtc1lKbnJzdzBYT3pHZ2pzZS03RGJxWUdCdnRPNzVBcXp1S3ZZclZBTzYxbnpUNEExd3IwZTBHcmF6STlBN29CZmU5NV9Za1NmLURsYVNIVlN4RUt2YWhKd3FJNDRXQ0xMbWpMMHIyUlFjLUlFMHQ2Uy1CSmdQandfSEU0MXNkTWZr?oc=5",
+   "source": "Frognews",
+   "published": "2026-11-18T17:45:00Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "shipping"
+   ],
+   "places": []
   },
   {
    "id": "a7b05f7edd69",
@@ -2354,23 +2710,6 @@
    "places": []
   },
   {
-   "id": "576e60760619",
-   "lang": "bg",
-   "title": "Стоянов: Няма значение чии са дроновете в Черно море, щом застрашават националната сигурност",
-   "titles": {
-    "bg": "Стоянов: Няма значение чии са дроновете в Черно море, щом застрашават националната сигурност"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTFlXZkZ3b3pSdVdjYXVHNnp3WkhmaWdqOTViNllKdVNpRWZVR0ZsYkNqSVAzeVM2ZUpaeEZqdUczcFNqRENpMkFRbml1STA1LWwza0RaX0RIWHdOMGt6Z0NUd29XTFhSbDh3U1VEaEVhLWZlU3VPc25CRVotcUcwUkY0QWhydjRTY2EwUWlDbnFJWWJjU3p3VW1QZHJyQmZyeVlMQ2dnNnZXV3ZBT2lmQV96QjEzRE5WaVppSk5XbmNVTUZPd01QMUZPOVdQZEE0eFZjTjZGbERRdw?oc=5",
-   "source": "Bgonair",
-   "published": "2026-11-18T14:25:00Z",
-   "fetched": "2026-11-25T12:37:24Z",
-   "topics": [
-    "attacks"
-   ],
-   "places": []
-  },
-  {
    "id": "53e390efdb77",
    "lang": "ro",
    "title": "Marea Neagră, în flăcări: 90 de nave blocate la Sulina, iar fermierul român ”plătește„ nota de plată",
@@ -2408,17 +2747,17 @@
    "places": []
   },
   {
-   "id": "5ed5c5149891",
+   "id": "be6e6be393ba",
    "lang": "en",
-   "title": "Ukraine says Russian strikes kill four in Odesa",
+   "title": "Zelensky on strikes on Odesa: Those who want peace do not step up killing",
    "titles": {
-    "en": "Ukraine says Russian strikes kill four in Odesa"
+    "en": "Zelensky on strikes on Odesa: Those who want peace do not step up killing"
    },
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMkVtakdlMlpnbHRiaFNHaFNUUzRUbUE1T2tuOGZkcXkyTXRtejRPbVVOUGFNeWZyVlV0SVFfMmEydVQtZlVMVThydGRENmFFTmJJMlNxMHpTLWx2WWJjRUlKa3YwWTVFQUxTenVBRktmOFBjbTZPUEw4WXpYTkYwZ1lvYzhBb1puanJyVDJrMUk3VS0waVowa0RMOC1BX1hz0gGmAUFVX3lxTFBGUFJDam50QTRsU3dFNmM5dF9NX1JnRlJmbzhVM0ZGRDN6c2E1WlZoaFlNaG5vQ3hRQjAtZ2xycUNsSVFoOVZTcVRiaTEwOTc3dzVNajduRGR1bUFNdzc2ejF4V0hfUllHWHZwdFFOS0M2aGI3NnIzLU5oQmcwUk1CNVJLaVJ3b096OTFtdWdfQjU5cHUyajk1ME1lRlpnVUV4YnhVbWc?oc=5",
-   "source": "Al Arabiya English",
-   "published": "2026-11-18T13:40:00Z",
-   "fetched": "2026-11-25T12:37:24Z",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLW1iTk01OUlZTVkxdkd3SnRVNm9DQWc1MDRUOC1wNlZtM2JqQlg1dkxwZGhzYlptVnQ5SXhxcVNKVVBkclZRbU5EZGJNVlAyUzdkbnRRT2xXb29qLWtkNTh4dFV0enJuTklTZ1dlS0ctVlR5RWJ6X1RRR0V1ZXRseXJ2NHdjemFXWFd1U1NBRTVkWkt0R2RNZWEtTDVUN1BtYjVPU0toS0VpMERnaENtWHFMZEw3Yk96NzJUV3p4d9IBxAFBVV95cUxNUG9YalB5dlkyRXJENmtOWmIzaW9Ob0o3cTVxNmhxV191OEJSb3FjZG9qbDFTNEdCUTdjODRzekFET1lZenJiMGgxRDB2U252X2lPUjRSRVRpNEtFRmVWVVJ4dEpCMkRnVlowRG9WUkl0TnBzN1E1MldxbXE1d09HY2d5bzNOQmVhQkUxWUNDZ0MyNXgyYjdTRUtETkdFb0tVNWltdnZYVkpsMkJUY0d4Ym1lV1N5MmFpUGxvczdhYVBoeFNW?oc=5",
+   "source": "Ukrinform",
+   "published": "2026-11-18T13:41:00Z",
+   "fetched": "2026-11-25T12:48:52Z",
    "topics": [
     "attacks"
    ],
@@ -2516,6 +2855,29 @@
     "grain",
     "energy"
    ],
+   "places": [],
+   "also": [
+    {
+     "source": "CMB News",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUFdfQTlwRlduZFFIVVBvQ2tyeVZicmNXLV9IZDN4TkowX0J3bFVMWFpKNTROMXZNei1aS1lvYkpPZVJTTGs2cm1EcU0xQTZ2QjhMWUxWS3NZRDFTeXNQOTlicUdIMHBsV0FlYXVYWk1qSFdFenJoVDFxbWc0YzFPNVlIOHZmbWFuVjBMT28zYWIycXU1OWs1cVJ6WQ?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "10faef936223",
+   "lang": "bg",
+   "title": "Стоянов прехвърли на военни прокурори отговора кой потапя кораби в нашето Черно море",
+   "titles": {
+    "bg": "Стоянов прехвърли на военни прокурори отговора кой потапя кораби в нашето Черно море"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnZoa0cyUVZTbm5aUGVOeDktMXhEenJTN1k4bEh6VXlhczdiV1cxQ1NDcUd0SXdRTUJVbHpDUHFrLUVya0tzaGp1dXh4Y1JnYXc0V005d2RnRFpldDJXaVB5UUZnbXl5bkZ6VVVTME5OV0FzSHFQLXB5RnZmUFJDRjRzNmtOakVtWlJFQ3BRT3QxdTZkSWdjR1k2R050NktyM09oYmcyRVZrSEh6QkRjeQ?oc=5",
+   "source": "Lentata",
+   "published": "2026-11-18T13:13:28Z",
+   "fetched": "2026-11-25T12:48:52Z",
+   "topics": [
+    "shipping"
+   ],
    "places": []
   },
   {
@@ -2535,6 +2897,12 @@
    ],
    "places": [
     "odesa"
+   ],
+   "also": [
+    {
+     "source": "Al Arabiya English",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMkVtakdlMlpnbHRiaFNHaFNUUzRUbUE1T2tuOGZkcXkyTXRtejRPbVVOUGFNeWZyVlV0SVFfMmEydVQtZlVMVThydGRENmFFTmJJMlNxMHpTLWx2WWJjRUlKa3YwWTVFQUxTenVBRktmOFBjbTZPUEw4WXpYTkYwZ1lvYzhBb1puanJyVDJrMUk3VS0waVowa0RMOC1BX1hz0gGmAUFVX3lxTFBGUFJDam50QTRsU3dFNmM5dF9NX1JnRlJmbzhVM0ZGRDN6c2E1WlZoaFlNaG5vQ3hRQjAtZ2xycUNsSVFoOVZTcVRiaTEwOTc3dzVNajduRGR1bUFNdzc2ejF4V0hfUllHWHZwdFFOS0M2aGI3NnIzLU5oQmcwUk1CNVJLaVJ3b096OTFtdWdfQjU5cHUyajk1ME1lRlpnVUV4YnhVbWc?oc=5"
+    }
    ]
   },
   {
@@ -2552,7 +2920,13 @@
    "topics": [
     "attacks"
    ],
-   "places": []
+   "places": [],
+   "also": [
+    {
+     "source": "Bgonair",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTFlXZkZ3b3pSdVdjYXVHNnp3WkhmaWdqOTViNllKdVNpRWZVR0ZsYkNqSVAzeVM2ZUpaeEZqdUczcFNqRENpMkFRbml1STA1LWwza0RaX0RIWHdOMGt6Z0NUd29XTFhSbDh3U1VEaEVhLWZlU3VPc25CRVotcUcwUkY0QWhydjRTY2EwUWlDbnFJWWJjU3p3VW1QZHJyQmZyeVlMQ2dnNnZXV3ZBT2lmQV96QjEzRE5WaVppSk5XbmNVTUZPd01QMUZPOVdQZEE0eFZjTjZGbERRdw?oc=5"
+    }
+   ]
   }
  ]
 }
