@@ -14,6 +14,7 @@ import sys
 import time
 import urllib.error
 import urllib.parse
+import urllib.request
 import xml.etree.ElementTree as ET
 
 from common import (CONFIG, DATA, has_any, http_request, iso, load_json, normalize, now_utc,
@@ -149,7 +150,9 @@ def classify(text: str, sources: dict):
     norm = normalize(text)
     topics = [t for t, kws in sources["topics"].items() if has_any(norm, kws)]
     places = [p["id"] for p in sources["places"] if has_any(norm, p["match"])]
-    maritime = has_any(norm, sources.get("maritime", [])) if sources.get("maritime") else True
+    # the headline itself must be about the sea (ships, ports, the Black Sea...), not only the summary
+    title_norm = normalize(text.split(" \x1f ")[0])
+    maritime = has_any(title_norm, sources.get("maritime", [])) if sources.get("maritime") else True
     sea_topics = [t for t in topics if t != "policy"] or (
         topics and has_any(norm, ["security", "securitate", "сигурност", "maritime", "maritim", "морск",
                                   "navigation", "navigatie", "корабоплаване"]))
@@ -228,7 +231,7 @@ def collect(sources: dict) -> list[dict]:
                 continue
             if re.search(r"[ыэё]", (title + " " + summary).lower()):
                 continue  # Russian-language text (Bulgarian has no ы, э, ё)
-            ok, topics, places = classify(f"{title} {summary}", sources)
+            ok, topics, places = classify(f"{title} \x1f {summary}", sources)
             if not ok:
                 continue
             out.append({
@@ -301,7 +304,7 @@ def dedupe(items: list[dict]) -> list[dict]:
                     # prefer the publisher's own link (it has a picture and a real URL)
                     also.append({"source": k["source"], "url": k["url"]})
                     for f in ("url", "source", "image", "img_tried", "summary", "title", "titles", "lang",
-                              "fallback_image"):
+                              "fallback_image", "img_checked"):
                         k[f] = item.get(f, k.get(f))
                 elif not k.get("image") and item.get("image"):
                     k["image"] = item["image"]
@@ -352,6 +355,46 @@ def og_image(url: str) -> str:
             if img.startswith("http"):
                 return img
     return ""
+
+
+def image_usable(url: str) -> str:
+    """Return a URL the browser can actually show on our https site, or '' if it is not usable.
+
+    Checks: https (http is upgraded), the server answers with an image, and it does not forbid
+    embedding on other sites (Cross-Origin-Resource-Policy: same-origin/same-site)."""
+    if not url:
+        return ""
+    if url.startswith("//"):
+        url = "https:" + url
+    if url.startswith("http://"):
+        url = "https://" + url[7:]
+    req = urllib.request.Request(url, headers={"User-Agent": PAGE_UA, "Range": "bytes=0-4095",
+                                               "Accept": "image/avif,image/webp,image/*,*/*;q=0.8"})
+    try:
+        with urllib.request.urlopen(req, timeout=10) as r:
+            ctype = (r.headers.get("Content-Type") or "").lower()
+            corp = (r.headers.get("Cross-Origin-Resource-Policy") or "").lower()
+            head = r.read(16)
+    except Exception:  # noqa: BLE001
+        return ""
+    is_img = ctype.startswith("image/") or head[:3] == b"\xff\xd8\xff" or head[:8] == b"\x89PNG\r\n\x1a\n" \
+        or head[:4] == b"RIFF" or head[:4] == b"GIF8"
+    if not is_img or corp in ("same-origin", "same-site"):
+        return ""
+    return url
+
+
+def verify_images(items: list[dict], limit: int = 200) -> None:
+    todo = [i for i in items if not i.get("img_checked")][:limit]
+    ok = 0
+    for i in todo:
+        i["img_checked"] = True
+        good = image_usable(i.get("image", ""))
+        if not good and i.get("fallback_image") and i.get("fallback_image") != i.get("image"):
+            good = image_usable(i["fallback_image"])
+        i["image"] = good
+        ok += bool(good)
+    print(f"[images] verified {len(todo)}: {ok} usable on the site")
 
 
 def enrich_images(items: list[dict], limit: int = IMAGES_PER_RUN) -> None:
@@ -409,7 +452,7 @@ def main():
     # re-tag old items when keyword lists change
     kept = []
     for i in items:
-        ok, i["topics"], i["places"] = classify(f"{i['title']} {i.get('summary', '')}", sources)
+        ok, i["topics"], i["places"] = classify(f"{i['title']} \x1f {i.get('summary', '')}", sources)
         if ok:
             kept.append(i)
     items = kept
@@ -419,6 +462,7 @@ def main():
     items = items[: cfg["news"]["max_items"]]
     if "--no-images" not in sys.argv:
         enrich_images(items)
+        verify_images(items)
     translate_missing(items, cfg["languages"], cfg["news"]["translate_per_run"])
     store = {"updated": iso(now_utc()), "items": items}
     save_json(NEWS_FILE, store)
