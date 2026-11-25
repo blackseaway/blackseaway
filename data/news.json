@@ -1,31 +1,6 @@
 {
- "updated": "2026-11-25T14:11:31Z",
+ "updated": "2026-11-25T15:02:04Z",
  "items": [
-  {
-   "id": "9eeac677e602",
-   "lang": "bg",
-   "title": "Новата тактика на руснаците в Украйна: бий по жиците",
-   "titles": {
-    "bg": "Новата тактика на руснаците в Украйна: бий по жиците",
-    "en": "The Russians’ new tactic in Ukraine: strike at the power lines",
-    "ro": "Noua tactică a rușilor în Ucraina: lovește cablurile"
-   },
-   "summary": "Непрестанните руски атаки срещу Одеса, целят да откъснат едномилионния град от останалата част на Украйна. Най-голямото пристанище на Украйна и изходна точка за експорта на зърно към останалия свят, отдавна е мишена на руски атаки с дронове и...",
-   "url": "https://www.dnevnik.bg/sviat/voinata_v_ukraina/2026/11/25/4984365_novata_taktika_na_rusnacite_v_ukraina_bii_po_jicite/?ref=rss",
-   "source": "Дневник",
-   "published": "2026-11-25T13:49:00Z",
-   "fetched": "2026-11-25T13:50:37Z",
-   "image": "https://img.dnevnik.bg/shimg/zx350c_4984364.jpg",
-   "fallback_image": "",
-   "topics": [
-    "attacks",
-    "grain",
-    "ports"
-   ],
-   "places": [
-    "odesa"
-   ]
-  },
   {
    "id": "509f87805f08",
    "lang": "bg",
@@ -45,7 +20,8 @@
     "policy",
     "shipping"
    ],
-   "places": []
+   "places": [],
+   "img_checked": true
   },
   {
    "id": "df745bab4fba",
@@ -67,7 +43,8 @@
     "policy"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "092938e90df1",
@@ -83,14 +60,15 @@
    "source": "Dark Footage Official on MSN",
    "published": "2026-11-25T05:15:43Z",
    "fetched": "2026-11-25T13:50:37Z",
-   "image": "http://www.bing.com/th?id=ONUT.6YsPdLrS9Jfm7ot11_AvxA&pid=News",
+   "image": "https://www.bing.com/th?id=ONUT.6YsPdLrS9Jfm7ot11_AvxA&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.6YsPdLrS9Jfm7ot11_AvxA&pid=News",
    "topics": [
     "attacks",
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "9abd69bc3cc4",
@@ -115,7 +93,8 @@
    "places": [
     "constanta"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "c9184e909d96",
@@ -138,7 +117,34 @@
     "energy"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "b6e54f2b244b",
+   "lang": "en",
+   "title": "Hull insurance in Romania rises by more than 50% — Romania Insider",
+   "titles": {
+    "en": "Hull insurance in Romania rises by more than 50% — Romania Insider",
+    "ro": "Asigurările de corp de navă din România cresc cu peste 50% — Romania Insider",
+    "bg": "Застраховките на корпуса в Румъния се увеличават с над 50% — Romania Insider"
+   },
+   "summary": "The cost of hull insurance for vessels operating on the Danube and in the Black Sea waters near Romania has risen by more than 50%, Romania Insider reports.",
+   "url": "https://ua.news/en/dovkolo-svitu/u-rumuniyi-strakhuvannia-korpusiv-suden-podorozhchalo-bilsh-iak-na-50-romania-insider",
+   "source": "UA.NEWS",
+   "published": "2026-11-25T01:52:00Z",
+   "fetched": "2026-11-25T14:58:21Z",
+   "image": "https://cdn-cabinet.ua.news/uploads/images/romania_black_sea_ship_insurance_costs_r_1795593116041.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.kqI8T1jTKR973CLjGEIFjA&pid=News",
+   "topics": [
+    "shipping",
+    "insurance"
+   ],
+   "places": [
+    "danube"
+   ],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "da9dad1a35a6",
@@ -154,71 +160,14 @@
    "source": "China Daily",
    "published": "2026-11-25T01:31:00Z",
    "fetched": "2026-11-25T13:57:52Z",
-   "image": "http://img2.chinadaily.com.cn/images/202611/25/6b063a83e4b03ebf74645d8e.png",
+   "image": "https://img2.chinadaily.com.cn/images/202611/25/6b063a83e4b03ebf74645d8e.png",
    "fallback_image": "http://www.bing.com/th?id=ONUT.XtHU1MqzXskCy8gmaGmb6A&pid=News",
    "topics": [
     "shipping"
    ],
    "places": [],
-   "img_tried": true
-  },
-  {
-   "id": "f5ea43c45d17",
-   "lang": "ro",
-   "title": "Moş Crăciuni şi un urs polar au ieşit dintr-un container eşuat pe plajă în Bulgaria. Decoraţiunile aparţin unei firme din România",
-   "titles": {
-    "ro": "Moş Crăciuni şi un urs polar au ieşit dintr-un container eşuat pe plajă în Bulgaria. Decoraţiunile aparţin unei firme din România",
-    "en": "A number of Father Christmases and a polar bear emerged from a container that had washed up on a beach in Bulgaria. The decorations belong to a company in Romania",
-    "bg": "Дядо Коледа и полярна мечка излязоха от контейнер, изхвърлен на плажа в България. Украшенията принадлежат на фирма от Румъния"
-   },
-   "summary": "Autorităţile bulgare au descoperit marţi figuri de Moş Crăciun în mărime naturală, o statuie de urs polar şi ornamente festive atunci când au deschis un container de transport maritim eşuat pe ţărm lângă Burgas, despre care se crede că provine de pe o navă grecească lovită de drone luna trecută.…",
-   "url": "https://www.digi24.ro/stiri/actualitate/mos-craciuni-si-un-urs-polar-au-iesit-dintr-un-container-esuat-pe-plaja-in-bulgaria-decoratiunile-apartin-unei-firme-din-romania-4051679",
-   "source": "Digi24",
-   "published": "2026-11-24T23:15:00Z",
-   "fetched": "2026-11-25T12:37:24Z",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [
-    "burgas"
-   ],
-   "also": [
-    {
-     "source": "Ziare.com",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMC1SNTN6ZVRqdnhQeGlqNzh3ODMxT19WdkRSY1FBdEluVllYd0xRM21VSjBoZThPLTB2OTFVcHlVdVMxUXo2OHMxOEQyeEw1enRIejdiNDZXY1E5WVgyZmNaZVFuMGpoRnlfaHdJQnFVQ0NnWi13aWJLdDVkSnpSanFXT2xlTXk2X2ozUlVvZnZTSUlGYTI5ZnhVUdIBowFBVV95cUxNZGxzRmptNG5FamwwWm1wNXNheHZEZTdjTDZNRkY0c0JrQXlTN09Zbk5ZUkdMbFJIZkZYSzJUcWpMUXZQSEtLUFpKckVDN3RtXzlWS0ZIZmNQVV9pamRjZ01JazJDMXNkN0FUcXhZbDZUeThnOWxXWVpvTXd4WG1LdDlSdVJZLW9VS2pLcDg5blBfSlFlcFpzU1FUS1F1M3NXVGpv?oc=5"
-    },
-    {
-     "source": "Realitatea.NET",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVnJEdHRseEVGVFV4c25sbWpuaENKX0toT2JYZHlNY191ZFMxLW1qcEhfQ2d6TkFNbU5QaWFySDEtcGVMNllHRVhfQ3gzVURLSG5CSUtVRmdTTTNTZWl2TVc1Z2p2WUplZ083cUc1MlpjdUFoWk5VRnZabDVsak02WjJDZXVCVW44OFFlZk5LRndIRmtNOXl4d3dZY2wzYXBzVXBPMlplRFVXc2dfOEJESm0zUHlOdlZFSlFFLTdmaldpSWtYNF9uU2MxZTNYRjZ3Znp6NU9pQW9JV0RfbUIzbVlPUXVXQlF2NjR5Rw?oc=5"
-    },
-    {
-     "source": "Informat.ro",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORVdFLWdHVWQ2UEJXdVVaN0VDUDZ5cEtqbGpXZzBPN0Q1ZjNySTVZa1V4MFg0UzFoZHVpNnNRSkZOYnJlbTNPbC1FSkl0SWVNaUpSeU5DVUpUeWR2aUlOM0N5OFFJSUUtM1ZlMGJIcXN5M2RYOGU1dGhaay1aNkcwSW5MZkJUcDc5NjlWbzdHYmFwWXNpMExFckRaM3JDaEs4?oc=5"
-    },
-    {
-     "source": "News.ro",
-     "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQVmxHdGs1bEF3VHBkQW02Y3RfeEtNTEg3OHlUcHNfY2VZUFJ4Z3VvV2ZWd3BhTWFGb2NUQjZ2aHBCc0NkZzA4ZnoyMWxVY2htTmF2SnVOaWdNcGxpeFNlY1NuSEFPbFJIdEtocmIwNDVPMjFYa1lQbGFSbG1RaTlFZEJaVlNmc1d3NEZDekNkeElxRmJIWUhWTzc1M2JUME9jYk9KbFZHMWFqT2ZOb2xNU28tSHJqbFJ2YWhaZ2xfTFZNTXlyRGlZVGdOSDFsUFFkUVdGenQ4RnBnNGR4bTI5b1BucTBscGk2dmpkeHBRbkV0eEdWdWJXNVBLbnd5R3NaX3ROdVZtdnVHYlpJb2FBUlNMdV9fS1ByV0VBb2tGem83ajlXWlY0MF9rcU9kZ2ppcThHck1SeEV5RWloaExySUVoUmVBYlYta1E?oc=5"
-    },
-    {
-     "source": "Realitatea.NET",
-     "url": "https://www.realitatea.net/stiri/extern/container-cu-decoratiuni-de-craciun-esuat-pe-o-plaja-la-marea-neagra-ar-proveni-de-pe-o-nava-atacata-cu-drone-3llyhv"
-    },
-    {
-     "source": "Euronews on MSN",
-     "url": "https://www.msn.com/en-my/news/other/christmas-decorations-found-in-washed-up-container-from-ship-hit-by-drones-off-bulgaria-s-black-sea-coast/ar-AA2icENZ"
-    },
-    {
-     "source": "Euronews on MSN",
-     "url": "https://www.msn.com/en-in/news/other/christmas-decorations-found-in-washed-up-container-from-ship-hit-by-drones-off-bulgaria-s-black-sea-coast/ar-AA2icU7w"
-    },
-    {
-     "source": "Euronews on MSN",
-     "url": "https://www.msn.com/en-us/news/other/christmas-decorations-found-in-washed-up-container-from-ship-hit-by-drones-off-bulgaria-s-black-sea-coast/ar-AA2icksh"
-    }
-   ],
-   "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNSUyRjA2JTJGMjI1MjEzOF8yMjUy/MTM4X0NvbnRhaW5lcmUuanBnJmhhc2g9/NDhiNWJjMDBkYzkwODNjNmJiNWU5YmVlYTljZjFhNjk=.jpg",
-   "img_tried": null
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "997a45c7f7a5",
@@ -234,7 +183,7 @@
    "source": "Fakti.bg",
    "published": "2026-11-24T22:12:00Z",
    "fetched": "2026-11-25T13:53:52Z",
-   "image": "https://cdn4.focus.bg/fakti/photos/fb/54a/balgaria-iska-ot-sauznicite-poveche-nabludenie-v-cherno-more-turcia-e-predpazliva-1.webp",
+   "image": "https://www.bing.com/th?id=ONUT.iuUrvpHtURja9kTS8ksUcg&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.iuUrvpHtURja9kTS8ksUcg&pid=News",
    "topics": [
     "policy",
@@ -248,7 +197,8 @@
      "source": "ФАКТИ.БГ",
      "url": "https://fakti.bg/world/1104357-balgaria-iska-ot-sauznicite-poveche-nabludenie-v-cherno-more-turcia-e-predpazliva"
     }
-   ]
+   ],
+   "img_checked": true
   },
   {
    "id": "4d0f9b2192dd",
@@ -272,7 +222,63 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "also": [
+    {
+     "source": "Fakti.bg",
+     "url": "https://fakti.bg/en/world/1104315-bulgarian-meps-call-for-a-joint-response-to-security-threats-in-the-black-sea"
+    }
+   ],
+   "img_checked": true
+  },
+  {
+   "id": "45da90625f87",
+   "lang": "ro",
+   "title": "Generalul Gabriel Oprea: ”190 de atacuri lângă granița României. Nu cerem război, cerem un scut la Marea Neagră”",
+   "titles": {
+    "ro": "Generalul Gabriel Oprea: ”190 de atacuri lângă granița României. Nu cerem război, cerem un scut la Marea Neagră”",
+    "en": "General Gabriel Oprea: “190 attacks near Romania’s border. We are not calling for war; we are calling for a defence shield in the Black Sea”",
+    "bg": "Генерал Габриел Опреа: „190 нападения в близост до границата на Румъния. Не искаме война, искаме защитен щит в Черно море“"
+   },
+   "summary": "Gabriel Oprea și organizațiile UMPMV și PPMP cer Guvernului, MApN și CSAT măsuri urgente pentru apărarea României la Marea Neagră.",
+   "url": "https://www.realitatea.net/stiri/justitie/generalul-gabriel-oprea-190-de-atacuri-langa-granita-romaniei-nu-cerem-razboi-cerem-un-scut-la-marea-neagra-qfn431",
+   "source": "Realitatea.NET",
+   "published": "2026-11-24T18:26:00Z",
+   "fetched": "2026-11-25T14:58:21Z",
+   "image": "https://www.realitatea.net/storage/media/7/2026/08/gabriel-oprea-umpmveu-uxzsoH.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.BjSA5Jp4a_9TpNAv0172rQ&pid=News",
+   "topics": [
+    "policy",
+    "attacks"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "cb761b36bdbe",
+   "lang": "ro",
+   "title": "Cristela Georgescu, dată în judecată. De ce îi cere lichidatorul unei firme din Portul Constanța să returneze 40.000 de lei",
+   "titles": {
+    "ro": "Cristela Georgescu, dată în judecată. De ce îi cere lichidatorul unei firme din Portul Constanța să returneze 40.000 de lei",
+    "en": "Cristela Georgescu is being sued. Why is the liquidator of a company in the Port of Constanța demanding that she return 40,000 lei?",
+    "bg": "Кристела Георгеску е съдена. Защо ликвидаторът на фирма от пристанището в Констанца ѝ иска да върне 40 000 леи"
+   },
+   "summary": "Lichidatorul judiciar al unei societăți comerciale din Portul Constanța a deschis un proces împotriva Cristelei Georgescu, pentru recuperarea unei sume de 40.000 de lei. Banii au fost încasați de PFA- ...",
+   "url": "https://adevarul.ro/stiri-interne/evenimente/cristela-georgescu-data-in-judecata-de-ce-ii-2574390.html",
+   "source": "Adevărul",
+   "published": "2026-11-24T18:24:00Z",
+   "fetched": "2026-11-25T14:58:21Z",
+   "image": "https://cdn.adh.reperio.news/image-3/393c5b06-d8e5-400e-9b65-7ac5ecdc383f/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.UKHFRe5ItYL-HM0mIH1ihw&pid=News",
+   "topics": [
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "f93043e2678c",
@@ -294,7 +300,8 @@
     "attacks"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "b9aa04423000",
@@ -310,7 +317,7 @@
    "source": "Romania Insider",
    "published": "2026-11-24T15:59:00Z",
    "fetched": "2026-11-25T13:57:52Z",
-   "image": "http://www.bing.com/th?id=ONUT.2ITGqTYSuPixqkP7EsomSQ&pid=News",
+   "image": "https://www.bing.com/th?id=ONUT.2ITGqTYSuPixqkP7EsomSQ&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.2ITGqTYSuPixqkP7EsomSQ&pid=News",
    "topics": [
     "shipping",
@@ -320,7 +327,8 @@
    "places": [
     "danube"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "9aba8a8682da",
@@ -345,7 +353,8 @@
     "danube",
     "constanta"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "8037059280a7",
@@ -369,29 +378,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
-  },
-  {
-   "id": "4ee5216029cc",
-   "lang": "en",
-   "title": "Bulgaria invites Turkish companies to invest in the defense sector",
-   "titles": {
-    "en": "Bulgaria invites Turkish companies to invest in the defense sector",
-    "ro": "Bulgaria invită companiile turce să investească în sectorul apărării",
-    "bg": "България кани турски компании да инвестират в отбранителния сектор"
-   },
-   "summary": "Sofia and Ankara also discussed joint measures to protect commercial vessels and underwater infrastructure in the Black Sea ...",
-   "url": "https://fakti.bg/en/bulgaria/1104262-bulgaria-invites-turkish-companies-to-invest-in-the-defense-sector",
-   "source": "Fakti.bg",
-   "published": "2026-11-24T12:49:00Z",
-   "fetched": "2026-11-25T14:08:21Z",
-   "image": "https://cdn4.focus.bg/fakti/photos/fb/0ae/balgaria-kani-turski-kompanii-da-investirat-v-otbranata-1.webp",
-   "fallback_image": "",
-   "topics": [
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "6f7754ac1e77",
@@ -411,7 +399,34 @@
    "topics": [
     "policy"
    ],
-   "places": []
+   "places": [],
+   "img_checked": true
+  },
+  {
+   "id": "bb706641c8f5",
+   "lang": "bg",
+   "title": "Емил Радев: България спешно се нуждае от системи за защита срещу дронове в Черно море",
+   "titles": {
+    "bg": "Емил Радев: България спешно се нуждае от системи за защита срещу дронове в Черно море",
+    "en": "Emil Radev: Bulgaria urgently needs systems to protect against drones in the Black Sea",
+    "ro": "Emil Radev: Bulgaria are nevoie urgentă de sisteme de apărare împotriva dronelor în Marea Neagră"
+   },
+   "summary": "Евродепутатът от ГЕРБ предупреди, че застраховките на търговските кораби са поскъпнали над шест пъти, а тези на танкерите - над 12 пъти ...",
+   "url": "https://taralej.bg/politika/emil-radev-balgariq-speshno-se-nujdae-ot-sistemi-za-zashtita-sreshtu-dronove-v-cherno-more",
+   "source": "taralej",
+   "published": "2026-11-24T08:12:00Z",
+   "fetched": "2026-11-25T14:58:21Z",
+   "image": "https://taralej.bg/static/images/articles/2026/11/24/66724/1280-720-27c69e2a-61e6-4a73-9007-ad0d8866f2ad.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.JjW88snbANf9WQyNHwKomQ&pid=News",
+   "topics": [
+    "attacks",
+    "shipping",
+    "insurance",
+    "energy"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "45cadd6f43fd",
@@ -435,7 +450,31 @@
     "grain"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "59517d025c88",
+   "lang": "ro",
+   "title": "Securitatea maritimă din Marea Neagră, tot mai fragilă: sute de atenționări pentru navigatori",
+   "titles": {
+    "ro": "Securitatea maritimă din Marea Neagră, tot mai fragilă: sute de atenționări pentru navigatori",
+    "en": "Maritime security in the Black Sea is becoming increasingly fragile: hundreds of warnings for seafarers",
+    "bg": "Морската сигурност в Черно море става все по-нестабилна: стотици предупреждения за моряците"
+   },
+   "summary": "Direcția Hidrografică Maritimă a emis 181 de avertismente pentru navigatorii din Marea Neagră. Minele, dronele și bruiajul GPS amplifică riscurile.",
+   "url": "https://www.realitatea.net/stiri/social/securitatea-maritima-din-marea-neagra-tot-mai-fragila-sute-de-atentionari-pentru-navigatori-r0mmv4",
+   "source": "Realitatea.NET",
+   "published": "2026-11-24T04:22:00Z",
+   "fetched": "2026-11-25T14:58:21Z",
+   "image": "https://www.realitatea.net/storage/media/7/2026/10/nava-in-marea-neagra-profimedia-Y0GP21.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.Nr9vZ2WthT8hiLNlr0NzHQ&pid=News",
+   "topics": [
+    "attacks"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "78d255ef606b",
@@ -461,7 +500,8 @@
    "places": [
     "constanta"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "4866bf4712e7",
@@ -477,14 +517,39 @@
    "source": "Tempo.co English",
    "published": "2026-11-24T04:05:00Z",
    "fetched": "2026-11-25T13:57:52Z",
-   "image": "http://www.bing.com/th?id=ONUT.ejFer7i29MHfvERyQQ-aIw&pid=News",
+   "image": "https://www.bing.com/th?id=ONUT.ejFer7i29MHfvERyQQ-aIw&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.ejFer7i29MHfvERyQQ-aIw&pid=News",
    "topics": [
     "attacks",
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "69df95e8f579",
+   "lang": "ro",
+   "title": "Direcţia Hidrografică Maritimă, 181 de avertismente radio pentru navigatorii din Marea Neagră în acest an: Situaţia de securitate s-a deteriorat, pe fondul continuării ...",
+   "titles": {
+    "ro": "Direcţia Hidrografică Maritimă, 181 de avertismente radio pentru navigatorii din Marea Neagră în acest an: Situaţia de securitate s-a deteriorat, pe fondul continuării ...",
+    "en": "The Maritime Hydrographic Directorate has issued 181 radio warnings to Black Sea mariners this year: The security situation has deteriorated, against the backdrop of the continuing ...",
+    "bg": "Морската хидрографска служба, 181 радиопредупреждения за мореплавателите в Черно море през тази година: Ситуацията с безопасността се е влошила на фона на продължаващото..."
+   },
+   "summary": "Direcţia Hidrografică Maritimă, instituţie responsabilă de analizarea securităţii navigaţiei şi de căile de comunicaţii navale, care aparţine Ministerului Apărării Naţionale, prin Forţele Navale, arat ...",
+   "url": "https://www.news.ro/social/directia-hidrografica-maritima-181-avertismente-radio-navigatorii-marea-neagra-acest-an-situatia-securitate-s-deteriorat-fondul-continuarii-conflictului-ucraina-extinderii-riscurilor-militare-1922405024372026111123007514",
+   "source": "News.ro",
+   "published": "2026-11-24T03:49:00Z",
+   "fetched": "2026-11-25T14:58:21Z",
+   "image": "https://i0.1616.ro/media/2/2701/33586/23007514/1/gas-husky-nov.jpg?width=640",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "5245bb87b883",
@@ -507,7 +572,30 @@
     "grain"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "9b3299d49290",
+   "lang": "bg",
+   "title": "Украйна пренася войната далеч отвъд Черно море, Либия поиска обяснения от Киев",
+   "titles": {
+    "bg": "Украйна пренася войната далеч отвъд Черно море, Либия поиска обяснения от Киев"
+   },
+   "summary": "Ударите по руски кораби край Бенгази предизвикаха дипломатически реакции, а западни медии ги определят като безпрецедентно разширяване на конфликта към Средиземноморието ...",
+   "url": "https://clubz.bg/182243",
+   "source": "Клуб 'Z'",
+   "published": "2026-11-24T02:44:00Z",
+   "fetched": "2026-11-25T14:58:21Z",
+   "image": "https://clubz.bg/media/148/merkurii-libia-ap-bta.og.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.t10-Q6eq6B4gWNL382UNhA&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "13688430db8d",
@@ -552,7 +640,8 @@
      "source": "Times of Oman",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdG92VnRrNHo0Y2cxSVNjNmJrcEpBeUktdVhEd1pueWFUV2ZOOUZOSjI1OXZ1bmxIVnpoekwtSk5pY3kzVmZvZ3hnRUdhbzlCNllUWGNCdk1YY0gtT3p1aWc0MjM2RFNGRFVCckZTRHRKRFQ3UUNROXhYSWFNQmd3bWZFamdMSkxuem5DWUZSeVluYnhwd1hmcTdLS2M3dHpjNWVKQl9UVlhhQnFPeDJHN21GVnE3bFI4UVhXamUzTEpZRG8yNnRqSQ?oc=5"
     }
-   ]
+   ],
+   "img_checked": true
   },
   {
    "id": "1034b781559a",
@@ -576,7 +665,34 @@
     "grain"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "7618add704e3",
+   "lang": "en",
+   "title": "Greece is developing an alternative route for Ukrainian grain exports",
+   "titles": {
+    "en": "Greece is developing an alternative route for Ukrainian grain exports"
+   },
+   "summary": "As Russian attacks on Black Sea ports and Danube drought disrupt shipments, Greece is designing a two-way rail corridor via Alexandroupolis and Thessaloniki to bring Ukrainian grain to global markets.",
+   "url": "https://www.msn.com/en-us/news/other/greece-is-developing-an-alternative-route-for-ukrainian-grain-exports/ar-AA2i6hfV",
+   "source": "Ukrainska Pravda on MSN",
+   "published": "2026-11-23T23:32:00Z",
+   "fetched": "2026-11-25T14:58:21Z",
+   "image": "https://www.bing.com/th?id=ONUT.lvidfI2LUd0NUGLicsvkOw&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.lvidfI2LUd0NUGLicsvkOw&pid=News",
+   "topics": [
+    "attacks",
+    "shipping",
+    "grain",
+    "ports"
+   ],
+   "places": [
+    "danube"
+   ],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "bcc2da6b19d3",
@@ -592,14 +708,15 @@
    "source": "The Chosun Ilbo on MSN",
    "published": "2026-11-23T22:33:16Z",
    "fetched": "2026-11-25T13:57:52Z",
-   "image": "http://www.bing.com/th?id=ONUT.MlhVE1jLLSK85-EetkWV6A&pid=News",
+   "image": "https://www.bing.com/th?id=ONUT.MlhVE1jLLSK85-EetkWV6A&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.MlhVE1jLLSK85-EetkWV6A&pid=News",
    "topics": [
     "shipping",
     "grain"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "2929d40bf27f",
@@ -615,14 +732,15 @@
    "source": "The Manila Times on MSN",
    "published": "2026-11-23T19:06:31Z",
    "fetched": "2026-11-25T14:01:16Z",
-   "image": "http://www.bing.com/th?id=ONUT.ucet_zeSfwWN8V14WPhP_w&pid=News",
+   "image": "https://www.bing.com/th?id=ONUT.ucet_zeSfwWN8V14WPhP_w&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.ucet_zeSfwWN8V14WPhP_w&pid=News",
    "topics": [
     "attacks",
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "5262f102aad5",
@@ -645,7 +763,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "2547ad230a96",
@@ -668,7 +787,8 @@
     "energy"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "17de408e3dae",
@@ -690,7 +810,8 @@
    "places": [
     "varna"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "d4ebe19359aa",
@@ -711,7 +832,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "f037043a0cd6",
@@ -738,7 +860,8 @@
      "source": "novinite.com",
      "url": "https://www.novinite.com/view_news.php?id=241759"
     }
-   ]
+   ],
+   "img_checked": true
   },
   {
    "id": "4823f1d6beeb",
@@ -759,7 +882,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "997f20ee3271",
@@ -779,7 +903,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "636084f299fd",
@@ -800,7 +925,8 @@
     "attacks"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "3ead16f96a9e",
@@ -822,7 +948,35 @@
    "places": [
     "constanta"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "8406f1c3c4b8",
+   "lang": "ro",
+   "title": "Premierul Luca Niculescu trage un semnal de alarmă privind securitatea la Marea Neagră",
+   "titles": {
+    "ro": "Premierul Luca Niculescu trage un semnal de alarmă privind securitatea la Marea Neagră"
+   },
+   "summary": "Premierul Luca Niculescu a declarat că războiul declanșat de Rusia în Ucraina a transformat Marea Neagră într-unul dintre principalele puncte fierbinți ale lumii. În acest context, România și partener ...",
+   "url": "https://jurnalul.ro/stiri/observator/luca-niculescu-trage-semnal-alarma-securitate-marea-neagra-1050268.html",
+   "source": "Jurnalul",
+   "published": "2026-11-23T13:30:00Z",
+   "fetched": "2026-11-25T14:58:21Z",
+   "image": "https://jurnalul.ro/thumbs/amp/2026/11/23/luca-niculescu-trage-semnal-alarma-securitate-marea-neagra-19037005.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.CdY96ZCyWOzQBDiWllHCBQ&pid=News",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "Euronews România",
+     "url": "https://www.euronews.ro/articole/premierul-luca-niculescu-prezinta-in-presa-franceza-prioritatile-romaniei-situati"
+    }
+   ],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "0a08be9b0614",
@@ -843,7 +997,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "a029a8c97d61",
@@ -864,7 +1019,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "16a350c3c68a",
@@ -893,7 +1049,8 @@
      "url": "https://www.realitatea.net/stiri/social/fortele-navale-romane-masuri-pentru-cresterea-sigurantei-navigatiei-pe-dunare-si-in-marea-neagra-anuntul-mapn-sqpyvf"
     }
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "a7adbc4aa545",
@@ -926,27 +1083,8 @@
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNnJ5MWVxNmpvMEcyelFQNThZcDBUYlpXdXd6TEIzTnZrUjVCWk9OVWZTMnRYZ29pQnlUR3hpY1VMRzJKTGZRa0Z5ZEEyT3NPNVh2OTBZbWVkWVJUcmFWZjFISGdrNkVwR1dtQWp4LVpqTTg2dFctaHpCc1ZQcHN6NXZIUEU5S2dmV2gzZjVSYW9Qbmh6bkFJY21CRHVDLUdBZTN2STNmX3UybHhTMzNHMlBzNXdHSndZU1ZGSA?oc=5"
     }
    ],
-   "img_tried": true
-  },
-  {
-   "id": "c6fa7cd99fb7",
-   "lang": "en",
-   "title": "Murmansk to Morocco: How Russia’s war is driving the grain trade into the Arctic",
-   "titles": {
-    "en": "Murmansk to Morocco: How Russia’s war is driving the grain trade into the Arctic"
-   },
-   "summary": "As war disrupts the Black Sea and Sea of Azov, Russia is looking north to sustain its agricultural exports. Wheat sailing from Murmansk to Casablanca reveals how conflict is redrawing the geography of ...",
-   "url": "https://www.arctictoday.com/murmansk-to-morocco-how-russias-war-is-driving-the-grain-trade-into-the-arctic/",
-   "source": "arctictoday",
-   "published": "2026-11-23T08:59:00Z",
-   "fetched": "2026-11-25T13:53:52Z",
-   "image": "https://www.arctictoday.com/wp-content/uploads/2026/11/murmansk-harbour-wikipedia-scaled.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.mM6xje8pm49Lcm9TyO150g&pid=News",
-   "topics": [
-    "grain"
-   ],
-   "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "f350a6e77661",
@@ -967,7 +1105,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "284b35f2c017",
@@ -988,7 +1127,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "5b03227ae9f3",
@@ -1008,7 +1148,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "1502d9a425d6",
@@ -1040,7 +1181,8 @@
      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVEtxNXpTMjd0NEo5dGtwb2tUVzN5dnFva3hxeHVyaE1WSUFzaHpUZVhKb3dOeTVsNFJxUWVNZV9NSHp5UXJZcllpUmxfMW5FXzh6Zi1KNWxxNTFqUDYzTDhFaV9CVFEzMXNiMlRnWmh0T2xwR2lubmpJU2N6c1A0eWlsLVk5OG5rdFpQNFVQRVZyd0RmX2g5MUJlRVdjWkl1cm85TEZtTmNfZVRMWTNfRmRQQmVYMWN2QzdYdFpjUHRFU3U3SFNvRmtoMUtrTGpqQlNXeDcxcVMtVnNtX3VtLVFBUEVpSnZuLWV5Vw?oc=5"
     }
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "e5c03eb6942e",
@@ -1063,7 +1205,8 @@
     "energy"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "b1ffc14f206e",
@@ -1084,7 +1227,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "54f9833a5aee",
@@ -1113,9 +1257,10 @@
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeDF4V3dTTFhYNWgyakJkZmtKQm1VY01LYnI4b3ZWeENpQ3ZOdGJwNWJYZ1RXR2NfVWVhZnRrR056NUk3NkdCdHp1ckYyS1kzNG45VEFUTUkyRW1wSmhtZmJqTUdBVWxqcDBoREJNSFUwaTRRRmhtNWhSSlptRlpsOF8zT2ZCOHJ3OEtuZEdWTFotN18wWkUwTWRxWQ?oc=5"
     }
    ],
-   "image": "https://cdn4.focus.bg/fakti/photos/fb/6d3/rusia-saobshti-za-udari-po-pristanishte-i-tovaren-korab-krai-odesa-1.webp",
+   "image": "https://www.bing.com/th?id=ONUT.iG8NUecPXmf0ZqykJ4DYLQ&pid=News",
    "img_tried": true,
-   "fallback_image": "http://www.bing.com/th?id=ONUT.iG8NUecPXmf0ZqykJ4DYLQ&pid=News"
+   "fallback_image": "http://www.bing.com/th?id=ONUT.iG8NUecPXmf0ZqykJ4DYLQ&pid=News",
+   "img_checked": true
   },
   {
    "id": "f6821eeb9310",
@@ -1137,7 +1282,30 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "7a574c17bd2e",
+   "lang": "ro",
+   "title": "Marea Neagră, inclusă în zona cu risc ridicat de securitate maritimă. Ce se întâmplă cu porturile României și rutele comerciale",
+   "titles": {
+    "ro": "Marea Neagră, inclusă în zona cu risc ridicat de securitate maritimă. Ce se întâmplă cu porturile României și rutele comerciale"
+   },
+   "summary": "Marea Neagră, inclusiv zonele maritime din largul coastelor României și Bulgariei, a fost inclusă în categoria regiunilor cu risc ridicat de securitate maritimă, pe fondul intensificării atacurilor cu ...",
+   "url": "https://www.euronews.ro/articole/marea-neagra-inclusa-in-zona-cu-risc-ridicat-de-securitate-maritima-ce-se-intampl",
+   "source": "Euronews România",
+   "published": "2026-11-22T11:01:00Z",
+   "fetched": "2026-11-25T14:58:21Z",
+   "image": "https://www.datocms-assets.com/43475/1723732211-profimedia-marea-neagra-sea-shield-24.jpg?auto=format&fit=max&w=1200",
+   "fallback_image": "",
+   "topics": [
+    "attacks",
+    "ports"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "fefa2e49d59c",
@@ -1160,7 +1328,8 @@
    "places": [
     "odesa"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "37be411bb653",
@@ -1182,7 +1351,8 @@
    "places": [
     "odesa"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "118831047368",
@@ -1203,7 +1373,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "72355b6915f3",
@@ -1224,7 +1395,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "be4b2ca695df",
@@ -1244,7 +1416,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "bebb72d6dfb2",
@@ -1264,7 +1437,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "229921bdaec1",
@@ -1286,7 +1460,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "63f25e991a41",
@@ -1309,7 +1484,8 @@
    "places": [
     "constanta"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "0c7ae8413ddd",
@@ -1329,7 +1505,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "8e0839635873",
@@ -1353,7 +1530,8 @@
     "odesa",
     "danube"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "bb41d8263cd9",
@@ -1367,13 +1545,14 @@
    "source": "Stiri pe surse",
    "published": "2026-11-21T08:16:00Z",
    "fetched": "2026-11-25T14:08:21Z",
-   "image": "http://www.bing.com/th?id=ONUT.yamOF8G3v-G4d1AfaeHGfw&pid=News",
+   "image": "https://www.bing.com/th?id=ONUT.yamOF8G3v-G4d1AfaeHGfw&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.yamOF8G3v-G4d1AfaeHGfw&pid=News",
    "topics": [
     "policy"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "a0a36535e1d2",
@@ -1395,7 +1574,8 @@
    "places": [
     "constanta"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "15afe3da0f2b",
@@ -1415,7 +1595,8 @@
     "policy"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "9552a0d3c3ef",
@@ -1438,7 +1619,8 @@
    "places": [
     "constanta"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "9217c9eb333b",
@@ -1452,7 +1634,7 @@
    "source": "B1TV.ro",
    "published": "2026-11-20T04:37:00Z",
    "fetched": "2026-11-25T13:50:37Z",
-   "image": "http://www.bing.com/th?id=ONUT.L9baRLlpu6XsAOGUgurQTw&pid=News",
+   "image": "https://www.bing.com/th?id=ONUT.L9baRLlpu6XsAOGUgurQTw&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.L9baRLlpu6XsAOGUgurQTw&pid=News",
    "topics": [
     "ports"
@@ -1460,7 +1642,8 @@
    "places": [
     "constanta"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "288d93dac5dc",
@@ -1482,7 +1665,8 @@
    "places": [
     "constanta"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "75df8093563e",
@@ -1503,7 +1687,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "c3901f226173",
@@ -1524,7 +1709,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "c91cd84cafc7",
@@ -1545,7 +1731,72 @@
     "attacks"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "0d75df19496d",
+   "lang": "bg",
+   "title": "Ивайло Мирчев обвини Радев в бездействие за сигурността в Черно море",
+   "titles": {
+    "bg": "Ивайло Мирчев обвини Радев в бездействие за сигурността в Черно море"
+   },
+   "summary": "Съпредседателят на \"Да, България\" Ивайло Мирчев разкритикува премиера Румен Радев за позициите му относно войната в Украйна и сигурността в Черно море, като настоя правителството да представи ...",
+   "url": "https://news.bg/politics/ivaylo-mirchev-obvini-radev-v-bezdeystvie-za-sigurnostta-v-cherno-more.html",
+   "source": "News.bg",
+   "published": "2026-11-19T09:14:00Z",
+   "fetched": "2026-11-25T14:58:21Z",
+   "image": "https://webnews.bg/uploads/images/19/5119/785119/1200x675.jpg?_=1793517537",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.0hpU_EWWXuPny0kJ71MjAg&pid=News",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "d7cbc1a57167",
+   "lang": "bg",
+   "title": "Мирчев поиска КСНС и план за Черно море, атакува позицията на Радев за Русия",
+   "titles": {
+    "bg": "Мирчев поиска КСНС и план за Черно море, атакува позицията на Радев за Русия"
+   },
+   "summary": "Ивайло Мирчев разкритикува президента Румен Радев за липса на стратегия за сигурност в Черно море и поиска свикване на КСНС за морската отбрана.",
+   "url": "https://eurocom.bg/2026/11/19/mirchev-poiska-ksns-i-plan-za-cherno-more-atakuva-pozitsiyata-na-radev-za-rusiya/",
+   "source": "eurocom",
+   "published": "2026-11-19T08:24:00Z",
+   "fetched": "2026-11-25T14:58:21Z",
+   "image": "https://eurocom.bg/wp-content/uploads/2026/11/bgnes-12982364-1600x900.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.NXBjdMWJ65Q6iu3YN0gsoA&pid=News",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "94023f2b930e",
+   "lang": "en",
+   "title": "Turkey Is Not Staying Silent on the Black Sea, Wants an Agreement Before the War Ends",
+   "titles": {
+    "en": "Turkey Is Not Staying Silent on the Black Sea, Wants an Agreement Before the War Ends"
+   },
+   "summary": "Ankara maintains channels with Moscow and Kyiv, but there is still no agreement on protecting commercial vessels ...",
+   "url": "https://fakti.bg/en/world/1102500-turkey-is-not-staying-silent-on-the-black-sea-wants-an-agreement-before-the-war-ends",
+   "source": "Fakti.bg",
+   "published": "2026-11-19T04:42:00Z",
+   "fetched": "2026-11-25T14:58:21Z",
+   "image": "https://www.bing.com/th?id=ONUT.nve7rjWGbdRQ0ZpGAmrlzA&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.nve7rjWGbdRQ0ZpGAmrlzA&pid=News",
+   "topics": [
+    "policy",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "37311daf73bb",
@@ -1567,7 +1818,30 @@
    "places": [
     "constanta"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "0203778511bc",
+   "lang": "en",
+   "title": "19 Filipinos safe after drone attack sinks LPG tanker in Black Sea off Bulgaria",
+   "titles": {
+    "en": "19 Filipinos safe after drone attack sinks LPG tanker in Black Sea off Bulgaria"
+   },
+   "summary": "Nineteen Filipino seafarers rescued from an LPG tanker that sank following a drone attack in the Black Sea off Bulgaria on Tuesday are safe, but two sustained minor injuries, the Philippine Department ...",
+   "url": "https://www.msn.com/en-ae/news/world/19-filipinos-safe-after-drone-attack-sinks-lpg-tanker-in-black-sea-off-bulgaria/ar-AA2hLgLc",
+   "source": "Khaleej Times on MSN",
+   "published": "2026-11-19T02:25:47Z",
+   "fetched": "2026-11-25T14:58:21Z",
+   "image": "https://www.bing.com/th?id=ONUT.MLUZCxFg25WbeZ8VDluF3g&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.MLUZCxFg25WbeZ8VDluF3g&pid=News",
+   "topics": [
+    "attacks",
+    "energy"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "538dd9c5c442",
@@ -1594,7 +1868,8 @@
      "source": "Informaţia Zilei",
      "url": "https://informatia-zilei.ro/doua-camioane-au-ars-in-portul-constanta/"
     }
-   ]
+   ],
+   "img_checked": true
   },
   {
    "id": "eedd0d651543",
@@ -1627,9 +1902,10 @@
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOVREUjhLeElhUjA0aVFpZVNJdTBjcHFYU0RmSWpEMVFmQS15ZlNWRXhQalBOSEJtNnhLQWk4MFZyLWdUdGxPcmRseFUxZFk3TnpZSUpmRnE0bFV2Q3BTLUE3TU1CZ3Y0bTVRTFI4cC1nMmRMVmlWUjhOSjV1LVZkRXBLLV9SUjB4LS1rclN6b1Y3bWtKdlAtVS00VVVQdFVEdzRnTlYzRWQ3ZlFKc0JaMjlGT3lnQkV5SE83M3hIa0JfS3hkdHRzUFBuUng3NVlLMnBDZVpR?oc=5"
     }
    ],
-   "image": "https://pna.gov.ph/_assets/storage/photo-assets/wq35NIywGOJfD1055qSijmp0QSlgwKM6tFfuHtXS.webp",
+   "image": "",
    "img_tried": true,
-   "fallback_image": ""
+   "fallback_image": "",
+   "img_checked": true
   },
   {
    "id": "1cede4c0d04d",
@@ -1643,7 +1919,7 @@
    "source": "Libertatea",
    "published": "2026-11-18T13:08:00Z",
    "fetched": "2026-11-25T13:50:37Z",
-   "image": "http://www.bing.com/th?id=ONUT.xZx3K95JL1urTiFSpNjbyQ&pid=News",
+   "image": "https://www.bing.com/th?id=ONUT.xZx3K95JL1urTiFSpNjbyQ&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.xZx3K95JL1urTiFSpNjbyQ&pid=News",
    "topics": [
     "policy",
@@ -1652,39 +1928,8 @@
     "grain"
    ],
    "places": [],
-   "img_tried": true
-  },
-  {
-   "id": "1684d15a7bdd",
-   "lang": "bg",
-   "title": "Министър Димитър Стоянов: Не е случайно, че никой от съюзниците ни не е казал чии са дроновете",
-   "titles": {
-    "bg": "Министър Димитър Стоянов: Не е случайно, че никой от съюзниците ни не е казал чии са дроновете"
-   },
-   "summary": "България е изпратила на всички свои съюзници и партньори снимки на дроновете от последните атаки срещу товарни кораби в Черно море, потвърди министърът на отбраната Димитър Стоянов. Отговор чии са маш ...",
-   "url": "https://www.eranova.bg/ministar-dimitar-stoyanov-ne-e-sluchayno-che-nikoy-ot-sayuznitsite-ni-ne-e-kazal-chii-sa-dronovete-33112",
-   "source": "eranova",
-   "published": "2026-11-18T13:00:00Z",
-   "fetched": "2026-11-25T12:37:24Z",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "also": [
-    {
-     "source": "Bgonair",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTFlXZkZ3b3pSdVdjYXVHNnp3WkhmaWdqOTViNllKdVNpRWZVR0ZsYkNqSVAzeVM2ZUpaeEZqdUczcFNqRENpMkFRbml1STA1LWwza0RaX0RIWHdOMGt6Z0NUd29XTFhSbDh3U1VEaEVhLWZlU3VPc25CRVotcUcwUkY0QWhydjRTY2EwUWlDbnFJWWJjU3p3VW1QZHJyQmZyeVlMQ2dnNnZXV3ZBT2lmQV96QjEzRE5WaVppSk5XbmNVTUZPd01QMUZPOVdQZEE0eFZjTjZGbERRdw?oc=5"
-    },
-    {
-     "source": "Chernomore",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUJzajJlT2NQeHVTX1lXWE5PRkJIbVlPb1A5cTVDTmM1ZXprVFh3QjIxZjloX3pRb213eXdGTGlDTm00dU56RXE3Yks4dkpaSU5vM2p6VDQ3RGdDemRCZHpleTExVi14UjdMTERsdExMa1k3NUd2WkdkREhGTW5xaEw3Z1llX2xxWFl4QXc0dmdLdXRvSU5PN3FMOFZNLVRBcDNrOVZWdkN3OXJ5MEM1X2FB?oc=5"
-    }
-   ],
-   "image": "http://www.bing.com/th?id=ONUT.2yqUYW04xUGUnzmHoHMlPg&pid=News",
    "img_tried": true,
-   "fallback_image": "http://www.bing.com/th?id=ONUT.2yqUYW04xUGUnzmHoHMlPg&pid=News"
+   "img_checked": true
   },
   {
    "id": "9fb816520187",
@@ -1706,7 +1951,8 @@
     "energy"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "c3170956fbd8",
@@ -1727,7 +1973,8 @@
     "attacks"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "8fe70952c281",
@@ -1751,7 +1998,8 @@
    "places": [
     "constanta"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "4f714fd21127",
@@ -1772,7 +2020,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "bf54d0fe6773",
@@ -1786,7 +2035,7 @@
    "source": "atacdeconstanta",
    "published": "2026-11-18T03:54:00Z",
    "fetched": "2026-11-25T13:53:52Z",
-   "image": "http://www.bing.com/th?id=ONUT.yKhw9XzJTaxZmxJr1o1T2Q&pid=News",
+   "image": "https://www.bing.com/th?id=ONUT.yKhw9XzJTaxZmxJr1o1T2Q&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.yKhw9XzJTaxZmxJr1o1T2Q&pid=News",
    "topics": [
     "policy",
@@ -1796,31 +2045,8 @@
    "places": [
     "constanta"
    ],
-   "img_tried": true
-  },
-  {
-   "id": "e659922d9373",
-   "lang": "en",
-   "title": "'The enemy does not stop' — Russia repeatedly strikes central Odesa, kills 4, injures 9",
-   "titles": {
-    "en": "'The enemy does not stop' — Russia repeatedly strikes central Odesa, kills 4, injures 9"
-   },
-   "summary": "A Russian attack on the city center of Odesa, a major port city in southern Ukraine, killed three people and injured seven others on Nov. 18, Odesa Oblast Governor Oleh Kiper said.",
-   "url": "https://www.yahoo.com/news/world/articles/russia-strikes-central-odesa-kills-102411316.html",
-   "source": "Yahoo",
-   "published": "2026-11-18T02:24:00Z",
-   "fetched": "2026-11-25T13:53:52Z",
-   "image": "https://s.yimg.com/lo/mysterio/api/7e6afa371abe77ccdf1a6a9eafbf7d74dd022e44ca94967384127753995162da/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkyiv_independent_articles_496%2F8acc054c02db914006c6d62a8058f41c.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.OywIYBU0kkm4ytoewwW5UA&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "ports"
-   ],
-   "places": [
-    "odesa"
-   ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "65238ff528cc",
@@ -1840,7 +2066,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "aaa6ba0e5c3f",
@@ -1854,14 +2081,15 @@
    "source": "bTV Новините",
    "published": "2026-11-18T00:45:00Z",
    "fetched": "2026-11-25T13:53:52Z",
-   "image": "http://www.bing.com/th?id=ONUT.nDbn6Xd1Qhyi9JPASbCBVg&pid=News",
+   "image": "https://www.bing.com/th?id=ONUT.nDbn6Xd1Qhyi9JPASbCBVg&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.nDbn6Xd1Qhyi9JPASbCBVg&pid=News",
    "topics": [
     "policy",
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "49edd997dcfb",
@@ -1889,29 +2117,8 @@
      "url": "https://www.flagman.bg/article/394425"
     }
    ],
-   "img_tried": true
-  },
-  {
-   "id": "8b445477ddc6",
-   "lang": "en",
-   "title": "Ukraine’s grain harvest could halve to 30 million tonnes in 2027 as exports falter",
-   "titles": {
-    "en": "Ukraine’s grain harvest could halve to 30 million tonnes in 2027 as exports falter"
-   },
-   "summary": "Ukraine's grain harvest could halve to 30 million tonnes in 2027 as blocked Black Sea ports, high logistics costs and falling exports hit farmers.",
-   "url": "https://www.thehindubusinessline.com/economy/agri-business/ukraines-grain-harvest-could-halve-to-30-million-tonnes-in-2027-as-exports-falter/article71714317.ece",
-   "source": "The Hindu BusinessLine",
-   "published": "2026-11-17T22:06:00Z",
-   "fetched": "2026-11-25T13:53:52Z",
-   "image": "https://bl-i.thgim.com/public/incoming/9w4iu1/article71714327.ece/alternates/LANDSCAPE_1200/2026-11-17T161757Z_1173536320_RC20RMA263X4_RTRMADP_3_UKRAINE-CRISIS-GRAINS.JPG",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.kkNaXhS5QQJ18cuLzCRv8A&pid=News",
-   "topics": [
-    "grain",
-    "ports",
-    "prices"
-   ],
-   "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "ffea5ed859f9",
@@ -1933,35 +2140,8 @@
     "energy"
    ],
    "places": [],
-   "img_tried": true
-  },
-  {
-   "id": "5ed5c5149891",
-   "lang": "en",
-   "title": "Ukraine says Russian strikes kill four in Odesa",
-   "titles": {
-    "en": "Ukraine says Russian strikes kill four in Odesa"
-   },
-   "summary": "Ukraine says Russian strikes kill four in Odesa historic centre, with 13 casualties reported in attacks on first responders. Read more at straitstimes.com.",
-   "url": "https://www.straitstimes.com/world/europe/ukraine-says-russian-strikes-kill-four-in-odesa",
-   "source": "The Straits Times",
-   "published": "2026-11-17T16:10:00Z",
-   "fetched": "2026-11-25T13:57:52Z",
-   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3339599e84bc7c8c3b4a46cf730438a94d2fedbff0cf02cd600e8ad25b1da549?t=og",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.FdfJAVlTrgDccDCMYqqTQQ&pid=News",
-   "topics": [
-    "attacks"
-   ],
-   "places": [
-    "odesa"
-   ],
    "img_tried": true,
-   "also": [
-    {
-     "source": "Yahoo",
-     "url": "https://www.yahoo.com/news/articles/russian-attacks-ukrainian-city-odesa-104147639.html"
-    }
-   ]
+   "img_checked": true
   },
   {
    "id": "90f381e31e51",
@@ -1984,7 +2164,8 @@
     "ports"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "9c47d1626dca",
@@ -2004,7 +2185,30 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "8a7ac417e22a",
+   "lang": "bg",
+   "title": "За 2 дни 2 потопени кораба в българските води на Черно море, спасиха 19 филипински моряци (Обзор)",
+   "titles": {
+    "bg": "За 2 дни 2 потопени кораба в българските води на Черно море, спасиха 19 филипински моряци (Обзор)"
+   },
+   "summary": "Капитанът съобщи за 4 удара, но не уточнява дали са от дронове За по-малко от две денонощия втори екипаж моряци бе спасен от български военни, след като корабът му бе ударен и потопен в българския уча ...",
+   "url": "https://www.24chasa.bg/bulgaria/article/23949060",
+   "source": "24 Часа",
+   "published": "2026-11-17T15:00:00Z",
+   "fetched": "2026-11-25T14:58:21Z",
+   "image": "https://cache1.24chasa.bg/Images/Cache/111/IMAGE_23949111_1200_0.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.giN4s_l6VL0pC9oEeR-qFg&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "49117e8e35ae",
@@ -2018,7 +2222,7 @@
    "source": "bTV Новините",
    "published": "2026-11-17T11:36:00Z",
    "fetched": "2026-11-25T13:50:37Z",
-   "image": "http://www.bing.com/th?id=ONUT.CdMkXFtMYS4A-N5DuLofDw&pid=News",
+   "image": "https://www.bing.com/th?id=ONUT.CdMkXFtMYS4A-N5DuLofDw&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.CdMkXFtMYS4A-N5DuLofDw&pid=News",
    "topics": [
     "shipping",
@@ -2026,7 +2230,8 @@
     "ports"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "f70ba1283c0b",
@@ -2058,7 +2263,8 @@
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMDBWYmlHT2lwcHZnUThHbXAwM3RLRG9pRjVuamx1clBleWZER2dfLWZZV09OVlZuY2xTZlYxUHdXdTY1Q0ZpdFNiY1hGN0pITWg1RW5NOV9PUFhpTmlva0hWYXo4QzROYmpSZDVZakx3cEhXSDhIUExkR05qTmlob0x5U1F4Nlh1QzhvS2Y0Vkk1ZnA4T19LRkJacTFpXzdYVTMwSWZzYjc5amNqa1l2ekEtTEN4TWY5UjgzZ3JPZEsxR0hmT2RhNUhB?oc=5"
     }
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "6d87416935aa",
@@ -2072,7 +2278,7 @@
    "source": "Mediapool.bg",
    "published": "2026-11-17T10:31:00Z",
    "fetched": "2026-11-25T13:50:37Z",
-   "image": "https://www.mediapool.bg/bulgaria/poreden-korab-be-udaren-ot-dronove-i-potana-v-cherno-more-krai-bulgaria-ekipazhat-e-spasen-obnovena/social-image.jpg/",
+   "image": "https://www.bing.com/th?id=ONUT.JN-_tlPDFI3xXkK_jx70OA&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.JN-_tlPDFI3xXkK_jx70OA&pid=News",
    "topics": [
     "attacks",
@@ -2081,7 +2287,8 @@
    "places": [
     "varna"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "627f45271e05",
@@ -2101,7 +2308,8 @@
     "policy"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "e8818783a289",
@@ -2125,7 +2333,8 @@
    "places": [
     "varna"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "3cd82a4b804b",
@@ -2146,7 +2355,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "9086c87ba887",
@@ -2160,14 +2370,15 @@
    "source": "Seatrade Maritime",
    "published": "2026-11-17T06:08:00Z",
    "fetched": "2026-11-25T13:50:37Z",
-   "image": "http://www.bing.com/th?id=ONUT.6EHkT9rUtUyDQbb6KpFYvw&pid=News",
+   "image": "https://www.bing.com/th?id=ONUT.6EHkT9rUtUyDQbb6KpFYvw&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.6EHkT9rUtUyDQbb6KpFYvw&pid=News",
    "topics": [
     "attacks",
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "34040f107bb9",
@@ -2187,7 +2398,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "749d14ebda59",
@@ -2201,13 +2413,14 @@
    "source": "Mediapool",
    "published": "2026-11-17T04:52:00Z",
    "fetched": "2026-11-25T13:50:37Z",
-   "image": "https://www.mediapool.bg/analizi-i-komentari/kolko-oshte-koraba-tryabva-da-potanat-za-da-zapochnem-da-zashtitavame-cherno-more/social-image.jpg/",
+   "image": "https://www.bing.com/th?id=ONUT.l0IjO1Y41toGM3Nrj08oow&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.l0IjO1Y41toGM3Nrj08oow&pid=News",
    "topics": [
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "430ffef480af",
@@ -2237,9 +2450,14 @@
     {
      "source": "Economica.net",
      "url": "https://www.economica.net/alerta-marea-neagra-o-nava-cisterna-incarcata-cu-propan-care-trebuia-sa-ajunga-in-portul-midia-din-romania-s-a-scufundat-langa-bulgaria_996196.html"
+    },
+    {
+     "source": "Newsweek Romania",
+     "url": "https://newsweek.ro/actualitate/alerta-pe-marea-neagra-o-nava-cu-propan-care-se-indrepta-spre-navodari-s-a-scufundat-dupa-un-atac-cu-drone"
     }
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "bba1968e1055",
@@ -2262,7 +2480,14 @@
     "ports"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "also": [
+    {
+     "source": "Cotidianul",
+     "url": "https://www.cotidianul.ro/nava-care-se-indrepta-spre-portul-midia-scufundata-in-marea-neagra-bulgaria-a-trimis-avioane-su-25-pentru-salvarea-echipajului/"
+    }
+   ],
+   "img_checked": true
   },
   {
    "id": "c98ab364bad3",
@@ -2276,7 +2501,7 @@
    "source": "Tribune.bg",
    "published": "2026-11-17T03:16:00Z",
    "fetched": "2026-11-25T13:53:52Z",
-   "image": "http://www.bing.com/th?id=ONUT.oIlGgFl0iV29dcw7YcbBqw&pid=News",
+   "image": "https://www.bing.com/th?id=ONUT.oIlGgFl0iV29dcw7YcbBqw&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.oIlGgFl0iV29dcw7YcbBqw&pid=News",
    "topics": [
     "attacks",
@@ -2284,7 +2509,8 @@
     "energy"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "8433e6fc7ce5",
@@ -2308,7 +2534,8 @@
    "places": [
     "danube"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "46fdc045436d",
@@ -2330,7 +2557,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "1d832c0707b8",
@@ -2344,7 +2572,7 @@
    "source": "Fakti.bg",
    "published": "2026-11-17T00:38:00Z",
    "fetched": "2026-11-25T13:50:37Z",
-   "image": "https://cdn4.focus.bg/fakti/photos/fb/c25/zastrahovkite-na-korabite-v-cherno-more-stigat-do-10-1.webp",
+   "image": "https://www.bing.com/th?id=ONUT.m8NkuS_8rpaCRId38NWXGg&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.m8NkuS_8rpaCRId38NWXGg&pid=News",
    "topics": [
     "attacks",
@@ -2353,7 +2581,8 @@
     "prices"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "c1235a4529c7",
@@ -2367,7 +2596,7 @@
    "source": "Труд",
    "published": "2026-11-17T00:12:00Z",
    "fetched": "2026-11-25T13:57:52Z",
-   "image": "http://www.bing.com/th?id=ONUT.9xeAthlCA5BgD-0XwbAJdQ&pid=News",
+   "image": "https://www.bing.com/th?id=ONUT.9xeAthlCA5BgD-0XwbAJdQ&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.9xeAthlCA5BgD-0XwbAJdQ&pid=News",
    "topics": [
     "shipping"
@@ -2375,7 +2604,8 @@
    "places": [
     "varna"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "315142aa1fe8",
@@ -2396,7 +2626,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "1e8844df8409",
@@ -2433,7 +2664,8 @@
      "url": "https://www.msn.com/en-gb/news/world/lpg-tanker-that-sank-off-bulgaria-on-tuesday-was-hit-by-projectiles-official-says/ar-AA2hHnd2"
     }
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "8baf6d072249",
@@ -2457,7 +2689,30 @@
     "kerch",
     "crimea"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "5fbd7042b64f",
+   "lang": "en",
+   "title": "EU accelerates cross-regional transport and defence as maritime risks surge",
+   "titles": {
+    "en": "EU accelerates cross-regional transport and defence as maritime risks surge"
+   },
+   "summary": "As Black Sea security deteriorates, the EU pledges €50m for a Maritime Security Hub. Drone attacks and hybrid threats dominate regional challenges.",
+   "url": "https://www.brusselstimes.com/eu-affairs/2410901/eu-accelerates-cross-regional-transport-and-defence-as-maritime-risks-surge/",
+   "source": "The Brussels Times",
+   "published": "2026-11-16T16:00:00Z",
+   "fetched": "2026-11-25T14:58:21Z",
+   "image": "https://api.brusselstimes.com/wp-content/uploads/2026/11/ead9995a-6omcvhppcuu-1024x681.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.Dbsnkl60qnICivaYnqQTJA&pid=News",
+   "topics": [
+    "policy",
+    "attacks"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "e89e429b1a5c",
@@ -2471,14 +2726,15 @@
    "source": "Fakti.bg",
    "published": "2026-11-16T11:23:00Z",
    "fetched": "2026-11-25T13:53:52Z",
-   "image": "https://cdn4.focus.bg/fakti/photos/fb/5b5/oshte-edin-potanal-korab-v-cherno-more-ot-ekipaja-govorat-za-udar-s-dronove-1.webp",
+   "image": "https://www.bing.com/th?id=ONUT.VnORJWTyGfs2vFgIYZGVPQ&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.VnORJWTyGfs2vFgIYZGVPQ&pid=News",
    "topics": [
     "attacks",
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "26ef6a3caaba",
@@ -2507,7 +2763,8 @@
      "url": "https://www.radioimpuls.ro/o-nava-care-transporta-gaze-naturale-de-la-alexandria-catre-portul-romanesc-midia-s-a-scufundat-in-marea-neagra-ce-s-a-intamplat-cu-cei-19-membri-ai-echipajului-20550873"
     }
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "840aa1207022",
@@ -2529,7 +2786,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "03c4fd725563",
@@ -2543,7 +2801,7 @@
    "source": "The Maritime Executive",
    "published": "2026-11-16T07:22:00Z",
    "fetched": "2026-11-25T14:01:16Z",
-   "image": "http://www.bing.com/th?id=ONUT.e1qPJq4EzHMbEdNjyKdz7Q&pid=News",
+   "image": "https://www.bing.com/th?id=ONUT.e1qPJq4EzHMbEdNjyKdz7Q&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.mJBPdnDf_tOPYstjMk7eGQ&pid=News",
    "topics": [
     "attacks",
@@ -2555,7 +2813,8 @@
      "source": "The Kyiv Independent on MSN",
      "url": "https://www.msn.com/en-us/news/other/cargo-ship-sinks-in-bulgarias-black-sea-after-reported-drone-attack-all-12-crew-rescued/ar-AA2hz4GB"
     }
-   ]
+   ],
+   "img_checked": true
   },
   {
    "id": "eea5b1e25f1f",
@@ -2580,7 +2839,8 @@
    "places": [
     "novorossiysk"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "b02b2f7b3fdd",
@@ -2606,7 +2866,8 @@
      "source": "B1TV.ro",
      "url": "https://www.b1tv.ro/eveniment/operatiune-de-salvare-in-marea-neagra-ce-nava-s-a-scufundat-1750383.html"
     }
-   ]
+   ],
+   "img_checked": true
   },
   {
    "id": "9fee900c0835",
@@ -2620,13 +2881,14 @@
    "source": "Bulgaria ON AIR",
    "published": "2026-11-16T04:06:00Z",
    "fetched": "2026-11-25T13:57:52Z",
-   "image": "http://www.bing.com/th?id=ONUT.aGrKU5GOFPkr9gM9it97og&pid=News",
+   "image": "https://www.bing.com/th?id=ONUT.aGrKU5GOFPkr9gM9it97og&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.aGrKU5GOFPkr9gM9it97og&pid=News",
    "topics": [
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "632038ca9d1d",
@@ -2649,7 +2911,8 @@
     "grain"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "dd371b53d330",
@@ -2663,7 +2926,7 @@
    "source": "SeeNews",
    "published": "2026-11-16T02:46:00Z",
    "fetched": "2026-11-25T13:53:52Z",
-   "image": "http://www.bing.com/th?id=ONUT.-yj2g8K2O-D7OjehB8vEdw&pid=News",
+   "image": "https://www.bing.com/th?id=ONUT.-yj2g8K2O-D7OjehB8vEdw&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.-yj2g8K2O-D7OjehB8vEdw&pid=News",
    "topics": [
     "attacks",
@@ -2672,7 +2935,8 @@
    "places": [
     "danube"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "a7290a024556",
@@ -2695,7 +2959,32 @@
    "places": [
     "mangalia"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "3fa7232ea78d",
+   "lang": "ro",
+   "title": "Securitatea la Marea Neagră, discutată la Bruxelles, după incidentele cu drone în urma cărora sectorul maritim Sulina – Sfântu Gheorghe a fost declarat periculos pentru ...",
+   "titles": {
+    "ro": "Securitatea la Marea Neagră, discutată la Bruxelles, după incidentele cu drone în urma cărora sectorul maritim Sulina – Sfântu Gheorghe a fost declarat periculos pentru ..."
+   },
+   "summary": "Din cauza atacurilor repetate asupra transportului comercial în Marea Neagră, de care suspectată este Rusia, ministrul Apărării, Ștefan-Radu Oprea va solicita, la Bruxelles, garantarea libertăţii de n ...",
+   "url": "https://www.radioconstanta.ro/2026/11/16/securitatea-la-marea-neagra-discutata-la-bruxelles-dupa-incidentele-cu-drone-in-urma-carora-sectorul-maritim-sulina-sfantu-gheorghe-a-fost-declarat-periculos-pentru-navigatie/",
+   "source": "radioconstanta",
+   "published": "2026-11-16T00:41:00Z",
+   "fetched": "2026-11-25T14:58:21Z",
+   "image": "https://www.radioconstanta.ro/wp-content/uploads/2026/11/FOTO-PE-FUNDAL-52-2.png",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.odYaeikXaJE6YsQ7lEwNZA&pid=News",
+   "topics": [
+    "policy",
+    "attacks"
+   ],
+   "places": [
+    "danube"
+   ],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "e8a11bb019ee",
@@ -2715,7 +3004,29 @@
     "insurance"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "eace8f06f08c",
+   "lang": "en",
+   "title": "Black Sea Security Brings Ministers Together in Brussels",
+   "titles": {
+    "en": "Black Sea Security Brings Ministers Together in Brussels"
+   },
+   "summary": "The EU, Ukraine, Türkiye, Moldova and countries from the Caucasus and Central Asia discuss maritime security and transport links ...",
+   "url": "https://fakti.bg/en/world/1101312-black-sea-security-brings-ministers-together-in-brussels",
+   "source": "Fakti.bg",
+   "published": "2026-11-15T23:50:00Z",
+   "fetched": "2026-11-25T14:58:21Z",
+   "image": "https://www.bing.com/th?id=ONUT.ajOgyEejcgJ9RE_kNQkAsg&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.ajOgyEejcgJ9RE_kNQkAsg&pid=News",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "33ff162c33b1",
@@ -2738,7 +3049,8 @@
    "places": [
     "varna"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "0153b65f3b42",
@@ -2760,7 +3072,14 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "also": [
+    {
+     "source": "The Kansas City Star",
+     "url": "https://www.kansascity.com/news/nation-world/world/article318113727.html"
+    }
+   ],
+   "img_checked": true
   },
   {
    "id": "c6629455dbf2",
@@ -2781,7 +3100,31 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "121c120bb445",
+   "lang": "ro",
+   "title": "EURONEWS: Marea Neagră: trei nave comerciale au fost lovite de drone în largul coastelor României",
+   "titles": {
+    "ro": "EURONEWS: Marea Neagră: trei nave comerciale au fost lovite de drone în largul coastelor României"
+   },
+   "summary": "„În lipsa unui acord scris cu RADOR, puteţi prelua maxim 500 de caractere dintr-un text, fără a depăşi jumătate din articolul sau ştirea respectivă. În acest caz, obligatoriu, trebuie citată sursa ...",
+   "url": "https://www.rador.ro/2026/11/16/euronews-marea-neagra-trei-nave-comerciale-au-fost-lovite-de-drone-in-largul-coastelor-romaniei/",
+   "source": "Agenția de presă Rador",
+   "published": "2026-11-15T17:43:00Z",
+   "fetched": "2026-11-25T14:58:21Z",
+   "image": "https://www.rador.ro/wp-content/uploads/2025/09/fortele-navale-salupa-militara-marea-neagra-agerpres_18518939.jpeg",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "e298de16e014",
@@ -2795,7 +3138,7 @@
    "source": "Outlook India",
    "published": "2026-11-15T13:14:00Z",
    "fetched": "2026-11-25T14:08:21Z",
-   "image": "http://www.bing.com/th?id=ONUT.wnSDC-H1deIL34idgIHdiw&pid=News",
+   "image": "https://www.bing.com/th?id=ONUT.wnSDC-H1deIL34idgIHdiw&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.wnSDC-H1deIL34idgIHdiw&pid=News",
    "topics": [
     "policy",
@@ -2803,7 +3146,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "586c9b1e3357",
@@ -2825,7 +3169,39 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "9813bdb1acf3",
+   "lang": "ro",
+   "title": "Luca Niculescu, după atacul cu drone în apele teritoriale ale României: Încă o dată, securitatea maritimă în Marea Neagră a fost pusă în pericol",
+   "titles": {
+    "ro": "Luca Niculescu, după atacul cu drone în apele teritoriale ale României: Încă o dată, securitatea maritimă în Marea Neagră a fost pusă în pericol"
+   },
+   "summary": "Premierul Luca Niculescu afirmă că securitatea maritimă în Marea Neagră a fost pusă în pericol încă o dată, după ce trei nave comerciale au fost lovite de drone, în largul localităţii Sulina.",
+   "url": "https://www.rfi.fr/ro/rom%C3%A2nia/20261115-luca-niculescu-dup%C4%83-atacul-cu-drone-%C3%AEn-apele-teritoriale-ale-rom%C3%A2niei-%C3%AEnc%C4%83-o-dat%C4%83-securitatea-maritim%C4%83-%C3%AEn-marea-neagr%C4%83-a-fost-pus%C4%83-%C3%AEn-pericol",
+   "source": "Radio France Internationale",
+   "published": "2026-11-15T05:26:00Z",
+   "fetched": "2026-11-25T14:58:21Z",
+   "image": "https://s.rfi.fr/media/display/778b190c-d686-11f1-9db0-d18c5759e759/w:1280/p:16x9/luca-2.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.2WsUKPKCwfNVehtgikBwaA&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [
+    "danube"
+   ],
+   "also": [
+    {
+     "source": "Ziare.com",
+     "url": "https://ziare.com/marea-neagra/pericol-securitate-luca-niculescu-2047820"
+    }
+   ],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "d37e124582ff",
@@ -2848,7 +3224,34 @@
    "places": [
     "danube"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "bcd7f4a74a32",
+   "lang": "ro",
+   "title": "Alertă în Marea Neagră. Trei nave comerciale au fost lovite de drone lângă Sulina. Zonă declarată periculoasă",
+   "titles": {
+    "ro": "Alertă în Marea Neagră. Trei nave comerciale au fost lovite de drone lângă Sulina. Zonă declarată periculoasă"
+   },
+   "summary": "Prima navă lovită de drone a fost petrolierul EVIA PETROL V. Vasul, sub pavilion grecesc, a fost atacat în jurul orei 21:10. Incidentul s-a produs la doar patru mile marine de Sulina, în direcția ...",
+   "url": "https://psnews.ro/alerta-in-marea-neagra-trei-nave-comerciale-au-fost-lovite-de-drone-langa-sulina-zona-declarata-periculoasa/",
+   "source": "PS News",
+   "published": "2026-11-15T01:30:00Z",
+   "fetched": "2026-11-25T14:58:21Z",
+   "image": "https://psnews.ro/wp-content/uploads/2026/11/nava-atacata-Sursa-foto-MAI.png",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.9yJEDU0Xw1U0HSlXtcrp4A&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping",
+    "energy"
+   ],
+   "places": [
+    "danube"
+   ],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "57f06ebba4fa",
@@ -2883,7 +3286,8 @@
      "url": "https://www.nbcnews.com/world/europe/three-ships-struck-drones-black-sea-romanian-shipping-canal-rcna609077"
     }
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "95a712d33560",
@@ -2904,7 +3308,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "c42680b9579c",
@@ -2927,7 +3332,8 @@
    "places": [
     "danube"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "fdae1ad37b3b",
@@ -2948,7 +3354,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "ea32c937508b",
@@ -2971,7 +3378,8 @@
    "places": [
     "danube"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "03bcdef8fefa",
@@ -2992,7 +3400,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "592a8818c3a4",
@@ -3006,7 +3415,7 @@
    "source": "PROFIT.ro",
    "published": "2026-11-14T08:28:00Z",
    "fetched": "2026-11-25T13:53:52Z",
-   "image": "http://www.bing.com/th?id=ONUT.ALuxxjmJJfj3JvbX9fEzJg&pid=News",
+   "image": "https://www.bing.com/th?id=ONUT.ALuxxjmJJfj3JvbX9fEzJg&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.ALuxxjmJJfj3JvbX9fEzJg&pid=News",
    "topics": [
     "policy",
@@ -3014,7 +3423,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "861d2a009df9",
@@ -3035,7 +3445,8 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "668ab4071447",
@@ -3061,7 +3472,31 @@
      "source": "PS News",
      "url": "https://psnews.ro/continua-atacurile-din-marea-neagra-o-nava-comerciala-a-fost-lovita-de-o-drona-langa-sfantu-gheorghe/"
     }
-   ]
+   ],
+   "img_checked": true
+  },
+  {
+   "id": "ebe777c17809",
+   "lang": "ro",
+   "title": "Marea Neagră este cea mai periculoasă rută maritimă în 2026. Nicușor Dan: „A fost pomenită ca risc de securitate pentru Europa”",
+   "titles": {
+    "ro": "Marea Neagră este cea mai periculoasă rută maritimă în 2026. Nicușor Dan: „A fost pomenită ca risc de securitate pentru Europa”"
+   },
+   "summary": "Marea Neagră a devenit, în 2026, cea mai periculoasă zonă maritimă din lume, depășind Strâmtoarea Ormuz în ceea ce privește numărul atacurilor asupra navelor comerciale și victimele înregistrate. O se ...",
+   "url": "https://www.digi24.ro/stiri/externe/marea-neagra-este-cea-mai-periculoasa-ruta-maritima-in-2026-romania-tot-mai-expusa-atacurilor-din-apropierea-granitelor-nato-wsj-4033499",
+   "source": "Digi24",
+   "published": "2026-11-13T00:23:00Z",
+   "fetched": "2026-11-25T14:58:21Z",
+   "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMSUyRjEyJTJGMzA2NTg5MV8zMDY1/ODkxX0Zyb250aWVyZWxlLWRlLWxhLU1h/cmVhLU5lYWdyYV8tRm90by1Qcm9maW1l/ZGlhLmpwZyZ3PTEyMDAmaD02MzAmemM9/MSZoYXNoPWY1NGU4ZTlhYmZkNGE2YjZlNzFkZDY5MDVmNDRmOGQ0.thumb.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.Sv1xj9El9TyMRlH6qdbJag&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "25786bb6a66d",
@@ -3075,14 +3510,37 @@
    "source": "The Wall Street Journal on MSN",
    "published": "2026-11-12T03:55:00Z",
    "fetched": "2026-11-25T13:50:37Z",
-   "image": "http://www.bing.com/th?id=ONUT.z0WM1nEwwkGoL1siqv6qKw&pid=News",
+   "image": "https://www.bing.com/th?id=ONUT.z0WM1nEwwkGoL1siqv6qKw&pid=News",
    "fallback_image": "http://www.bing.com/th?id=ONUT.z0WM1nEwwkGoL1siqv6qKw&pid=News",
    "topics": [
     "attacks",
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "5b3f49a7d730",
+   "lang": "ro",
+   "title": "WSJ: Marea Neagră a devenit cea mai periculoasă rută maritimă din lume. Peste 300 de atacuri și zeci de marinari morți",
+   "titles": {
+    "ro": "WSJ: Marea Neagră a devenit cea mai periculoasă rută maritimă din lume. Peste 300 de atacuri și zeci de marinari morți"
+   },
+   "summary": "Marea Neagră a depășit Strâmtoarea Ormuz în privința numărului de victime provocate de atacurile asupra navelor comerciale. Peste 300 de atacuri ...",
+   "url": "https://alephnews.ro/guvern/wsj-marea-neagra-a-devenit-cea-mai-periculoasa-ruta-maritima-din-lume-peste-300-de-atacuri-si-zeci-de-marinari-morti/",
+   "source": "Aleph News",
+   "published": "2026-11-12T00:36:00Z",
+   "fetched": "2026-11-25T14:58:21Z",
+   "image": "https://media.alephnews.ro/2026/11/nava-m-neagra.png",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.avy4cwqHZPt0IhEjWRDitA&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "0e75705416fa",
@@ -3102,7 +3560,8 @@
     "policy"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "4604ba0bda5a",
@@ -3123,7 +3582,8 @@
     "mines"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "img_checked": true
   }
  ]
 }
