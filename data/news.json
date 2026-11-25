@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:52:50Z",
+ "updated": "2026-11-25T13:56:44Z",
  "items": [
   {
    "id": "9eeac677e602",
@@ -457,6 +457,10 @@
     {
      "source": "Euronews on MSN",
      "url": "https://www.msn.com/en-my/news/other/christmas-decorations-found-in-washed-up-container-from-ship-hit-by-drones-off-bulgaria-s-black-sea-coast/ar-AA2icENZ"
+    },
+    {
+     "source": "Euronews on MSN",
+     "url": "https://www.msn.com/en-in/news/other/christmas-decorations-found-in-washed-up-container-from-ship-hit-by-drones-off-bulgaria-s-black-sea-coast/ar-AA2icU7w"
     }
    ],
    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNSUyRjA2JTJGMjI1MjEzOF8yMjUy/MTM4X0NvbnRhaW5lcmUuanBnJmhhc2g9/NDhiNWJjMDBkYzkwODNjNmJiNWU5YmVlYTljZjFhNjk=.jpg",
@@ -487,7 +491,9 @@
    "lang": "en",
    "title": "Bulgaria and Romania Develop Joint Black Sea System to Detect Maritime Drones - Novinite . com",
    "titles": {
-    "en": "Bulgaria and Romania Develop Joint Black Sea System to Detect Maritime Drones - Novinite . com"
+    "en": "Bulgaria and Romania Develop Joint Black Sea System to Detect Maritime Drones - Novinite . com",
+    "ro": "Bulgaria și România dezvoltă un sistem comun în Marea Neagră pentru detectarea dronelor maritime - Novinite . com",
+    "bg": "България и Румъния разработват съвместна система в Черно море за откриване на морски дронове - Novinite . com"
    },
    "summary": "",
    "url": "https://www.novinite.com/view_news.php?id=241759",
@@ -500,6 +506,51 @@
     "attacks"
    ],
    "places": []
+  },
+  {
+   "id": "997a45c7f7a5",
+   "lang": "en",
+   "title": "Bulgaria Wants More Surveillance in the Black Sea from Allies, Turkey Is Cautious",
+   "titles": {
+    "en": "Bulgaria Wants More Surveillance in the Black Sea from Allies, Turkey Is Cautious",
+    "ro": "Bulgaria dorește ca aliații să intensifice supravegherea în Marea Neagră, în timp ce Turcia se arată prudentă",
+    "bg": "България иска съюзниците да засилят наблюдението в Черно море, а Турция е предпазлива"
+   },
+   "summary": "The Alliance is stepping up surveillance following attacks on merchant ships, but Ankara does not support an automatic expansion of NATO’s presence in the region ...",
+   "url": "https://fakti.bg/en/world/1104357-bulgaria-wants-more-surveillance-in-the-black-sea-from-allies-turkey-is-cautious",
+   "source": "Fakti.bg",
+   "published": "2026-11-24T22:12:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://cdn4.focus.bg/fakti/photos/fb/54a/balgaria-iska-ot-sauznicite-poveche-nabludenie-v-cherno-more-turcia-e-predpazliva-1.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.iuUrvpHtURja9kTS8ksUcg&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "809b97a50c20",
+   "lang": "bg",
+   "title": "България иска от съюзниците повече наблюдение в Черно море, Турция е предпазлива",
+   "titles": {
+    "bg": "България иска от съюзниците повече наблюдение в Черно море, Турция е предпазлива",
+    "en": "Bulgaria is calling on its allies to step up surveillance in the Black Sea; Turkey is cautious",
+    "ro": "Bulgaria solicită aliaților să intensifice supravegherea în Marea Neagră, iar Turcia se arată prudentă"
+   },
+   "summary": "Алиансът засилва наблюдението след атаки срещу търговски кораби, но Анкара не подкрепя автоматично разширяване на натовското присъствие в региона ...",
+   "url": "https://fakti.bg/world/1104357-balgaria-iska-ot-sauznicite-poveche-nabludenie-v-cherno-more-turcia-e-predpazliva",
+   "source": "ФАКТИ.БГ",
+   "published": "2026-11-24T22:12:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://cdn4.focus.bg/fakti/photos/fb/54a/balgaria-iska-ot-sauznicite-poveche-nabludenie-v-cherno-more-turcia-e-predpazliva-1.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.iuUrvpHtURja9kTS8ksUcg&pid=News",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
   },
   {
    "id": "94fca5faffa8",
@@ -589,6 +640,54 @@
    "places": [
     "odesa"
    ]
+  },
+  {
+   "id": "9aba8a8682da",
+   "lang": "ro",
+   "title": "EXCLUSIV Marea Neagră și Dunărea au ajuns cele mai periculoase ape din lume. Broker de asigurări: Navigația în zona Sulina sau Constanța se poate bloca. E un noroc când ...",
+   "titles": {
+    "ro": "EXCLUSIV Marea Neagră și Dunărea au ajuns cele mai periculoase ape din lume. Broker de asigurări: Navigația în zona Sulina sau Constanța se poate bloca. E un noroc când ...",
+    "en": "EXCLUSIVE: The Black Sea and the Danube have become the most dangerous waters in the world. Insurance broker: Shipping in the Sulina or Constanța area could come to a standstill. It’s a stroke of luck when …",
+    "bg": "ЕКСКЛУЗИВНО Черно море и Дунав се превърнаха в най-опасните води в света. Застрахователен брокер: Корабоплаването в района на Сулина или Констанца може да бъде блокирано. Щастие е, когато..."
+   },
+   "summary": "Marea Neagră a devenit cea mai periculoasă mare din lume, în contextul războiului din Ucraina cu efectele sale vizibile asupra tuturor țărilor din zonă. În context și riscul navigației pe Dunăre a cre ...",
+   "url": "https://www.economica.net/exclusiv-marea-neagra-si-dunarea-au-ajuns-cele-mai-periculoase-ape-din-lume-broker-de-asigurari-navigatia-in-zona-sulina-sau-constanta-se-poate-bloca-e-un-noroc-cand-gasim-acoperiri-pentru-razboi_998823.html",
+   "source": "Economica.net",
+   "published": "2026-11-24T14:17:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://www.economica.net/wp-content/uploads/2026/08/drona-marina-332456.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.XQDSLr31yxyDnf6ezSK0ow&pid=News",
+   "topics": [
+    "insurance"
+   ],
+   "places": [
+    "danube",
+    "constanta"
+   ],
+   "img_tried": true
+  },
+  {
+   "id": "8037059280a7",
+   "lang": "en",
+   "title": "Ukraine Faces Black Sea Shipping Crisis",
+   "titles": {
+    "en": "Ukraine Faces Black Sea Shipping Crisis",
+    "ro": "Ucraina se confruntă cu o criză a transportului maritim pe Marea Neagră",
+    "bg": "Украйна е изправена пред криза в корабоплаването по Черно море"
+   },
+   "summary": "A deputy agricultural minister in Ukraine suggested millions of acres of cropland could go unplanted next spring because of the increased attacks on civilian cargo ships in the. More than 40% of ...",
+   "url": "https://www.dtnpf.com/agriculture/web/ag/news/business-inputs/article/2026/11/24/black-sea-attacks-threaten-ukraine",
+   "source": "DTN/Progressive Farmer",
+   "published": "2026-11-24T14:14:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://www.dtnpf.com/mydtn-public-core-portlet/servlet/GetStoredImage?category=CMS&symbolicName=export-chart.png",
+   "fallback_image": "",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
   },
   {
    "id": "13aa13a26b01",
@@ -732,7 +831,9 @@
    "lang": "en",
    "title": "Greater Odesa grain exports drive renewed vessel chartering",
    "titles": {
-    "en": "Greater Odesa grain exports drive renewed vessel chartering"
+    "en": "Greater Odesa grain exports drive renewed vessel chartering",
+    "ro": "Exporturile de cereale din regiunea Odesa stimulează o nouă rundă de închiriere de nave",
+    "bg": "Износът на зърно от района на Одеса води до ново оживление в чартирането на кораби"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iWTJBbWRnNHhQR0RYR3lkclFlY05KUnBJdUZuVGFYbFJsZEpKWURtaUtzNTVtT0VhUUd5VlJDdkxTbWVidW9kTm4yOUhkZXFzc0oxa2NaYy14UXpNX25ObWM5WFpCQVlUYUNRaUdwSEVXbWExMGxr?oc=5",
@@ -762,6 +863,25 @@
    "topics": [
     "attacks",
     "grain"
+   ],
+   "places": []
+  },
+  {
+   "id": "cdf9c3b7c4bb",
+   "lang": "ro",
+   "title": "Marea Neagră, sub ameninţarea dronelor şi minelor. Armata a emis 181 de avertismente în acest an",
+   "titles": {
+    "ro": "Marea Neagră, sub ameninţarea dronelor şi minelor. Armata a emis 181 de avertismente în acest an"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNalpXMEQycVNBQXdaR0xLMXdMVmVtQlhCWGswNndLc1IyTi12dkJZNjgxcU42LTRzcFc0dzRjdW82ZFlzbHoycE5MU1p6TGtmX0hSTHhhQl9pZlZsUEh4YlJkYUpFajJBMXlTeVZOT2VhLXZSY2hvOU4xLTlEdlZPWmM5X0E5ZTdneFBVWlV2ZG0wQmJCazYxVDBkdGlxZEJOY1h3b01VQmhGU25XSDhYSjdGam1CX1ZZX2pMeHpsbjZOdnZaRVI1THNERktuYnNwOVNYdmVGN2t6dw?oc=5",
+   "source": "Observator News",
+   "published": "2026-11-24T10:05:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "attacks"
    ],
    "places": []
   },
@@ -1076,6 +1196,10 @@
     {
      "source": "europesun.com",
      "url": "http://www.europesun.com/news/279451261/india-calls-for-end-to-attacks-on-commercial-shipping-safe-navigation-in-black-sea-at-unsc-amid-russia-ukraine-conflict"
+    },
+    {
+     "source": "Times of Oman",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdG92VnRrNHo0Y2cxSVNjNmJrcEpBeUktdVhEd1pueWFUV2ZOOUZOSjI1OXZ1bmxIVnpoekwtSk5pY3kzVmZvZ3hnRUdhbzlCNllUWGNCdk1YY0gtT3p1aWc0MjM2RFNGRFVCckZTRHRKRFQ3UUNROXhYSWFNQmd3bWZFamdMSkxuem5DWUZSeVluYnhwd1hmcTdLS2M3dHpjNWVKQl9UVlhhQnFPeDJHN21GVnE3bFI4UVhXamUzTEpZRG8yNnRqSQ?oc=5"
     }
    ]
   },
@@ -1379,6 +1503,28 @@
    "places": []
   },
   {
+   "id": "17de408e3dae",
+   "lang": "bg",
+   "title": "Врата към света. Пристанище Варна на 120 години",
+   "titles": {
+    "bg": "Врата към света. Пристанище Варна на 120 години"
+   },
+   "summary": "През 2026 Варна празнува 120 години от официалното откриване на морското пристанище. Документалният филм \"Врата към света. Пристанище Варна на ...",
+   "url": "https://bnt.bg/news/vrata-kam-sveta-pristanishte-varna-na-120-godini-352523news.html",
+   "source": "BNT World",
+   "published": "2026-11-23T16:00:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://bnt.bg/f/news/b/352/7019ae2a25c7e710f44d7f6a78b89db2.jpeg",
+   "fallback_image": "",
+   "topics": [
+    "ports"
+   ],
+   "places": [
+    "varna"
+   ],
+   "img_tried": true
+  },
+  {
    "id": "636084f299fd",
    "lang": "en",
    "title": "Russia, Ukraine trade blames at UNSC over Black Sea, energy attacks",
@@ -1597,6 +1743,26 @@
    "img_tried": true
   },
   {
+   "id": "c6fa7cd99fb7",
+   "lang": "en",
+   "title": "Murmansk to Morocco: How Russia’s war is driving the grain trade into the Arctic",
+   "titles": {
+    "en": "Murmansk to Morocco: How Russia’s war is driving the grain trade into the Arctic"
+   },
+   "summary": "As war disrupts the Black Sea and Sea of Azov, Russia is looking north to sustain its agricultural exports. Wheat sailing from Murmansk to Casablanca reveals how conflict is redrawing the geography of ...",
+   "url": "https://www.arctictoday.com/murmansk-to-morocco-how-russias-war-is-driving-the-grain-trade-into-the-arctic/",
+   "source": "arctictoday",
+   "published": "2026-11-23T08:59:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://www.arctictoday.com/wp-content/uploads/2026/11/murmansk-harbour-wikipedia-scaled.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.mM6xje8pm49Lcm9TyO150g&pid=News",
+   "topics": [
+    "grain"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
    "id": "1c1bcaf10e3d",
    "lang": "en",
    "title": "India Offers to Help Restore Black Sea Grain Exports as Modi, Zelensky Discuss Ukraine Peace Efforts",
@@ -1671,6 +1837,27 @@
     "shipping"
    ],
    "places": []
+  },
+  {
+   "id": "f350a6e77661",
+   "lang": "ro",
+   "title": "Ucraina extinde atacurile asupra navelor rusești în Mediterana și Baltica – Zelenski confirmă scufundarea corvetei ruse Merkury",
+   "titles": {
+    "ro": "Ucraina extinde atacurile asupra navelor rusești în Mediterana și Baltica – Zelenski confirmă scufundarea corvetei ruse Merkury"
+   },
+   "summary": "Ucraina și-a intensificat în ultimele zile campania de atacuri asupra navelor militare și comerciale utilizate de Rusia, extinzând operațiunile cu drone maritime din Marea Neagră spre Marea Baltică și ...",
+   "url": "https://cursdeguvernare.ro/ucraina-extinde-atacurile-asupra-navelor-rusesti-in-mediterana-si-baltica-zelenski-confirma-scufundarea-corvetei-ruse-merkury.html",
+   "source": "cursdeguvernare",
+   "published": "2026-11-23T07:40:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://cdn.cursdeguvernare.ro/wp-content/uploads/2026/11/corveta-ruseasca-merkury-scufundata-benghazi-libia.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.7aWkh79VM5rXJyJqS2YSKg&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
   },
   {
    "id": "c1111f707b79",
@@ -1865,22 +2052,32 @@
   {
    "id": "54f9833a5aee",
    "lang": "en",
-   "title": "Russia acknowledges strike on a dry cargo ship near Odesa ᐉ News from Fakti.bg - World",
+   "title": "Russia Reports Strikes on Port and Cargo Ship near Odesa",
    "titles": {
-    "en": "Russia acknowledges strike on a dry cargo ship near Odesa ᐉ News from Fakti.bg - World"
+    "en": "Russia Reports Strikes on Port and Cargo Ship near Odesa"
    },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeDF4V3dTTFhYNWgyakJkZmtKQm1VY01LYnI4b3ZWeENpQ3ZOdGJwNWJYZ1RXR2NfVWVhZnRrR056NUk3NkdCdHp1ckYyS1kzNG45VEFUTUkyRW1wSmhtZmJqTUdBVWxqcDBoREJNSFUwaTRRRmhtNWhSSlptRlpsOF8zT2ZCOHJ3OEtuZEdWTFotN18wWkUwTWRxWQ?oc=5",
+   "summary": "Russia’s Ministry of Defence reported strikes on Ukrainian energy, logistics and port infrastructure overnight on November 23. The ministry claims that a substation in Dnipropetrovsk, facilities at ...",
+   "url": "https://fakti.bg/en/world/1103665-russia-reports-strikes-on-port-and-cargo-ship-near-odesa",
    "source": "Fakti.bg",
    "published": "2026-11-22T14:03:00Z",
    "fetched": "2026-11-25T12:37:24Z",
    "topics": [
     "attacks",
-    "shipping"
+    "shipping",
+    "ports"
    ],
    "places": [
     "odesa"
-   ]
+   ],
+   "also": [
+    {
+     "source": "Fakti.bg",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeDF4V3dTTFhYNWgyakJkZmtKQm1VY01LYnI4b3ZWeENpQ3ZOdGJwNWJYZ1RXR2NfVWVhZnRrR056NUk3NkdCdHp1ckYyS1kzNG45VEFUTUkyRW1wSmhtZmJqTUdBVWxqcDBoREJNSFUwaTRRRmhtNWhSSlptRlpsOF8zT2ZCOHJ3OEtuZEdWTFotN18wWkUwTWRxWQ?oc=5"
+    }
+   ],
+   "image": "https://cdn4.focus.bg/fakti/photos/fb/6d3/rusia-saobshti-za-udari-po-pristanishte-i-tovaren-korab-krai-odesa-1.webp",
+   "img_tried": true,
+   "fallback_image": "http://www.bing.com/th?id=ONUT.iG8NUecPXmf0ZqykJ4DYLQ&pid=News"
   },
   {
    "id": "f084b08d73df",
@@ -2156,6 +2353,26 @@
    "img_tried": true
   },
   {
+   "id": "be4b2ca695df",
+   "lang": "bg",
+   "title": "Здравко Василев за военните действия в Черно море: Трябва да осъзнаем и мащаба на задачата",
+   "titles": {
+    "bg": "Здравко Василев за военните действия в Черно море: Трябва да осъзнаем и мащаба на задачата"
+   },
+   "summary": "Необходимо е съчетание от радарно наблюдение, безпилотни системи, патрулни и специализирани кораби, противоминни способности, брегови средства и координация със съюзниците ни, каза победителят в първи ...",
+   "url": "https://blitz.bg/regioni/zdravko-vasilev-za-voennite-deystviya-v-cherno-more-tryabva-da-osaznaem-i-mashtaba-na-zadachata_news1183608.html",
+   "source": "Блиц",
+   "published": "2026-11-22T05:21:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
    "id": "116a64908ef2",
    "lang": "en",
    "title": "Corn Price Update: India Premium Widens Amid Black Sea Risk — CMB News",
@@ -2235,6 +2452,26 @@
    "places": [
     "odesa"
    ]
+  },
+  {
+   "id": "0c7ae8413ddd",
+   "lang": "ro",
+   "title": "Zona de risc din Marea Neagră s-a extins în largul României. Unele transporturi au deja suprataxe de 30-70 de dolari pe container",
+   "titles": {
+    "ro": "Zona de risc din Marea Neagră s-a extins în largul României. Unele transporturi au deja suprataxe de 30-70 de dolari pe container"
+   },
+   "summary": "Zona de risc ridicat din Marea Neagră s-a extins în largul României. Unele transporturi au suprataxe de 30-70 de dolari pe container.",
+   "url": "https://financiarul.ro/economie/zona-de-risc-din-marea-neagra-s-a-extins-in-largul-romaniei-unele-transporturi-au-deja-suprataxe-de-30-70-de-dolari-pe-container/",
+   "source": "Financiarul",
+   "published": "2026-11-21T14:19:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://media.financiarul.ro/wp-content/uploads/2026/11/zona-de-risc-din-marea-neagra-s-a-extins-in-largul-romaniei.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.VsQQVm5m8nmvqFLACXk14g&pid=News",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
   },
   {
    "id": "1ef616b2a7ad",
@@ -2418,6 +2655,29 @@
     "attacks"
    ],
    "places": []
+  },
+  {
+   "id": "9552a0d3c3ef",
+   "lang": "ro",
+   "title": "Șase persoane, cercetate într-un dosar de furt de motorină din Portul Constanța. Peste 2.180 de litri de carburant ar fi fost preluați de pe o navă sub pavilion străin",
+   "titles": {
+    "ro": "Șase persoane, cercetate într-un dosar de furt de motorină din Portul Constanța. Peste 2.180 de litri de carburant ar fi fost preluați de pe o navă sub pavilion străin"
+   },
+   "summary": "La data de 20.11.2026 procurorul de caz din cadrul Parchetului de pe langa Judecatoria Constanta a dispus luarea masurii controlului judiciar pe o perioada de 60 de zile, incepand cu data de ...",
+   "url": "https://www.ziuaconstanta.ro/stiri/justitie/sase-persoane-cercetate-intr-un-dosar-de-furt-de-motorina-din-portul-constanta-peste-2-180-de-litri-de-carburant-ar-fi-fost-preluati-de-pe-o-nava-sub-pavilion-961279.html",
+   "source": "Ziua de Constanța",
+   "published": "2026-11-20T08:25:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://www.ziuaconstanta.ro/images/stories/2026/11/20/Gabriela/justitie-pixabay.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.aoakva1Sd1VCnw7eCUQptg&pid=News",
+   "topics": [
+    "shipping",
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "img_tried": true
   },
   {
    "id": "5ba02681f316",
@@ -2960,6 +3220,28 @@
    "places": []
   },
   {
+   "id": "5a6278bb5095",
+   "lang": "ro",
+   "title": "FOTO.Gruparea navală MCM Black Sea, escală în Portul Constanța",
+   "titles": {
+    "ro": "FOTO.Gruparea navală MCM Black Sea, escală în Portul Constanța"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdjdxaEdjVHZha29YV0pONkQyZjIxU0ZLekNnVnVLbWx4cV96S0pZR3c1ZWdWY3JwXy1DaE9MQzktbEVERUtYVFIwTFllaXE3N2xLbGtMSllJbGs4ZVYyblJNcVN1QmRGdVN0X0VIdU9uWk5uc2JHVjRVUmpIeVZIcnN6M2RsZXoydzRmYkx3OG5NRVF1YUtReGM1YjlldHFabFJlZ1ozeUJnMFVjTVJlbWtfbVVBMnJGZUVyYQ?oc=5",
+   "source": "ZIUA de Constanta",
+   "published": "2026-11-19T08:06:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "shipping",
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ]
+  },
+  {
    "id": "81bce0dbc2b5",
    "lang": "en",
    "title": "Russia massively attacked the south of Odesa region: industrial and energy facilities damaged",
@@ -3406,6 +3688,26 @@
    "places": []
   },
   {
+   "id": "6d6c9a404ffd",
+   "lang": "ro",
+   "title": "Nava-cisternă pentru GPL care s-a scufundat în Marea Neagră, în largul Bulgariei, a fost lovită de proiectile",
+   "titles": {
+    "ro": "Nava-cisternă pentru GPL care s-a scufundat în Marea Neagră, în largul Bulgariei, a fost lovită de proiectile"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbEVJOVRaak5tT1dTRG1Hek90bllJUFZCUDlGdTBGSVc3eDNOTWdXZ09sX2VRTUVKTkpNTDJCRGtFbllJVjRVWEhhanhSeUU4eGF6X1hydW1KeE5jMDVNQjdHaVgxUjdLRnpMV2RmZVBhRERDSHhXMFJJTWtqVXMxRC1EdlNTSWdHTlNZVjlkQU1xQm12cmNMUXF5SU1sbkxSNEpoaEhkdVU2TzJ6ZjdVMDFiYzM1c1VQVkEzWXBROGZkNFp2TWc?oc=5",
+   "source": "tvrinfo.ro",
+   "published": "2026-11-18T14:28:03Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": []
+  },
+  {
    "id": "53e390efdb77",
    "lang": "ro",
    "title": "Marea Neagră, în flăcări: 90 de nave blocate la Sulina, iar fermierul român ”plătește„ nota de plată",
@@ -3654,31 +3956,236 @@
     {
      "source": "The News Pakistan",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnZ2ZDVktyNDc1azlLTFdRc3RReWE4elV5TnFuZC1SVm5aMl92bk92YU00S3Jra01xeWduOVo4ME5oOWN5eFV6RUxwQmNnMFJ5Z3l5SVlGS1ZkWk9Mc2otdERkOFFpNWVUOWdiRUpCTEFGMUlpX2s0MG5Rdw?oc=5"
+    },
+    {
+     "source": "24 News HD",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQzk0WTU4czdZdGpkdWw1TFBCTzZlQ1pfREpZWDdocEZPclFka2dPWmFfb2NFZHFfUGR4cXduUjNXMUVmeWd5QnhCNkNfLXNwMnRQeW1FS0hRZEF6aEZPYzBwalVJYXJsNDFqcG0xN1BYMlRDVjhBc0trMnZRWGNuSDlkc3RLVUE?oc=5"
     }
    ]
   },
   {
    "id": "1684d15a7bdd",
    "lang": "bg",
-   "title": "Димитър Стоянов: Има ли значение чии са дроновете в Черно море?",
+   "title": "Министър Димитър Стоянов: Не е случайно, че никой от съюзниците ни не е казал чии са дроновете",
    "titles": {
-    "bg": "Димитър Стоянов: Има ли значение чии са дроновете в Черно море?"
+    "bg": "Министър Димитър Стоянов: Не е случайно, че никой от съюзниците ни не е казал чии са дроновете"
    },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUJzajJlT2NQeHVTX1lXWE5PRkJIbVlPb1A5cTVDTmM1ZXprVFh3QjIxZjloX3pRb213eXdGTGlDTm00dU56RXE3Yks4dkpaSU5vM2p6VDQ3RGdDemRCZHpleTExVi14UjdMTERsdExMa1k3NUd2WkdkREhGTW5xaEw3Z1llX2xxWFl4QXc0dmdLdXRvSU5PN3FMOFZNLVRBcDNrOVZWdkN3OXJ5MEM1X2FB?oc=5",
-   "source": "Chernomore",
+   "summary": "България е изпратила на всички свои съюзници и партньори снимки на дроновете от последните атаки срещу товарни кораби в Черно море, потвърди министърът на отбраната Димитър Стоянов. Отговор чии са маш ...",
+   "url": "https://www.eranova.bg/ministar-dimitar-stoyanov-ne-e-sluchayno-che-nikoy-ot-sayuznitsite-ni-ne-e-kazal-chii-sa-dronovete-33112",
+   "source": "eranova",
    "published": "2026-11-18T13:00:00Z",
    "fetched": "2026-11-25T12:37:24Z",
    "topics": [
-    "attacks"
+    "attacks",
+    "shipping"
    ],
    "places": [],
    "also": [
     {
      "source": "Bgonair",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTFlXZkZ3b3pSdVdjYXVHNnp3WkhmaWdqOTViNllKdVNpRWZVR0ZsYkNqSVAzeVM2ZUpaeEZqdUczcFNqRENpMkFRbml1STA1LWwza0RaX0RIWHdOMGt6Z0NUd29XTFhSbDh3U1VEaEVhLWZlU3VPc25CRVotcUcwUkY0QWhydjRTY2EwUWlDbnFJWWJjU3p3VW1QZHJyQmZyeVlMQ2dnNnZXV3ZBT2lmQV96QjEzRE5WaVppSk5XbmNVTUZPd01QMUZPOVdQZEE0eFZjTjZGbERRdw?oc=5"
+    },
+    {
+     "source": "Chernomore",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUJzajJlT2NQeHVTX1lXWE5PRkJIbVlPb1A5cTVDTmM1ZXprVFh3QjIxZjloX3pRb213eXdGTGlDTm00dU56RXE3Yks4dkpaSU5vM2p6VDQ3RGdDemRCZHpleTExVi14UjdMTERsdExMa1k3NUd2WkdkREhGTW5xaEw3Z1llX2xxWFl4QXc0dmdLdXRvSU5PN3FMOFZNLVRBcDNrOVZWdkN3OXJ5MEM1X2FB?oc=5"
     }
-   ]
+   ],
+   "image": "http://www.bing.com/th?id=ONUT.2yqUYW04xUGUnzmHoHMlPg&pid=News",
+   "img_tried": true,
+   "fallback_image": "http://www.bing.com/th?id=ONUT.2yqUYW04xUGUnzmHoHMlPg&pid=News"
+  },
+  {
+   "id": "4f714fd21127",
+   "lang": "bg",
+   "title": "Кораби потъват край България, а Радев и Йотова мълчат",
+   "titles": {
+    "bg": "Кораби потъват край България, а Радев и Йотова мълчат"
+   },
+   "summary": "Докато кораби потъват в Черно море, Румен Радев награждава заслужили спортисти, а Илияна Йотова посещава форуми в Камбоджа. Мина Киркова за оглушителното мълчание на президента и премиера: ...",
+   "url": "https://www.dw.com/bg/korabi-potvat-kraj-blgaria-a-radev-i-jotova-mlcat/a-79981460",
+   "source": "DW",
+   "published": "2026-11-18T05:55:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://static.dw.com/image/79982337_6.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.RyF67KlCUasOCf8qMmOcKQ&pid=News",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "bf54d0fe6773",
+   "lang": "ro",
+   "title": "Transportul țițeiului kazah prin Marea Neagră, discutat la Bruxelles. Miza pentru România și Portul Constanța",
+   "titles": {
+    "ro": "Transportul țițeiului kazah prin Marea Neagră, discutat la Bruxelles. Miza pentru România și Portul Constanța"
+   },
+   "summary": "Dezvoltarea coridoarelor economice, energetice și de transport dintre Europa și Asia Centrală, securitatea maritimă la Marea Neagră și asigurarea continuității transportului de țiței kazah prin sistem ...",
+   "url": "https://atacdeconstanta.com/transportul-titeiului-kazah-prin-marea-neagra-discutat-la-bruxelles-miza-pentru-romania-si-portul-constanta/",
+   "source": "atacdeconstanta",
+   "published": "2026-11-18T03:54:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "http://www.bing.com/th?id=ONUT.yKhw9XzJTaxZmxJr1o1T2Q&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.yKhw9XzJTaxZmxJr1o1T2Q&pid=News",
+   "topics": [
+    "insurance",
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "img_tried": true
+  },
+  {
+   "id": "e659922d9373",
+   "lang": "en",
+   "title": "'The enemy does not stop' — Russia repeatedly strikes central Odesa, kills 4, injures 9",
+   "titles": {
+    "en": "'The enemy does not stop' — Russia repeatedly strikes central Odesa, kills 4, injures 9"
+   },
+   "summary": "A Russian attack on the city center of Odesa, a major port city in southern Ukraine, killed three people and injured seven others on Nov. 18, Odesa Oblast Governor Oleh Kiper said.",
+   "url": "https://www.yahoo.com/news/world/articles/russia-strikes-central-odesa-kills-102411316.html",
+   "source": "Yahoo",
+   "published": "2026-11-18T02:24:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://s.yimg.com/lo/mysterio/api/7e6afa371abe77ccdf1a6a9eafbf7d74dd022e44ca94967384127753995162da/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkyiv_independent_articles_496%2F8acc054c02db914006c6d62a8058f41c.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.OywIYBU0kkm4ytoewwW5UA&pid=News",
+   "topics": [
+    "attacks",
+    "ports"
+   ],
+   "places": [
+    "odesa"
+   ],
+   "img_tried": true
+  },
+  {
+   "id": "65238ff528cc",
+   "lang": "bg",
+   "title": "ДБ поиска спешен КСНС: В Черно море все още потъват кораби",
+   "titles": {
+    "bg": "ДБ поиска спешен КСНС: В Черно море все още потъват кораби"
+   },
+   "summary": "Ивайло Мирчев настоява за спешно свикване на КСНС заради потъващи кораби в Черно море и липсата на отговори. Божидар Божанов коментира Бюджет 2027 и избора на ВСС.",
+   "url": "https://novavarna.net/2026/11/18/%d0%b4%d0%b1-%d0%bf%d0%be%d0%b8%d1%81%d0%ba%d0%b0-%d1%81%d0%bf%d0%b5%d1%88%d0%b5%d0%bd-%d0%ba%d1%81%d0%bd%d1%81-%d0%b2-%d1%87%d0%b5%d1%80%d0%bd%d0%be-%d0%bc%d0%be%d1%80%d0%b5-%d0%b2%d1%81%d0%b5/",
+   "source": "Нова Варна",
+   "published": "2026-11-18T01:13:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://novavarna.net/wp-content/uploads/2026/11/ivailo-mirchev-bojidar-bojanov-db-Copy.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.P8Rid1liXGxb0t7wkFQftg&pid=News",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "aaa6ba0e5c3f",
+   "lang": "bg",
+   "title": "Атаки срещу кораби в Черно море: Експерти призоваха за по-твърди действия от България и Румъния",
+   "titles": {
+    "bg": "Атаки срещу кораби в Черно море: Експерти призоваха за по-твърди действия от България и Румъния"
+   },
+   "summary": "Бившият заместник-министър на отбраната Йордан Божилов предложи операция на Европейския съюз за защита на търговското корабоплаване, подобна на тази в Червено море ...",
+   "url": "https://btvnovinite.bg/predavania/tazi-sutrin/ataki-sreshtu-korabi-v-cherno-more-eksperti-prizovaha-za-po-tvardi-dejstvija-ot-balgarija-i-rumanija.html",
+   "source": "bTV Новините",
+   "published": "2026-11-18T00:45:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "http://www.bing.com/th?id=ONUT.nDbn6Xd1Qhyi9JPASbCBVg&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.nDbn6Xd1Qhyi9JPASbCBVg&pid=News",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "8b445477ddc6",
+   "lang": "en",
+   "title": "Ukraine’s grain harvest could halve to 30 million tonnes in 2027 as exports falter",
+   "titles": {
+    "en": "Ukraine’s grain harvest could halve to 30 million tonnes in 2027 as exports falter"
+   },
+   "summary": "Ukraine's grain harvest could halve to 30 million tonnes in 2027 as blocked Black Sea ports, high logistics costs and falling exports hit farmers.",
+   "url": "https://www.thehindubusinessline.com/economy/agri-business/ukraines-grain-harvest-could-halve-to-30-million-tonnes-in-2027-as-exports-falter/article71714317.ece",
+   "source": "The Hindu BusinessLine",
+   "published": "2026-11-17T22:06:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://bl-i.thgim.com/public/incoming/9w4iu1/article71714327.ece/alternates/LANDSCAPE_1200/2026-11-17T161757Z_1173536320_RC20RMA263X4_RTRMADP_3_UKRAINE-CRISIS-GRAINS.JPG",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.kkNaXhS5QQJ18cuLzCRv8A&pid=News",
+   "topics": [
+    "grain",
+    "ports",
+    "prices"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "ffea5ed859f9",
+   "lang": "en",
+   "title": "Black Sea: tanker engulfed in flames. The vessel’s captain: “We were hit by drones”",
+   "titles": {
+    "en": "Black Sea: tanker engulfed in flames. The vessel’s captain: “We were hit by drones”"
+   },
+   "summary": "The gas tanker Gas Husky was struck in the Black Sea off the coast of Bulgaria, sustaining serious damage that caused it to sink. All 19 crew members were rescued by the Bulgarian authorities.",
+   "url": "https://www.repubblica.it/en/world/2026/11/18/video/black_sea_alleged_drone_attack_on_a_gas_tanker__the_vessel_engulfed_in_flames-425732546/",
+   "source": "la Repubblica",
+   "published": "2026-11-17T16:23:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://www.repstatic.it/content/nazionale/img/2026/11/18/160002737-fe9d3fb5-a34b-47d6-bce3-4d8902a33631.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.pZyrGLsN4WCMhCueqAjsRw&pid=News",
+   "topics": [
+    "attacks",
+    "shipping",
+    "energy"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "90f381e31e51",
+   "lang": "en",
+   "title": "Black Sea Grain Trade Shifts to the Baltic",
+   "titles": {
+    "en": "Black Sea Grain Trade Shifts to the Baltic"
+   },
+   "summary": "When the war in Ukraine broke out worries about Black Sea grain supply followed, yet grain exports from the region have remained largely intact. Recently, however, attacks on merchant vessels and port ...",
+   "url": "https://www.hellenicshippingnews.com/black-sea-grain-trade-shifts-to-the-baltic/",
+   "source": "Hellenic Shipping News Worldwide",
+   "published": "2026-11-17T16:00:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "attacks",
+    "shipping",
+    "grain",
+    "ports"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "9c47d1626dca",
+   "lang": "bg",
+   "title": "Два кораба потънаха в Черно море за 24 часа: Въпросът за сигурността отново на дневен ред",
+   "titles": {
+    "bg": "Два кораба потънаха в Черно море за 24 часа: Въпросът за сигурността отново на дневен ред"
+   },
+   "summary": "Два търговски кораба бяха атакувани и потънаха в Черно море в рамките на около 24 часа. Общо 31 моряци бяха спасени с участието на Военновъздушните сили.",
+   "url": "https://novavarna.net/2026/11/18/%D0%B4%D0%B2%D0%B0-%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%B0-%D0%BF%D0%BE%D1%82%D1%8A%D0%BD%D0%B0%D1%85%D0%B0-%D0%B2-%D1%87%D0%B5%D1%80%D0%BD%D0%BE-%D0%BC%D0%BE%D1%80%D0%B5-%D0%B7%D0%B0-24-%D1%87%D0%B0/",
+   "source": "Нова Варна",
+   "published": "2026-11-17T16:00:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://novavarna.net/wp-content/uploads/2026/11/evakuaciq-ekipaj-korab-gas-husky-2-Copy.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.QAESRJvbGIVKsC2z6UIwYA&pid=News",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
   },
   {
    "id": "49117e8e35ae",
@@ -3758,6 +4265,30 @@
    "img_tried": true
   },
   {
+   "id": "e8818783a289",
+   "lang": "bg",
+   "title": "Нова атака в Черно море. Още един кораб е поразен с дронове - на 50 мили от Бяла",
+   "titles": {
+    "bg": "Нова атака в Черно море. Още един кораб е поразен с дронове - на 50 мили от Бяла"
+   },
+   "summary": "Танкерът GAS HUSKY (плаващ под либерийски флаг, IMO: 9507764) е бил поразен от дронове на около 55 морски мили югоизточно от Варна, в рамките на изключителната икономическа зона на България. Това ...",
+   "url": "https://clubz.bg/181954",
+   "source": "Клуб 'Z'",
+   "published": "2026-11-17T08:04:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://clubz.bg/media/148/opaaa-21.og.jpeg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.J5OCq9meo-Ebg1Xvq_UIpA&pid=News",
+   "topics": [
+    "attacks",
+    "shipping",
+    "energy"
+   ],
+   "places": [
+    "varna"
+   ],
+   "img_tried": true
+  },
+  {
    "id": "3cd82a4b804b",
    "lang": "en",
    "title": "Russia Deepens its Attacks on Black Sea Shipping",
@@ -3794,6 +4325,26 @@
    "fallback_image": "http://www.bing.com/th?id=ONUT.6EHkT9rUtUyDQbb6KpFYvw&pid=News",
    "topics": [
     "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "34040f107bb9",
+   "lang": "ro",
+   "title": "Acasa » Eveniment » România a confiscat o navă în Marea Neagră. Avea armament cât să arunce în aer un oraș întreg. Ce au descoperit autoritățile",
+   "titles": {
+    "ro": "Acasa » Eveniment » România a confiscat o navă în Marea Neagră. Avea armament cât să arunce în aer un oraș întreg. Ce au descoperit autoritățile"
+   },
+   "summary": "Descoperire alarmantă în Marea Neagră. Ce navă a confiscat România. Află toate detaliile cu privire la acest aspect.",
+   "url": "https://www.b1tv.ro/eveniment/descoperire-alarmanta-in-marea-neagra-ce-nava-a-confiscat-romania-1750741.html",
+   "source": "B1TV.ro",
+   "published": "2026-11-17T05:41:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
     "shipping"
    ],
    "places": [],
@@ -3843,6 +4394,10 @@
     {
      "source": "Botosaneanul",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMFRLY3lwN0swN2VSVG9FbFJjZVI0SkJGYkRUeVF2SU0zUUN6aTBpWTZWQTVKV1B5VDY0QjNKZHoyUTBSVXpncVBFQUFEeS1DV1hyR3UwTGNvVlJ0bV81aWlQbEdoakVyQnowazZ1cHp3VkZOaXhYYVNHMThjOWVFZGt3Wmc1Q3RHOFQ0ak9uakRrQUxGa2FlVC1tODBLTGoyZEFWN1ZKa1BuTlhfWUxyUg?oc=5"
+    },
+    {
+     "source": "Economica.net",
+     "url": "https://www.economica.net/alerta-marea-neagra-o-nava-cisterna-incarcata-cu-propan-care-trebuia-sa-ajunga-in-portul-midia-din-romania-s-a-scufundat-langa-bulgaria_996196.html"
     }
    ],
    "img_tried": true
@@ -3866,6 +4421,28 @@
     "shipping",
     "energy",
     "ports"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "c98ab364bad3",
+   "lang": "bg",
+   "title": "Нова атака по кораб в Черно море: Поразен е танкер превозващ газ (ОБНОВЕНА)",
+   "titles": {
+    "bg": "Нова атака по кораб в Черно море: Поразен е танкер превозващ газ (ОБНОВЕНА)"
+   },
+   "summary": "Нова атака по кораб в Черно море. Поразен е танкер превозващ газ. Танкерът GAS HUSKY (плаващ под либерийски флаг, IMO: 9507764) е бил поразен от дронове ...",
+   "url": "https://tribune.bg/bg/obshtestvo/nova-ataka-po-korab-v-cherno-m/",
+   "source": "Tribune.bg",
+   "published": "2026-11-17T03:16:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "http://www.bing.com/th?id=ONUT.oIlGgFl0iV29dcw7YcbBqw&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.oIlGgFl0iV29dcw7YcbBqw&pid=News",
+   "topics": [
+    "attacks",
+    "shipping",
+    "energy"
    ],
    "places": [],
    "img_tried": true
@@ -3915,6 +4492,63 @@
    "img_tried": true
   },
   {
+   "id": "315142aa1fe8",
+   "lang": "bg",
+   "title": "\"Поели са фатален риск в открито море\": Капитан с подробности за поредния ударен кораб в Черно море",
+   "titles": {
+    "bg": "\"Поели са фатален риск в открито море\": Капитан с подробности за поредния ударен кораб в Черно море"
+   },
+   "summary": "Зачестяващите удари по търговски кораби в Черно море за пореден път показват острата необходимост от нови сили и средства за търсене и спасяване. Това ...",
+   "url": "https://www.actualno.com/crime/poeli-sa-fatalen-risk-v-otkrito-more-kapitan-s-podrobnosti-za-porednija-udaren-korab-v-cherno-more-news_2663680.html",
+   "source": "Actualno.com",
+   "published": "2026-11-16T23:58:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://static.actualno.com/actualno_2013/upload/news/2026/11/17/e52e478415487d64c22f25e87757e86c_2663680_1920x1080.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.dp0-Vsrj2fJmWgaXBIUznA&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "1e8844df8409",
+   "lang": "en",
+   "title": "LPG tanker reported to have sunk off Bulgaria's Black Sea coast",
+   "titles": {
+    "en": "LPG tanker reported to have sunk off Bulgaria's Black Sea coast"
+   },
+   "summary": "A liquefied petroleum gas tanker sank off Bulgaria's Black Sea coast on Tuesday, Bulgaria's defence ministry said, a few dozen miles from where another ship went down after a drone attack a day ...",
+   "url": "https://www.sacbee.com/news/nation-world/world/article318113727.html",
+   "source": "The Sacramento Bee",
+   "published": "2026-11-16T21:56:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "attacks",
+    "shipping",
+    "energy"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "Reuters on MSN",
+     "url": "https://www.msn.com/en-us/news/other/lpg-tanker-sends-distress-signal-off-bulgarias-black-sea-coast-maritime-security-sources-say/ar-AA2hBoET"
+    },
+    {
+     "source": "Yahoo",
+     "url": "https://www.yahoo.com/news/articles/second-tanker-two-days-sinks-120910402.html"
+    },
+    {
+     "source": "Reuters on MSN",
+     "url": "https://www.msn.com/en-gb/news/world/lpg-tanker-that-sank-off-bulgaria-on-tuesday-was-hit-by-projectiles-official-says/ar-AA2hHnd2"
+    }
+   ],
+   "img_tried": true
+  },
+  {
    "id": "8baf6d072249",
    "lang": "en",
    "title": "Black Sea shipping lane blocked as Ukraine attacks key Crimea bridge",
@@ -3939,6 +4573,27 @@
    "img_tried": true
   },
   {
+   "id": "e89e429b1a5c",
+   "lang": "en",
+   "title": "Another Ship Sinks in the Black Sea. Crew Members Say It Was Hit by Drones.",
+   "titles": {
+    "en": "Another Ship Sinks in the Black Sea. Crew Members Say It Was Hit by Drones."
+   },
+   "summary": "The cargo ship BETUL 8 sank 40 nautical miles from Cape Kaliakra. All 12 crew members were rescued. Bulgarian authorities have not stated the cause. But crew members say the ship was hit by drones ...",
+   "url": "https://fakti.bg/en/world/1101544-another-ship-sinks-in-the-black-sea-crew-members-say-it-was-hit-by-drones",
+   "source": "Fakti.bg",
+   "published": "2026-11-16T11:23:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://cdn4.focus.bg/fakti/photos/fb/5b5/oshte-edin-potanal-korab-v-cherno-more-ot-ekipaja-govorat-za-udar-s-dronove-1.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.VnORJWTyGfs2vFgIYZGVPQ&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
    "id": "590e529cb094",
    "lang": "en",
    "title": "Cargo ship sinks in Bulgaria's Black Sea after reported drone attack, all 12 crew rescued",
@@ -3957,6 +4612,34 @@
     "shipping"
    ],
    "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "26ef6a3caaba",
+   "lang": "ro",
+   "title": "O navă cu cereale plecată din România se scufundă în Marea Neagră, după un atac cu drone. Ce s-a întâmplat cu membrii echipajului",
+   "titles": {
+    "ro": "O navă cu cereale plecată din România se scufundă în Marea Neagră, după un atac cu drone. Ce s-a întâmplat cu membrii echipajului"
+   },
+   "summary": "Autorităţile bulgare au primit luni un semnal de urgenţă de la un cargou aflat în pericol de scufundare în zona economică exclusivă a Bulgariei din Marea Neagră, a anunţat Ministerul Transporturilor ş ...",
+   "url": "https://www.antena3.ro/externe/o-nava-cu-cereale-plecata-din-romania-se-scufunda-in-marea-neagra-din-cauze-inca-necunoscute-ce-s-a-intamplat-cu-membrii-echipajului-811319.html",
+   "source": "Antena 3 CNN",
+   "published": "2026-11-16T09:34:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://www.antena3.ro/thumbs/amp/2026/11/16/o-nava-cu-cereale-plecata-din-romania-se-scufunda-in-marea-neagra-din-cauze-inca-necunoscute-ce-s-a-intamplat-cu-membrii-echipajului-1119559.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.jKbkSyOtyHDpcylPpQKksA&pid=News",
+   "topics": [
+    "attacks",
+    "shipping",
+    "grain"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "Radio Impuls",
+     "url": "https://www.radioimpuls.ro/o-nava-care-transporta-gaze-naturale-de-la-alexandria-catre-portul-romanesc-midia-s-a-scufundat-in-marea-neagra-ce-s-a-intamplat-cu-cei-19-membri-ai-echipajului-20550873"
+    }
+   ],
    "img_tried": true
   },
   {
@@ -3985,6 +4668,69 @@
    "img_tried": true
   },
   {
+   "id": "b02b2f7b3fdd",
+   "lang": "ro",
+   "title": "Alertă în Marea Neagră. O navă cargo care plecase din Tulcea s-a...",
+   "titles": {
+    "ro": "Alertă în Marea Neagră. O navă cargo care plecase din Tulcea s-a..."
+   },
+   "summary": "O navă de marfă sub pavilion somalez, care plecase din Tulcea, a transmis un semnal de urgență în zona economică exclusivă bulgară a Mării Negre, după ce echipajul a raportat că nava se scufundă. Semn ...",
+   "url": "https://www.digi24.ro/stiri/actualitate/evenimente/alerta-in-marea-neagra-o-nava-cargo-care-plecase-din-tulcea-a-transmis-un-semnal-de-urgenta-in-zona-economica-exclusiva-bulgara-4038275",
+   "source": "Digi24",
+   "published": "2026-11-16T05:16:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjI1JTJGMzAyOTMxOF8zMDI5/MzE4X3Byb2ZpbWVkaWEtMDMxMzA1NzM5/Mi5qcGcmdz0xMjAwJmg9NjMwJnpjPTEm/aGFzaD00MTVhNDk3OTdiN2I0Mjk5YzEwNjNkNjBjODhmMDhhNw==.thumb.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.VN7D0hFiU2_yWPH4JPZo3A&pid=News",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "dd371b53d330",
+   "lang": "en",
+   "title": "Romania advises ships to avoid Black Sea area after four vessels hit by drones",
+   "titles": {
+    "en": "Romania advises ships to avoid Black Sea area after four vessels hit by drones"
+   },
+   "summary": "Romania has advised commercial shipping operators to avoid a section of the Black Sea off the Danube Delta after four vessels were struck by drones in separate incidents on Friday and Saturday, in the ...",
+   "url": "https://seenews.com/news/romania-advises-ships-to-avoid-black-sea-area-after-four-vessels-hit-by-drones-1304972",
+   "source": "SeeNews",
+   "published": "2026-11-16T02:46:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "http://www.bing.com/th?id=ONUT.-yj2g8K2O-D7OjehB8vEdw&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.-yj2g8K2O-D7OjehB8vEdw&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [
+    "danube"
+   ],
+   "img_tried": true
+  },
+  {
+   "id": "e8a11bb019ee",
+   "lang": "ro",
+   "title": "Ce este „taxa de război” care scumpește transportul prin Marea Neagră și cât ar putea ajunge să plătească românii",
+   "titles": {
+    "ro": "Ce este „taxa de război” care scumpește transportul prin Marea Neagră și cât ar putea ajunge să plătească românii"
+   },
+   "summary": "Taxe și asigurări crescute pentru mărfurile care tranzitează Marea Neagră. Este efectul celor peste 570 de incidente de securitate care au avut loc în regiune anul acesta.",
+   "url": "https://www.euronews.ro/articole/ce-este-taxa-de-razboi-care-scumpeste-transportul-prin-marea-neagra-si-cat-ar-put",
+   "source": "Euronews România",
+   "published": "2026-11-16T00:33:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://www.datocms-assets.com/43475/1785912733-nave-in-stramtoarea-ormuz.jpg?auto=format&fit=max&w=1200",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.53DVreJIBlPmXpIOxssx9w&pid=News",
+   "topics": [
+    "insurance"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
    "id": "c6629455dbf2",
    "lang": "bg",
    "title": "Атака с морски дронове преобърна кораб в Черно море, целият екипаж е спасен",
@@ -4003,6 +4749,29 @@
     "shipping"
    ],
    "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "d37e124582ff",
+   "lang": "ro",
+   "title": "A treia navă comercială lovită de o dronă în apropiere de Sulina. Anterior, același vas a fost avariat de o mină, tot la gurile Dunării",
+   "titles": {
+    "ro": "A treia navă comercială lovită de o dronă în apropiere de Sulina. Anterior, același vas a fost avariat de o mină, tot la gurile Dunării"
+   },
+   "summary": "O a treia navă comercială a fost lovită de o dronă, în noaptea de sâmbătă spre duminică, în apropierea gurilor Dunării, incendiul declanșat la bord fiind stins de echipaj fără a se înregistra victime, ...",
+   "url": "https://ziare.com/nava-comerciala/trei-lovita-sulina-incendiu-2047804",
+   "source": "Ziare.com",
+   "published": "2026-11-15T05:07:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://s2.ziareromania.ro/?mmid=52eae56b35b08d3a72",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.lhp1XEOUyUW3EGr5EbEDag&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [
+    "danube"
+   ],
    "img_tried": true
   },
   {
@@ -4033,6 +4802,157 @@
      "url": "https://www.seatrade-maritime.com/security/black-sea-drone-strikes-hit-four-ships-near-romanian-coast"
     }
    ],
+   "img_tried": true
+  },
+  {
+   "id": "95a712d33560",
+   "lang": "ro",
+   "title": "VIDEO. Navă comercială avariată de o dronă în Ucraina, eșuată în apropiere de plaja Vadu / O altă navă de transport de gaze naturale, scufundată în Marea Neagră",
+   "titles": {
+    "ro": "VIDEO. Navă comercială avariată de o dronă în Ucraina, eșuată în apropiere de plaja Vadu / O altă navă de transport de gaze naturale, scufundată în Marea Neagră"
+   },
+   "summary": "Cargoul „Mariam M” a ajuns în derivă după ruperea ancorei și a fost purtat de curenții marini spre coasta României, potrivit informațiilor transmise de ...",
+   "url": "https://newmoney.ro/nava-comerciala-avariata-de-o-drona-in-ucraina-esuata-in-apropiere-de-plaja-vadu-o-alta-nava-de-transport-de-gaze-naturale-scufundata-la-marea-neagra/",
+   "source": "newmoney",
+   "published": "2026-11-14T16:00:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://cdn.newmoney.ro/uploads/2026/11/17142301/nava-miriam.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.IKaHswjKRNsdTYV1mhTufA&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "c42680b9579c",
+   "lang": "bg",
+   "title": "Три кораба са поразени в Черно море край Сулина",
+   "titles": {
+    "bg": "Три кораба са поразени в Черно море край Сулина"
+   },
+   "summary": "Танкер-химикаловоз е поразен край Сулина Танкер-химикаловоз бе поразен край Сулина, Румъния в събота, 14 ноември, според източници на Maritime.bg. Става дума за плаващ под флага на Гърция плавателен с ...",
+   "url": "https://www.maritime.bg/158113/",
+   "source": "maritime",
+   "published": "2026-11-14T13:56:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://www.maritime.bg/wp-content/uploads/2026/11/tri-koraba-sa-porazeni-v-teritorialnoto-more-na-rumania-kraj-sulina.png",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.jPVIzmbR8MzI89layjDigg&pid=News",
+   "topics": [
+    "shipping",
+    "energy"
+   ],
+   "places": [
+    "danube"
+   ],
+   "img_tried": true
+  },
+  {
+   "id": "fdae1ad37b3b",
+   "lang": "bg",
+   "title": "Нова атака в Черно море: Дрон удари търговски кораб в Румъния",
+   "titles": {
+    "bg": "Нова атака в Черно море: Дрон удари търговски кораб в Румъния"
+   },
+   "summary": "Търговски кораб, плаващ под флага на Палау, е бил поразен от безпилотен летателен апарат в териториалните води на Румъния, съобщиха БНТ и Нова телевизия по официална информация на румънските власти.",
+   "url": "https://news.bg/int-politics/nova-ataka-v-cherno-more-dron-udari-targovski-korab-v-rumaniya.html",
+   "source": "News.bg",
+   "published": "2026-11-14T11:30:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://webnews.bg/uploads/images/44/2444/782444/768x432.jpg?_=1791962095",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.p10Wz-h_sibTXbwmLJk7Zw&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "ea32c937508b",
+   "lang": "ro",
+   "title": "Video Analist militar, după ce o navă a fost lovită lângă Sulina: Marea Neagră, singurul plămân economic al Rusiei",
+   "titles": {
+    "ro": "Video Analist militar, după ce o navă a fost lovită lângă Sulina: Marea Neagră, singurul plămân economic al Rusiei"
+   },
+   "summary": "Încă o navă comercială care se îndrepta spre Sulina a fost lovită de o dronă, noaptea trecută, în apele teritoriale româneşti. Atacul a avut loc la doar 12 kilometri de ţărm. Din fericire, de ...",
+   "url": "https://observatornews.ro/eveniment/analist-militar-dupa-ce-o-nava-a-fost-lovita-langa-sulina-marea-neagra-singurul-plaman-economic-al-rusiei-672350.html",
+   "source": "Observator News",
+   "published": "2026-11-14T11:25:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://ivm.antenaplay.ro/thumbs/observatornews/2026/11/14/OMC1cYLnikp_3O.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.BJNsNo0l_SmD0yF4obAm2w&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [
+    "danube"
+   ],
+   "img_tried": true
+  },
+  {
+   "id": "03bcdef8fefa",
+   "lang": "bg",
+   "title": "Отново атака в Черно море: Дрон порази търговски кораб в румънски води",
+   "titles": {
+    "bg": "Отново атака в Черно море: Дрон порази търговски кораб в румънски води"
+   },
+   "summary": "Търговски кораб под флага на Палау е бил атакуван с безпилотен летателен апарат в териториалните води на Румъния. При удара е повреден един от ...",
+   "url": "https://frognews.bg/novini/otnovo-ataka-cherno-more-dron-porazi-targovski-korab-rumanski-vodi.html",
+   "source": "FROGNEWS",
+   "published": "2026-11-14T09:37:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://frognews.bg/images2/thumbs16x9/600/686e6ee19_1794663883_6af865cb9658d.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.RsoSTjaEwshBd5cQjlUQyQ&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "592a8818c3a4",
+   "lang": "ro",
+   "title": "Alertă în Marea Neagră: O navă a fost lovită de o dronă în apropierea României. Anunțul ministrului Apărării",
+   "titles": {
+    "ro": "Alertă în Marea Neagră: O navă a fost lovită de o dronă în apropierea României. Anunțul ministrului Apărării"
+   },
+   "summary": "Ministrul Apărării, Radu Oprea, anunță că o navă a fost lovită, în noaptea de vineri spre sâmbătă, de o dronă, în Marea Neagră.",
+   "url": "https://www.profit.ro/stiri/politic/alerta-in-marea-neagra-o-nava-a-fost-lovita-de-o-drona-in-apropierea-romaniei-anuntul-ministrului-apararii-22987648",
+   "source": "PROFIT.ro",
+   "published": "2026-11-14T08:28:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "http://www.bing.com/th?id=ONUT.ALuxxjmJJfj3JvbX9fEzJg&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.ALuxxjmJJfj3JvbX9fEzJg&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "861d2a009df9",
+   "lang": "bg",
+   "title": "Нова атака с дрон в Черно море. Ударен е товарен кораб",
+   "titles": {
+    "bg": "Нова атака с дрон в Черно море. Ударен е товарен кораб"
+   },
+   "summary": "Търговски кораб, плаващ под флага на Палау, е бил поразен от безпилотен летателен апарат в териториалните води ...",
+   "url": "https://novavarna.net/2026/11/14/%D0%BD%D0%BE%D0%B2%D0%B0-%D0%B0%D1%82%D0%B0%D0%BA%D0%B0-%D1%81-%D0%B4%D1%80%D0%BE%D0%BD-%D0%B2-%D1%87%D0%B5%D1%80%D0%BD%D0%BE-%D0%BC%D0%BE%D1%80%D0%B5-%D1%83%D0%B4%D0%B0%D1%80%D0%B5%D0%BD-%D0%B5/",
+   "source": "Нова Варна",
+   "published": "2026-11-14T07:20:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://novavarna.net/wp-content/uploads/2026/10/korab-konteinerovoz-Copy.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.n5Apvk9UPQtSDi5PLm_e2Q&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
    "img_tried": true
   },
   {
@@ -4073,6 +4993,27 @@
    "topics": [
     "attacks",
     "shipping"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "4604ba0bda5a",
+   "lang": "bg",
+   "title": "Забелязаха дрейфаща морска мина край Маслен нос",
+   "titles": {
+    "bg": "Забелязаха дрейфаща морска мина край Маслен нос"
+   },
+   "summary": "Плаваща морска мина и 20-футов контейнер създават сериозна опасност за корабоплаването в Черно море източно от Маслен нос тази сряда, съобщават от Хидрографската служба на Военноморските сили и специа ...",
+   "url": "https://www.dunavmost.com/novini/zabelyazaha-dreifashta-morska-mina-krai-maslen-nos",
+   "source": "DUNAVMOST",
+   "published": "2026-11-11T14:35:00Z",
+   "fetched": "2026-11-25T13:53:52Z",
+   "image": "https://www.dunavmost.com/snimka/202611/Original/f39f1d05c4514aa18940e9ca4e5d95bb.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.eVxVsQugwr6ATTjtDRfvkw&pid=News",
+   "topics": [
+    "shipping",
+    "mines"
    ],
    "places": [],
    "img_tried": true
