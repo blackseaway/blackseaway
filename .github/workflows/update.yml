@@ -37,7 +37,7 @@ jobs:
       - name: Collect news
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
-        run: python scripts/fetch_news.py
+        run: python -u scripts/fetch_news.py 2>&1 | tee data/fetch_log.txt
 
       - name: Sea conditions
         continue-on-error: true
