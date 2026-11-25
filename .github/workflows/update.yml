@@ -34,6 +34,13 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
 
+      - name: Restore picture cache
+        uses: actions/cache@v4
+        with:
+          path: media
+          key: media-${{ github.run_id }}
+          restore-keys: media-
+
       - name: Collect news
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}

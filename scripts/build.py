@@ -273,6 +273,57 @@ def write(path: Path, text: str):
     path.write_text(text, encoding="utf-8")
 
 
+MEDIA = ROOT / "media"  # thumbnail cache, kept between runs by actions/cache (not in git)
+THUMB_W = 640
+
+
+def localize_images(items: list[dict]) -> None:
+    """Download each news picture once, store a small JPEG copy and serve it from our site.
+
+    Some publishers block their images on other sites, so a local thumbnail is the only way to
+    show them reliably. Items whose picture cannot be fetched are shown without one."""
+    import io
+    import urllib.request
+
+    from PIL import Image
+
+    MEDIA.mkdir(exist_ok=True)
+    used, got, failed = set(), 0, 0
+    for i in items:
+        src = i.get("image")
+        if not src:
+            continue
+        name = hashlib.sha1(src.encode()).hexdigest()[:16] + ".jpg"
+        path = MEDIA / name
+        if not path.exists() and not OFFLINE:
+            try:
+                req = urllib.request.Request(src, headers={
+                    "User-Agent": "Mozilla/5.0 (compatible; BlackSeaWayBot/1.0; +https://blackseaway.github.io/blackseaway/)",
+                    "Referer": i.get("url", ""), "Accept": "image/avif,image/webp,image/*,*/*;q=0.8"})
+                with urllib.request.urlopen(req, timeout=15) as r:
+                    raw = r.read(8_000_000)
+                im = Image.open(io.BytesIO(raw))
+                im = im.convert("RGB")
+                if im.width < 160 or im.height < 90:
+                    raise ValueError("too small")
+                if im.width > THUMB_W:
+                    im = im.resize((THUMB_W, round(im.height * THUMB_W / im.width)), Image.LANCZOS)
+                im.save(path, "JPEG", quality=78, optimize=True, progressive=True)
+                got += 1
+            except Exception as e:  # noqa: BLE001
+                failed += 1
+                print(f"[thumbs] {i.get('source', '')}: {str(e)[:100]}")
+        if path.exists():
+            i["image"] = f"media/{name}"
+            used.add(name)
+        elif not OFFLINE:
+            i["image"] = ""
+    for old in MEDIA.glob("*.jpg"):  # drop thumbnails of news that left the site
+        if old.name not in used:
+            old.unlink()
+    print(f"[thumbs] {len(used)} pictures ({got} new, {failed} failed)")
+
+
 def build():
     cfg = site_config()
     i18n = load_json(CONFIG / "i18n.json")
@@ -285,6 +336,7 @@ def build():
     safety = load_json(CONFIG / "safety.json", {}) or {}
     ports_cfg = (load_json(CONFIG / "ports.json", {}) or {}).get("ports", [])
     items = news["items"]
+    localize_images(items)
     posts = load_posts(cfg)
     stats = compute_stats(items, sources)
     ports = compute_ports(items, ports_cfg, weather)
@@ -295,6 +347,8 @@ def build():
     OUT.mkdir()
     shutil.copytree(ROOT / "assets", OUT / "assets", ignore=shutil.ignore_patterns("fonts"))
     write(OUT / ".nojekyll", "")
+    if MEDIA.exists():
+        shutil.copytree(MEDIA, OUT / "media")
     og_card(OUT / "assets" / "og-default.png", cfg["name"], i18n["en"]["tagline"])
 
     env = make_env(cfg, i18n)
