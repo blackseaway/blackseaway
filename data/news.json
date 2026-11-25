@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T14:00:10Z",
+ "updated": "2026-11-25T14:03:18Z",
  "items": [
   {
    "id": "9eeac677e602",
@@ -496,7 +496,9 @@
    "lang": "en",
    "title": "Russia, Ukraine Trade Accusations at UN Over Black Sea Shipping, Energy Attacks",
    "titles": {
-    "en": "Russia, Ukraine Trade Accusations at UN Over Black Sea Shipping, Energy Attacks"
+    "en": "Russia, Ukraine Trade Accusations at UN Over Black Sea Shipping, Energy Attacks",
+    "ro": "Rusia și Ucraina își aduc reciproc acuzații la ONU cu privire la transportul maritim pe Marea Neagră și atacurile asupra infrastructurii energetice",
+    "bg": "Русия и Украйна си разменят обвинения в ООН по повод корабоплаването в Черно море и енергийните атаки"
    },
    "summary": "Russia and Ukraine trade accusations at the UN over attacks on Black Sea shipping, energy infrastructure and civilian vessels.",
    "url": "https://en.tempo.co/read/2124287/russia-ukraine-trade-accusations-at-un-over-black-sea-shipping-energy-attacks",
@@ -517,7 +519,9 @@
    "lang": "en",
    "title": "WFP calls for humanitarian grain shipping mechanism in the Black Sea",
    "titles": {
-    "en": "WFP calls for humanitarian grain shipping mechanism in the Black Sea"
+    "en": "WFP calls for humanitarian grain shipping mechanism in the Black Sea",
+    "ro": "WFP solicită instituirea unui mecanism umanitar de transport al cerealelor în Marea Neagră",
+    "bg": "Програмата за прехрана на ООН (WFP) призовава за създаване на механизъм за хуманитарни доставки на зърно в Черно море"
    },
    "summary": "The World Food Programme (WFP) has called for renewed efforts to facilitate humanitarian grain shipments amid escalating Black Sea security risks.",
    "url": "https://safety4sea.com/wfp-calls-for-humanitarian-grain-shipping-mechanism-in-the-black-sea/",
@@ -538,7 +542,9 @@
    "lang": "en",
    "title": "End Black Sea shipping attacks: India at UNSC amid Russia-Ukraine conflict",
    "titles": {
-    "en": "End Black Sea shipping attacks: India at UNSC amid Russia-Ukraine conflict"
+    "en": "End Black Sea shipping attacks: India at UNSC amid Russia-Ukraine conflict",
+    "ro": "Să înceteze atacurile asupra navelor din Marea Neagră: India la Consiliul de Securitate al ONU pe fondul conflictului dintre Rusia și Ucraina",
+    "bg": "Спрете нападенията срещу корабите в Черно море: Индия в Съвета за сигурност на ООН на фона на конфликта между Русия и Украйна"
    },
    "summary": "India urges end to Black Sea attacks, safeguards sea routes, and protects global food security amid Russia-Ukraine conflict at the UN Security Council.",
    "url": "https://www.thehindubusinessline.com/news/end-black-sea-shipping-attacks-india-at-unsc-amid-russia-ukraine-conflict/article71737105.ece",
@@ -580,7 +586,9 @@
    "lang": "en",
    "title": "Türkiye draws up plan to secure Black Sea shipping",
    "titles": {
-    "en": "Türkiye draws up plan to secure Black Sea shipping"
+    "en": "Türkiye draws up plan to secure Black Sea shipping",
+    "ro": "Turcia elaborează un plan pentru asigurarea siguranței navigației pe Marea Neagră",
+    "bg": "Турция изготвя план за осигуряване на безопасността на корабоплаването в Черно море"
    },
    "summary": "Türkiye is developing a mechanism to ensure safe passage for commercial vessels in the Black Sea and keep food and agricultural exports moving, its U.N. envoy said on Nov. 23.",
    "url": "https://www.hurriyetdailynews.com/turkiye-draws-up-plan-to-secure-black-sea-shipping-229770",
@@ -601,7 +609,9 @@
    "lang": "en",
    "title": "UN Warns Black Sea Grain, El Niño Risk Global Food Crises",
    "titles": {
-    "en": "UN Warns Black Sea Grain, El Niño Risk Global Food Crises"
+    "en": "UN Warns Black Sea Grain, El Niño Risk Global Food Crises",
+    "ro": "ONU avertizează că cerealele din Marea Neagră și fenomenul El Niño pot provoca crize alimentare la nivel mondial",
+    "bg": "ООН предупреждава, че зърнената реколта от Черно море и Ел Ниньо създават риск от глобални продоволствени кризи"
    },
    "summary": "The United Nations has warned that the Ukraine war’s disruption of Black Sea grain shipments, compounded by climate shocks from El Niño, could worsen global food crises, particularly in the Middle ...",
    "url": "https://www.msn.com/en-xl/money/general/un-warns-black-sea-grain-el-ni%C3%B1o-risk-global-food-crises/ar-AA2i66IK",
@@ -613,6 +623,29 @@
    "topics": [
     "shipping",
     "grain"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "2929d40bf27f",
+   "lang": "en",
+   "title": "Security Council live: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies",
+   "titles": {
+    "en": "Security Council live: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies",
+    "ro": "Transmisie în direct de la Consiliul de Securitate: Atacurile din această iarnă asupra rețelei electrice a Ucrainei și asupra transportului maritim din Marea Neagră pun în pericol viețile oamenilor și aprovizionarea globală cu alimente",
+    "bg": "На живо от Съвета за сигурност: Зимните атаки срещу електроенергийната мрежа на Украйна и корабоплаването в Черно море застрашават човешкия живот и световните запаси от храна"
+   },
+   "summary": "As winter sets in, the Security Council held a high stakes meeting Monday to discuss how Russian attacks on Ukraine's energy grid are leaving civilians without heat, power and water. It will also look ...",
+   "url": "https://www.msn.com/en-ph/news/world/security-council-live-winter-attacks-on-ukraines-power-grid-and-black-sea-shipping-threaten-lives-and-global-food-supplies/ar-AA2i51Qy",
+   "source": "The Manila Times on MSN",
+   "published": "2026-11-23T19:06:31Z",
+   "fetched": "2026-11-25T14:01:16Z",
+   "image": "http://www.bing.com/th?id=ONUT.ucet_zeSfwWN8V14WPhP_w&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.ucet_zeSfwWN8V14WPhP_w&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
    ],
    "places": [],
    "img_tried": true
@@ -1432,6 +1465,28 @@
    "fallback_image": "http://www.bing.com/th?id=ONUT.2yqUYW04xUGUnzmHoHMlPg&pid=News"
   },
   {
+   "id": "9fb816520187",
+   "lang": "ro",
+   "title": "O navă-cisternă pentru GPL care s-a scufundat în largul Bulgariei a fost lovită de proiectile",
+   "titles": {
+    "ro": "O navă-cisternă pentru GPL care s-a scufundat în largul Bulgariei a fost lovită de proiectile"
+   },
+   "summary": "O navă-cisternă care transporta gaz petrolier lichefiat (GPL) s-a scufundat marți în Marea Neagră, în largul Bulgariei, după ce a fost lovită de proiectile, potrivit unor surse citate de AFP.",
+   "url": "https://stirileprotv.ro/stiri/international/o-nava-cisterna-pentru-gpl-care-s-a-scufundat-in-largul-bulgariei-a-fost-lovita-de-proiectile.html",
+   "source": "Știrile PRO TV",
+   "published": "2026-11-18T08:39:00Z",
+   "fetched": "2026-11-25T14:01:16Z",
+   "image": "https://stirileprotv.ro/img/2026/11/17/115725/nava-mariam-m-vadu.jpg?fm=jpg&q=80&fit=crop&crop=779%2C438%2C68%2C0&watermark=og&w=1280",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.XI_mvjdsRZ8qSuxpumEggQ&pid=News",
+   "topics": [
+    "attacks",
+    "shipping",
+    "energy"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
    "id": "c3170956fbd8",
    "lang": "bg",
    "title": "Военният министър: Не е важно чии са дроновете в Черно море, ако те са заплаха за България",
@@ -1621,7 +1676,13 @@
    "places": [
     "odesa"
    ],
-   "img_tried": true
+   "img_tried": true,
+   "also": [
+    {
+     "source": "Yahoo",
+     "url": "https://www.yahoo.com/news/articles/russian-attacks-ukrainian-city-odesa-104147639.html"
+    }
+   ]
   },
   {
    "id": "90f381e31e51",
@@ -2117,27 +2178,6 @@
    "img_tried": true
   },
   {
-   "id": "590e529cb094",
-   "lang": "en",
-   "title": "Cargo ship sinks in Bulgaria's Black Sea after reported drone attack, all 12 crew rescued",
-   "titles": {
-    "en": "Cargo ship sinks in Bulgaria's Black Sea after reported drone attack, all 12 crew rescued"
-   },
-   "summary": "A Somali-flagged cargo ship, the BETUL 8, capsized in Bulgaria's exclusive economic zone in the Black Sea on Nov. 16 after an attack by two naval drones, Bulgarian media outlet Maritime.bg reported.",
-   "url": "https://www.msn.com/en-us/news/other/cargo-ship-sinks-in-bulgarias-black-sea-after-reported-drone-attack-all-12-crew-rescued/ar-AA2hz4GB",
-   "source": "The Kyiv Independent on MSN",
-   "published": "2026-11-16T11:02:57Z",
-   "fetched": "2026-11-25T13:50:37Z",
-   "image": "http://www.bing.com/th?id=ONUT.e1qPJq4EzHMbEdNjyKdz7Q&pid=News",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.e1qPJq4EzHMbEdNjyKdz7Q&pid=News",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true
-  },
-  {
    "id": "26ef6a3caaba",
    "lang": "ro",
    "title": "O navă cu cereale plecată din România se scufundă în Marea Neagră, după un atac cu drone. Ce s-a întâmplat cu membrii echipajului",
@@ -2164,6 +2204,32 @@
     }
    ],
    "img_tried": true
+  },
+  {
+   "id": "03c4fd725563",
+   "lang": "en",
+   "title": "Bulgaria Rescues 12 Crew as Attacked Cargo Ship Capsizes",
+   "titles": {
+    "en": "Bulgaria Rescues 12 Crew as Attacked Cargo Ship Capsizes"
+   },
+   "summary": "Strikes on commercial shipping in the Black Sea east of Bulgaria and Romania have resumed, with the latest incident coming Monday morning, November ...",
+   "url": "https://maritime-executive.com/article/bulgaria-rescues-12-crew-as-attacked-cargo-ship-capsizes",
+   "source": "The Maritime Executive",
+   "published": "2026-11-16T07:22:00Z",
+   "fetched": "2026-11-25T14:01:16Z",
+   "image": "http://www.bing.com/th?id=ONUT.e1qPJq4EzHMbEdNjyKdz7Q&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.mJBPdnDf_tOPYstjMk7eGQ&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "The Kyiv Independent on MSN",
+     "url": "https://www.msn.com/en-us/news/other/cargo-ship-sinks-in-bulgarias-black-sea-after-reported-drone-attack-all-12-crew-rescued/ar-AA2hz4GB"
+    }
+   ]
   },
   {
    "id": "eea5b1e25f1f",
@@ -2208,7 +2274,13 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "also": [
+    {
+     "source": "B1TV.ro",
+     "url": "https://www.b1tv.ro/eveniment/operatiune-de-salvare-in-marea-neagra-ce-nava-s-a-scufundat-1750383.html"
+    }
+   ]
   },
   {
    "id": "9fee900c0835",
@@ -2226,6 +2298,28 @@
    "fallback_image": "http://www.bing.com/th?id=ONUT.aGrKU5GOFPkr9gM9it97og&pid=News",
    "topics": [
     "shipping"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "632038ca9d1d",
+   "lang": "ro",
+   "title": "Incidente în lanț în Marea Neagră: Navă cu grâu scufundată, 12 marinari salvați și resturi de drone descoperite în larg",
+   "titles": {
+    "ro": "Incidente în lanț în Marea Neagră: Navă cu grâu scufundată, 12 marinari salvați și resturi de drone descoperite în larg"
+   },
+   "summary": "Ministrul Apărării, Radu Oprea, a anunţat că, astăzi, 16 noiembrie, vor avea loc două misiuni de intervenţie asupra unor drone aeriene care plutesc în Marea Neagră.",
+   "url": "https://stirileprotv.ro/stiri/actualitate/drone-aeriene-in-deriva-in-marea-neagra-for-ele-navale-romane-au-decis-sa-intervina.html",
+   "source": "Știrile PRO TV",
+   "published": "2026-11-16T03:27:00Z",
+   "fetched": "2026-11-25T14:01:16Z",
+   "image": "https://stirileprotv.ro/img/2026/02/27/055851/natomarea-neagra-afp.jpg?fm=jpg&q=80&fit=crop&crop=1920%2C1080%2C0%2C0&watermark=og&w=1280",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.2ybw8ObUnL6xJBoyF-ipDg&pid=News",
+   "topics": [
+    "attacks",
+    "shipping",
+    "grain"
    ],
    "places": [],
    "img_tried": true
@@ -2526,25 +2620,30 @@
    "img_tried": true
   },
   {
-   "id": "537c5b6253c6",
+   "id": "668ab4071447",
    "lang": "ro",
-   "title": "Continuă atacurile din Marea Neagră. O navă comercială a fost lovită de o dronă lângă Sfântu Gheorghe",
+   "title": "Continuă atacurile din Marea Neagră! O navă comercială a fost lovită de o dronă lângă Sfântu Gheorghe",
    "titles": {
-    "ro": "Continuă atacurile din Marea Neagră. O navă comercială a fost lovită de o dronă lângă Sfântu Gheorghe"
+    "ro": "Continuă atacurile din Marea Neagră! O navă comercială a fost lovită de o dronă lângă Sfântu Gheorghe"
    },
-   "summary": "Continuă atacurile asupra navelor care circulă în Marea Neagră! A fost alertă în noaptea de vineri spre sâmbătă, după ce un vas comercial a fost lovit de o dronă în apele teritoriale românești, în apr ...",
-   "url": "https://psnews.ro/continua-atacurile-din-marea-neagra-o-nava-comerciala-a-fost-lovita-de-o-drona-langa-sfantu-gheorghe/",
-   "source": "PS News",
-   "published": "2026-11-14T05:50:00Z",
-   "fetched": "2026-11-25T13:50:37Z",
+   "summary": "Continuă atacurile asupra navelor care circulă în Marea Neagră! A fost alertă în noaptea de vineri spre sâmbătă, după ce un ...",
+   "url": "https://www.romaniatv.net/continua-atacurile-din-marea-neagra-o-nava-comerciala-a-fost-lovita-de-o-drona-langa-sfantu-gheorghe_9918421.html",
+   "source": "Romania TV",
+   "published": "2026-11-14T02:17:00Z",
+   "fetched": "2026-11-25T14:01:16Z",
    "image": "https://psnews.ro/wp-content/uploads/2026/10/nava-mariam-m-in-marea-neagra-1024x576-1-1024x576-1.webp",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.wYA-hOrA5BE9iWzE11KM9w&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.eWo1ho5CCvepHqgECxn2JA&pid=News",
    "topics": [
     "attacks",
     "shipping"
    ],
    "places": [],
-   "img_tried": true
+   "also": [
+    {
+     "source": "PS News",
+     "url": "https://psnews.ro/continua-atacurile-din-marea-neagra-o-nava-comerciala-a-fost-lovita-de-o-drona-langa-sfantu-gheorghe/"
+    }
+   ]
   },
   {
    "id": "25786bb6a66d",
