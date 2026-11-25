@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:56:44Z",
+ "updated": "2026-11-25T14:00:10Z",
  "items": [
   {
    "id": "9eeac677e602",
@@ -70,6 +70,30 @@
    ]
   },
   {
+   "id": "7d3389a5e6bf",
+   "lang": "en",
+   "title": "Ukraine battles to keep lights on in Odesa as Russia strikes grid",
+   "titles": {
+    "en": "Ukraine battles to keep lights on in Odesa as Russia strikes grid",
+    "ro": "Ucraina se luptă să mențină alimentarea cu energie electrică în Odesa, în timp ce Rusia lovește rețeaua electrică",
+    "bg": "Украйна се бори да поддържа електроснабдяването в Одеса, докато Русия нанася удари по електропреносната мрежа"
+   },
+   "summary": "By Iryna Nazarchuk ODESA, Ukraine, Nov 25 (Reuters) - Inspecting the wreckage of a damaged electrical substation in Odesa, Dmytro Hryhoryev said the attack was part of Russian efforts to cut off the ...",
+   "url": "https://www.msn.com/en-us/news/other/ukraine-battles-to-keep-lights-on-in-odesa-as-russia-strikes-grid/ar-AA2icRGR",
+   "source": "Reuters on MSN",
+   "published": "2026-11-25T05:18:46Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "http://www.bing.com/th?id=ONUT.B21UQZS8bfD1DQ1-LsT9cA&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.B21UQZS8bfD1DQ1-LsT9cA&pid=News",
+   "topics": [
+    "attacks"
+   ],
+   "places": [
+    "odesa"
+   ],
+   "img_tried": true
+  },
+  {
    "id": "092938e90df1",
    "lang": "en",
    "title": "Russia and Ukraine released different videos of the same naval drone attack",
@@ -135,6 +159,28 @@
    "topics": [
     "attacks",
     "energy"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "da9dad1a35a6",
+   "lang": "en",
+   "title": "Chinese envoy calls for protecting Black Sea shipping",
+   "titles": {
+    "en": "Chinese envoy calls for protecting Black Sea shipping",
+    "ro": "Ambasadorul chinez face apel la protejarea transportului maritim pe Marea Neagră",
+    "bg": "Китайският посланик призовава за защита на корабоплаването в Черно море"
+   },
+   "summary": "VLADYSLAV MUSIIENKO/AFP] China called for the protection of civilian infrastructure and commercial shipping on Monday amid escalating hostilities in the Ukraine conflict, warning that disruptions to ...",
+   "url": "https://www.chinadaily.com.cn/a/202611/25/WS6b063a83e4b03ebf8519e866.html",
+   "source": "China Daily",
+   "published": "2026-11-25T01:31:00Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "http://img2.chinadaily.com.cn/images/202611/25/6b063a83e4b03ebf74645d8e.png",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.XtHU1MqzXskCy8gmaGmb6A&pid=News",
+   "topics": [
+    "shipping"
    ],
    "places": [],
    "img_tried": true
@@ -218,6 +264,10 @@
     {
      "source": "Euronews on MSN",
      "url": "https://www.msn.com/en-in/news/other/christmas-decorations-found-in-washed-up-container-from-ship-hit-by-drones-off-bulgaria-s-black-sea-coast/ar-AA2icU7w"
+    },
+    {
+     "source": "Euronews on MSN",
+     "url": "https://www.msn.com/en-us/news/other/christmas-decorations-found-in-washed-up-container-from-ship-hit-by-drones-off-bulgaria-s-black-sea-coast/ar-AA2icksh"
     }
    ],
    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNSUyRjA2JTJGMjI1MjEzOF8yMjUy/MTM4X0NvbnRhaW5lcmUuanBnJmhhc2g9/NDhiNWJjMDBkYzkwODNjNmJiNWU5YmVlYTljZjFhNjk=.jpg",
@@ -265,29 +315,13 @@
     "shipping"
    ],
    "places": [],
-   "img_tried": true
-  },
-  {
-   "id": "809b97a50c20",
-   "lang": "bg",
-   "title": "България иска от съюзниците повече наблюдение в Черно море, Турция е предпазлива",
-   "titles": {
-    "bg": "България иска от съюзниците повече наблюдение в Черно море, Турция е предпазлива",
-    "en": "Bulgaria is calling on its allies to step up surveillance in the Black Sea; Turkey is cautious",
-    "ro": "Bulgaria solicită aliaților să intensifice supravegherea în Marea Neagră, iar Turcia se arată prudentă"
-   },
-   "summary": "Алиансът засилва наблюдението след атаки срещу търговски кораби, но Анкара не подкрепя автоматично разширяване на натовското присъствие в региона ...",
-   "url": "https://fakti.bg/world/1104357-balgaria-iska-ot-sauznicite-poveche-nabludenie-v-cherno-more-turcia-e-predpazliva",
-   "source": "ФАКТИ.БГ",
-   "published": "2026-11-24T22:12:00Z",
-   "fetched": "2026-11-25T13:53:52Z",
-   "image": "https://cdn4.focus.bg/fakti/photos/fb/54a/balgaria-iska-ot-sauznicite-poveche-nabludenie-v-cherno-more-turcia-e-predpazliva-1.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.iuUrvpHtURja9kTS8ksUcg&pid=News",
-   "topics": [
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true
+   "img_tried": true,
+   "also": [
+    {
+     "source": "ФАКТИ.БГ",
+     "url": "https://fakti.bg/world/1104357-balgaria-iska-ot-sauznicite-poveche-nabludenie-v-cherno-more-turcia-e-predpazliva"
+    }
+   ]
   },
   {
    "id": "94fca5faffa8",
@@ -316,6 +350,32 @@
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYzFlT0xXeng5MGFqZk9kN2RGNlQ4eGFpcjJybHd4SWRnTzNPWldqQ1MzRDBySVFaOEdLeGNoa3kydmdRMGJOSXFITVBoZUtfdlVQYlRhdkRPUzVDTmlxcnA4QWZJUFY2QnhTRjk5YjlpcTc3T1JtQll3OGczcWNDUDlRWm1QTHhEWHotZTgtZXdUWTdTbUliUE5HckhpVEtqMXc?oc=5"
     }
    ]
+  },
+  {
+   "id": "b9aa04423000",
+   "lang": "en",
+   "title": "Insurance costs for Black Sea merchant ships surge",
+   "titles": {
+    "en": "Insurance costs for Black Sea merchant ships surge",
+    "ro": "Costurile asigurărilor pentru navele comerciale din Marea Neagră cresc vertiginos",
+    "bg": "Разходите за застраховка на търговските кораби в Черно море се увеличават значително"
+   },
+   "summary": "The cost of hull insurance for ships – excluding third-party liability and war-risk cover – has increased by more than 50% for vessels operating on the Danube and in the Black Sea waters where ...",
+   "url": "https://www.romania-insider.com/business/insurance-costs-black-sea-merchant-ships-surge",
+   "source": "Romania Insider",
+   "published": "2026-11-24T15:59:00Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "http://www.bing.com/th?id=ONUT.2ITGqTYSuPixqkP7EsomSQ&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.2ITGqTYSuPixqkP7EsomSQ&pid=News",
+   "topics": [
+    "shipping",
+    "insurance",
+    "prices"
+   ],
+   "places": [
+    "danube"
+   ],
+   "img_tried": true
   },
   {
    "id": "9aba8a8682da",
@@ -388,7 +448,9 @@
    "lang": "ro",
    "title": "„Putin mi-a furat țara”: Cine este rusul din spatele rachetelor cu care Ucraina a distrus Podul Kerci din Crimeea",
    "titles": {
-    "ro": "„Putin mi-a furat țara”: Cine este rusul din spatele rachetelor cu care Ucraina a distrus Podul Kerci din Crimeea"
+    "ro": "„Putin mi-a furat țara”: Cine este rusul din spatele rachetelor cu care Ucraina a distrus Podul Kerci din Crimeea",
+    "en": "“Putin has stolen my country”: Who is the Russian behind the missiles with which Ukraine destroyed the Kerch Bridge in Crimea?",
+    "bg": "„Путин ми открадна страната“: Кой е руснакът, стоящ зад ракетите, с които Украйна разруши Керченския мост в Крим"
    },
    "summary": "Pentru a distruge Podul Kerci, armata ucraineană a folosit inclusiv rachete de croazieră construite de compania lui Mihail Kokorici, un fizician și antreprenor rus care îl urăște pe Vladimir Putin și susține Ucraina, relatează Wall Street Journal. Mai multe rachete Ruta fabricate de Destinus au…",
    "url": "https://www.digi24.ro/stiri/externe/putin-mi-a-furat-tara-cine-este-rusul-din-spatele-rachetelor-cu-care-ucraina-a-distrus-podul-kerci-din-crimeea-4049807",
@@ -403,11 +465,37 @@
    ]
   },
   {
+   "id": "45cadd6f43fd",
+   "lang": "en",
+   "title": "300 Ship Attacks Make Black Sea The Deadliest Maritime Route Of 2026 As Grain Shipments Plunge 63%",
+   "titles": {
+    "en": "300 Ship Attacks Make Black Sea The Deadliest Maritime Route Of 2026 As Grain Shipments Plunge 63%",
+    "ro": "Cele 300 de atacuri asupra navelor fac din Marea Neagră cea mai periculoasă rută maritimă din 2026, în contextul în care transporturile de cereale au scăzut cu 63%",
+    "bg": "300 нападения над кораби превръщат Черно море в най-смъртоносния морски маршрут за 2026 г., като превозите на зърно се сриват с 63%"
+   },
+   "summary": "About one-third of global grain exports moved through the Black Sea before Russia launched its full-scale invasion of Ukraine in 2022. A grain corridor deal brokered by the UN and Türkiye in July 2022 ...",
+   "url": "https://www.marineinsight.com/black-sea-shipping-attacks-deadliest-route-hunger/",
+   "source": "Marine Insight",
+   "published": "2026-11-24T04:46:00Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "https://www.marineinsight.com/wp-content/uploads/2026/11/Ship-Attack-on-Black-Sea-1.png",
+   "fallback_image": "",
+   "topics": [
+    "attacks",
+    "shipping",
+    "grain"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
    "id": "78d255ef606b",
    "lang": "ro",
    "title": "România, punct-cheie pe piața cerealelor! Exporturile prin Portul Constanța au crescut cu 17%. Ce se întâmplă cu prețul grâului?",
    "titles": {
-    "ro": "România, punct-cheie pe piața cerealelor! Exporturile prin Portul Constanța au crescut cu 17%. Ce se întâmplă cu prețul grâului?"
+    "ro": "România, punct-cheie pe piața cerealelor! Exporturile prin Portul Constanța au crescut cu 17%. Ce se întâmplă cu prețul grâului?",
+    "en": "Romania, a key player in the cereals market! Exports via the Port of Constanța have risen by 17 per cent. What is happening to the price of wheat?",
+    "bg": "Румъния – ключов играч на пазара на зърнени култури! Износът през пристанището в Констанца е нараснал с 17%. Какво се случва с цената на пшеницата?"
    },
    "summary": "România își consolidează poziția pe piața internațională a cerealelor: exporturile prin Portul Constanța au crescut cu 17% în primele zece luni ale anului ...",
    "url": "https://revista-ferma.ro/romania-punct-cheie-pe-piata-cerealelor-exporturile-prin-portul-constanta-au-crescut-cu-17-ce-se-intampla-cu-pretul-graului/",
@@ -424,6 +512,48 @@
    "places": [
     "constanta"
    ],
+   "img_tried": true
+  },
+  {
+   "id": "4866bf4712e7",
+   "lang": "en",
+   "title": "Russia, Ukraine Trade Accusations at UN Over Black Sea Shipping, Energy Attacks",
+   "titles": {
+    "en": "Russia, Ukraine Trade Accusations at UN Over Black Sea Shipping, Energy Attacks"
+   },
+   "summary": "Russia and Ukraine trade accusations at the UN over attacks on Black Sea shipping, energy infrastructure and civilian vessels.",
+   "url": "https://en.tempo.co/read/2124287/russia-ukraine-trade-accusations-at-un-over-black-sea-shipping-energy-attacks",
+   "source": "Tempo.co English",
+   "published": "2026-11-24T04:05:00Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "http://www.bing.com/th?id=ONUT.ejFer7i29MHfvERyQQ-aIw&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.ejFer7i29MHfvERyQQ-aIw&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "5245bb87b883",
+   "lang": "en",
+   "title": "WFP calls for humanitarian grain shipping mechanism in the Black Sea",
+   "titles": {
+    "en": "WFP calls for humanitarian grain shipping mechanism in the Black Sea"
+   },
+   "summary": "The World Food Programme (WFP) has called for renewed efforts to facilitate humanitarian grain shipments amid escalating Black Sea security risks.",
+   "url": "https://safety4sea.com/wfp-calls-for-humanitarian-grain-shipping-mechanism-in-the-black-sea/",
+   "source": "SAFETY4SEA",
+   "published": "2026-11-24T03:13:00Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "https://safety4sea.com/wp-content/uploads/2026/04/shutterstock_2692557675-e1775471581436.jpg",
+   "fallback_image": "",
+   "topics": [
+    "shipping",
+    "grain"
+   ],
+   "places": [],
    "img_tried": true
   },
   {
@@ -469,6 +599,48 @@
    ]
   },
   {
+   "id": "1034b781559a",
+   "lang": "en",
+   "title": "Türkiye draws up plan to secure Black Sea shipping",
+   "titles": {
+    "en": "Türkiye draws up plan to secure Black Sea shipping"
+   },
+   "summary": "Türkiye is developing a mechanism to ensure safe passage for commercial vessels in the Black Sea and keep food and agricultural exports moving, its U.N. envoy said on Nov. 23.",
+   "url": "https://www.hurriyetdailynews.com/turkiye-draws-up-plan-to-secure-black-sea-shipping-229770",
+   "source": "Hürriyet Daily News",
+   "published": "2026-11-24T01:30:00Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6b052eff2356f0a3a15a4293.jpg",
+   "fallback_image": "",
+   "topics": [
+    "shipping",
+    "grain"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "bcc2da6b19d3",
+   "lang": "en",
+   "title": "UN Warns Black Sea Grain, El Niño Risk Global Food Crises",
+   "titles": {
+    "en": "UN Warns Black Sea Grain, El Niño Risk Global Food Crises"
+   },
+   "summary": "The United Nations has warned that the Ukraine war’s disruption of Black Sea grain shipments, compounded by climate shocks from El Niño, could worsen global food crises, particularly in the Middle ...",
+   "url": "https://www.msn.com/en-xl/money/general/un-warns-black-sea-grain-el-ni%C3%B1o-risk-global-food-crises/ar-AA2i66IK",
+   "source": "The Chosun Ilbo on MSN",
+   "published": "2026-11-23T22:33:16Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "http://www.bing.com/th?id=ONUT.MlhVE1jLLSK85-EetkWV6A&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.MlhVE1jLLSK85-EetkWV6A&pid=News",
+   "topics": [
+    "shipping",
+    "grain"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
    "id": "cdd1932bcda2",
    "lang": "ro",
    "title": "Luca Niculescu, în presa franceză, despre creşterea costului vieţii: Înţeleg îngrijorările românilor. Dar există şi motive de optimism",
@@ -483,6 +655,48 @@
    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIxJTJGMzAyNTEzOV8zMDI1/MTM5X2x1Y2EtbmljdWxlc2N1LUlOU1RB/TlRfNF9DT1RST0NFTklfVklDVE9SSUFf/MDE2X0lOUVVBTV9QaG90b3NfT2N0YXZf/R2FuZWEucG5nJmhhc2g9NTNhODhjMTFlMmYwMjQ4MDkzODNmYzA3MWI3NzE3OGE=.png",
    "topics": [],
    "places": []
+  },
+  {
+   "id": "5262f102aad5",
+   "lang": "en",
+   "title": "Russia, Ukraine clash at UN over attacks on Black Sea shipping, energy strikes",
+   "titles": {
+    "en": "Russia, Ukraine clash at UN over attacks on Black Sea shipping, energy strikes"
+   },
+   "summary": "Moscow accuses Ukrainian forces of targeting more than 200 commercial vessels as Washington urges immediate halt to maritime and energy strikes | Anadolu ...",
+   "url": "https://www.aa.com.tr/en/world/russia-ukraine-clash-at-un-over-attacks-on-black-sea-shipping-energy-strikes/4135194",
+   "source": "Anadolu Agency",
+   "published": "2026-11-23T18:23:00Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/11/24/thumbs_b_c_ca94c3c3d37bcd526a8f2177e50c7a65.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.XLmarXzJ7eurqm8EheG7Hw&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "2547ad230a96",
+   "lang": "en",
+   "title": "Drone attacks and Black Sea storms delay Russian tanker loadings",
+   "titles": {
+    "en": "Drone attacks and Black Sea storms delay Russian tanker loadings"
+   },
+   "summary": "When you click on “Accept all”, you consent to ads on this site being customized to a personal profile we or our advertising partners may have about you. Choose “Customize or Reject all” if you want ...",
+   "url": "https://www.tradewindsnews.com/tankers/drone-attacks-and-black-sea-storms-delay-russian-tanker-loadings/2-1-2078549",
+   "source": "TradeWinds",
+   "published": "2026-11-23T17:14:00Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "https://image.dngroup.com/global/nhst/binary/79af8f306ca50d2b1df4ed687d4bdb70?crop=680%2C340%2Cx0%2Cy174%2Csafe&width=1200&format=webp&quality=80",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.JVtj32X3Z3bxAG_Da13y-A&pid=News",
+   "topics": [
+    "attacks",
+    "energy"
+   ],
+   "places": [],
+   "img_tried": true
   },
   {
    "id": "17de408e3dae",
@@ -507,6 +721,47 @@
    "img_tried": true
   },
   {
+   "id": "d4ebe19359aa",
+   "lang": "en",
+   "title": "Türkiye is developing a mechanism to ensure the safe navigation of commercial vessels in the Black Sea: UN envoy",
+   "titles": {
+    "en": "Türkiye is developing a mechanism to ensure the safe navigation of commercial vessels in the Black Sea: UN envoy"
+   },
+   "summary": "Ahmet Yildiz warns that drone strikes on merchant ships threaten global food security while highlighting regional demining efforts | Anadolu ...",
+   "url": "https://www.aa.com.tr/en/turkiye/turkiye-is-developing-a-mechanism-to-ensure-the-safe-navigation-of-commercial-vessels-in-the-black-sea-un-envoy/4135196",
+   "source": "Anadolu Agency",
+   "published": "2026-11-23T16:00:00Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/11/24/thumbs_b_c_fb98a88a288d357be985ee4cb296483e.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.SgQtISOYkkvEd0-npQNN3g&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "997f20ee3271",
+   "lang": "en",
+   "title": "Türkiye's 'effective mechanism' secures Black Sea shipping, food supplies",
+   "titles": {
+    "en": "Türkiye's 'effective mechanism' secures Black Sea shipping, food supplies"
+   },
+   "summary": "Türkiye's UN envoy says a new maritime safety mechanism aims to secure shipping routes and safeguard food supplies for countries dependent on Black Sea exports.",
+   "url": "https://www.trtworld.com/article/e7e84d05d20b",
+   "source": "TRT World",
+   "published": "2026-11-23T15:26:00Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "https://d341l694dl30ad.cloudfront.net/images/cms/2026/11/23/6b04c2f6ff50fc723e33f6b9/original/ff19a8c8-ee17-40f2-a896-e018cc527238-1795474166557.JPG?width=1080&format=jpg&quality=80",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.wLkqK8GsDDFEzTzeRYl20g&pid=News",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
    "id": "636084f299fd",
    "lang": "en",
    "title": "Russia, Ukraine trade blames at UNSC over Black Sea, energy attacks",
@@ -524,6 +779,28 @@
     "attacks"
    ],
    "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "3ead16f96a9e",
+   "lang": "ro",
+   "title": "Portul Constanța riscă să piardă clienți, iar românii să plătească mai mult. Efectele războiului din Marea Neagră",
+   "titles": {
+    "ro": "Portul Constanța riscă să piardă clienți, iar românii să plătească mai mult. Efectele războiului din Marea Neagră"
+   },
+   "summary": "Portul Constanța riscă să piardă clienți, iar românii să plătească mai mult. Efectele războiului din Marea Neagră ...",
+   "url": "https://stirileprotv.ro/stiri/actualitate/portul-constanta-risca-sa-piarda-clienti-iar-romanii-sa-plateasca-mai-mult-efectele-razboiului-din-marea-neagra.html",
+   "source": "Știrile PRO TV",
+   "published": "2026-11-23T14:23:00Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "https://stirileprotv.ro/img/2026/11/23/174702/trafic-marea-neagra.jpg?fm=jpg&q=80&fit=crop&crop=827%2C466%2C15%2C0&watermark=og&w=1280",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.Tf6L-NxfuQfLpPSTom6v6g&pid=News",
+   "topics": [
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
    "img_tried": true
   },
   {
@@ -614,6 +891,47 @@
    "fallback_image": "http://www.bing.com/th?id=ONUT.7aWkh79VM5rXJyJqS2YSKg&pid=News",
    "topics": [
     "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "284b35f2c017",
+   "lang": "en",
+   "title": "‘A ship graveyard’ — Azerbaijani sailors on the growing dangers of the Black Sea",
+   "titles": {
+    "en": "‘A ship graveyard’ — Azerbaijani sailors on the growing dangers of the Black Sea"
+   },
+   "summary": "Since June, eight Azerbaijani sailors have been killed in drone strikes on merchant ships operating on the Black Sea.",
+   "url": "https://oc-media.org/a-ship-graveyard-azerbaijani-sailors-on-the-growing-dangers-of-the-black-sea/",
+   "source": "OC Media",
+   "published": "2026-11-23T04:04:00Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "https://assets.bucket.fourthestate.app/oc-media-prod/content/images/2026/11/AP25322297961746_20261123-120340.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.YtMbGPs_B5d6lHaSwD9UeQ&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "5b03227ae9f3",
+   "lang": "bg",
+   "title": "Гръцките медии бият тревога: Кораби потъват един след друг в Черно море край България",
+   "titles": {
+    "bg": "Гръцките медии бият тревога: Кораби потъват един след друг в Черно море край България"
+   },
+   "summary": "Гръцките медии бият тревога: Кораби потъват един след друг в Черно море край България ✔️ Вижте подробности на Offnews.bg от автор OFFNews ...",
+   "url": "https://offnews.bg/sviat/gratckite-medii-biat-trevoga-korabi-potavat-edin-sled-drug-v-cherno-m-879037.html",
+   "source": "OFFNews",
+   "published": "2026-11-23T00:15:00Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "https://i2.offnews.bg/events/2026/11/23/879037/phpryksky.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.Trtzo9d7BFnUTeFlZy65hQ&pid=News",
+   "topics": [
     "shipping"
    ],
    "places": [],
@@ -745,6 +1063,29 @@
    "img_tried": true
   },
   {
+   "id": "fefa2e49d59c",
+   "lang": "bg",
+   "title": "Русия съобщи, че е ударила кораб в Черно море",
+   "titles": {
+    "bg": "Русия съобщи, че е ударила кораб в Черно море"
+   },
+   "summary": "Руското Министерство на отбраната съобщи за удар с дронове по сухотоварен кораб в Черно море, североизточно от Одеса. Според Москва плавателният съд е пре... Прочетете цялата новина тук на Vesti.bg ...",
+   "url": "https://www.vesti.bg/sviat/rusiia-syobshti-che-e-udarila-korab-v-cherno-more-6276970",
+   "source": "Vesti.bg",
+   "published": "2026-11-22T06:55:00Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "https://m.netinfo.bg/media/images/50532/50532390/1920-1080-f.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.0BymDvlAxomp4c9A3Q4q_g&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [
+    "odesa"
+   ],
+   "img_tried": true
+  },
+  {
    "id": "37be411bb653",
    "lang": "bg",
    "title": "Русия призна, че е атакувала кораб в Черно море",
@@ -808,6 +1149,27 @@
    "img_tried": true
   },
   {
+   "id": "229921bdaec1",
+   "lang": "en",
+   "title": "Russian warship sinks off Libya as suspected Ukrainian strikes take war beyond Black Sea",
+   "titles": {
+    "en": "Russian warship sinks off Libya as suspected Ukrainian strikes take war beyond Black Sea"
+   },
+   "summary": "The Russian corvette Merkury capsized at Benghazi Naval Base after suspected Ukrainian sea drones struck, injuring ten people, Libyan officials say.",
+   "url": "https://www.foxnews.com/world/russian-warship-sinks-libya-suspected-ukrainian-strikes-take-war-beyond-black-sea",
+   "source": "Fox News",
+   "published": "2026-11-21T17:30:00Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/benghazi-port-drone-strike.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.T-NL95vodiIE2122-ycTTg&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
    "id": "4e86516354d7",
    "lang": "en",
    "title": "Electricity supply situation remains difficult in Odesa region – Ministry of Energy",
@@ -828,6 +1190,28 @@
    ]
   },
   {
+   "id": "63f25e991a41",
+   "lang": "ro",
+   "title": "O parte a Mării Negre, în largul coastelor României, a fost declarată zonă cu risc ridicat. Ce înseamnă decizia pentru navigatori și portul Constanța",
+   "titles": {
+    "ro": "O parte a Mării Negre, în largul coastelor României, a fost declarată zonă cu risc ridicat. Ce înseamnă decizia pentru navigatori și portul Constanța"
+   },
+   "summary": "O parte a Mării Negre, inclusiv apele din largul coastelor României și Bulgariei, a fost inclusă într-o zonă maritimă cu risc ridicat, în urma unei decizii adoptate la nivel internațional. Măsura vize ...",
+   "url": "https://www.ctnews.ro/o-parte-a-marii-negre-in-largul-coastelor-romaniei-a-fost-declarata-zona-cu-risc-ridicat-ce-inseamna-decizia-pentru-navigatori-si-portul-constanta/",
+   "source": "ctnews",
+   "published": "2026-11-21T15:59:00Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "https://www.ctnews.ro/wp-content/uploads/2026/11/navigatie.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.QnQgu4JatgW9VrMivgpx-A&pid=News",
+   "topics": [
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "img_tried": true
+  },
+  {
    "id": "0c7ae8413ddd",
    "lang": "ro",
    "title": "Zona de risc din Marea Neagră s-a extins în largul României. Unele transporturi au deja suprataxe de 30-70 de dolari pe container",
@@ -845,6 +1229,30 @@
     "shipping"
    ],
    "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "8e0839635873",
+   "lang": "ro",
+   "title": "Rusia susține că a lovit în Marea Neagră o navă care transporta echipament militar pentru Ucraina",
+   "titles": {
+    "ro": "Rusia susține că a lovit în Marea Neagră o navă care transporta echipament militar pentru Ucraina"
+   },
+   "summary": "Rusia susține că a lovit o navă de marfă în Marea Neagră, la 107 kilometri de Odesa. România, în alertă după atacurile asupra navelor comerciale de lângă SulinaO nouă lovitură asupra navigației comerc ...",
+   "url": "https://www.dcnews.ro/rusia-sustine-ca-a-lovit-in-marea-neagra-o-nava-care-transporta-echipament-militar-pentru-ucraina_1097907.html",
+   "source": "DCNews",
+   "published": "2026-11-21T11:15:00Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "https://www.dcnews.ro/thumbs/amp/2026/11/21/rusia-sustine-ca-a-lovit-in-marea-neagra-o-nava-care-transporta-echipament-militar-pentru-ucraina-5469696.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.5lfVhT5HoE_HpTEexXMbjw&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [
+    "odesa",
+    "danube"
+   ],
    "img_tried": true
   },
   {
@@ -1047,6 +1455,26 @@
    "fallback_image": "http://www.bing.com/th?id=ONUT.2yqUYW04xUGUnzmHoHMlPg&pid=News"
   },
   {
+   "id": "c3170956fbd8",
+   "lang": "bg",
+   "title": "Военният министър: Не е важно чии са дроновете в Черно море, ако те са заплаха за България",
+   "titles": {
+    "bg": "Военният министър: Не е важно чии са дроновете в Черно море, ако те са заплаха за България"
+   },
+   "summary": "По думите му снимки на дронове са изпратени на съюзниците, но от тях все още не е получен отговор за произхода им ...",
+   "url": "https://webcafe.bg/bulgaria/voenniyat-ministar-ne-e-vazhno-chii-sa-dronovete-v-cherno-more-ako-te-sa-zaplaha-za-balgariya.html",
+   "source": "Webcafe.bg",
+   "published": "2026-11-18T07:38:00Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "https://static.webcafe.bg/uploads/images/77/0577/400577/1200x675.jpg?_=20260911121821",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.13bB2vw4IAerNug8BOfgzA&pid=News",
+   "topics": [
+    "attacks"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
    "id": "4f714fd21127",
    "lang": "bg",
    "title": "Кораби потъват край България, а Радев и Йотова мълчат",
@@ -1197,6 +1625,28 @@
    "img_tried": true
   },
   {
+   "id": "5ed5c5149891",
+   "lang": "en",
+   "title": "Ukraine says Russian strikes kill four in Odesa",
+   "titles": {
+    "en": "Ukraine says Russian strikes kill four in Odesa"
+   },
+   "summary": "Ukraine says Russian strikes kill four in Odesa historic centre, with 13 casualties reported in attacks on first responders. Read more at straitstimes.com.",
+   "url": "https://www.straitstimes.com/world/europe/ukraine-says-russian-strikes-kill-four-in-odesa",
+   "source": "The Straits Times",
+   "published": "2026-11-17T16:10:00Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3339599e84bc7c8c3b4a46cf730438a94d2fedbff0cf02cd600e8ad25b1da549?t=og",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.FdfJAVlTrgDccDCMYqqTQQ&pid=News",
+   "topics": [
+    "attacks"
+   ],
+   "places": [
+    "odesa"
+   ],
+   "img_tried": true
+  },
+  {
    "id": "90f381e31e51",
    "lang": "en",
    "title": "Black Sea Grain Trade Shifts to the Baltic",
@@ -1237,6 +1687,28 @@
     "shipping"
    ],
    "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "261778940420",
+   "lang": "en",
+   "title": "Ukraine: TV producer Khrystyna Lysenko killed in Russian strike on Odesa",
+   "titles": {
+    "en": "Ukraine: TV producer Khrystyna Lysenko killed in Russian strike on Odesa"
+   },
+   "summary": "Khrystyna Lysenko, a producer at the local Ukrainian television channel Pershiy Miskiy, was killed in a Russian strike on Odesa on Wednesday, 18 November. Reporters Without Borders (RSF) pays tribute ...",
+   "url": "https://rsf.org/en/ukraine-tv-producer-khrystyna-lysenko-killed-russian-strike-odesa",
+   "source": "Reporters Without Borders",
+   "published": "2026-11-17T16:00:00Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "https://rsf.org/sites/default/files/medias/image/2026/11/Ukraine_%20Khrystyna%20Lysenko.png",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.Cgdwt3LVY0FSG2kYKjMeTw&pid=News",
+   "topics": [
+    "attacks"
+   ],
+   "places": [
+    "odesa"
+   ],
    "img_tried": true
   },
   {
@@ -1544,6 +2016,28 @@
    "img_tried": true
   },
   {
+   "id": "c1235a4529c7",
+   "lang": "bg",
+   "title": "Изчезнал сигнал на кораб в Черно море задейства спешна проверка",
+   "titles": {
+    "bg": "Изчезнал сигнал на кораб в Черно море задейства спешна проверка"
+   },
+   "summary": "Към момента няма постъпил сигнал за бедствие от кораб в района От Морския спасително-координационен център във Варна проверяват информация за възможен нов инцидент с търговски кораб в българската ико ...",
+   "url": "https://trud.bg/a/articles/izcheznal-signal-na-korab-v-cherno-more-zadeystva-speshna-proverka",
+   "source": "Труд",
+   "published": "2026-11-17T00:12:00Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "http://www.bing.com/th?id=ONUT.9xeAthlCA5BgD-0XwbAJdQ&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.9xeAthlCA5BgD-0XwbAJdQ&pid=News",
+   "topics": [
+    "shipping"
+   ],
+   "places": [
+    "varna"
+   ],
+   "img_tried": true
+  },
+  {
    "id": "315142aa1fe8",
    "lang": "bg",
    "title": "\"Поели са фатален риск в открито море\": Капитан с подробности за поредния ударен кораб в Черно море",
@@ -1740,6 +2234,26 @@
    "img_tried": true
   },
   {
+   "id": "9fee900c0835",
+   "lang": "bg",
+   "title": "Товарен кораб потъва в българската икономическа зона в Черно море",
+   "titles": {
+    "bg": "Товарен кораб потъва в българската икономическа зона в Черно море"
+   },
+   "summary": "В ход е мащабна спасителна операция по въздух и вода за 12-те моряци на борда на плаващия под сомалийски флаг съд ...",
+   "url": "https://www.bgonair.bg/a/2-bulgaria/436765-tovaren-korab-potava-v-balgarskata-ikonomicheska-zona-v-cherno-more",
+   "source": "Bulgaria ON AIR",
+   "published": "2026-11-16T04:06:00Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "http://www.bing.com/th?id=ONUT.aGrKU5GOFPkr9gM9it97og&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.aGrKU5GOFPkr9gM9it97og&pid=News",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true
+  },
+  {
    "id": "dd371b53d330",
    "lang": "en",
    "title": "Romania advises ships to avoid Black Sea area after four vessels hit by drones",
@@ -1780,6 +2294,29 @@
     "insurance"
    ],
    "places": [],
+   "img_tried": true
+  },
+  {
+   "id": "33ff162c33b1",
+   "lang": "bg",
+   "title": "Ново нападение в Черно море: Дрон атакува товарен кораб край Калиакра",
+   "titles": {
+    "bg": "Ново нападение в Черно море: Дрон атакува товарен кораб край Калиакра"
+   },
+   "summary": "В Морския спасителен координационен център - Варна в 9:15 ч. е получен сигнал за бедствие от екипажа на товарния кораб BETUL 8 в българската изключителна икономическа зона на Черно море, на около 40 ...",
+   "url": "https://news.bg/regions/novo-napadenie-v-cherno-more-dron-atakuva-tovaren-korab-kray-kaliakra.html",
+   "source": "News.bg",
+   "published": "2026-11-15T22:53:00Z",
+   "fetched": "2026-11-25T13:57:52Z",
+   "image": "https://webnews.bg/uploads/images/00/2800/782800/1200x675.jpg?_=1792138774",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.6OvXZtP6pgFLQ_XtPaPH8g&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [
+    "varna"
+   ],
    "img_tried": true
   },
   {
@@ -1852,6 +2389,10 @@
     {
      "source": "Seatrade Maritime",
      "url": "https://www.seatrade-maritime.com/security/black-sea-drone-strikes-hit-four-ships-near-romanian-coast"
+    },
+    {
+     "source": "NBC News",
+     "url": "https://www.nbcnews.com/world/europe/three-ships-struck-drones-black-sea-romanian-shipping-canal-rcna609077"
     }
    ],
    "img_tried": true
