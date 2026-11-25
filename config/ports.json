@@ -1,0 +1,21 @@
+{
+  "_comment": "Порти для карток на головній. places: id місць із sources.json, новини про які належать до цього порту. sea_lat/sea_lon: точка в морі неподалік порту для прогнозу хвиль і вітру.",
+  "ports": [
+    {"id": "odesa", "places": ["odesa", "chornomorsk", "pivdennyi"], "sea_lat": 46.40, "sea_lon": 30.85, "country": "UA",
+     "names": {"en": "Greater Odesa ports", "ro": "Porturile Odesei", "bg": "Пристанищата на Одеса"}},
+    {"id": "danube", "places": ["izmail", "reni", "danube"], "sea_lat": 45.10, "sea_lon": 29.85, "country": "UA/RO",
+     "names": {"en": "Danube ports", "ro": "Porturile dunărene", "bg": "Дунавските пристанища"}},
+    {"id": "constanta", "places": ["constanta", "mangalia"], "sea_lat": 44.10, "sea_lon": 28.80, "country": "RO",
+     "names": {"en": "Constanța", "ro": "Constanța", "bg": "Констанца"}},
+    {"id": "varna", "places": ["varna"], "sea_lat": 43.15, "sea_lon": 28.05, "country": "BG",
+     "names": {"en": "Varna", "ro": "Varna", "bg": "Варна"}},
+    {"id": "burgas", "places": ["burgas"], "sea_lat": 42.45, "sea_lon": 27.65, "country": "BG",
+     "names": {"en": "Burgas", "ro": "Burgas", "bg": "Бургас"}},
+    {"id": "bosphorus", "places": ["bosphorus", "samsun"], "sea_lat": 41.30, "sea_lon": 29.10, "country": "TR",
+     "names": {"en": "Bosphorus / Türkiye", "ro": "Bosfor / Turcia", "bg": "Босфора / Турция"}},
+    {"id": "georgia", "places": ["batumi", "poti"], "sea_lat": 41.70, "sea_lon": 41.50, "country": "GE",
+     "names": {"en": "Batumi & Poti", "ro": "Batumi și Poti", "bg": "Батуми и Поти"}},
+    {"id": "russia", "places": ["novorossiysk", "tuapse", "kerch", "sevastopol", "crimea"], "sea_lat": 44.60, "sea_lon": 37.90, "country": "RU",
+     "names": {"en": "Novorossiysk & Crimea", "ro": "Novorossiisk și Crimeea", "bg": "Новоросийск и Крим"}}
+  ]
+}

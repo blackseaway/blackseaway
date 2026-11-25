@@ -1,0 +1,61 @@
+{
+  "_comment": "Блоки «Ризики і страхування», «Офіційні попередження» та «Екстрені контакти» на головній. Оновлюється редакцією вручну. Після кожної зміни оновіть checked (дату перевірки).",
+  "checked": "2026-11-25",
+  "risk": {
+    "level": "high",
+    "status": {
+      "en": "The whole Black Sea is a war-risk Listed Area",
+      "ro": "Întreaga Mare Neagră este zonă listată de risc de război",
+      "bg": "Цялото Черно море е зона с военен риск"
+    },
+    "points": [
+      {
+        "en": "Since 16 September 2026 the London insurers' Joint War Committee (JWC) lists the whole Black Sea, except the territorial waters of coastal states other than Russia and Ukraine. Voyages there must be declared to insurers in advance and usually carry an additional war-risk premium.",
+        "ro": "Din 16 septembrie 2026, Joint War Committee (JWC) al asigurătorilor londonezi listează întreaga Mare Neagră, cu excepția apelor teritoriale ale statelor riverane, altele decât Rusia și Ucraina. Voiajele în zonă trebuie declarate în prealabil asigurătorilor și au de regulă o primă suplimentară de risc de război.",
+        "bg": "От 16 септември 2026 г. Joint War Committee (JWC) на лондонските застрахователи включва цялото Черно море, с изключение на териториалните води на крайбрежните държави, различни от Русия и Украйна. Рейсовете в зоната трябва да се декларират предварително пред застрахователите и обикновено носят допълнителна премия за военен риск."
+      },
+      {
+        "en": "Drifting sea mines continue to be detected and neutralised by coastal authorities in the south-western Black Sea. Keep a sharp lookout and report floating objects.",
+        "ro": "Mine marine în derivă continuă să fie detectate și neutralizate de autoritățile de coastă în sud-vestul Mării Negre. Mențineți o veghe atentă și raportați obiectele plutitoare.",
+        "bg": "Крайбрежните власти продължават да откриват и неутрализират плаващи морски мини в югозападната част на Черно море. Поддържайте зорко наблюдение и докладвайте за плаващи предмети."
+      },
+      {
+        "en": "Expect GPS interference and AIS spoofing; monitor VHF channel 16 at all times.",
+        "ro": "Sunt posibile interferențe GPS și falsificarea semnalelor AIS; monitorizați permanent canalul VHF 16.",
+        "bg": "Възможни са смущения на GPS и фалшифициране на AIS сигнали; следете постоянно УКВ канал 16."
+      }
+    ],
+    "sources": [
+      {"name": "Gard: War in Ukraine — impact on the maritime situation", "url": "https://gard.no/articles/war-ukraine-impact-on-maritime-situation/"},
+      {"name": "U.S. MARAD maritime advisories", "url": "https://www.maritime.dot.gov/msci-advisories"}
+    ]
+  },
+  "official_links": [
+    {"name": "NAVAREA III warnings in force (Spanish Navy, coordinator)", "url": "https://armada.defensa.gob.es/ihm/Aplicaciones/Navareas/Index_Navareas_xml_en.html",
+     "note": {"en": "Official navigational warnings for the Black Sea", "ro": "Avertismente oficiale de navigație pentru Marea Neagră", "bg": "Официални навигационни предупреждения за Черно море"}},
+    {"name": "Turkish Navy Office of Navigation (ONHO) — NAVTEX", "url": "https://www.shodb.gov.tr",
+     "note": {"en": "Daily NAVTEX messages in English, with a map", "ro": "Mesaje NAVTEX zilnice în engleză, cu hartă", "bg": "Ежедневни NAVTEX съобщения на английски, с карта"}},
+    {"name": "NATO Shipping Centre", "url": "https://shipping.nato.int/nsc",
+     "note": {"en": "Security advice for merchant shipping", "ro": "Recomandări de securitate pentru navele comerciale", "bg": "Препоръки за сигурност за търговското корабоплаване"}},
+    {"name": "U.S. MARAD maritime advisories", "url": "https://www.maritime.dot.gov/msci-advisories",
+     "note": {"en": "Current Black Sea and Sea of Azov advisory", "ro": "Avertismentul actual pentru Marea Neagră și Marea Azov", "bg": "Актуално предупреждение за Черно и Азовско море"}},
+    {"name": "IMO: Maritime security and safety in the Black Sea", "url": "https://www.imo.org/en/MediaCentre/HotTopics/Pages/MaritimeSecurityandSafetyintheBlackSeaandSeaofAzov.aspx",
+     "note": {"en": "IMO updates and national contact points", "ro": "Actualizări IMO și puncte naționale de contact", "bg": "Актуална информация от IMO и национални звена за контакт"}},
+    {"name": "Ukrainian Sea Ports Authority", "url": "https://www.uspa.gov.ua/en",
+     "note": {"en": "Port operations and the Ukrainian corridor", "ro": "Activitatea porturilor și coridorul ucrainean", "bg": "Работа на пристанищата и украинския коридор"}}
+  ],
+  "contacts": [
+    {"name": {"en": "Distress at sea, any country", "ro": "Pericol pe mare, orice țară", "bg": "Бедствие в морето, всяка държава"},
+     "lines": ["VHF ch. 16 · DSC ch. 70", "112"]},
+    {"name": {"en": "Romania: MRCC Constanța", "ro": "România: MRCC Constanța", "bg": "Румъния: MRCC Констанца"},
+     "lines": ["+40 241 615 949", "mrcc@rna.ro"],
+     "source": "https://portal.rna.ro/english/Pagini/Maritime Coordination Centre.aspx"},
+    {"name": {"en": "Türkiye: Main SAR Coordination Centre, Ankara", "ro": "Turcia: Centrul principal SAR, Ankara", "bg": "Турция: Главен център за търсене и спасяване, Анкара"},
+     "lines": ["+90 312 231 91 05"],
+     "source": "https://www.rempec.org/en/knowledge-centre/country-profiles/turkey/country_profile_pdf"},
+    {"name": {"en": "Bulgaria: MRCC Varna (Maritime Administration)", "ro": "Bulgaria: MRCC Varna (Administrația Maritimă)", "bg": "България: MRCC Варна (ИА „Морска администрация“)"},
+     "lines": [], "link": "https://www.marad.bg"},
+    {"name": {"en": "Ukraine: State Maritime Rescue Coordination Centre, Odesa", "ro": "Ucraina: Centrul de coordonare a salvării pe mare, Odesa", "bg": "Украйна: Държавен морски спасителен координационен център, Одеса"},
+     "lines": [], "link": "https://www.imo.org/en/MediaCentre/HotTopics/Pages/MaritimeSecurityandSafetyintheBlackSeaandSeaofAzov.aspx"}
+  ]
+}

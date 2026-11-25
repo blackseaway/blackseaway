@@ -166,3 +166,53 @@ table.data td:last-child, table.data th:last-child { text-align: right; font-var
 @media (max-width: 760px) { .footer-grid { grid-template-columns: 1fr; } .header-row { gap: 8px 16px; padding: 8px 0; } .main-nav { order: 3; flex-basis: 100%; } }
 .also { font-size: 13px; color: var(--ink-2); margin-top: 4px; }
 .also a { color: var(--ink-2); }
+
+/* situation strip */
+.situation { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 12px; margin-top: -8px; position: relative; z-index: 2; }
+.tile { background: var(--paper); border: 1px solid var(--line); border-radius: var(--radius); padding: 14px 18px; display: flex; flex-direction: column; justify-content: center; }
+.tile-num { font-size: 34px; font-weight: 800; letter-spacing: -.02em; line-height: 1.1; font-variant-numeric: tabular-nums; }
+.tile-num small { font-size: 13px; font-weight: 600; margin-left: 8px; letter-spacing: 0; }
+.tile-num small.up { color: var(--alert); }
+.tile-num small.down { color: #2e7d4f; }
+.tile-label { font-size: 13px; color: var(--ink-2); margin-top: 2px; }
+.tile-risk { background: #fdecee; border-color: #f3b7bf; text-decoration: none; color: #7a0f1e; }
+.tile-risk:hover { color: #7a0f1e; border-color: var(--alert); }
+.tile-kicker { font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: .08em; color: var(--alert); }
+.tile-text { font-weight: 700; font-size: 17px; margin-top: 4px; line-height: 1.3; }
+.tile-note { grid-column: 1 / -1; margin: 0; font-size: 12px; color: var(--ink-2); }
+@media (max-width: 760px) { .situation { grid-template-columns: 1fr 1fr; } .tile-risk { grid-column: 1 / -1; } }
+
+/* aside boxes */
+.risk-box { border-top: 4px solid var(--alert); }
+.risk-status { font-weight: 700; color: #7a0f1e; margin: 0 0 8px; }
+ul.plain { margin: 0 0 10px; padding-left: 18px; font-size: 14px; }
+ul.plain li { margin: 6px 0; }
+.link-list, .contact-list { list-style: none; margin: 0; padding: 0; font-size: 14px; }
+.link-list li { padding: 7px 0; border-bottom: 1px solid var(--line); }
+.link-list li:last-child { border-bottom: 0; }
+.link-list a { font-weight: 600; display: block; }
+.link-list span { color: var(--ink-2); font-size: 13px; }
+.contacts { background: #fffaf0; border-color: #f0dfb8; }
+.contact-list li { padding: 7px 0; border-bottom: 1px solid #f0e6cf; display: flex; flex-direction: column; }
+.contact-list li:last-child { border-bottom: 0; }
+.contact-list span { font-variant-numeric: tabular-nums; }
+
+/* ports */
+.ports { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; margin: 14px 0; }
+.port { background: var(--paper); border: 1px solid var(--line); border-top: 4px solid var(--sea); border-radius: var(--radius); padding: 14px 16px; display: flex; flex-direction: column; }
+.port.has-attacks { border-top-color: var(--alert); }
+.port header { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; }
+.port h3 { margin: 0; font-size: 17px; }
+.port .cc { font-size: 11px; font-weight: 700; color: var(--ink-2); background: #edf0f2; padding: 1px 6px; border-radius: 4px; }
+.wx { display: grid; gap: 6px; margin: 10px 0 6px; font-size: 14px; }
+.wx > div { display: grid; grid-template-columns: 56px auto; column-gap: 8px; align-items: baseline; }
+.wx-l { color: var(--ink-2); font-size: 12px; text-transform: uppercase; letter-spacing: .04em; }
+.wx-s { grid-column: 2; font-size: 12px; color: var(--ink-2); }
+.wx-flags { margin: 4px 0; }
+.flag { display: inline-block; background: #fff3cd; color: #7a5400; border: 1px solid #f0d27a; font-size: 12px; font-weight: 700; padding: 1px 8px; border-radius: 999px; margin-right: 6px; }
+.port-count { font-size: 14px; margin: 8px 0 4px; border-top: 1px solid var(--line); padding-top: 8px; }
+.port-count .atk { color: var(--alert); font-weight: 600; }
+.port-news { list-style: none; margin: 0; padding: 0; font-size: 14px; line-height: 1.35; }
+.port-news li { margin: 6px 0; }
+.port-news a { color: var(--ink); text-decoration: none; font-weight: 500; }
+.port-news a:hover { color: var(--sea); text-decoration: underline; }

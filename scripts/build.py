@@ -148,6 +148,38 @@ def compute_stats(items: list[dict], sources: dict) -> dict:
     }
 
 
+def compute_ports(items: list[dict], ports_cfg: list[dict], weather: dict) -> list[dict]:
+    now = now_utc()
+    recent = [i for i in items if now - parse_iso(i["published"]) <= dt.timedelta(days=7)]
+    out = []
+    for p in ports_cfg:
+        mine = [i for i in recent if set(i["places"]) & set(p["places"])]
+        out.append({
+            "id": p["id"], "names": p["names"], "country": p.get("country", ""),
+            "count7": len(mine),
+            "attacks7": sum(1 for i in mine if "attacks" in i["topics"]),
+            "latest": mine[:2],
+            "weather": (weather.get("ports") or {}).get(p["id"]),
+        })
+    return out
+
+
+def compute_counters(items: list[dict]) -> dict:
+    now = now_utc()
+
+    def count(topic, lo, hi):
+        return sum(1 for i in items if topic in i["topics"]
+                   and dt.timedelta(days=lo) <= now - parse_iso(i["published"]) < dt.timedelta(days=hi))
+    return {"attacks7": count("attacks", 0, 7), "attacks_prev7": count("attacks", 7, 14),
+            "attacks30": count("attacks", 0, 30), "mines30": count("mines", 0, 30)}
+
+
+def compass(deg) -> str:
+    if deg is None:
+        return ""
+    return ["N", "NE", "E", "SE", "S", "SW", "W", "NW"][int((deg % 360) / 45 + 0.5) % 8]
+
+
 # ---------------------------------------------------------------- render
 def make_env(cfg, i18n):
     env = Environment(loader=FileSystemLoader(str(ROOT / "templates")),
@@ -169,6 +201,8 @@ def make_env(cfg, i18n):
     env.globals.update(url=url, cfg=cfg, i18n=i18n, langs=cfg["languages"], build_time=now_utc())
     env.filters["date"] = fmt_date
     env.filters["pct"] = lambda v: f"{round(v * 100)}%"
+    env.filters["compass"] = compass
+    env.filters["num"] = lambda v, d=1: "–" if v is None else (f"{v:.{d}f}" if d else f"{round(v)}")
     env.filters["tojson_safe"] = lambda v: json.dumps(v, ensure_ascii=False)
     return env
 
@@ -210,9 +244,14 @@ def build():
     indicators = [i for i in (load_json(DATA / "indicators.json", {}) or {}).get("indicators", [])
                   if i.get("published")]
     queue = load_json(DATA / "social_queue.json", {}) or {}
+    weather = load_json(DATA / "weather.json", {}) or {}
+    safety = load_json(CONFIG / "safety.json", {}) or {}
+    ports_cfg = (load_json(CONFIG / "ports.json", {}) or {}).get("ports", [])
     items = news["items"]
     posts = load_posts(cfg)
     stats = compute_stats(items, sources)
+    ports = compute_ports(items, ports_cfg, weather)
+    counters = compute_counters(items)
 
     if OUT.exists():
         shutil.rmtree(OUT)
@@ -235,7 +274,9 @@ def build():
         common_ctx = dict(news_updated=news.get("updated"), place_names={p["id"]: p["names"][lang]
                                                                          for p in sources["places"]})
         render("home.html", "index.html", lang, news=nv[:24], posts=[p for p in posts][:3],
-               indicators=[indicator_view(i, lang) for i in indicators][:4], stats=stats, **common_ctx)
+               indicators=[indicator_view(i, lang) for i in indicators][:4], stats=stats,
+               ports=[dict(p, latest=[news_view(i, lang) for i in p["latest"]]) for p in ports],
+               counters=counters, safety=safety, weather=weather, **common_ctx)
         render("news.html", "news.html", lang, news=nv, topics=list(sources["topics"].keys()), **common_ctx)
         render("stats.html", "stats.html", lang, stats=stats,
                indicators=[indicator_view(i, lang) for i in indicators], **common_ctx)

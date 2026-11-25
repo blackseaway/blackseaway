@@ -40,6 +40,11 @@ jobs:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
         run: python scripts/fetch_news.py
 
+      - name: Sea conditions
+        if: github.event_name != 'push'
+        continue-on-error: true
+        run: python scripts/fetch_weather.py
+
       - name: Choose next social post
         id: prepare
         if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.post_social)
