@@ -54,7 +54,20 @@
     "back_home": "Back to the home page",
     "minutes_read": "min read",
     "share": "Share",
-    "months": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+    "months": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ],
     "topics": {
       "attacks": "Attacks",
       "shipping": "Shipping",
@@ -64,7 +77,8 @@
       "energy": "Energy & tankers",
       "ports": "Ports",
       "prices": "Prices & costs"
-    }
+    },
+    "also_reported": "Also reported by"
   },
   "ro": {
     "lang_name": "Română",
@@ -121,7 +135,20 @@
     "back_home": "Înapoi la pagina principală",
     "minutes_read": "min de citit",
     "share": "Distribuie",
-    "months": ["ian.", "feb.", "mar.", "apr.", "mai", "iun.", "iul.", "aug.", "sept.", "oct.", "nov.", "dec."],
+    "months": [
+      "ian.",
+      "feb.",
+      "mar.",
+      "apr.",
+      "mai",
+      "iun.",
+      "iul.",
+      "aug.",
+      "sept.",
+      "oct.",
+      "nov.",
+      "dec."
+    ],
     "topics": {
       "attacks": "Atacuri",
       "shipping": "Transport maritim",
@@ -131,7 +158,8 @@
       "energy": "Energie și petroliere",
       "ports": "Porturi",
       "prices": "Prețuri și costuri"
-    }
+    },
+    "also_reported": "Au mai scris"
   },
   "bg": {
     "lang_name": "Български",
@@ -188,7 +216,20 @@
     "back_home": "Към началната страница",
     "minutes_read": "мин четене",
     "share": "Сподели",
-    "months": ["яну", "фев", "мар", "апр", "май", "юни", "юли", "авг", "сеп", "окт", "ное", "дек"],
+    "months": [
+      "яну",
+      "фев",
+      "мар",
+      "апр",
+      "май",
+      "юни",
+      "юли",
+      "авг",
+      "сеп",
+      "окт",
+      "ное",
+      "дек"
+    ],
     "topics": {
       "attacks": "Атаки",
       "shipping": "Корабоплаване",
@@ -198,6 +239,7 @@
       "energy": "Енергетика и танкери",
       "ports": "Пристанища",
       "prices": "Цени и разходи"
-    }
+    },
+    "also_reported": "Пишат още"
   }
 }

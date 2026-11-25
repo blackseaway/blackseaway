@@ -7,6 +7,7 @@
     {% if n.translated %}<span class="badge" title="{{ t.machine_translated }}">{{ n.orig_lang|upper }}→{{ lang|upper }}</span>
     {% elif n.shown_lang != lang %}<span class="badge" title="{{ t.original_language }}">{{ n.orig_lang|upper }}</span>{% endif %}
   </div>
+  {% if n.also %}<div class="also">{{ t.also_reported }}: {% for a in n.also %}<a href="{{ a.url }}" target="_blank" rel="noopener nofollow">{{ a.source }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</div>{% endif %}
   {% if n.summary %}<p class="news-summary" lang="{{ n.orig_lang }}">{{ n.summary }}</p>{% endif %}
   <div class="tags">
     {% for tp in n.topics[:3] %}<span class="tag tag-{{ tp }}">{{ t.topics[tp] }}</span>{% endfor %}

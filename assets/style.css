@@ -164,3 +164,5 @@ table.data td:last-child, table.data th:last-child { text-align: right; font-var
 .social { list-style: none; margin: 0; padding: 0; }
 .social li { margin: 4px 0; }
 @media (max-width: 760px) { .footer-grid { grid-template-columns: 1fr; } .header-row { gap: 8px 16px; padding: 8px 0; } .main-nav { order: 3; flex-basis: 100%; } }
+.also { font-size: 13px; color: var(--ink-2); margin-top: 4px; }
+.also a { color: var(--ink-2); }

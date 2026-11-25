@@ -139,20 +139,72 @@ def collect(sources: dict) -> list[dict]:
     return out
 
 
+# --- near-duplicate detection: the same story from several publishers ---------------
+STOPWORDS = set("""the a an of in on at to for and or with from by as is are was be after over into new
+said will its it this that than un una o cu de la pe din si ar care dupa ce sa mai fost este sunt al ale lui
+unei unui pentru prin despre на и в с от за по се да са че при към след как ще до или
+black sea seas marea neagra черно море черноморски ukraine ukrainian ucraina ucrainei rusia russia russian
+rusiei украйна русия""".split())
+GENERIC_STEMS = {"attac", "drone", "drona", "ship", "ships", "shipp", "strik", "vesse", "nave", "atacu",
+                 "atac", "кораб", "атака", "атаки", "дрон", "дрони", "дроно", "port", "ports", "portu", "war",
+                 "razbo", "война", "says", "warn", "warns", "urges", "calls"}
+DUP_WINDOW = dt.timedelta(hours=48)
+DUP_MIN_SHARED = 3
+DUP_MIN_OVERLAP = 0.6
+
+
+def title_tokens(item: dict) -> set[str]:
+    out = set()
+    for t in {item["title"], item["titles"].get("en", "")}:
+        for w in re.findall(r"\w+", normalize(t)):
+            if len(w) < 3 or w in STOPWORDS or w.isdigit():
+                continue
+            stem = w[:5]
+            if stem not in GENERIC_STEMS:
+                out.add(stem)
+    return out
+
+
+def is_duplicate(a: dict, ta: set, b: dict, tb: set) -> bool:
+    if not ta or not tb:
+        return False
+    if abs(parse_iso(a["published"]) - parse_iso(b["published"])) > DUP_WINDOW:
+        return False
+    shared = len(ta & tb)
+    overlap = shared / min(len(ta), len(tb))
+    return (shared >= DUP_MIN_SHARED and overlap >= DUP_MIN_OVERLAP) or (shared >= 4 and overlap >= 0.45)
+
+
+def dedupe(items: list[dict]) -> list[dict]:
+    """Keep the earliest report of each story; later ones go into its `also` list."""
+    kept: list[tuple[dict, set]] = []
+    for item in sorted(items, key=lambda i: i["published"]):
+        tok = title_tokens(item)
+        for k, ktok in reversed(kept):
+            if is_duplicate(k, ktok, item, tok):
+                also = k.setdefault("also", [])
+                known = {k["url"]} | {a["url"] for a in also}
+                for extra in [{"source": item["source"], "url": item["url"]}] + item.get("also", []):
+                    if extra["url"] not in known and len(also) < 8:
+                        also.append(extra)
+                        known.add(extra["url"])
+                break
+        else:
+            kept.append((item, tok))
+    return [k for k, _ in kept]
+
+
 def merge(existing: list[dict], fresh: list[dict]) -> tuple[list[dict], int]:
     by_id = {i["id"]: i for i in existing}
-    urls = {i["url"] for i in existing}
-    prefixes = {normalize(i["title"])[:60] for i in existing}
-    added = 0
-    for item in sorted(fresh, key=lambda i: i["published"]):
-        prefix = normalize(item["title"])[:60]
-        if item["id"] in by_id or item["url"] in urls or prefix in prefixes:
+    urls = {i["url"] for i in existing} | {a["url"] for i in existing for a in i.get("also", [])}
+    for item in fresh:
+        if item["id"] in by_id or item["url"] in urls:
             continue
         by_id[item["id"]] = item
         urls.add(item["url"])
-        prefixes.add(prefix)
-        added += 1
-    return list(by_id.values()), added
+    before = {i["id"] for i in existing}
+    merged = dedupe(list(by_id.values()))
+    return merged, sum(1 for i in merged if i["id"] not in before)
 
 
 def translate_missing(items: list[dict], langs: list[str], per_run: int) -> int:
@@ -186,6 +238,8 @@ def main():
     added = 0
     if "--no-fetch" not in sys.argv:
         items, added = merge(items, collect(sources))
+    else:
+        items = dedupe(items)
     # re-tag old items when keyword lists change
     for i in items:
         _, i["topics"], i["places"] = classify(f"{i['title']} {i.get('summary', '')}", sources)
