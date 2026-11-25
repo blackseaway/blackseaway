@@ -1,0 +1,32 @@
+[fetch]  35/ 47 kept  Google News en
+[fetch]  11/ 44 kept  Google News en
+[fetch]  16/ 46 kept  Google News en
+[fetch]  12/ 15 kept  Google News en
+[fetch]  29/ 43 kept  Google News en
+[fetch]  13/ 23 kept  Google News en
+[fetch]  23/ 51 kept  Google News en
+[fetch]  20/ 53 kept  Google News ro
+[fetch]   2/  8 kept  Google News ro
+[fetch]  18/ 26 kept  Google News ro
+[fetch]   7/ 13 kept  Google News ro
+[fetch]  20/ 55 kept  Google News bg
+[fetch]   8/ 22 kept  Google News bg
+[fetch]   1/  4 kept  Google News bg
+[fetch]   0/ 12 kept  gCaptain
+[fetch]   0/ 10 kept  Splash247
+[fetch]   0/ 20 kept  Hellenic Shipping News
+[fetch] FAIL https://safety4sea.com/feed/: syntax error: line 1, column 0
+[fetch]   1/ 30 kept  Ukrinform
+[fetch]   1/ 30 kept  Ukrinform
+[fetch]   0/ 29 kept  Euromaidan Press
+[fetch] FAIL https://www.novinite.com/services/news_rdf.php: not well-formed (invalid token): line 16, column 37
+[fetch]   4/271 kept  Digi24
+[fetch] FAIL https://www.bta.bg/bg/rss/free: HTTP Error 429: Too Many Requests
+[fetch]   1/ 30 kept  Дневник
+[fetch] FAIL gdelt:"black sea" (attack OR drone OR missile OR shipping OR vessel OR tanker OR insurance: HTTP Error 429: Too Many Requests
+[fetch] FAIL gdelt:(odesa OR izmail OR constanta OR novorossiysk) (port OR ship OR vessel OR strike) so: HTTP Error 429: Too Many Requests
+[fetch] FAIL gdelt:"marea neagra" (atac OR drona OR nava OR port OR mina) sourcelang:romanian: HTTP Error 429: Too Many Requests
+[fetch]   0/  0 kept  GDELT bg
+[images] 0/0 pictures found
+[deepl] translated 12 headlines, used this month ≈ 8992 chars
+[news] +1 new, 165 total
