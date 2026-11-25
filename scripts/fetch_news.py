@@ -12,6 +12,7 @@ import json
 import re
 import sys
 import time
+import urllib.error
 import urllib.parse
 import xml.etree.ElementTree as ET
 
@@ -76,9 +77,32 @@ def feed_image(el) -> str:
     return ""
 
 
+def parse_feed_lenient(raw: bytes):
+    """Regex fallback for feeds that are not well-formed XML (stray '&' etc.)."""
+    text = raw.decode("utf-8", "replace")
+
+    def tag(block, name):
+        m = re.search(rf"<{name}[^>]*>(.*?)</{name}>", block, re.S | re.I)
+        if not m:
+            return ""
+        v = m.group(1).strip()
+        v = re.sub(r"^<!\[CDATA\[(.*)\]\]>$", r"\1", v, flags=re.S)
+        return html.unescape(v).strip()
+    for block in re.findall(r"<item[\s>].*?</item>", text, re.S | re.I):
+        img = re.search(r'<(?:enclosure|media:content|media:thumbnail)[^>]+url="([^"]+)"', block)
+        yield {"title": strip_tags(tag(block, "title")), "url": tag(block, "link"),
+               "published": parse_date(tag(block, "pubDate") or tag(block, "dc:date")),
+               "summary": strip_tags(tag(block, "description")), "source": "",
+               "image": html.unescape(img.group(1)) if img else ""}
+
+
 def parse_feed(raw: bytes):
-    """Yield dicts (title, url, published, summary, source) from RSS 2.0 or Atom."""
-    root = ET.fromstring(raw)
+    """Yield dicts (title, url, published, summary, source, image) from RSS 2.0 or Atom."""
+    try:
+        root = ET.fromstring(raw)
+    except ET.ParseError:
+        yield from parse_feed_lenient(raw)
+        return
     atom = "{http://www.w3.org/2005/Atom}"
     if root.tag == f"{atom}feed":
         for e in root.iter(f"{atom}entry"):
@@ -93,13 +117,25 @@ def parse_feed(raw: bytes):
         return
     for it in root.iter("item"):
         src = it.find("source")
+        extra_src = extra_img = ""
+        for child in it:  # Bing News: <News:Source>, <News:Image>
+            low = child.tag.lower()
+            if low.endswith("}source") and child.text:
+                extra_src = child.text.strip()
+            elif low.endswith("}image") and child.text:
+                extra_img = child.text.strip()
+        link = text_of(it, "link")
+        if "bing.com/news/apiclick" in link:
+            real = urllib.parse.parse_qs(urllib.parse.urlparse(link).query).get("url", [""])[0]
+            link = real or link
         yield {
             "title": text_of(it, "title"),
-            "url": text_of(it, "link"),
+            "url": link,
             "published": parse_date(text_of(it, "pubDate", "{http://purl.org/dc/elements/1.1/}date")),
             "summary": strip_tags(text_of(it, "description")),
-            "source": (src.text or "").strip() if src is not None and src.text else "",
+            "source": ((src.text or "").strip() if src is not None and src.text else "") or extra_src,
             "image": feed_image(it),
+            "fallback_image": extra_img,
         }
 
 
@@ -125,7 +161,14 @@ def gdelt_entries(q: str) -> list[dict]:
     """GDELT DOC 2.0 API, artlist mode: direct article URLs with their preview image."""
     params = urllib.parse.urlencode({"query": q, "mode": "artlist", "format": "json",
                                      "maxrecords": 75, "timespan": "3d", "sort": "datedesc"})
-    raw = http_request(f"{GDELT}?{params}", timeout=30).decode("utf-8", "replace").strip()
+    try:
+        raw = http_request(f"{GDELT}?{params}", timeout=30)
+    except urllib.error.HTTPError as e:
+        if e.code != 429:
+            raise
+        time.sleep(30)
+        raw = http_request(f"{GDELT}?{params}", timeout=30)
+    raw = raw.decode("utf-8", "replace").strip()
     if not raw.startswith("{"):
         raise RuntimeError(raw[:120])
     out = []
@@ -141,9 +184,14 @@ def gdelt_entries(q: str) -> list[dict]:
     return out
 
 
+def bing_url(q: str, mkt: str) -> str:
+    return "https://www.bing.com/news/search?" + urllib.parse.urlencode({"q": q, "format": "rss", "mkt": mkt})
+
+
 def collect(sources: dict) -> list[dict]:
     jobs = [(google_news_url(g["q"], g["lang"]), g["lang"], None, True) for g in sources["google_news"]]
     jobs += [(f["url"], f["lang"], f["name"], False) for f in sources["feeds"]]
+    jobs += [(bing_url(b["q"], b["mkt"]), b["lang"], None, False) for b in sources.get("bing", [])]
     jobs += [("gdelt:" + g["q"], g["lang"], None, False) for g in sources.get("gdelt", [])]
     out, now = [], now_utc()
     for url, lang, name, is_gn in jobs:
@@ -186,11 +234,13 @@ def collect(sources: dict) -> list[dict]:
                 "published": iso(pub),
                 "fetched": iso(now),
                 "image": "" if is_gn else (e.get("image") or ""),
+                "fallback_image": e.get("fallback_image", ""),
                 "topics": topics,
                 "places": places,
             })
             kept += 1
-        label = name or ("GDELT " + lang if url.startswith("gdelt:") else "Google News " + lang)
+        label = name or ("GDELT " + lang if url.startswith("gdelt:") else
+                         "Bing News " + lang if "bing.com" in url else "Google News " + lang)
         print(f"[fetch] {kept:3d}/{len(entries):3d} kept  {label}")
     return out
 
@@ -242,7 +292,8 @@ def dedupe(items: list[dict]) -> list[dict]:
                 if "news.google.com" in k["url"] and "news.google.com" not in item["url"]:
                     # prefer the publisher's own link (it has a picture and a real URL)
                     also.append({"source": k["source"], "url": k["url"]})
-                    for f in ("url", "source", "image", "img_tried", "summary", "title", "titles", "lang"):
+                    for f in ("url", "source", "image", "img_tried", "summary", "title", "titles", "lang",
+                              "fallback_image"):
                         k[f] = item.get(f, k.get(f))
                 elif not k.get("image") and item.get("image"):
                     k["image"] = item["image"]
@@ -272,7 +323,7 @@ def merge(existing: list[dict], fresh: list[dict]) -> tuple[list[dict], int]:
 
 # --- pictures: the publisher's own preview image (og:image), as social networks show it ----
 PAGE_UA = "Mozilla/5.0 (compatible; BlackSeaWayBot/1.0; +https://blackseaway.github.io/blackseaway/)"
-IMAGES_PER_RUN = 30
+IMAGES_PER_RUN = 60
 META_RE = re.compile(r"<meta\s[^>]*>", re.I)
 ATTR_RE = re.compile(r'([a-zA-Z:_-]+)\s*=\s*(?:"([^"]*)"|\'([^\']*)\')')
 
@@ -309,6 +360,8 @@ def enrich_images(items: list[dict], limit: int = IMAGES_PER_RUN) -> None:
                 got += 1
         except Exception as e:  # noqa: BLE001
             print(f"[images] {i['source']}: {str(e)[:120]}")
+        if not i.get("image") and i.get("fallback_image"):
+            i["image"] = i["fallback_image"]
     print(f"[images] {got}/{len(todo)} pictures found")
 
 

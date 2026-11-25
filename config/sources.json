@@ -1,5 +1,5 @@
 {
-  "_comment": "Джерела новин. google_news: пошукові запити до Google News RSS (за останні 7 днів). feeds: звичайні RSS-стрічки морських медіа; з них беруться тільки матеріали, де згадано Чорне море або порт регіону. Ключові слова шукаються з початку слова; символ $ у кінці означає «тільки ціле слово». gdelt: запити до відкритого сервісу GDELT (повертає пряме посилання на статтю і її фото).",
+  "_comment": "Джерела новин. google_news: пошукові запити до Google News RSS (за останні 7 днів). feeds: звичайні RSS-стрічки морських медіа; з них беруться тільки матеріали, де згадано Чорне море або порт регіону. Ключові слова шукаються з початку слова; символ $ у кінці означає «тільки ціле слово». gdelt: запити до відкритого сервісу GDELT (повертає пряме посилання на статтю і її фото). bing: пошук Bing News (RSS з прямими посиланнями на статті).",
   "google_news": [
     {
       "lang": "en",
@@ -609,19 +609,49 @@
   "gdelt": [
     {
       "lang": "en",
-      "q": "\"black sea\" (attack OR drone OR missile OR shipping OR vessel OR tanker OR insurance OR mine OR port OR grain) sourcelang:english"
+      "q": "\"black sea\" (attack OR drone OR shipping OR vessel OR tanker OR insurance OR port)"
+    }
+  ],
+  "bing": [
+    {
+      "lang": "en",
+      "mkt": "en-US",
+      "q": "\"Black Sea\" shipping attack"
     },
     {
       "lang": "en",
-      "q": "(odesa OR izmail OR constanta OR novorossiysk) (port OR ship OR vessel OR strike) sourcelang:english"
+      "mkt": "en-US",
+      "q": "\"Black Sea\" vessel drone"
+    },
+    {
+      "lang": "en",
+      "mkt": "en-US",
+      "q": "\"Black Sea\" war risk insurance"
+    },
+    {
+      "lang": "en",
+      "mkt": "en-US",
+      "q": "Odesa port strike"
+    },
+    {
+      "lang": "en",
+      "mkt": "en-US",
+      "q": "\"Black Sea\" grain shipping"
     },
     {
       "lang": "ro",
-      "q": "\"marea neagra\" (atac OR drona OR nava OR port OR mina) sourcelang:romanian"
+      "mkt": "ro-RO",
+      "q": "\"Marea Neagră\" navă atac"
+    },
+    {
+      "lang": "ro",
+      "mkt": "ro-RO",
+      "q": "portul Constanța"
     },
     {
       "lang": "bg",
-      "q": "\"черно море\" (кораб OR атака OR дрон OR пристанище OR мина) sourcelang:bulgarian"
+      "mkt": "bg-BG",
+      "q": "\"Черно море\" кораб"
     }
   ]
 }
