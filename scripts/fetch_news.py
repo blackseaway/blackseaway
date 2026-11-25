@@ -8,8 +8,10 @@ from __future__ import annotations
 import datetime as dt
 import email.utils
 import html
+import json
 import re
 import sys
+import time
 import urllib.parse
 import xml.etree.ElementTree as ET
 
@@ -116,13 +118,41 @@ def classify(text: str, sources: dict):
     return bool(relevant), topics, places
 
 
+GDELT = "https://api.gdeltproject.org/api/v2/doc/doc"
+
+
+def gdelt_entries(q: str) -> list[dict]:
+    """GDELT DOC 2.0 API, artlist mode: direct article URLs with their preview image."""
+    params = urllib.parse.urlencode({"query": q, "mode": "artlist", "format": "json",
+                                     "maxrecords": 75, "timespan": "3d", "sort": "datedesc"})
+    raw = http_request(f"{GDELT}?{params}", timeout=30).decode("utf-8", "replace").strip()
+    if not raw.startswith("{"):
+        raise RuntimeError(raw[:120])
+    out = []
+    for a in json.loads(raw).get("articles", []):
+        seen = a.get("seendate", "")
+        try:
+            pub = dt.datetime.strptime(seen, "%Y%m%dT%H%M%SZ").replace(tzinfo=dt.timezone.utc)
+        except ValueError:
+            pub = None
+        out.append({"title": html.unescape(a.get("title", "")).strip(), "url": a.get("url", ""),
+                    "published": pub, "summary": "", "source": a.get("domain", ""),
+                    "image": a.get("socialimage", "") or ""})
+    return out
+
+
 def collect(sources: dict) -> list[dict]:
     jobs = [(google_news_url(g["q"], g["lang"]), g["lang"], None, True) for g in sources["google_news"]]
     jobs += [(f["url"], f["lang"], f["name"], False) for f in sources["feeds"]]
+    jobs += [("gdelt:" + g["q"], g["lang"], None, False) for g in sources.get("gdelt", [])]
     out, now = [], now_utc()
     for url, lang, name, is_gn in jobs:
         try:
-            entries = list(parse_feed(http_request(url, timeout=25)))
+            if url.startswith("gdelt:"):
+                time.sleep(6)  # GDELT asks for at most one request every few seconds
+                entries = gdelt_entries(url[6:])
+            else:
+                entries = list(parse_feed(http_request(url, timeout=25)))
         except Exception as e:  # noqa: BLE001
             print(f"[fetch] FAIL {url[:90]}: {e}")
             continue
@@ -160,7 +190,8 @@ def collect(sources: dict) -> list[dict]:
                 "places": places,
             })
             kept += 1
-        print(f"[fetch] {kept:3d}/{len(entries):3d} kept  {name or 'Google News ' + lang}")
+        label = name or ("GDELT " + lang if url.startswith("gdelt:") else "Google News " + lang)
+        print(f"[fetch] {kept:3d}/{len(entries):3d} kept  {label}")
     return out
 
 

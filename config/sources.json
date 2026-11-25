@@ -1,5 +1,5 @@
 {
-  "_comment": "Джерела новин. google_news: пошукові запити до Google News RSS (за останні 7 днів). feeds: звичайні RSS-стрічки морських медіа; з них беруться тільки матеріали, де згадано Чорне море або порт регіону. Ключові слова шукаються з початку слова; символ $ у кінці означає «тільки ціле слово».",
+  "_comment": "Джерела новин. google_news: пошукові запити до Google News RSS (за останні 7 днів). feeds: звичайні RSS-стрічки морських медіа; з них беруться тільки матеріали, де згадано Чорне море або порт регіону. Ключові слова шукаються з початку слова; символ $ у кінці означає «тільки ціле слово». gdelt: запити до відкритого сервісу GDELT (повертає пряме посилання на статтю і її фото).",
   "google_news": [
     {
       "lang": "en",
@@ -604,6 +604,24 @@
         "кримския",
         "кримски"
       ]
+    }
+  ],
+  "gdelt": [
+    {
+      "lang": "en",
+      "q": "\"black sea\" (attack OR drone OR missile OR shipping OR vessel OR tanker OR insurance OR mine OR port OR grain) sourcelang:english"
+    },
+    {
+      "lang": "en",
+      "q": "(odesa OR izmail OR constanta OR novorossiysk) (port OR ship OR vessel OR strike) sourcelang:english"
+    },
+    {
+      "lang": "ro",
+      "q": "\"marea neagra\" (atac OR drona OR nava OR port OR mina) sourcelang:romanian"
+    },
+    {
+      "lang": "bg",
+      "q": "\"черно море\" (кораб OR атака OR дрон OR пристанище OR мина) sourcelang:bulgarian"
     }
   ]
 }

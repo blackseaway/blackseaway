@@ -35,13 +35,11 @@ jobs:
       - run: pip install -r requirements.txt
 
       - name: Collect news
-        if: github.event_name != 'push'
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
         run: python scripts/fetch_news.py
 
       - name: Sea conditions
-        if: github.event_name != 'push'
         continue-on-error: true
         run: python scripts/fetch_weather.py
 
