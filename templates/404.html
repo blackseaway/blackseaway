@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>404 · {{ cfg.name }}</title><link rel="stylesheet" href="{{ url('assets/style.css') }}"></head>
+<body class="center-page">
+  <h1>404</h1>
+  {% for l in langs %}<p lang="{{ l }}">{{ i18n[l].not_found }} · <a href="{{ url(l ~ '/') }}">{{ i18n[l].back_home }}</a></p>{% endfor %}
+</body>
+</html>

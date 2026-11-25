@@ -1,0 +1,574 @@
+{
+  "_comment": "Джерела новин. google_news: пошукові запити до Google News RSS (за останні 7 днів). feeds: звичайні RSS-стрічки морських медіа; з них беруться тільки матеріали, де згадано Чорне море або порт регіону. Ключові слова шукаються з початку слова; символ $ у кінці означає «тільки ціле слово».",
+  "google_news": [
+    {
+      "lang": "en",
+      "q": "\"Black Sea\" shipping attack"
+    },
+    {
+      "lang": "en",
+      "q": "\"Black Sea\" war risk insurance"
+    },
+    {
+      "lang": "en",
+      "q": "\"Black Sea\" corridor vessels"
+    },
+    {
+      "lang": "en",
+      "q": "Odesa port strike"
+    },
+    {
+      "lang": "en",
+      "q": "\"Black Sea\" grain exports shipping"
+    },
+    {
+      "lang": "en",
+      "q": "\"Black Sea\" sea mine ship"
+    },
+    {
+      "lang": "en",
+      "q": "\"Black Sea\" tanker drone"
+    },
+    {
+      "lang": "ro",
+      "q": "\"Marea Neagră\" atac navă"
+    },
+    {
+      "lang": "ro",
+      "q": "portul Constanța transport război"
+    },
+    {
+      "lang": "ro",
+      "q": "\"Marea Neagră\" mină navă"
+    },
+    {
+      "lang": "ro",
+      "q": "\"Marea Neagră\" asigurări transport maritim"
+    },
+    {
+      "lang": "bg",
+      "q": "\"Черно море\" кораб атака"
+    },
+    {
+      "lang": "bg",
+      "q": "\"Черно море\" мина кораб"
+    },
+    {
+      "lang": "bg",
+      "q": "пристанище Варна Бургас война корабоплаване"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "gCaptain",
+      "url": "https://gcaptain.com/feed/",
+      "lang": "en"
+    },
+    {
+      "name": "Splash247",
+      "url": "https://splash247.com/feed/",
+      "lang": "en"
+    },
+    {
+      "name": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/feed/",
+      "lang": "en"
+    },
+    {
+      "name": "SAFETY4SEA",
+      "url": "https://safety4sea.com/feed/",
+      "lang": "en"
+    }
+  ],
+  "anchors": [
+    "black sea",
+    "marea neagra",
+    "черно море",
+    "черноморск",
+    "black-sea",
+    "odesa",
+    "odessa",
+    "одеса",
+    "chornomorsk",
+    "izmail",
+    "constanta",
+    "констанца",
+    "varna",
+    "варна",
+    "burgas",
+    "бургас",
+    "bosphorus",
+    "bosporus",
+    "босфор",
+    "novorossiysk",
+    "новоросийск",
+    "sevastopol",
+    "севастопол",
+    "kerch",
+    "керч",
+    "danube",
+    "dunare",
+    "дунав",
+    "sulina",
+    "сулина"
+  ],
+  "exclude": [
+    "black sea cucumber",
+    "football",
+    "fotbal",
+    "футбол",
+    "tennis",
+    "concert",
+    "festival",
+    "horoscope",
+    "horoscop"
+  ],
+  "topics": {
+    "attacks": [
+      "attack",
+      "strike",
+      "struck",
+      "drone",
+      "missile",
+      "shelling",
+      "explosion",
+      "atac",
+      "drona",
+      "racheta",
+      "lovit",
+      "explozie",
+      "атака",
+      "удар",
+      "дрон",
+      "ракет",
+      "обстрел",
+      "взрив"
+    ],
+    "shipping": [
+      "shipping",
+      "vessel",
+      "ship",
+      "cargo",
+      "corridor",
+      "freight",
+      "container",
+      "bulk carrier",
+      "nava",
+      "nave",
+      "transport maritim",
+      "coridor",
+      "marfa",
+      "кораб",
+      "товар",
+      "коридор",
+      "корабоплаване",
+      "превоз"
+    ],
+    "insurance": [
+      "insurance",
+      "war risk",
+      "premium",
+      "underwriter",
+      "p&i",
+      "lloyd",
+      "asigur",
+      "prima de risc",
+      "застрах"
+    ],
+    "grain": [
+      "grain",
+      "wheat",
+      "corn$",
+      "maize",
+      "sunflower",
+      "cereal",
+      "agricultural export",
+      "cereale",
+      "grau$",
+      "grâu",
+      "porumb",
+      "зърн",
+      "пшеница",
+      "царевица"
+    ],
+    "mines": [
+      "sea mine",
+      "naval mine",
+      "minesweep",
+      "mine-clearing",
+      "mine clearance",
+      "drifting mine",
+      "mina marina",
+      "mina in deriva",
+      "dragare",
+      "морска мина",
+      "мина в черно",
+      "миночист"
+    ],
+    "energy": [
+      "oil$",
+      "tanker",
+      "lng$",
+      "gas$",
+      "pipeline",
+      "shadow fleet",
+      "petrol",
+      "gaz$",
+      "petrolier",
+      "нефт",
+      "петрол",
+      "танкер",
+      "газ$",
+      "сенчест флот"
+    ],
+    "ports": [
+      "port$",
+      "ports$",
+      "portul",
+      "porturi",
+      "terminal",
+      "harbour",
+      "harbor",
+      "пристанищ",
+      "терминал"
+    ],
+    "prices": [
+      "price",
+      "freight rate",
+      "costs$",
+      "surcharge",
+      "tariff",
+      "pret$",
+      "pretul",
+      "preturi",
+      "costuri",
+      "tarif",
+      "цени",
+      "цена",
+      "разход",
+      "тарифа"
+    ]
+  },
+  "places": [
+    {
+      "id": "odesa",
+      "lat": 46.48,
+      "lon": 30.73,
+      "names": {
+        "en": "Odesa",
+        "ro": "Odesa",
+        "bg": "Одеса"
+      },
+      "match": [
+        "odesa",
+        "odessa",
+        "одеса"
+      ]
+    },
+    {
+      "id": "chornomorsk",
+      "lat": 46.3,
+      "lon": 30.65,
+      "names": {
+        "en": "Chornomorsk",
+        "ro": "Ciornomorsk",
+        "bg": "Черноморск"
+      },
+      "match": [
+        "chornomorsk",
+        "chernomorsk",
+        "ciornomorsk",
+        "черноморск",
+        "иличовск"
+      ]
+    },
+    {
+      "id": "pivdennyi",
+      "lat": 46.62,
+      "lon": 31.01,
+      "names": {
+        "en": "Pivdennyi",
+        "ro": "Pivdennîi",
+        "bg": "Пивденний"
+      },
+      "match": [
+        "pivdennyi",
+        "yuzhny",
+        "pivdennii",
+        "пивденни",
+        "южни"
+      ]
+    },
+    {
+      "id": "izmail",
+      "lat": 45.35,
+      "lon": 28.84,
+      "names": {
+        "en": "Izmail",
+        "ro": "Ismail",
+        "bg": "Измаил"
+      },
+      "match": [
+        "izmail",
+        "ismail",
+        "измаил"
+      ]
+    },
+    {
+      "id": "reni",
+      "lat": 45.46,
+      "lon": 28.29,
+      "names": {
+        "en": "Reni",
+        "ro": "Reni",
+        "bg": "Рени"
+      },
+      "match": [
+        "reni$",
+        "рени$"
+      ]
+    },
+    {
+      "id": "mykolaiv",
+      "lat": 46.97,
+      "lon": 31.99,
+      "names": {
+        "en": "Mykolaiv",
+        "ro": "Mikolaiv",
+        "bg": "Николаев"
+      },
+      "match": [
+        "mykolaiv",
+        "nikolaev",
+        "mikolaiv",
+        "николаев"
+      ]
+    },
+    {
+      "id": "kherson",
+      "lat": 46.64,
+      "lon": 32.61,
+      "names": {
+        "en": "Kherson",
+        "ro": "Herson",
+        "bg": "Херсон"
+      },
+      "match": [
+        "kherson",
+        "herson",
+        "херсон"
+      ]
+    },
+    {
+      "id": "danube",
+      "lat": 45.22,
+      "lon": 29.2,
+      "names": {
+        "en": "Danube Delta",
+        "ro": "Delta Dunării",
+        "bg": "Делтата на Дунав"
+      },
+      "match": [
+        "danube",
+        "dunare",
+        "дунав",
+        "sulina",
+        "сулина"
+      ]
+    },
+    {
+      "id": "constanta",
+      "lat": 44.17,
+      "lon": 28.65,
+      "names": {
+        "en": "Constanța",
+        "ro": "Constanța",
+        "bg": "Констанца"
+      },
+      "match": [
+        "constanta",
+        "констанца"
+      ]
+    },
+    {
+      "id": "mangalia",
+      "lat": 43.81,
+      "lon": 28.58,
+      "names": {
+        "en": "Mangalia",
+        "ro": "Mangalia",
+        "bg": "Мангалия"
+      },
+      "match": [
+        "mangalia",
+        "мангалия"
+      ]
+    },
+    {
+      "id": "varna",
+      "lat": 43.2,
+      "lon": 27.92,
+      "names": {
+        "en": "Varna",
+        "ro": "Varna",
+        "bg": "Варна"
+      },
+      "match": [
+        "varna",
+        "варна"
+      ]
+    },
+    {
+      "id": "burgas",
+      "lat": 42.5,
+      "lon": 27.47,
+      "names": {
+        "en": "Burgas",
+        "ro": "Burgas",
+        "bg": "Бургас"
+      },
+      "match": [
+        "burgas",
+        "бургас"
+      ]
+    },
+    {
+      "id": "bosphorus",
+      "lat": 41.12,
+      "lon": 29.07,
+      "names": {
+        "en": "Bosphorus",
+        "ro": "Bosfor",
+        "bg": "Босфора"
+      },
+      "match": [
+        "bosphorus",
+        "bosporus",
+        "bosfor",
+        "босфор",
+        "turkish straits"
+      ]
+    },
+    {
+      "id": "samsun",
+      "lat": 41.29,
+      "lon": 36.33,
+      "names": {
+        "en": "Samsun",
+        "ro": "Samsun",
+        "bg": "Самсун"
+      },
+      "match": [
+        "samsun",
+        "самсун"
+      ]
+    },
+    {
+      "id": "batumi",
+      "lat": 41.65,
+      "lon": 41.64,
+      "names": {
+        "en": "Batumi",
+        "ro": "Batumi",
+        "bg": "Батуми"
+      },
+      "match": [
+        "batumi",
+        "батуми"
+      ]
+    },
+    {
+      "id": "poti",
+      "lat": 42.15,
+      "lon": 41.67,
+      "names": {
+        "en": "Poti",
+        "ro": "Poti",
+        "bg": "Поти"
+      },
+      "match": [
+        "port of poti",
+        "poti port",
+        "portul poti",
+        "пристанище поти"
+      ]
+    },
+    {
+      "id": "novorossiysk",
+      "lat": 44.72,
+      "lon": 37.78,
+      "names": {
+        "en": "Novorossiysk",
+        "ro": "Novorossiisk",
+        "bg": "Новоросийск"
+      },
+      "match": [
+        "novorossiysk",
+        "novorossiisk",
+        "novorosiisk",
+        "новоросийск"
+      ]
+    },
+    {
+      "id": "tuapse",
+      "lat": 44.1,
+      "lon": 39.07,
+      "names": {
+        "en": "Tuapse",
+        "ro": "Tuapse",
+        "bg": "Туапсе"
+      },
+      "match": [
+        "tuapse",
+        "туапсе"
+      ]
+    },
+    {
+      "id": "sevastopol",
+      "lat": 44.61,
+      "lon": 33.52,
+      "names": {
+        "en": "Sevastopol",
+        "ro": "Sevastopol",
+        "bg": "Севастопол"
+      },
+      "match": [
+        "sevastopol",
+        "севастопол"
+      ]
+    },
+    {
+      "id": "kerch",
+      "lat": 45.36,
+      "lon": 36.47,
+      "names": {
+        "en": "Kerch Strait",
+        "ro": "Strâmtoarea Kerci",
+        "bg": "Керченския проток"
+      },
+      "match": [
+        "kerch",
+        "kerci",
+        "керч"
+      ]
+    },
+    {
+      "id": "crimea",
+      "lat": 45.05,
+      "lon": 34.1,
+      "names": {
+        "en": "Crimea",
+        "ro": "Crimeea",
+        "bg": "Крим"
+      },
+      "match": [
+        "crimea",
+        "crimeea",
+        "крим$",
+        "крима$",
+        "кримския",
+        "кримски"
+      ]
+    }
+  ]
+}

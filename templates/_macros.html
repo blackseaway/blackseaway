@@ -1,0 +1,37 @@
+{% macro news_item(n, t, lang, place_names) -%}
+<li class="news-item{% if 'attacks' in n.topics %} is-alert{% endif %}" data-topics="{{ n.topics|join(' ') }}">
+  <a class="news-title" href="{{ n.url }}" target="_blank" rel="noopener nofollow" lang="{{ n.shown_lang }}">{{ n.title }}</a>
+  <div class="news-meta">
+    <span class="src">{{ n.source }}</span>
+    <time datetime="{{ n.published }}">{{ n.published|date(lang, true) }}</time>
+    {% if n.translated %}<span class="badge" title="{{ t.machine_translated }}">{{ n.orig_lang|upper }}→{{ lang|upper }}</span>
+    {% elif n.shown_lang != lang %}<span class="badge" title="{{ t.original_language }}">{{ n.orig_lang|upper }}</span>{% endif %}
+  </div>
+  {% if n.summary %}<p class="news-summary" lang="{{ n.orig_lang }}">{{ n.summary }}</p>{% endif %}
+  <div class="tags">
+    {% for tp in n.topics[:3] %}<span class="tag tag-{{ tp }}">{{ t.topics[tp] }}</span>{% endfor %}
+    {% for pl in n.places[:2] %}<span class="tag tag-place">📍 {{ place_names[pl] }}</span>{% endfor %}
+  </div>
+</li>
+{%- endmacro %}
+
+{% macro post_card(p, t, lang, big=false) -%}
+{% set v = p.versions[lang] %}
+<article class="post-card{% if big %} big{% endif %}">
+  <a href="{{ url(lang ~ '/articles/' ~ p.slug ~ '.html') }}">
+    <div class="kicker">{{ t.from_newsroom }} · {{ p.date|date(lang) }}</div>
+    <h3 lang="{{ p.lang if v.untranslated else lang }}">{{ v.title }}</h3>
+    {% if v.summary %}<p lang="{{ p.lang if v.untranslated else lang }}">{{ v.summary }}</p>{% endif %}
+    <span class="more">{{ t.read_more }} →</span>
+  </a>
+</article>
+{%- endmacro %}
+
+{% macro indicator_card(i, t) -%}
+<div class="indicator">
+  <div class="ind-value">{{ i.value }}</div>
+  <div class="ind-unit">{{ i.unit }}</div>
+  <div class="ind-label">{{ i.label }}</div>
+  <div class="ind-src">{% if i.date %}{{ t.as_of }} {{ i.date }} · {% endif %}{% if i.source.url %}<a href="{{ i.source.url }}" target="_blank" rel="noopener">{{ i.source.name or t.source }}</a>{% else %}{{ i.source.name }}{% endif %}</div>
+</div>
+{%- endmacro %}

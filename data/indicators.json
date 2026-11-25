@@ -1,0 +1,45 @@
+{
+  "_comment": "Ключові показники. Заповнюються редакцією вручну. На сайті показуються лише записи з \"published\": true. Кожен показник має мати дату і джерело (назва + посилання). label/note: en обов'язково, ro і bg бажано (якщо немає, показується en).",
+  "indicators": [
+    {
+      "id": "war_risk_premium_ukraine",
+      "published": false,
+      "value": "",
+      "unit": {"en": "% of hull value per voyage", "ro": "% din valoarea navei pe cursă", "bg": "% от стойността на кораба на рейс"},
+      "date": "",
+      "label": {"en": "War-risk insurance premium, Ukrainian ports", "ro": "Prima de asigurare de risc de război, porturile Ucrainei", "bg": "Застрахователна премия за военен риск, украински пристанища"},
+      "note": {"en": "", "ro": "", "bg": ""},
+      "source": {"name": "", "url": ""}
+    },
+    {
+      "id": "corridor_cargo_month",
+      "published": false,
+      "value": "",
+      "unit": {"en": "million tonnes per month", "ro": "milioane de tone pe lună", "bg": "милиона тона на месец"},
+      "date": "",
+      "label": {"en": "Cargo via the Ukrainian maritime corridor", "ro": "Marfă prin coridorul maritim ucrainean", "bg": "Товари през украинския морски коридор"},
+      "note": {"en": "", "ro": "", "bg": ""},
+      "source": {"name": "", "url": ""}
+    },
+    {
+      "id": "constanta_throughput",
+      "published": false,
+      "value": "",
+      "unit": {"en": "million tonnes per year", "ro": "milioane de tone pe an", "bg": "милиона тона годишно"},
+      "date": "",
+      "label": {"en": "Port of Constanța cargo throughput", "ro": "Traficul de mărfuri al portului Constanța", "bg": "Товарооборот на пристанище Констанца"},
+      "note": {"en": "", "ro": "", "bg": ""},
+      "source": {"name": "", "url": ""}
+    },
+    {
+      "id": "port_infrastructure_hits",
+      "published": false,
+      "value": "",
+      "unit": {"en": "attacks on port infrastructure", "ro": "atacuri asupra infrastructurii portuare", "bg": "атаки срещу пристанищна инфраструктура"},
+      "date": "",
+      "label": {"en": "Attacks on port infrastructure since the start of the year", "ro": "Atacuri asupra infrastructurii portuare de la începutul anului", "bg": "Атаки срещу пристанищна инфраструктура от началото на годината"},
+      "note": {"en": "", "ro": "", "bg": ""},
+      "source": {"name": "", "url": ""}
+    }
+  ]
+}

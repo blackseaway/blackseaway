@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% set page_id = 'articles' %}
+{% set title = v.title %}
+{% set description = v.summary %}
+{% set og_type = 'article' %}
+{% block content %}
+<article class="wrap article">
+  <header>
+    <div class="kicker"><a href="{{ url(lang ~ '/articles/') }}">{{ t.articles_title }}</a> · {{ post.date|date(lang) }} · {{ post.minutes }} {{ t.minutes_read }}</div>
+    <h1 lang="{{ post.lang if v.untranslated else lang }}">{{ v.title }}</h1>
+    {% if v.summary %}<p class="lead" lang="{{ post.lang if v.untranslated else lang }}">{{ v.summary }}</p>{% endif %}
+    <p class="byline">{{ post.author }}</p>
+    {% if v.auto %}<p class="notice">{{ t.auto_translated_article }} <a href="{{ url('en/articles/' ~ post.slug ~ '.html') }}">EN</a></p>
+    {% elif v.untranslated %}<p class="notice">{{ t.original_language }}: {{ post.lang|upper }}</p>{% endif %}
+  </header>
+  {% if post.image %}<img class="hero-img" src="{{ post.image }}" alt="">{% endif %}
+  <div class="prose" lang="{{ post.lang if v.untranslated else lang }}">{{ v.html|safe }}</div>
+  <footer class="share">
+    <span>{{ t.share }}:</span>
+    {% set link = cfg.base_url ~ '/' ~ lang ~ '/articles/' ~ post.slug ~ '.html' %}
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{ link|urlencode }}" target="_blank" rel="noopener">Facebook</a>
+    <a href="https://www.threads.net/intent/post?text={{ (v.title ~ ' ' ~ link)|urlencode }}" target="_blank" rel="noopener">Threads</a>
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ link|urlencode }}" target="_blank" rel="noopener">LinkedIn</a>
+  </footer>
+</article>
+{% endblock %}

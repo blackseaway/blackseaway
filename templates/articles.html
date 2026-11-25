@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m with context %}
+{% set page_id = 'articles' %}
+{% set title = t.articles_title %}
+{% block content %}
+<div class="wrap block">
+  <h1 class="page-title">{{ t.articles_title }}</h1>
+  <p class="lead narrow">{{ t.articles_intro }}</p>
+  <div class="post-grid">{% for p in posts %}{{ m.post_card(p, t, lang, loop.first) }}{% endfor %}</div>
+</div>
+{% endblock %}

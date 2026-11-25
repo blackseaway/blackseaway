@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m with context %}
+{% set page_id = 'home' %}
+{% block content %}
+<section class="hero">
+  <div class="wrap">
+    <p class="eyebrow">Black Sea · Marea Neagră · Черно море</p>
+    <h1>{{ t.tagline }}</h1>
+    <p class="lead">{{ t.intro }}</p>
+    {% if stats.hotspots %}
+    <div class="hotspots">
+      <span class="hs-label">{{ t.hotspots_week }}:</span>
+      {% for h in stats.hotspots %}<span class="hs">{{ h.names[lang] }} <b>{{ h.count }}</b></span>{% endfor %}
+    </div>
+    {% endif %}
+  </div>
+</section>
+
+{% if indicators %}
+<section class="wrap block">
+  <div class="block-head"><h2>{{ t.key_figures }}</h2><a href="{{ url(lang ~ '/stats.html') }}">{{ t.nav_stats }} →</a></div>
+  <div class="indicators">{% for i in indicators %}{{ m.indicator_card(i, t) }}{% endfor %}</div>
+</section>
+{% endif %}
+
+<div class="wrap home-grid block">
+  <section>
+    <div class="block-head"><h2>{{ t.latest_news }}</h2><a href="{{ url(lang ~ '/news.html') }}">{{ t.all_news }} →</a></div>
+    <ul class="news-list">
+      {% for n in news %}{{ m.news_item(n, t, lang, place_names) }}{% endfor %}
+    </ul>
+    <p><a class="button" href="{{ url(lang ~ '/news.html') }}">{{ t.all_news }}</a></p>
+  </section>
+  <aside>
+    {% if posts %}
+    <div class="block-head"><h2>{{ t.from_newsroom }}</h2></div>
+    {% for p in posts %}{{ m.post_card(p, t, lang, loop.first) }}{% endfor %}
+    <p><a href="{{ url(lang ~ '/articles/') }}">{{ t.all_articles }} →</a></p>
+    {% endif %}
+    {% if stats.topics %}
+    <div class="side-box">
+      <h3>{{ t.chart_topics }}</h3>
+      <ul class="mini-bars">
+        {% for tp in stats.topics[:6] %}
+        <li><span>{{ t.topics[tp.id] }}</span><span class="bar"><i style="width: {{ (tp.share*100)|round(1) }}%"></i></span><b>{{ tp.share|pct }}</b></li>
+        {% endfor %}
+      </ul>
+      <a href="{{ url(lang ~ '/stats.html') }}">{{ t.nav_stats }} →</a>
+    </div>
+    {% endif %}
+  </aside>
+</div>
+{% endblock %}

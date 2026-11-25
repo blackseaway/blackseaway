@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ cfg.name }}</title>
+<meta name="description" content="{{ t.intro }}">
+<meta property="og:title" content="{{ cfg.name }}">
+<meta property="og:description" content="{{ t.intro }}">
+<meta property="og:image" content="{{ cfg.base_url }}/assets/og-default.png">
+<meta property="og:url" content="{{ cfg.base_url }}/">
+{% for l in langs %}<link rel="alternate" hreflang="{{ l }}" href="{{ cfg.base_url }}/{{ l }}/">
+{% endfor %}
+<script>
+(function () {
+  var supported = {{ langs|tojson }}, pick = "{{ cfg.default_language }}";
+  try { var saved = localStorage.getItem("bsw-lang"); if (supported.indexOf(saved) >= 0) pick = saved; else {
+    var prefs = navigator.languages || [navigator.language || ""];
+    for (var i = 0; i < prefs.length; i++) { var c = (prefs[i] || "").slice(0, 2).toLowerCase(); if (supported.indexOf(c) >= 0) { pick = c; break; } }
+  } } catch (e) {}
+  location.replace("{{ url('') }}" + pick + "/");
+})();
+</script>
+<link rel="stylesheet" href="{{ url('assets/style.css') }}">
+</head>
+<body class="center-page">
+  <h1>Black Sea <b>Way</b></h1>
+  <p>{% for l in langs %}<a class="button" href="{{ url(l ~ '/') }}">{{ i18n[l].lang_name }}</a> {% endfor %}</p>
+</body>
+</html>

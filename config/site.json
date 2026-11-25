@@ -1,0 +1,26 @@
+{
+  "name": "Black Sea Way",
+  "base_url": "https://blackseaway.github.io/blackseaway",
+  "base_path": "/blackseaway",
+  "languages": ["en", "ro", "bg"],
+  "default_language": "en",
+  "editor": "Galiia Koshel",
+  "contact_email": "",
+  "social": {
+    "facebook": "https://www.facebook.com/blackseaway",
+    "instagram": "https://www.instagram.com/blackseaway",
+    "threads": "https://www.threads.net/@blackseaway"
+  },
+  "news": {
+    "max_items": 400,
+    "max_age_days": 120,
+    "translate_per_run": 6,
+    "deepl_monthly_limit": 450000,
+    "deepl_stop_at_share": 0.85
+  },
+  "social_posting": {
+    "max_posts_per_day": 4,
+    "min_hours_between_posts": 3,
+    "hashtags": "#BlackSea #Shipping #Logistics #Ukraine"
+  }
+}

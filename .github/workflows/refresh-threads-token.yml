@@ -1,0 +1,26 @@
+name: Refresh Threads token
+
+on:
+  schedule:
+    - cron: "41 6 1,15 * *"   # 1st and 15th of every month
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Refresh and store new token
+        env:
+          THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          if [ -z "$THREADS_TOKEN" ]; then echo "THREADS_TOKEN not set, nothing to do"; exit 0; fi
+          if [ -z "$GH_TOKEN" ]; then echo "::error::Add a GH_PAT secret (fine-grained token with 'Secrets: read and write' on this repo)"; exit 1; fi
+          NEW=$(python scripts/refresh_threads_token.py | tail -n1)
+          echo "::add-mask::$NEW"
+          gh secret set THREADS_TOKEN --body "$NEW" --repo "$GITHUB_REPOSITORY"
+          echo "Threads token updated"

@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="{{ t.html_lang }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% set page_title = (title ~ ' · ' ~ cfg.name) if title else (cfg.name ~ ' · ' ~ t.tagline) %}
+<title>{{ page_title }}</title>
+<meta name="description" content="{{ description or t.intro }}">
+<link rel="canonical" href="{{ cfg.base_url }}/{{ lang }}/{{ path|replace('index.html','') }}">
+{% for l in langs %}<link rel="alternate" hreflang="{{ l }}" href="{{ cfg.base_url }}/{{ l }}/{{ path|replace('index.html','') }}">
+{% endfor %}
+<meta property="og:site_name" content="{{ cfg.name }}">
+<meta property="og:type" content="{{ og_type or 'website' }}">
+<meta property="og:title" content="{{ title or cfg.name }}">
+<meta property="og:description" content="{{ description or t.intro }}">
+<meta property="og:url" content="{{ cfg.base_url }}/{{ lang }}/{{ path|replace('index.html','') }}">
+<meta property="og:image" content="{{ og_image or (cfg.base_url ~ '/assets/og-default.png') }}">
+<meta property="og:locale" content="{{ t.og_locale }}">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="{{ url('assets/favicon.svg') }}" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="{{ cfg.name }}" href="{{ url('feed.xml') }}">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url('assets/style.css') }}?v={{ build_time.strftime('%Y%m%d%H%M') }}">
+{% block head %}{% endblock %}
+</head>
+<body class="page-{{ page_id or 'page' }}">
+<header class="site-header">
+  <div class="wrap header-row">
+    <a class="logo" href="{{ url(lang ~ '/') }}" aria-label="{{ cfg.name }}">
+      <svg viewBox="0 0 40 40" width="34" height="34" aria-hidden="true"><circle cx="20" cy="20" r="19" fill="#0e6ba8"/><path d="M5 24c4-3 7-3 10 0s6 3 10 0 7-3 10 0" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M8 17c3-2 6-2 8 0s5 2 8 0 5-2 8 0" stroke="#9fd3f5" stroke-width="2.5" fill="none" stroke-linecap="round"/></svg>
+      <span>Black Sea <b>Way</b></span>
+    </a>
+    <nav class="main-nav" aria-label="Main">
+      <a href="{{ url(lang ~ '/news.html') }}" {% if page_id=='news' %}aria-current="page"{% endif %}>{{ t.nav_news }}</a>
+      <a href="{{ url(lang ~ '/articles/') }}" {% if page_id=='articles' %}aria-current="page"{% endif %}>{{ t.nav_articles }}</a>
+      <a href="{{ url(lang ~ '/stats.html') }}" {% if page_id=='stats' %}aria-current="page"{% endif %}>{{ t.nav_stats }}</a>
+      <a href="{{ url(lang ~ '/about.html') }}" {% if page_id=='about' %}aria-current="page"{% endif %}>{{ t.nav_about }}</a>
+    </nav>
+    <nav class="lang-switch" aria-label="Language">
+      {% for l in langs %}<a href="{{ url(l ~ '/' ~ path|replace('index.html','')) }}" hreflang="{{ l }}" lang="{{ l }}" {% if l==lang %}aria-current="true"{% endif %}>{{ l|upper }}</a>{% endfor %}
+    </nav>
+  </div>
+</header>
+<main id="main">
+{% block content %}{% endblock %}
+</main>
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div>
+      <div class="logo small"><span>Black Sea <b>Way</b></span></div>
+      <p>{{ t.footer_note }}</p>
+    </div>
+    <div>
+      <h3>{{ t.follow_us }}</h3>
+      <ul class="social">
+        <li><a href="{{ cfg.social.facebook }}" rel="me noopener">Facebook</a></li>
+        <li><a href="{{ cfg.social.instagram }}" rel="me noopener">Instagram</a></li>
+        <li><a href="{{ cfg.social.threads }}" rel="me noopener">Threads</a></li>
+        <li><a href="{{ url('feed.xml') }}">{{ t.rss }}</a></li>
+      </ul>
+    </div>
+    <div>
+      <p class="muted">{% if news_updated %}{{ t.updated }}: {{ news_updated|date(lang, true) }}{% endif %}<br>© {{ build_time.year }} {{ cfg.name }} · {{ cfg.editor }}</p>
+    </div>
+  </div>
+</footer>
+{% block scripts %}{% endblock %}
+<script src="{{ url('assets/app.js') }}" defer></script>
+</body>
+</html>
