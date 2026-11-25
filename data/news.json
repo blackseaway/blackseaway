@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T15:06:31Z",
+ "updated": "2026-11-25T16:21:22Z",
  "items": [
   {
    "id": "509f87805f08",
@@ -151,6 +151,31 @@
    "img_checked": true
   },
   {
+   "id": "860f78876c7d",
+   "lang": "en",
+   "title": "MEPs Warn of Mounting Economic Threats to Bulgaria From Black Sea Attacks",
+   "titles": {
+    "en": "MEPs Warn of Mounting Economic Threats to Bulgaria From Black Sea Attacks",
+    "ro": "Deputații europeni avertizează asupra amenințărilor economice tot mai mari la adresa Bulgariei, generate de atacurile din Marea Neagră",
+    "bg": "Членовете на Европейския парламент предупреждават за нарастващите икономически заплахи за България вследствие на атаките в Черно море"
+   },
+   "summary": "Bulgarian members of the European Parliament called for stronger EU protection of Black Sea shipping and critical infrastructure, financial compensation for industries suffering losses because of the ...",
+   "url": "https://www.novinite.com/articles/241782/MEPs+Warn+of+Mounting+Economic+Threats+to+Bulgaria+From+Black+Sea+Attacks",
+   "source": "Novinite",
+   "published": "2026-11-25T02:02:00Z",
+   "fetched": "2026-11-25T16:18:55Z",
+   "image": "https://www.novinite.com/media/images/2026-11/photo_verybig_241782.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.ihVpq3q4tLVExDEkdMjH3g&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "b6e54f2b244b",
    "lang": "en",
    "title": "Hull insurance in Romania rises by more than 50% — Romania Insider",
@@ -224,6 +249,29 @@
    "img_checked": true
   },
   {
+   "id": "a3fbf4f96c43",
+   "lang": "bg",
+   "title": "Анкетата на „Труд Нюз“: 2/3 подозират Киев и Лондон за атаките срещу търговски кораби в Черно море",
+   "titles": {
+    "bg": "Анкетата на „Труд Нюз“: 2/3 подозират Киев и Лондон за атаките срещу търговски кораби в Черно море",
+    "en": "‘Trud News’ survey: Two-thirds suspect Kyiv and London of being behind the attacks on merchant ships in the Black Sea",
+    "ro": "Sondajul realizat de „Trud News”: Două treimi dintre respondenți suspectează Kievul și Londra de atacurile împotriva navelor comerciale din Marea Neagră"
+   },
+   "summary": "Повече от половината участници в седемдневна анкета на „Труд Нюз“ смятат, че зад атаките срещу търговски кораби в акваторията на България и Румъния стои Украйна с помощта на Великобритания ...",
+   "url": "https://trud.bg/a/articles/anketata-na-trud-niuz-23-podozirat-kiev-i-london-za-atakite-sreshtu-targovski-korabi-v-cherno-more",
+   "source": "Труд",
+   "published": "2026-11-25T00:10:00Z",
+   "fetched": "2026-11-25T16:18:55Z",
+   "image": "https://www.bing.com/th?id=ONUT.e5lI8e4dxljJ_bgFTECrog&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.e5lI8e4dxljJ_bgFTECrog&pid=News",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "997a45c7f7a5",
    "lang": "en",
    "title": "Bulgaria Wants More Surveillance in the Black Sea from Allies, Turkey Is Cautious",
@@ -283,6 +331,32 @@
      "url": "https://fakti.bg/en/world/1104315-bulgarian-meps-call-for-a-joint-response-to-security-threats-in-the-black-sea"
     }
    ],
+   "img_checked": true
+  },
+  {
+   "id": "33e97e8d24ab",
+   "lang": "ro",
+   "title": "Cronologia dronelor care au lovit în Marea Neagră. Cum a ajuns războiul din Ucraina până în Portul Constanța",
+   "titles": {
+    "ro": "Cronologia dronelor care au lovit în Marea Neagră. Cum a ajuns războiul din Ucraina până în Portul Constanța",
+    "en": "A timeline of the drones that struck in the Black Sea. How the war in Ukraine reached the Port of Constanța",
+    "bg": "Хронология на дроновете, които нанесоха удари в Черно море. Как войната в Украйна стигна до пристанището в Констанца"
+   },
+   "summary": "Atacurile cu drone maritime si aeriene au schimbat radical situatia de securitate din bazinul Marii Negre, iar incidentele nu mai sunt limitate la zonele de conflict din apropierea Crimeei sau a ...",
+   "url": "https://www.ziuaconstanta.ro/stiri/actualitate/cronologia-dronelor-care-au-lovit-in-marea-neagra-cum-a-ajuns-razboiul-din-ucraina-pana-in-portul-constanta-961800.html",
+   "source": "Ziua de Constanța",
+   "published": "2026-11-24T19:00:00Z",
+   "fetched": "2026-11-25T16:18:55Z",
+   "image": "https://www.ziuaconstanta.ro/images/stories/2026/11/25/xplozie-drona.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.r-MTaN4jfiPIL49LyV4shA&pid=News",
+   "topics": [
+    "attacks",
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -902,7 +976,9 @@
    "lang": "en",
    "title": "Bulgaria and Romania Develop Joint Black Sea System to Detect Maritime Drones",
    "titles": {
-    "en": "Bulgaria and Romania Develop Joint Black Sea System to Detect Maritime Drones"
+    "en": "Bulgaria and Romania Develop Joint Black Sea System to Detect Maritime Drones",
+    "ro": "Bulgaria și România dezvoltă un sistem comun în Marea Neagră pentru detectarea dronelor maritime",
+    "bg": "България и Румъния разработват съвместна система в Черно море за откриване на морски дронове"
    },
    "summary": "Romania and Bulgaria are developing a joint system to detect maritime drones, monitor vessels linked to Russia's so-called shadow fleet and protect critical infrastructure in the Black Sea, Romanian ...",
    "url": "https://www.novinite.com/articles/241759/Bulgaria+and+Romania+Develop+Joint+Black+Sea+System+to+Detect+Maritime+Drones",
@@ -930,7 +1006,9 @@
    "lang": "bg",
    "title": "САЩ: Русия удари корабите в Черно море",
    "titles": {
-    "bg": "САЩ: Русия удари корабите в Черно море"
+    "bg": "САЩ: Русия удари корабите в Черно море",
+    "en": "US: Russia struck ships in the Black Sea",
+    "ro": "SUA: Rusia a atacat navele din Marea Neagră"
    },
    "summary": "За САЩ няма никакво съмнение, че Русия е ударила търговските кораби в Черно море. Това стана ясно от изявления на постоянния представител на САЩ в НАТО ...",
    "url": "https://filternews.bg/sasth-rusiya-udari-korabite-v-cherno-more/",
@@ -952,7 +1030,9 @@
    "lang": "en",
    "title": "Türkiye's 'effective mechanism' secures Black Sea shipping, food supplies",
    "titles": {
-    "en": "Türkiye's 'effective mechanism' secures Black Sea shipping, food supplies"
+    "en": "Türkiye's 'effective mechanism' secures Black Sea shipping, food supplies",
+    "ro": "„Mecanismul eficient” al Turciei asigură transportul maritim pe Marea Neagră și aprovizionarea cu alimente",
+    "bg": "„Ефективният механизъм“ на Турция гарантира корабоплаването в Черно море и доставките на храни"
    },
    "summary": "Türkiye's UN envoy says a new maritime safety mechanism aims to secure shipping routes and safeguard food supplies for countries dependent on Black Sea exports.",
    "url": "https://www.trtworld.com/article/e7e84d05d20b",
@@ -2834,6 +2914,52 @@
    "img_checked": true
   },
   {
+   "id": "945935ef6818",
+   "lang": "ro",
+   "title": "Proces pe valorificarea potențialului Middle Corridor pentru Portul Constanța, intentat de acționarul minoritar. Judecătorii pregătesc VERDICTUL",
+   "titles": {
+    "ro": "Proces pe valorificarea potențialului Middle Corridor pentru Portul Constanța, intentat de acționarul minoritar. Judecătorii pregătesc VERDICTUL"
+   },
+   "summary": "Procesul cu miza potențialul Middle Corridor pentru Portul Constanța, prin transformarea acestuia într-un hub internațional, aproape de final.",
+   "url": "https://ziarulamprenta.ro/justitie/proces-pe-valorificarea-potentialului-middle-corridor-pentru-portul-constanta-intentat-de-actionarul-minoritar-judecatorii-pregatesc-verdictul/603325/",
+   "source": "ziarulamprenta",
+   "published": "2026-11-16T16:00:00Z",
+   "fetched": "2026-11-25T16:18:55Z",
+   "image": "https://ziarulamprenta.ro/wp-content/uploads/2025/02/portul-constanta-fb-cn-apm.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.Fggitp2bSdIMZHaivk5eOg&pid=News",
+   "topics": [
+    "shipping",
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "d4cd0d6719ae",
+   "lang": "en",
+   "title": "The EU and US are still wondering whether the Black Sea falls within NATO’s remit, while Russia is increasingly boldly testing red lines",
+   "titles": {
+    "en": "The EU and US are still wondering whether the Black Sea falls within NATO’s remit, while Russia is increasingly boldly testing red lines"
+   },
+   "summary": "The escalating naval war between Russia and Ukraine is becoming an increasingly serious challenge for the Alliance in the Black Sea ...",
+   "url": "https://fakti.bg/en/mnenia/1101574-the-eu-and-us-are-still-wondering-whether-the-black-sea-falls-within-natos-remit-while-russia-is-increasingly-boldly-testing-red-lines",
+   "source": "Fakti.bg",
+   "published": "2026-11-16T14:03:00Z",
+   "fetched": "2026-11-25T16:18:55Z",
+   "image": "https://www.bing.com/th?id=ONUT.sA-qBNMiqPkzPyQs0aFO9w&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.sA-qBNMiqPkzPyQs0aFO9w&pid=News",
+   "topics": [
+    "policy",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "e89e429b1a5c",
    "lang": "en",
    "title": "Another Ship Sinks in the Black Sea. Crew Members Say It Was Hit by Drones.",
@@ -2902,6 +3028,27 @@
    "topics": [
     "policy",
     "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "2fa834896b0d",
+   "lang": "en",
+   "title": "Turkish, Azerbaijani crew rescued after Black Sea ship sinks",
+   "titles": {
+    "en": "Turkish, Azerbaijani crew rescued after Black Sea ship sinks"
+   },
+   "summary": "Twelve crew members, including eight Turkish and four Azerbaijani nationals, have been rescued after a Somali-flagged cargo ship sank following ...",
+   "url": "https://www.dailysabah.com/turkiye/turkish-azerbaijani-crew-rescued-after-black-sea-ship-sinks/news",
+   "source": "Daily Sabah",
+   "published": "2026-11-16T07:23:00Z",
+   "fetched": "2026-11-25T16:18:55Z",
+   "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/11/16/thumbs/1200x675/470655.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.dRiGNpPcIem2zXND-orKmA&pid=News",
+   "topics": [
     "shipping"
    ],
    "places": [],
@@ -2986,6 +3133,27 @@
      "url": "https://www.b1tv.ro/eveniment/operatiune-de-salvare-in-marea-neagra-ce-nava-s-a-scufundat-1750383.html"
     }
    ],
+   "img_checked": true
+  },
+  {
+   "id": "d8d1cffa7d61",
+   "lang": "en",
+   "title": "Incident involving a cargo ship in Bulgaria’s Black Sea exclusive economic zone",
+   "titles": {
+    "en": "Incident involving a cargo ship in Bulgaria’s Black Sea exclusive economic zone"
+   },
+   "summary": "The operation also involves two Cougar helicopters and an Su-25 aircraft of the Air Force, which will conduct surveillance and reconnaissance of the area ...",
+   "url": "https://fakti.bg/en/bulgaria/1101429-incident-involving-a-cargo-ship-in-bulgarias-black-sea-exclusive-economic-zone",
+   "source": "Fakti.bg",
+   "published": "2026-11-16T04:45:00Z",
+   "fetched": "2026-11-25T16:18:55Z",
+   "image": "https://www.bing.com/th?id=ONUT.WmgLzlFGltx-yJhRE5pz-g&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.WmgLzlFGltx-yJhRE5pz-g&pid=News",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -3568,7 +3736,13 @@
    ],
    "places": [],
    "img_tried": true,
-   "img_checked": true
+   "img_checked": true,
+   "also": [
+    {
+     "source": "Libertatea",
+     "url": "https://www.libertatea.ro/stiri/o-nava-a-fost-lovita-de-o-drona-in-marea-neagra-anunta-radu-oprea-pilotii-romani-cu-cele-sase-drone-doborate-pana-astazi-sunt-eroi-zrsmvz9"
+    }
+   ]
   },
   {
    "id": "861d2a009df9",
@@ -3661,6 +3835,31 @@
     "shipping"
    ],
    "places": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "131c1eae5076",
+   "lang": "en",
+   "title": "Black Sea and Danube, the world's most dangerous maritime route",
+   "titles": {
+    "en": "Black Sea and Danube, the world's most dangerous maritime route"
+   },
+   "summary": "Moscow's forces have intensified attacks on merchant ships in the region and have extended their actions to Ukrainian ports along the river route. Captain Oleksiy Sydoruk belonged - as his wife ...",
+   "url": "https://www.msn.com/en-us/news/other/black-sea-and-danube-the-world-s-most-dangerous-maritime-route/ar-AA2hhK0G",
+   "source": "EL MUNDO on MSN",
+   "published": "2026-11-12T01:31:06Z",
+   "fetched": "2026-11-25T16:18:55Z",
+   "image": "https://www.bing.com/th?id=ONUT.3KmYCYE_w6DEhdQyEbpOzA&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.3KmYCYE_w6DEhdQyEbpOzA&pid=News",
+   "topics": [
+    "attacks",
+    "shipping",
+    "ports"
+   ],
+   "places": [
+    "danube"
+   ],
    "img_tried": true,
    "img_checked": true
   },
