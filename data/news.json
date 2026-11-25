@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:49:03Z",
+ "updated": "2026-11-25T13:36:36Z",
  "items": [
   {
    "id": "7d3389a5e6bf",
@@ -95,6 +95,26 @@
    "source": "The New Voice of Ukraine",
    "published": "2026-11-25T10:00:00Z",
    "fetched": "2026-11-25T12:37:24Z",
+   "topics": [
+    "shipping"
+   ],
+   "places": []
+  },
+  {
+   "id": "509f87805f08",
+   "lang": "bg",
+   "title": "\"Коалицията на желаещите\" иска от Русия безопасен коридор в Черно море",
+   "titles": {
+    "bg": "\"Коалицията на желаещите\" иска от Русия безопасен коридор в Черно море",
+    "en": "The \"Coalition of the Willing\" is calling on Russia to provide a safe corridor in the Black Sea",
+    "ro": "„Coaliția celor dispuși” solicită Rusiei un coridor de siguranță în Marea Neagră"
+   },
+   "summary": "\"Коалицията на желаещите\" поставя две условия на Русия за преговорите за край на войната в Украйна. Това съобщи председателят на Европейската комисия Урсула фон дер Лайен пред Европейския парламент в Страсбург в сряда. Според нея това са...",
+   "url": "https://www.dnevnik.bg/evropa/2026/11/25/4984218_koaliciiata_na_jelaeshtite_iska_ot_rusiia_bezopasen/?ref=rss",
+   "source": "Дневник",
+   "published": "2026-11-25T09:58:00Z",
+   "fetched": "2026-11-25T13:36:17Z",
+   "image": "https://img.dnevnik.bg/shimg/zx350c_4984221.jpg",
    "topics": [
     "shipping"
    ],
@@ -203,7 +223,9 @@
    "lang": "en",
    "title": "Russian strikes kill two in Odesa, hit apartment building in Kyiv",
    "titles": {
-    "en": "Russian strikes kill two in Odesa, hit apartment building in Kyiv"
+    "en": "Russian strikes kill two in Odesa, hit apartment building in Kyiv",
+    "ro": "Atacurile rusești au provocat moartea a două persoane în Odesa și au lovit un bloc de locuințe din Kiev",
+    "bg": "Руски удари отнемат живота на двама души в Одеса и поразяват жилищен блок в Киев"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5lcWJSOW40N3pNQm9fckJsRjhEMzEtQXQxdGN4NVk3WHhnS0ZUY2VxT2ZqM1gtdUotbjc1ZnRGeC1OdWVpR1FnZUtmZmhWUdIBU0FVX3lxTE9Kc3JQVFRQOVJKZEpFenF3ODcySy1FVTlLY1hiLTN4WmtnZ1owQ3RMMElGeDh1ZlRXd1VQM2I2aS0za2VnVURMZmgyaFREUFpWQlAw?oc=5",
@@ -224,30 +246,13 @@
    ]
   },
   {
-   "id": "92e1679a87dc",
-   "lang": "en",
-   "title": "Ukraine war latest: Russian strikes kill two in Odesa, injure five across Ukraine",
-   "titles": {
-    "en": "Ukraine war latest: Russian strikes kill two in Odesa, injure five across Ukraine"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYzFlT0xXeng5MGFqZk9kN2RGNlQ4eGFpcjJybHd4SWRnTzNPWldqQ1MzRDBySVFaOEdLeGNoa3kydmdRMGJOSXFITVBoZUtfdlVQYlRhdkRPUzVDTmlxcnA4QWZJUFY2QnhTRjk5YjlpcTc3T1JtQll3OGczcWNDUDlRWm1QTHhEWHotZTgtZXdUWTdTbUliUE5HckhpVEtqMXc?oc=5",
-   "source": "Latest news from Azerbaijan",
-   "published": "2026-11-25T02:35:19Z",
-   "fetched": "2026-11-25T12:48:52Z",
-   "topics": [
-    "attacks"
-   ],
-   "places": [
-    "odesa"
-   ]
-  },
-  {
    "id": "da9dad1a35a6",
    "lang": "en",
    "title": "Chinese envoy calls for protecting Black Sea shipping",
    "titles": {
-    "en": "Chinese envoy calls for protecting Black Sea shipping"
+    "en": "Chinese envoy calls for protecting Black Sea shipping",
+    "ro": "Ambasadorul chinez face apel la protejarea transportului maritim pe Marea Neagră",
+    "bg": "Китайският посланик призовава за защита на корабоплаването в Черно море"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVlpOYTJ2a3NoZUxhWkRSWTF4Qk0xbkYtSFprNDFBU0N5NVBTOEZ2cGM3RWRvVWpINVd3VFBHc2YyZFVsd1hEdDU4LWg3V0JPTzJPX1NWaWpVR0hXZC1fX2dPVFV0OFVLNG44SmxhaWk5UmIzdmxieXp2d3liZ29WNzBn?oc=5",
@@ -264,7 +269,9 @@
    "lang": "en",
    "title": "Russian strike kills two people in Ukraine’s Odesa region, governor says",
    "titles": {
-    "en": "Russian strike kills two people in Ukraine’s Odesa region, governor says"
+    "en": "Russian strike kills two people in Ukraine’s Odesa region, governor says",
+    "ro": "Un atac rusesc a provocat moartea a două persoane în regiunea Odesa din Ucraina, afirmă guvernatorul",
+    "bg": "Руски удар е отнел живота на двама души в украинската област Одеса, съобщи губернаторът"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa0d6VnNWZU95OUhMenhpdkx6UUpjbGRFSjBQSWdIRHBFcmpWQ05iYjJTSTUydU1wUUE2NFVwTnYtdUE1WENydUQ1dkhsSVR5c1ZRVVM2RnF0eEpOcUZqVmYyWG5jeTRqRlZxc3NGVk5GbExMZU9iRGZvbHJjS2hMZDRzTWNDM2xqeVBQX21kVjhTcGZxNms5eWdoY3JxdnlkM0dMVUZKUzhPOE1RNFNKRDhsX3h2U0dyR3ZzbFppZWhIVU9JMkVDTVVmVDliXzcw?oc=5",
@@ -281,20 +288,24 @@
   {
    "id": "f5ea43c45d17",
    "lang": "ro",
-   "title": "Moş Crăciuni şi un urs polar au ieşit dintr-un container eşuat pe o plajă din Bulgaria. Decoraţiunile ar aparţine unei firme din România şi ar proveni de pe o navă scufundată în Marea Neagră după un atac cu drone",
+   "title": "Moş Crăciuni şi un urs polar au ieşit dintr-un container eşuat pe plajă în Bulgaria. Decoraţiunile aparţin unei firme din România",
    "titles": {
-    "ro": "Moş Crăciuni şi un urs polar au ieşit dintr-un container eşuat pe o plajă din Bulgaria. Decoraţiunile ar aparţine unei firme din România şi ar proveni de pe o navă scufundată în Marea Neagră după un atac cu drone"
+    "ro": "Moş Crăciuni şi un urs polar au ieşit dintr-un container eşuat pe plajă în Bulgaria. Decoraţiunile aparţin unei firme din România",
+    "en": "A number of Father Christmases and a polar bear emerged from a container that had washed up on a beach in Bulgaria. The decorations belong to a company in Romania",
+    "bg": "Дядо Коледа и полярна мечка излязоха от контейнер, изхвърлен на плажа в България. Украшенията принадлежат на фирма от Румъния"
    },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQVmxHdGs1bEF3VHBkQW02Y3RfeEtNTEg3OHlUcHNfY2VZUFJ4Z3VvV2ZWd3BhTWFGb2NUQjZ2aHBCc0NkZzA4ZnoyMWxVY2htTmF2SnVOaWdNcGxpeFNlY1NuSEFPbFJIdEtocmIwNDVPMjFYa1lQbGFSbG1RaTlFZEJaVlNmc1d3NEZDekNkeElxRmJIWUhWTzc1M2JUME9jYk9KbFZHMWFqT2ZOb2xNU28tSHJqbFJ2YWhaZ2xfTFZNTXlyRGlZVGdOSDFsUFFkUVdGenQ4RnBnNGR4bTI5b1BucTBscGk2dmpkeHBRbkV0eEdWdWJXNVBLbnd5R3NaX3ROdVZtdnVHYlpJb2FBUlNMdV9fS1ByV0VBb2tGem83ajlXWlY0MF9rcU9kZ2ppcThHck1SeEV5RWloaExySUVoUmVBYlYta1E?oc=5",
-   "source": "News.ro",
+   "summary": "Autorităţile bulgare au descoperit marţi figuri de Moş Crăciun în mărime naturală, o statuie de urs polar şi ornamente festive atunci când au deschis un container de transport maritim eşuat pe ţărm lângă Burgas, despre care se crede că provine de pe o navă grecească lovită de drone luna trecută.…",
+   "url": "https://www.digi24.ro/stiri/actualitate/mos-craciuni-si-un-urs-polar-au-iesit-dintr-un-container-esuat-pe-plaja-in-bulgaria-decoratiunile-apartin-unei-firme-din-romania-4051679",
+   "source": "Digi24",
    "published": "2026-11-24T23:15:00Z",
    "fetched": "2026-11-25T12:37:24Z",
    "topics": [
     "attacks",
     "shipping"
    ],
-   "places": [],
+   "places": [
+    "burgas"
+   ],
    "also": [
     {
      "source": "Ziare.com",
@@ -307,15 +318,23 @@
     {
      "source": "Informat.ro",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORVdFLWdHVWQ2UEJXdVVaN0VDUDZ5cEtqbGpXZzBPN0Q1ZjNySTVZa1V4MFg0UzFoZHVpNnNRSkZOYnJlbTNPbC1FSkl0SWVNaUpSeU5DVUpUeWR2aUlOM0N5OFFJSUUtM1ZlMGJIcXN5M2RYOGU1dGhaay1aNkcwSW5MZkJUcDc5NjlWbzdHYmFwWXNpMExFckRaM3JDaEs4?oc=5"
+    },
+    {
+     "source": "News.ro",
+     "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQVmxHdGs1bEF3VHBkQW02Y3RfeEtNTEg3OHlUcHNfY2VZUFJ4Z3VvV2ZWd3BhTWFGb2NUQjZ2aHBCc0NkZzA4ZnoyMWxVY2htTmF2SnVOaWdNcGxpeFNlY1NuSEFPbFJIdEtocmIwNDVPMjFYa1lQbGFSbG1RaTlFZEJaVlNmc1d3NEZDekNkeElxRmJIWUhWTzc1M2JUME9jYk9KbFZHMWFqT2ZOb2xNU28tSHJqbFJ2YWhaZ2xfTFZNTXlyRGlZVGdOSDFsUFFkUVdGenQ4RnBnNGR4bTI5b1BucTBscGk2dmpkeHBRbkV0eEdWdWJXNVBLbnd5R3NaX3ROdVZtdnVHYlpJb2FBUlNMdV9fS1ByV0VBb2tGem83ajlXWlY0MF9rcU9kZ2ppcThHck1SeEV5RWloaExySUVoUmVBYlYta1E?oc=5"
     }
-   ]
+   ],
+   "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNSUyRjA2JTJGMjI1MjEzOF8yMjUy/MTM4X0NvbnRhaW5lcmUuanBnJmhhc2g9/NDhiNWJjMDBkYzkwODNjNmJiNWU5YmVlYTljZjFhNjk=.jpg",
+   "img_tried": null
   },
   {
    "id": "2547ad230a96",
    "lang": "en",
    "title": "Drone attacks and Black Sea storms delay Russian tanker loadings",
    "titles": {
-    "en": "Drone attacks and Black Sea storms delay Russian tanker loadings"
+    "en": "Drone attacks and Black Sea storms delay Russian tanker loadings",
+    "ro": "Atacurile cu drone și furtunile de pe Marea Neagră întârzie încărcarea petrolierelor rusești",
+    "bg": "Атаките с дронове и бурите в Черно море забавят товаренето на руските танкери"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnVza1QyRXNsXzdxUzNmMnVVeURFUnp0VnhKMG1EQW1TbTFReVpXN082WDlxaWtKcUI0Z1VqS29reDVFUTRFYXZzOTRyc3JtNUFIQlFZbzJRVzNUVWRlT25jNDVwYVZiTmhxX1V5T2J0eTVLaXlwNWxoWFFwbElXcDhaZ0MyUTVXNzc5bUJoM2JjRFdTNWFKVkx2ZWNBV3NNb3czVTFaWF9NSjVlQXFJUzAyT2V4QQ?oc=5",
@@ -327,6 +346,32 @@
     "energy"
    ],
    "places": []
+  },
+  {
+   "id": "94fca5faffa8",
+   "lang": "en",
+   "title": "Russian strikes on Odesa region kill two, including 17-year-old boy, injure three",
+   "titles": {
+    "en": "Russian strikes on Odesa region kill two, including 17-year-old boy, injure three"
+   },
+   "summary": "Russian forces struck the Odesa region on the evening of November 24, killing a man and a 17-year-old boy and injuring three people.",
+   "url": "https://www.ukrinform.net/rubric-ato/4188254-russian-strikes-on-odesa-region-kill-two-including-17yearold-boy-injure-three.html",
+   "source": "Ukrinform",
+   "published": "2026-11-24T20:58:00Z",
+   "fetched": "2026-11-25T13:36:17Z",
+   "image": "https://static.ukrinform.com/photos/2026_11/thumb_files/630_360_1795549690-169.jpg",
+   "topics": [
+    "attacks"
+   ],
+   "places": [
+    "odesa"
+   ],
+   "also": [
+    {
+     "source": "Latest news from Azerbaijan",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYzFlT0xXeng5MGFqZk9kN2RGNlQ4eGFpcjJybHd4SWRnTzNPWldqQ1MzRDBySVFaOEdLeGNoa3kydmdRMGJOSXFITVBoZUtfdlVQYlRhdkRPUzVDTmlxcnA4QWZJUFY2QnhTRjk5YjlpcTc3T1JtQll3OGczcWNDUDlRWm1QTHhEWHotZTgtZXdUWTdTbUliUE5HckhpVEtqMXc?oc=5"
+    }
+   ]
   },
   {
    "id": "d5c29f84252c",
@@ -490,6 +535,22 @@
    "places": []
   },
   {
+   "id": "6f7754ac1e77",
+   "lang": "ro",
+   "title": "Nicușor Dan, despre sprijinul aliaților pentru securitatea României la Marea Neagră: „Este un proces în curs”",
+   "titles": {
+    "ro": "Nicușor Dan, despre sprijinul aliaților pentru securitatea României la Marea Neagră: „Este un proces în curs”"
+   },
+   "summary": "Președintele Nicușor Dan a declarat marți, la Palatul Cotroceni, că se prefigurează un sprijin din partea aliaților României în zona Mării Negre, concretizat deocamdată prin implicarea Franței. Șeful statului a subliniat și importanța economică a restabilirii securității în regiune, în condițiile…",
+   "url": "https://www.digi24.ro/stiri/actualitate/nicusor-dan-despre-sprijinul-aliatilor-pentru-securitatea-romaniei-la-marea-neagra-este-un-proces-in-curs-4050621",
+   "source": "Digi24",
+   "published": "2026-11-24T11:28:48Z",
+   "fetched": "2026-11-25T13:36:17Z",
+   "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMSUyRjI0JTJGMzA4NDY0M18zMDg0/NjQzX25pY3Vzb3ItZGFuLXByZXNpZGVu/Y3kuanBnJmhhc2g9NThmMDA5OTA2ZWI0MWQzN2RmNDRkMGNiODFmNjYxMzQ=.jpg",
+   "topics": [],
+   "places": []
+  },
+  {
    "id": "3b5551f03f77",
    "lang": "en",
    "title": "Black Sea shipwreck: investigators examine drone attack",
@@ -544,6 +605,25 @@
     "grain"
    ],
    "places": []
+  },
+  {
+   "id": "23dfc4e3a7b5",
+   "lang": "ro",
+   "title": "„Putin mi-a furat țara”: Cine este rusul din spatele rachetelor cu care Ucraina a distrus Podul Kerci din Crimeea",
+   "titles": {
+    "ro": "„Putin mi-a furat țara”: Cine este rusul din spatele rachetelor cu care Ucraina a distrus Podul Kerci din Crimeea"
+   },
+   "summary": "Pentru a distruge Podul Kerci, armata ucraineană a folosit inclusiv rachete de croazieră construite de compania lui Mihail Kokorici, un fizician și antreprenor rus care îl urăște pe Vladimir Putin și susține Ucraina, relatează Wall Street Journal. Mai multe rachete Ruta fabricate de Destinus au…",
+   "url": "https://www.digi24.ro/stiri/externe/putin-mi-a-furat-tara-cine-este-rusul-din-spatele-rachetelor-cu-care-ucraina-a-distrus-podul-kerci-din-crimeea-4049807",
+   "source": "Digi24",
+   "published": "2026-11-24T09:53:34Z",
+   "fetched": "2026-11-25T13:36:17Z",
+   "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMSUyRjIzJTJGMzA4Mzk2OV8zMDgz/OTY5X21paGFpbC1rb2tvcmljaS1yYWNo/dGEtcnV0YS1wb2Qta2VyY2kuanBnJmhh/c2g9ZDBmNWVlYzMyNjhjNWZiNWUxNzQ0MjYxNTBhOTFlMTg=.jpg",
+   "topics": [],
+   "places": [
+    "kerch",
+    "crimea"
+   ]
   },
   {
    "id": "752ee6f3ddd8",
@@ -741,6 +821,10 @@
     {
      "source": "DNA India",
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMmQyTlBZSDFtbkpzZXZkeGdBVEVIdVF2QUROT3A3SkpaaEl3NVRtUDlSQ3djbGdyb2k2cU8wMHZLODlqbnhDV09GWmJ4TmRmTXJoRjJIVGFJUUtlN09FQ0dCaVJvZjdhc2tkQXBNeHpVbm51T3RJMnU5WlhTenA3aWdYMkJxLS1KTFY5QXd4ZURqZW5IRkp3dXZRTzh6cUNIbU9GN042V2N5N05GN2xrdkttdFdzZnBXQ0NLWHF5YThscWY3bktqanJDUkdQUmJtU3NSTXF3ZGtFTk5uLW8wd0dvWdIB6AFBVV95cUxQeHJqSnVUS1hCaVVvS3Q4ZFNSUGJfemtIOVVYdUVhVzl0MUNGVUlvRmg1bkJJNldSVGczaS1OMWNKTEpwNTZPMHNTdTlZMUtMMDZBaU5iODdtV0s5WXB4UXZjVDVaaTZmV2NYQ3U0YktWZWtXczVDazYzdkRvMVZzMnFFOG0zNUJudmxYU0ozR245VDdqTDRqeXVrakhFTFpvMFNMdk9pblM4UW9pblZwTFp6LTlEb1VIdmFuVXltb3dpN2R1dGJKV3h5UlJ6S3Y3WGdNcEwyN2hzckRPZHIxUTBfcmxFdkhw?oc=5"
+    },
+    {
+     "source": "DNA India",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeHJqSnVUS1hCaVVvS3Q4ZFNSUGJfemtIOVVYdUVhVzl0MUNGVUlvRmg1bkJJNldSVGczaS1OMWNKTEpwNTZPMHNTdTlZMUtMMDZBaU5iODdtV0s5WXB4UXZjVDVaaTZmV2NYQ3U0YktWZWtXczVDazYzdkRvMVZzMnFFOG0zNUJudmxYU0ozR245VDdqTDRqeXVrakhFTFpvMFNMdk9pblM4UW9pblZwTFp6LTlEb1VIdmFuVXltb3dpN2R1dGJKV3h5UlJ6S3Y3WGdNcEwyN2hzckRPZHIxUTBfcmxFdkhw0gHoAUFVX3lxTFB4cmpKdVRLWEJpVW9LdDhkU1JQYl96a0g5VVh1RWFXOXQxQ0ZVSW9GaDVuQkk2V1JUZzNpLU4xY0pMSnA1Nk8wc1N1OVkxS0wwNkFpTmI4N21XSzlZcHhRdmNUNVppNmZXY1hDdTRiS1Zla1dzNUNrNjN2RG8xVnMycUU4bTM1Qm52bFhTSjNHbjlUN2pMNGp5dWtqSEVMWm8wU0x2T2luUzhRb2luVnBMWnotOURvVUh2YW5VeW1vd2k3ZHV0YkpXeHlSUnpLdjdYZ01wTDI3aHNyRE9kcjFRMF9ybEV2SHA?oc=5"
     }
    ]
   },
@@ -922,6 +1006,22 @@
    "topics": [
     "grain"
    ],
+   "places": []
+  },
+  {
+   "id": "cdd1932bcda2",
+   "lang": "ro",
+   "title": "Luca Niculescu, în presa franceză, despre creşterea costului vieţii: Înţeleg îngrijorările românilor. Dar există şi motive de optimism",
+   "titles": {
+    "ro": "Luca Niculescu, în presa franceză, despre creşterea costului vieţii: Înţeleg îngrijorările românilor. Dar există şi motive de optimism"
+   },
+   "summary": "Premierul Luca Niculescu afirmă, într-un interviu publicat luni în revista franceză L’Express, că „Marea Neagră a devenit unul dintre principalele puncte fierbinţi ale planetei”, dar autorităţile din România, alături de cele din Bulgaria şi cu sprijinul Uniunii Europene şi al NATO iau măsuri pentru…",
+   "url": "https://www.digi24.ro/stiri/actualitate/politica/luca-niculescu-in-presa-franceza-despre-cresterea-costului-vietii-inteleg-ingrijorarile-romanilor-dar-exista-si-motive-de-optimism-4049779",
+   "source": "Digi24",
+   "published": "2026-11-23T18:25:46Z",
+   "fetched": "2026-11-25T13:36:17Z",
+   "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIxJTJGMzAyNTEzOV8zMDI1/MTM5X2x1Y2EtbmljdWxlc2N1LUlOU1RB/TlRfNF9DT1RST0NFTklfVklDVE9SSUFf/MDE2X0lOUVVBTV9QaG90b3NfT2N0YXZf/R2FuZWEucG5nJmhhc2g9NTNhODhjMTFlMmYwMjQ4MDkzODNmYzA3MWI3NzE3OGE=.png",
+   "topics": [],
    "places": []
   },
   {
@@ -1119,6 +1219,26 @@
     "shipping"
    ],
    "places": []
+  },
+  {
+   "id": "953cda6a693b",
+   "lang": "bg",
+   "title": "👉 Водолази от Сдружение „Приятели на Морето – Бургас“ се гмурнаха до потъналия моторен кораб „Родина“ край Созопол, за да подменят батериите на сонарен буй, използван за проучване на преминаващите делфини. Корабът е потопен от",
+   "titles": {
+    "bg": "👉 Водолази от Сдружение „Приятели на Морето – Бургас“ се гмурнаха до потъналия моторен кораб „Родина“ край Созопол, за да подменят батериите на сонарен буй, използван за проучване на преминаващите делфини. Корабът е потопен от"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByd04wSTluWjg2RS1RR3E0bWJwa2YzMGNkWWtrRzB3dlBFV0RJeFk1MnVIRGFLVWF1cXA3cVRXNUVYT04tbmhGdWtXZ01NNURyOFE?oc=5",
+   "source": "Instagram",
+   "published": "2026-11-23T13:35:01Z",
+   "fetched": "2026-11-25T13:36:17Z",
+   "image": "",
+   "topics": [
+    "shipping"
+   ],
+   "places": [
+    "burgas"
+   ]
   },
   {
    "id": "1968762c4f7e",
@@ -1557,6 +1677,24 @@
    ]
   },
   {
+   "id": "01c1da911ff0",
+   "lang": "bg",
+   "title": "Борисов: Дори Путин призна, че Русия атакува кораби в Черно море, какво още чака Радев",
+   "titles": {
+    "bg": "Борисов: Дори Путин призна, че Русия атакува кораби в Черно море, какво още чака Радев"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0h4Z1NoSU5QelU2NG5QNVpfbktSd2szVzUwMnNTdkUyTG5aZC00UnZwOFFKTjJIWkZtQ3BDVWF0ZXdyamlPUVBwdENNU3pMc3NlR1RHdEZxTVUtcTA0M0FlWUlsYV90VlBiLWJUUmdfV1QwcWs4d0xSa1hmYmQwLW5uY04zQm50MFhiZmVvMmlldmlrX1Bid1VfVnp3VXRUNEVYeUNodzdfc2tPVnpPaGhXVTcxREg3Qkcw?oc=5",
+   "source": "News.bg",
+   "published": "2026-11-22T10:48:31Z",
+   "fetched": "2026-11-25T13:36:17Z",
+   "image": "",
+   "topics": [
+    "shipping"
+   ],
+   "places": []
+  },
+  {
    "id": "d559aef1dda1",
    "lang": "en",
    "title": "Black Sea Security Crisis Costs Bulgaria Ship-Repair Orders and Jobs",
@@ -1606,6 +1744,24 @@
    "topics": [
     "energy",
     "ports"
+   ],
+   "places": []
+  },
+  {
+   "id": "a28e2a2e8bbe",
+   "lang": "ro",
+   "title": "Premierul Bulgariei, despre dronele din Marea Neagră: „Mi-aș dori să le distrugem, dar nu este posibil”",
+   "titles": {
+    "ro": "Premierul Bulgariei, despre dronele din Marea Neagră: „Mi-aș dori să le distrugem, dar nu este posibil”"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVi02RkJLeHFTclAxQ0V0TnhJdV9lOVlVVmRZVnlzVDhZNzl3R0xwN1VibEZyX3VsVUhvbmRsaTBwMm5KVE1JMFpVVW83aDIzZXdKSkJzUjRtc3dIbmFlU1Q3V2FIS1VOVDdRQ2Zrc0psMjdPcTZXWWdMb3owYm1va2NzMGdvR2E4LU9JTFRLcmtYTU1Xd2NGYW52TzB6MHl0dVJUUDhFY3liYVZ2U19EY3c5dW5yWFZPclZMb0JsSUlTU21LaDBNbEFVd0V6WGY2bjFkUFhDOGpyd1JjTEE?oc=5",
+   "source": "CugetLiber.ro",
+   "published": "2026-11-22T08:00:00Z",
+   "fetched": "2026-11-25T13:36:17Z",
+   "image": "",
+   "topics": [
+    "attacks"
    ],
    "places": []
   },
@@ -1671,6 +1827,45 @@
    "places": []
   },
   {
+   "id": "8e0839635873",
+   "lang": "ro",
+   "title": "Rusia susține că a lovit în Marea Neagră o navă care transporta echipament militar pentru Ucraina",
+   "titles": {
+    "ro": "Rusia susține că a lovit în Marea Neagră o navă care transporta echipament militar pentru Ucraina"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUkNTeDRJRzFpVlIzWWxBRFNSYnJMUG16cUJmdElRT0gwTlV2aEVzbGZDMFVTWTVNeU84dlNJTlpPbjVydXBPSTN0TzJ6VkZtYU5tSUpDd3hfWVJvejVUN0FYLUg4VHBBWEdSRmtnTm1FWTA3WmpFNU9hVXlTcm9sMTE1cGxodVdBeV9LNVIteV9HQnJ0eFdRMGVWVnZ1cGgySXRlYVFuUlJHaDZSS0kyMzZYUFBLVUp2RlFoUzE5OVctT19MRDhlOE5EMmfSAdIBQVVfeXFMTWQtSFo1c0hMRWVjVEVOTG96R1Q0N3F3UWtGVWVqRkJwSGJXZkhpbDBaYlFFOFF3Q2ZZaFFMYWE5a0pjX2ZJSVFTbW9uaDdJWlVxRzEwNFQyWWZWTHM3QmtjYTBOWVdCNFJyNWVGbE45LURUaEVMQmpNMEdiMEZoVEdVTm9IRDVSeWJZY28xMlMyb0hnLVRUdkZ2QmVxWHpQSnZrVmFEQmhtdzAxcWxETDFQc2NQTVhZd24xWVVYYjdWeHVENHI2UHB0bllRMm53X0hR?oc=5",
+   "source": "DCNews",
+   "published": "2026-11-21T17:15:00Z",
+   "fetched": "2026-11-25T13:36:17Z",
+   "image": "",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": []
+  },
+  {
+   "id": "4e86516354d7",
+   "lang": "en",
+   "title": "Electricity supply situation remains difficult in Odesa region – Ministry of Energy",
+   "titles": {
+    "en": "Electricity supply situation remains difficult in Odesa region – Ministry of Energy"
+   },
+   "summary": "Following Russia's massive overnight attack on November 20, energy workers have managed to partially stabilise electricity supplies in the affected regions, but the situation remains difficult in the Odesa region.",
+   "url": "https://www.ukrinform.net/rubric-economy/4187223-electricity-supply-situation-remains-difficult-in-odesa-region-ministry-of-energy.html",
+   "source": "Ukrinform",
+   "published": "2026-11-21T16:54:00Z",
+   "fetched": "2026-11-25T13:36:17Z",
+   "image": "https://static.ukrinform.com/photos/2026_03/thumb_files/630_360_1774209030-351.jpeg",
+   "topics": [
+    "attacks"
+   ],
+   "places": [
+    "odesa"
+   ]
+  },
+  {
    "id": "1ef616b2a7ad",
    "lang": "bg",
    "title": "bTV Новините. . 🚨 „Ние просто оцеляхме. Другите колеги са мъртви.“ Разкази от първо лице след зачестилите атаки срещу търговски кораби в Черно море. 🚢 Морски и въздушни дронове поразяват плавателни съдове, а екипажите са принудени",
@@ -1687,6 +1882,26 @@
     "shipping"
    ],
    "places": []
+  },
+  {
+   "id": "e0f1c237710f",
+   "lang": "en",
+   "title": "Crimean Bridge collapse could delay Russian grain exports from the Azov Sea",
+   "titles": {
+    "en": "Crimean Bridge collapse could delay Russian grain exports from the Azov Sea"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVF9xMXA0NlZ4cHBndFFMaGZGeExQUFpNN211T3lVOVVWZUFIVUhSdVBJbHpibFJtUzlqM0dZRTF2RWVpQS1uWVFqdFBBS295eFRaWHExN0ZkZGgzd0tMRWJQbF9CZGJUWXIzbl9DU19ZbHFJemgtLVFQeVM5bTdCSjdOWFFKUlM5eVVra1NxOXRSWlNwaXpmRHR4bmxic1E3U1U3VVVNODl3eVp5ckxDbw?oc=5",
+   "source": "УкрАгроКонсалт",
+   "published": "2026-11-21T06:29:09Z",
+   "fetched": "2026-11-25T13:36:17Z",
+   "image": "",
+   "topics": [
+    "grain"
+   ],
+   "places": [
+    "crimea"
+   ]
   },
   {
    "id": "0fcf27c1a280",
@@ -1723,6 +1938,24 @@
    "places": [
     "odesa"
    ]
+  },
+  {
+   "id": "93c0039a6953",
+   "lang": "bg",
+   "title": "Операцията по търсене и спасяване на моряци от поразения в Черно море кораб HS Dignity е подновена",
+   "titles": {
+    "bg": "Операцията по търсене и спасяване на моряци от поразения в Черно море кораб HS Dignity е подновена"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZHh1OEJqMUhqVEh4MURyWlQ4YWhtWm5DRHJJQ1o0NHlQX1d1WElULWdwVWZPYThpNkotMVpzVDVDODlxblpGa1o1OUs5Z3RiNTJNWFljUXNTSlBIVUxZdDMwTE1BQXN6ZG1IY3Q3MS1Ba0RUZWllZVB3QXJTVFVIX3JENFFnaEY4SjFxWlIySGJZZDhSdEZDS2hTcTY1aEphQWIxUDktWFEzQy1hb2dsazJqaEJlY01TbjFuQi1rbEJqd0RUbDE0TEd6SXc5TC1BNjFObQ?oc=5",
+   "source": "БТА",
+   "published": "2026-11-20T20:20:00Z",
+   "fetched": "2026-11-25T13:36:17Z",
+   "image": "",
+   "topics": [
+    "shipping"
+   ],
+   "places": []
   },
   {
    "id": "36f3f9471042",
@@ -1901,7 +2134,17 @@
    "topics": [
     "attacks"
    ],
-   "places": []
+   "places": [],
+   "also": [
+    {
+     "source": "B1TV",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdEJzWTJSM0pITW1jQVBjNmQxd3FfTHB0dnZvbXduVDFsaWFHU1h4X3JOVVpBcU5LRjVQMVJhTWV4ay04ZF93Z1hXOEpTbDM0X3hMVHRnWmRpdDR3UGdoYUtuZ2lCMlY5UzVIZ0pFQllNc3ZSMTRjcFBPeXNsV3ljYnRsYTYxYjNBRkJvdnhVVzlNWndjMDRhRGZxaXVBbG9KWldfRzA0dnNDTTR5MmlyQXl1aHJmbExCUERtYkwyQzVEdTZTVTRyU1p1X1NRUUxGejFWQkFNcGxuazJxNVZiUmpPdTA5UEd1T2VEc1JBRjhaRE1k0gH6AUFVX3lxTE5rNmg0QU1wMFJDZTNBU0tFSV9Za2hZbkdlbk43dVBZcUFVMktOYjNKTXpmX3JHb0t5N0tEdlVCMkdxcFN1S2U5bUlxSDY0UWQ4ZXBFMUo0QXFIdTRDQnlWQVRpYTV3QlFJVE03RFVXT0I3ZGVsdEJCZzRfVUJrTXFfYnAxNWRrSXl6aWNsTHp4bklyaVBoM1E5N2Z5X0gxa3psOThWTjkyelRJRktWNlNQNFVsQmJyYzBmcE5QOXlCT0hJWnFGdFF5RF9XdUN3X3FvbEVXRHo4WnJoeUx2dVVWc09tOFE3bGszYmVpb3VQQzBsMC10aUh5bUE?oc=5"
+    },
+    {
+     "source": "ZiarulNational",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUFBVVXB0bFYweVp6cnpoekg3X0dmRjJybVlxV2RmbUYydlpzREFubVFUMnJwejZockFkX2NVYm1HQVE2Q2ZZUmhCVnZQZ2Y2TTBOeDNMU1JKOFdpblN1bFExeDdROU1MRkV2MWVESUFkTEZ5SlI3UTYwcUtSbXV3Z3lXQ1hrdWwxOWlqOEU1MFg4cVBUbG42TnhBcHE0ckZCZk9TcnJNRWNNbVZ6SUhBQ2VZSGdJT0k?oc=5"
+    }
+   ]
   },
   {
    "id": "a974948cbb4d",
@@ -2636,7 +2879,13 @@
     "attacks",
     "shipping"
    ],
-   "places": []
+   "places": [],
+   "also": [
+    {
+     "source": "Constanta TV",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMDBWYmlHT2lwcHZnUThHbXAwM3RLRG9pRjVuamx1clBleWZER2dfLWZZV09OVlZuY2xTZlYxUHdXdTY1Q0ZpdFNiY1hGN0pITWg1RW5NOV9PUFhpTmlva0hWYXo4QzROYmpSZDVZakx3cEhXSDhIUExkR05qTmlob0x5U1F4Nlh1QzhvS2Y0Vkk1ZnA4T19LRkJacTFpXzdYVTMwSWZzYjc5amNqa1l2ekEtTEN4TWY5UjgzZ3JPZEsxR0hmT2RhNUhB?oc=5"
+    }
+   ]
   },
   {
    "id": "c49fb707c3c9",
@@ -2668,6 +2917,24 @@
    "source": "Обективно",
    "published": "2026-11-18T15:28:36Z",
    "fetched": "2026-11-25T12:37:24Z",
+   "topics": [
+    "attacks"
+   ],
+   "places": []
+  },
+  {
+   "id": "43d989bea896",
+   "lang": "bg",
+   "title": "Военният министър предупреди: Напрежението в Черно море нараства, ударите ще продължат",
+   "titles": {
+    "bg": "Военният министър предупреди: Напрежението в Черно море нараства, ударите ще продължат"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcEs5Y2drVWtCZTBNUjFTYXRWSWQ4MzN4aV9rOWRXck56eFBaa3FsRTcwNEhjblZIT0J2V1FCcm9iQVBpeWhxaFhuQWYzQllEUVZNVGZkLU0zazNQWnYzTkJHWktSVC1hSC1BTlhTOG5Db09Yc3dKbmxocDlzdGJZWGUteTloU3NEWWxNSlVXZHFQb2VTZ1BwcXNjSE1VWkc2bEdfTUI3cUFfLXprYzRHNVRYc3ptVkVJS1hv?oc=5",
+   "source": "Poligraff",
+   "published": "2026-11-18T15:09:10Z",
+   "fetched": "2026-11-25T13:36:17Z",
+   "image": "",
    "topics": [
     "attacks"
    ],
@@ -2902,6 +3169,10 @@
     {
      "source": "Al Arabiya English",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMkVtakdlMlpnbHRiaFNHaFNUUzRUbUE1T2tuOGZkcXkyTXRtejRPbVVOUGFNeWZyVlV0SVFfMmEydVQtZlVMVThydGRENmFFTmJJMlNxMHpTLWx2WWJjRUlKa3YwWTVFQUxTenVBRktmOFBjbTZPUEw4WXpYTkYwZ1lvYzhBb1puanJyVDJrMUk3VS0waVowa0RMOC1BX1hz0gGmAUFVX3lxTFBGUFJDam50QTRsU3dFNmM5dF9NX1JnRlJmbzhVM0ZGRDN6c2E1WlZoaFlNaG5vQ3hRQjAtZ2xycUNsSVFoOVZTcVRiaTEwOTc3dzVNajduRGR1bUFNdzc2ejF4V0hfUllHWHZwdFFOS0M2aGI3NnIzLU5oQmcwUk1CNVJLaVJ3b096OTFtdWdfQjU5cHUyajk1ME1lRlpnVUV4YnhVbWc?oc=5"
+    },
+    {
+     "source": "The Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZVE0Rl9oNVduc3AtMXpTc2NqajBEaDdTMUJRaWpwM1FpNWZNRDNES1VpZnBmSi1SaUFxY3l1RUVTRmpIb3JsLTUybW03alVqTHFiT1gxZjdnOExPS2ZQdHlDUVZjVTViaGpLSm91SThIZEVKMGhUY2ZVR1FadHlQMlJRUkhrb016dzhFSzNjWFdBblU?oc=5"
     }
    ]
   },
