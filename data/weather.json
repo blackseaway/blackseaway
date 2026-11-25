@@ -1,32 +1,32 @@
 {
- "updated": "2026-11-25T15:03:10Z",
+ "updated": "2026-11-25T15:06:37Z",
  "source": "Open-Meteo.com",
  "ports": {
   "odesa": {
-   "wave_height": 0.58,
-   "wave_direction": 279,
-   "wave_period": 3.3,
+   "wave_height": 0.52,
+   "wave_direction": 277,
+   "wave_period": 3.25,
    "sea_temp": 11.7,
    "wave_max_24h": 0.8,
-   "wind_speed": 10.0,
-   "wind_direction": 287,
-   "wind_gusts": 19.2,
-   "air_temp": 6.4,
+   "wind_speed": 8.1,
+   "wind_direction": 285,
+   "wind_gusts": 17.3,
+   "air_temp": 6.1,
    "gusts_max_24h": 22.0,
-   "updated": "2026-11-25T14:11:32Z"
+   "updated": "2026-11-25T15:06:32Z"
   },
   "danube": {
-   "wave_height": 0.38,
-   "wave_direction": 260,
+   "wave_height": 0.32,
+   "wave_direction": 257,
    "wave_period": 3.25,
    "sea_temp": 13.3,
    "wave_max_24h": 0.8,
-   "wind_speed": 10.7,
-   "wind_direction": 286,
-   "wind_gusts": 15.9,
+   "wind_speed": 9.2,
+   "wind_direction": 274,
+   "wind_gusts": 14.0,
    "air_temp": 8.2,
    "gusts_max_24h": 27.8,
-   "updated": "2026-11-25T14:11:33Z"
+   "updated": "2026-11-25T15:06:33Z"
   },
   "constanta": {
    "wave_height": 0.18,
@@ -39,7 +39,7 @@
    "wind_gusts": 10.7,
    "air_temp": 8.1,
    "gusts_max_24h": 28.2,
-   "updated": "2026-11-25T15:03:06Z"
+   "updated": "2026-11-25T15:06:34Z"
   },
   "varna": {
    "wave_height": 0.14,
@@ -52,7 +52,7 @@
    "wind_gusts": 13.0,
    "air_temp": 9.0,
    "gusts_max_24h": 23.5,
-   "updated": "2026-11-25T15:03:07Z"
+   "updated": "2026-11-25T15:06:34Z"
   },
   "burgas": {
    "wave_height": 0.12,
@@ -65,7 +65,7 @@
    "wind_gusts": 3.3,
    "air_temp": 8.8,
    "gusts_max_24h": 15.9,
-   "updated": "2026-11-25T15:03:07Z"
+   "updated": "2026-11-25T15:06:35Z"
   },
   "bosphorus": {
    "wave_height": 0.54,
@@ -78,7 +78,7 @@
    "wind_gusts": 9.3,
    "air_temp": 7.9,
    "gusts_max_24h": 11.9,
-   "updated": "2026-11-25T15:03:08Z"
+   "updated": "2026-11-25T15:06:36Z"
   },
   "georgia": {
    "wave_height": 2.74,
@@ -91,7 +91,7 @@
    "wind_gusts": 28.6,
    "air_temp": 9.4,
    "gusts_max_24h": 34.4,
-   "updated": "2026-11-25T15:03:09Z"
+   "updated": "2026-11-25T15:06:37Z"
   },
   "russia": {
    "wave_height": 1.58,
@@ -104,7 +104,7 @@
    "wind_gusts": 19.4,
    "air_temp": 6.4,
    "gusts_max_24h": 24.5,
-   "updated": "2026-11-25T15:03:10Z"
+   "updated": "2026-11-25T15:06:37Z"
   }
  }
 }

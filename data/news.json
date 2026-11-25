@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T15:02:04Z",
+ "updated": "2026-11-25T15:06:31Z",
  "items": [
   {
    "id": "509f87805f08",
@@ -21,6 +21,36 @@
     "shipping"
    ],
    "places": [],
+   "img_checked": true
+  },
+  {
+   "id": "eec06c2d2fcc",
+   "lang": "en",
+   "title": "Christmas decorations found in washed up container from ship hit by drones off Bulgaria’s Black Sea coast",
+   "titles": {
+    "en": "Christmas decorations found in washed up container from ship hit by drones off Bulgaria’s Black Sea coast",
+    "ro": "Decorațiuni de Crăciun găsite într-un container eșuat, provenind de la o navă lovită de drone în largul coastei bulgare a Mării Negre",
+    "bg": "Коледни украшения, открити в изхвърлен на брега контейнер от кораб, ударен от дронове край българското Черноморие"
+   },
+   "summary": "More than 80 boxes containing Christmas ornaments and decorations were found, with an estimated value of €50,000. View on euronews ...",
+   "url": "https://www.msn.com/en-ie/news/other/christmas-decorations-found-in-washed-up-container-from-ship-hit-by-drones-off-bulgaria-s-black-sea-coast/ar-AA2icOTJ",
+   "source": "Euronews on MSN",
+   "published": "2026-11-25T05:43:22Z",
+   "fetched": "2026-11-25T15:04:00Z",
+   "image": "https://images.euronews.com/articles/stories/10/00/75/35/1200x675_cmsv2_8f4f1294-0cdb-5ae5-b3db-ff14c13702ed-10007535.jpg",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "euronews.com",
+     "url": "https://www.euronews.com/2026/11/25/christmas-decorations-found-in-washed-up-container-from-ship-hit-by-drones-off-bulgarias-b"
+    }
+   ],
    "img_checked": true
   },
   {
@@ -163,6 +193,30 @@
    "image": "https://img2.chinadaily.com.cn/images/202611/25/6b063a83e4b03ebf74645d8e.png",
    "fallback_image": "http://www.bing.com/th?id=ONUT.XtHU1MqzXskCy8gmaGmb6A&pid=News",
    "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "ef139967fce8",
+   "lang": "ro",
+   "title": "Container cu decorațiuni de Crăciun, eșuat pe o plajă la Marea Neagră. Ar proveni de pe o navă atacată cu drone",
+   "titles": {
+    "ro": "Container cu decorațiuni de Crăciun, eșuat pe o plajă la Marea Neagră. Ar proveni de pe o navă atacată cu drone",
+    "en": "A container filled with Christmas decorations, washed up on a beach on the Black Sea. It is believed to have come from a ship attacked by drones",
+    "bg": "Контейнер с коледни украшения, изхвърлен на плаж на Черно море. Предполага се, че произхожда от кораб, атакуван с дронове"
+   },
+   "summary": "Un container eșuat pe litoralul bulgăresc ar proveni de pe nava Contship Jet, scufundată în Marea Neagră după un atac cu drone. Ce au găsit autoritățile.",
+   "url": "https://www.realitatea.net/stiri/extern/container-cu-decoratiuni-de-craciun-esuat-pe-o-plaja-la-marea-neagra-ar-proveni-de-pe-o-nava-atacata-cu-drone-3llyhv",
+   "source": "Realitatea.NET",
+   "published": "2026-11-25T00:44:00Z",
+   "fetched": "2026-11-25T15:04:00Z",
+   "image": "https://www.realitatea.net/storage/media/7/2026/11/container-esuat-marea-neagra-J5cEH1.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.zjxwBbWXjEWhjZUGKUdiQQ&pid=News",
+   "topics": [
+    "attacks",
     "shipping"
    ],
    "places": [],
@@ -580,7 +634,9 @@
    "lang": "bg",
    "title": "Украйна пренася войната далеч отвъд Черно море, Либия поиска обяснения от Киев",
    "titles": {
-    "bg": "Украйна пренася войната далеч отвъд Черно море, Либия поиска обяснения от Киев"
+    "bg": "Украйна пренася войната далеч отвъд Черно море, Либия поиска обяснения от Киев",
+    "en": "Ukraine is taking the war far beyond the Black Sea; Libya has demanded an explanation from Kyiv",
+    "ro": "Ucraina extinde războiul mult dincolo de Marea Neagră, Libia a cerut explicații de la Kiev"
    },
    "summary": "Ударите по руски кораби край Бенгази предизвикаха дипломатически реакции, а западни медии ги определят като безпрецедентно разширяване на конфликта към Средиземноморието ...",
    "url": "https://clubz.bg/182243",
@@ -673,7 +729,9 @@
    "lang": "en",
    "title": "Greece is developing an alternative route for Ukrainian grain exports",
    "titles": {
-    "en": "Greece is developing an alternative route for Ukrainian grain exports"
+    "en": "Greece is developing an alternative route for Ukrainian grain exports",
+    "ro": "Grecia dezvoltă o rută alternativă pentru exporturile de cereale din Ucraina",
+    "bg": "Гърция разработва алтернативен маршрут за износа на украинско зърно"
    },
    "summary": "As Russian attacks on Black Sea ports and Danube drought disrupt shipments, Greece is designing a two-way rail corridor via Alexandroupolis and Thessaloniki to bring Ukrainian grain to global markets.",
    "url": "https://www.msn.com/en-us/news/other/greece-is-developing-an-alternative-route-for-ukrainian-grain-exports/ar-AA2i6hfV",
@@ -795,7 +853,9 @@
    "lang": "bg",
    "title": "Врата към света. Пристанище Варна на 120 години",
    "titles": {
-    "bg": "Врата към света. Пристанище Варна на 120 години"
+    "bg": "Врата към света. Пристанище Варна на 120 години",
+    "en": "A gateway to the world. Varna Port celebrates its 120th anniversary",
+    "ro": "O poartă către lume. Portul Varna împlinește 120 de ani"
    },
    "summary": "През 2026 Варна празнува 120 години от официалното откриване на морското пристанище. Документалният филм \"Врата към света. Пристанище Варна на ...",
    "url": "https://bnt.bg/news/vrata-kam-sveta-pristanishte-varna-na-120-godini-352523news.html",
@@ -818,7 +878,9 @@
    "lang": "en",
    "title": "Türkiye is developing a mechanism to ensure the safe navigation of commercial vessels in the Black Sea: UN envoy",
    "titles": {
-    "en": "Türkiye is developing a mechanism to ensure the safe navigation of commercial vessels in the Black Sea: UN envoy"
+    "en": "Türkiye is developing a mechanism to ensure the safe navigation of commercial vessels in the Black Sea: UN envoy",
+    "ro": "Turcia dezvoltă un mecanism menit să asigure navigația în condiții de siguranță a navelor comerciale în Marea Neagră: trimisul ONU",
+    "bg": "Турция разработва механизъм за осигуряване на безопасното плаване на търговски кораби в Черно море: пратеник на ООН"
    },
    "summary": "Ahmet Yildiz warns that drone strikes on merchant ships threaten global food security while highlighting regional demining efforts | Anadolu ...",
    "url": "https://www.aa.com.tr/en/turkiye/turkiye-is-developing-a-mechanism-to-ensure-the-safe-navigation-of-commercial-vessels-in-the-black-sea-un-envoy/4135196",
@@ -1047,7 +1109,35 @@
     {
      "source": "Realitatea.NET",
      "url": "https://www.realitatea.net/stiri/social/fortele-navale-romane-masuri-pentru-cresterea-sigurantei-navigatiei-pe-dunare-si-in-marea-neagra-anuntul-mapn-sqpyvf"
+    },
+    {
+     "source": "BURSA",
+     "url": "https://www.bursa.ro/mapn-fortele-navale-romane-desfasoara-misiuni-pentru-cresterea-sigurantei-navigatiei-pe-dunare-si-in-marea-neagra-85741164"
     }
+   ],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "191544eaf5a8",
+   "lang": "ro",
+   "title": "Forțele Navale Române și NATO întăresc paza pe Dunăre și în Marea Neagră: nave de luptă, elicoptere și o aeronavă militară franceză",
+   "titles": {
+    "ro": "Forțele Navale Române și NATO întăresc paza pe Dunăre și în Marea Neagră: nave de luptă, elicoptere și o aeronavă militară franceză"
+   },
+   "summary": "Forțele Navale Române au anunţat, luni, că alături de Garda de coastă și aliați din NATO, întăresc paza pe Dunăre şi în Marea Neagră. \"În această săptămână, securitatea liniilor de ...",
+   "url": "https://www.antena3.ro/actualitate/fortele-navale-romane-si-nato-intaresc-paza-pe-dunare-si-in-marea-neagra-nave-de-lupta-elicoptere-si-o-aeronava-militara-franceza-812299.html",
+   "source": "Antena 3 CNN",
+   "published": "2026-11-23T09:49:00Z",
+   "fetched": "2026-11-25T15:04:00Z",
+   "image": "https://www.antena3.ro/thumbs/amp/2026/11/23/fortele-navale-romane-si-nato-intaresc-paza-pe-dunare-si-in-marea-neagra-nave-de-lupta-elicoptere-si-o-aeronava-militara-franceza-1121674.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.XQ6FRYaLrLUUcouLGm1nVg&pid=News",
+   "topics": [
+    "policy",
+    "shipping"
+   ],
+   "places": [
+    "danube"
    ],
    "img_tried": true,
    "img_checked": true
@@ -1263,6 +1353,29 @@
    "img_checked": true
   },
   {
+   "id": "27840fa437ae",
+   "lang": "bg",
+   "title": "Бойко Борисов: Румен Радев не вярва на Путин за корабите в Черно море",
+   "titles": {
+    "bg": "Бойко Борисов: Румен Радев не вярва на Путин за корабите в Черно море"
+   },
+   "summary": "Лидерът на ГЕРБ и бивш министър-председател Бойко Борисов обвини премиера Румен Радев, че пренебрегва дори публичните признания на руския президент Владимир Путин за ударите срещу търговски кораби в Ч ...",
+   "url": "https://www.dunavmost.com/novini/boiko-borisov-rumen-radev-ne-vyarva-na-putin-za-korabite-v-cherno-more",
+   "source": "DUNAVMOST",
+   "published": "2026-11-22T12:40:00Z",
+   "fetched": "2026-11-25T15:04:00Z",
+   "image": "https://www.dunavmost.com/snimka/202611/Original/04ed8a1f645a4bc1960f38f84fb4b055.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT._NyQB7DeEXBYf6VFZtiOkw&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "f6821eeb9310",
    "lang": "bg",
    "title": "Явор Гечев: Ударите в Черно море не целят български кораби и територии",
@@ -1420,24 +1533,30 @@
    "img_checked": true
   },
   {
-   "id": "bebb72d6dfb2",
+   "id": "55f80c1c0ee2",
    "lang": "bg",
-   "title": "Ангел Найденов: Путин призна, че Русия стои зад атаките срещу кораби в Черно море",
+   "title": "Ангел Найденов: Путин на практика призна, че Русия стои зад атаките в Черно море",
    "titles": {
-    "bg": "Ангел Найденов: Путин призна, че Русия стои зад атаките срещу кораби в Черно море"
+    "bg": "Ангел Найденов: Путин на практика призна, че Русия стои зад атаките в Черно море"
    },
-   "summary": "Ангел Найденов: Путин призна, че Русия стои зад атаките срещу кораби в Черно море ✔️ Вижте подробности на Offnews.bg от автор OFFNews ...",
-   "url": "https://offnews.bg/politika/angel-najdenov-putin-prizna-che-rusia-stoi-zad-atakite-sreshtu-korab-879011.html",
-   "source": "OFFNews",
-   "published": "2026-11-22T03:30:00Z",
-   "fetched": "2026-11-25T14:08:21Z",
+   "summary": "С изявлението си Путин на практика е призна, че Русия стои зад атаките срещу кораби в западната част на Черно море. Това заяви бившият министър на отбраната Ангел Найденов по бТВ, като коментира сигур ...",
+   "url": "https://www.24chasa.bg/bulgaria/article/23973024",
+   "source": "24 Часа",
+   "published": "2026-11-22T03:25:00Z",
+   "fetched": "2026-11-25T15:04:00Z",
    "image": "https://i2.offnews.bg/events/2026/11/22/879011/phpmejz7w.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.q091WWqrsauwEkDnPqS4Yg&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.eKQF_uAWGtNjVMH9tJ8rhg&pid=News",
    "topics": [
+    "policy",
     "shipping"
    ],
    "places": [],
-   "img_tried": true,
+   "also": [
+    {
+     "source": "OFFNews",
+     "url": "https://offnews.bg/politika/angel-najdenov-putin-prizna-che-rusia-stoi-zad-atakite-sreshtu-korab-879011.html"
+    }
+   ],
    "img_checked": true
   },
   {
@@ -3123,6 +3242,31 @@
     "shipping"
    ],
    "places": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "492207b77f6d",
+   "lang": "en",
+   "title": "Bucharest seeks NATO help to ensure Black Sea security",
+   "titles": {
+    "en": "Bucharest seeks NATO help to ensure Black Sea security"
+   },
+   "summary": "Attacks on commercial vessels near the Danube Delta are emerging as a serious challenge to Black Sea security. Following reports that a third vessel had been hit by a drone off the Romanian coast, ...",
+   "url": "https://www.bgnes.com/politics/bucharest-seeks-nato-help-to-ensure-black-sea-security",
+   "source": "bgnes",
+   "published": "2026-11-15T14:01:00Z",
+   "fetched": "2026-11-25T15:04:00Z",
+   "image": "https://www.bgnes.com/static/images/news/2026/11/16/24919/22887.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.x_bjqkF6uXfTrwnc3g8J9A&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [
+    "danube"
+   ],
    "img_tried": true,
    "img_checked": true
   },
