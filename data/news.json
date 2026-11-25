@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:21:22Z",
+ "updated": "2026-11-25T19:04:20Z",
  "items": [
   {
    "id": "509f87805f08",
@@ -21,6 +21,29 @@
     "shipping"
    ],
    "places": [],
+   "img_checked": true
+  },
+  {
+   "id": "d92f5fa8fdf6",
+   "lang": "en",
+   "title": "Black Sea port blockade could cost Ukraine $9.8 billion in 2027, study says",
+   "titles": {
+    "en": "Black Sea port blockade could cost Ukraine $9.8 billion in 2027, study says",
+    "ro": "Blocada porturilor de la Marea Neagră ar putea costa Ucraina 9,8 miliarde de dolari în 2027, potrivit unui studiu",
+    "bg": "Според проучване блокадата на черноморските пристанища може да струва на Украйна 9,8 милиарда долара през 2027 г."
+   },
+   "summary": "A year-long blockade of Ukraine's three major Black Sea ports could reduce the country's gross domestic product (GDP) by 4.1%, or $9.8 billion, in 2027, according to an economic assessment by the ...",
+   "url": "https://www.msn.com/en-us/money/economy/black-sea-port-blockade-could-cost-ukraine-9-8-billion-in-2027-study-says/ar-AA2idRGo",
+   "source": "The Kyiv Independent on MSN",
+   "published": "2026-11-25T09:07:50Z",
+   "fetched": "2026-11-25T19:01:54Z",
+   "image": "https://www.bing.com/th?id=ONUT.X1RvnMWP--oO-utN0FhNgg&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.X1RvnMWP--oO-utN0FhNgg&pid=News",
+   "topics": [
+    "ports"
+   ],
+   "places": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -1053,7 +1076,9 @@
    "lang": "en",
    "title": "Russia, Ukraine trade blames at UNSC over Black Sea, energy attacks",
    "titles": {
-    "en": "Russia, Ukraine trade blames at UNSC over Black Sea, energy attacks"
+    "en": "Russia, Ukraine trade blames at UNSC over Black Sea, energy attacks",
+    "ro": "Rusia și Ucraina își aruncă reciproc vina în cadrul Consiliului de Securitate al ONU în legătură cu Marea Neagră și atacurile asupra rețelelor energetice",
+    "bg": "Русия и Украйна си разменят обвинения в Съвета за сигурност на ООН по повод Черно море и атаките срещу енергийните съоръжения"
    },
    "summary": "Washington highlights progress with Kiev and European partners on four pillars, security guarantees, aimed at building on recent talks in Abu Dhabi.",
    "url": "https://www.trtworld.com/article/b35db13fee22",
@@ -1075,7 +1100,9 @@
    "lang": "ro",
    "title": "Portul Constanța riscă să piardă clienți, iar românii să plătească mai mult. Efectele războiului din Marea Neagră",
    "titles": {
-    "ro": "Portul Constanța riscă să piardă clienți, iar românii să plătească mai mult. Efectele războiului din Marea Neagră"
+    "ro": "Portul Constanța riscă să piardă clienți, iar românii să plătească mai mult. Efectele războiului din Marea Neagră",
+    "en": "The Port of Constanța risks losing customers, and Romanians could end up paying more. The effects of the war in the Black Sea",
+    "bg": "Пристанището в Констанца рискува да загуби клиенти, а румънците – да плащат повече. Последиците от войната в Черно море"
    },
    "summary": "Portul Constanța riscă să piardă clienți, iar românii să plătească mai mult. Efectele războiului din Marea Neagră ...",
    "url": "https://stirileprotv.ro/stiri/actualitate/portul-constanta-risca-sa-piarda-clienti-iar-romanii-sa-plateasca-mai-mult-efectele-razboiului-din-marea-neagra.html",
@@ -1098,7 +1125,9 @@
    "lang": "ro",
    "title": "Premierul Luca Niculescu trage un semnal de alarmă privind securitatea la Marea Neagră",
    "titles": {
-    "ro": "Premierul Luca Niculescu trage un semnal de alarmă privind securitatea la Marea Neagră"
+    "ro": "Premierul Luca Niculescu trage un semnal de alarmă privind securitatea la Marea Neagră",
+    "en": "Prime Minister Luca Niculescu sounds the alarm over security in the Black Sea",
+    "bg": "Премиерът Лука Никулеску отправя предупреждение относно сигурността в Черно море"
    },
    "summary": "Premierul Luca Niculescu a declarat că războiul declanșat de Rusia în Ucraina a transformat Marea Neagră într-unul dintre principalele puncte fierbinți ale lumii. În acest context, România și partener ...",
    "url": "https://jurnalul.ro/stiri/observator/luca-niculescu-trage-semnal-alarma-securitate-marea-neagra-1050268.html",
@@ -1125,7 +1154,9 @@
    "lang": "bg",
    "title": "US посланикът в НАТО: Наясно сме, че атаките срещу кораби в Черно море идват от Русия",
    "titles": {
-    "bg": "US посланикът в НАТО: Наясно сме, че атаките срещу кораби в Черно море идват от Русия"
+    "bg": "US посланикът в НАТО: Наясно сме, че атаките срещу кораби в Черно море идват от Русия",
+    "en": "US Ambassador to NATO: We are aware that the attacks on ships in the Black Sea are coming from Russia",
+    "ro": "Ambasadorul SUA la NATO: Suntem conștienți că atacurile împotriva navelor din Marea Neagră provin din Rusia"
    },
    "summary": "\"Обхватът на войната се разширява, стигна и до Черно море\", добави още той Атаките срещу търговски кораби в Черно море са извършени от Русия и Москва трябва да разбере, че подобни действия са недопус ...",
    "url": "https://www.24chasa.bg/mezhdunarodni/article/23982648",
@@ -1147,7 +1178,9 @@
    "lang": "bg",
    "title": "САЩ: Наясно сме, че Русия удари корабите в Черно море",
    "titles": {
-    "bg": "САЩ: Наясно сме, че Русия удари корабите в Черно море"
+    "bg": "САЩ: Наясно сме, че Русия удари корабите в Черно море",
+    "en": "US: We are aware that Russia struck the ships in the Black Sea",
+    "ro": "SUA: Suntem conștienți că Rusia a atacat navele din Marea Neagră"
    },
    "summary": "САЩ обяви от София на властта в България, че няма никакво съмнение, че Русия е ударила търговските кораби в Черно море. Това стана ясно от изявления на постоянният представител на САЩ в НАТО послани ...",
    "url": "https://www.segabg.com/hot/category-bulgaria/sasht-nayasno-sme-che-rusiya-udari-korabite-cherno-more",
@@ -1195,6 +1228,27 @@
      "url": "https://www.bursa.ro/mapn-fortele-navale-romane-desfasoara-misiuni-pentru-cresterea-sigurantei-navigatiei-pe-dunare-si-in-marea-neagra-85741164"
     }
    ],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "416163993693",
+   "lang": "bg",
+   "title": "Абровски: Сигурността в Черно море да е във визията до 2040 г",
+   "titles": {
+    "bg": "Абровски: Сигурността в Черно море да е във визията до 2040 г"
+   },
+   "summary": "Българският министър поиска регионалните рискове да бъдат отчетени в дългосрочната политика на ЕС за рибарството и в правилата за риболов през 2027 г ...",
+   "url": "https://fakti.bg/bulgaria/1103950-abrovski-sigurnostta-v-cherno-more-da-e-vav-viziata-do-2040-g",
+   "source": "ФАКТИ.БГ",
+   "published": "2026-11-23T10:51:00Z",
+   "fetched": "2026-11-25T19:01:54Z",
+   "image": "https://cdn4.focus.bg/fakti/photos/fb/eb9/abrovski-sigurnostta-v-cherno-more-da-e-vav-viziata-do-2040-g-1.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.vEJ4J-35HYmwK0MrmD04yA&pid=News",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
    "img_tried": true,
    "img_checked": true
   },
@@ -3035,6 +3089,28 @@
    "img_checked": true
   },
   {
+   "id": "3b1a565e2b3f",
+   "lang": "bg",
+   "title": "Още един кораб бе ударен с дронове в българската зона на Черно море (ВИДЕО)",
+   "titles": {
+    "bg": "Още един кораб бе ударен с дронове в българската зона на Черно море (ВИДЕО)"
+   },
+   "summary": "Плавателният съд е под сомалийски флаг, на борда му има 12 души. В спасителната операция участват България, Румъния и Турция ...",
+   "url": "https://clubz.bg/181903",
+   "source": "Клуб 'Z'",
+   "published": "2026-11-16T07:28:00Z",
+   "fetched": "2026-11-25T19:01:54Z",
+   "image": "https://clubz.bg/media/147/dron-4.og.jpeg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.X3P1V2sMq4Jh7Eax-7ZVlA&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "2fa834896b0d",
    "lang": "en",
    "title": "Turkish, Azerbaijani crew rescued after Black Sea ship sinks",
@@ -3270,6 +3346,28 @@
    "places": [
     "danube"
    ],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "4e574e75b51b",
+   "lang": "bg",
+   "title": "Русия удари товарен кораб в Черно море, пожари и ранени след атака с дронове в Ростовска област",
+   "titles": {
+    "bg": "Русия удари товарен кораб в Черно море, пожари и ранени след атака с дронове в Ростовска област"
+   },
+   "summary": "В същото време губернаторът на руската Ростовска област Юрий Слюсар съобщи, че в четири промишлени обекта в град Азов са избухнали пожари след украински нападения с дронове. Трима души са ранени ...",
+   "url": "https://nova.bg/news/view/2026/11/16/559357/%D1%80%D1%83%D1%81%D0%B8%D1%8F-%D1%83%D0%B4%D0%B0%D1%80%D0%B8-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B5%D0%BD-%D0%BA%D0%BE%D1%80%D0%B0%D0%B1-%D0%B2-%D1%87%D0%B5%D1%80%D0%BD%D0%BE-%D0%BC%D0%BE%D1%80%D0%B5-%D0%BF%D0%BE%D0%B6%D0%B0%D1%80%D0%B8-%D0%B8-%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8-%D1%81%D0%BB%D0%B5%D0%B4-%D0%B0%D1%82%D0%B0%D0%BA%D0%B0-%D1%81-%D0%B4%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%D0%B5-%D0%B2-%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B0-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82/",
+   "source": "Нова телевизия",
+   "published": "2026-11-16T00:41:00Z",
+   "fetched": "2026-11-25T19:01:54Z",
+   "image": "https://nstatic.nova.bg/public/pics/nova/article/980x551_1794810970.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.0Xr8NYkoMtgSf4VqXoiIUA&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
    "img_tried": true,
    "img_checked": true
   },
@@ -3877,6 +3975,28 @@
    "fetched": "2026-11-25T14:58:21Z",
    "image": "https://media.alephnews.ro/2026/11/nava-m-neagra.png",
    "fallback_image": "http://www.bing.com/th?id=ONUT.avy4cwqHZPt0IhEjWRDitA&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "2609bbfc4149",
+   "lang": "en",
+   "title": "MARITIME CRISIS: Over 300 Attacks and Dozens Killed as Black Sea Becomes World’s Deadliest Shipping Route",
+   "titles": {
+    "en": "MARITIME CRISIS: Over 300 Attacks and Dozens Killed as Black Sea Becomes World’s Deadliest Shipping Route"
+   },
+   "summary": "The Black Sea has become the world’s deadliest shipping zone, surpassing even the Strait of Hormuz, with more than 300 attacks on vessels and over 30 crew members killed since the beginning of 2026, ...",
+   "url": "https://www.theyeshivaworld.com/news/israel-news/2622343/maritime-crisis-over-300-attacks-and-dozens-killed-as-black-sea-becomes-worlds-deadliest-shipping-route.html",
+   "source": "The Yeshiva World",
+   "published": "2026-11-11T23:11:00Z",
+   "fetched": "2026-11-25T19:01:54Z",
+   "image": "https://www.theyeshivaworld.com/wp-content/uploads/2026/11/132936_autoOrient_i.jpg",
+   "fallback_image": "",
    "topics": [
     "attacks",
     "shipping"
