@@ -1,5 +1,5 @@
 {
-  "_comment": "Джерела новин. google_news: пошукові запити до Google News RSS (за останні 7 днів). feeds: звичайні RSS-стрічки морських медіа; з них беруться тільки матеріали, де згадано Чорне море або порт регіону. Ключові слова шукаються з початку слова; символ $ у кінці означає «тільки ціле слово». gdelt: запити до відкритого сервісу GDELT (повертає пряме посилання на статтю і її фото). bing: пошук Bing News (RSS з прямими посиланнями на статті). Google News вимкнено (google_news_disabled), бо він не дає прямих посилань і фото; щоб увімкнути, перенесіть запити назад у google_news.",
+  "_comment": "Джерела новин. google_news: пошукові запити до Google News RSS (за останні 7 днів). feeds: звичайні RSS-стрічки морських медіа; з них беруться тільки матеріали, де згадано Чорне море або порт регіону. Ключові слова шукаються з початку слова; символ $ у кінці означає «тільки ціле слово». gdelt: запити до відкритого сервісу GDELT (повертає пряме посилання на статтю і її фото). bing: пошук Bing News (RSS з прямими посиланнями на статті). Google News вимкнено (google_news_disabled), бо він не дає прямих посилань і фото; щоб увімкнути, перенесіть запити назад у google_news. maritime: новина береться, лише якщо в ній є хоч одне морське слово з цього списку.",
   "feeds": [
     {
       "name": "gCaptain",
@@ -101,6 +101,59 @@
     "horoscop"
   ],
   "topics": {
+    "policy": [
+      "minister",
+      "prime minister",
+      "president",
+      "government",
+      "parliament",
+      "ministry",
+      "official",
+      "statement",
+      "said",
+      "decision",
+      "decree",
+      "sanction",
+      "nato",
+      "european union",
+      "european commission",
+      "eu ",
+      "summit",
+      "agreement",
+      "proposal",
+      "talks",
+      "condemn",
+      "ambassador",
+      "un security council",
+      "ministru",
+      "ministrul",
+      "premier",
+      "presedinte",
+      "guvern",
+      "parlament",
+      "declarat",
+      "declaratie",
+      "decizie",
+      "sanctiuni",
+      "acord",
+      "propunere",
+      "condamna",
+      "comisia europeana",
+      "министър",
+      "премиер",
+      "президент",
+      "правителств",
+      "парламент",
+      "заяви",
+      "изявление",
+      "решение",
+      "санкци",
+      "споразумение",
+      "предложение",
+      "осъди",
+      "посланик",
+      "европейската комисия"
+    ],
     "attacks": [
       "attack",
       "strike",
@@ -649,6 +702,51 @@
       "lang": "bg",
       "mkt": "bg-BG",
       "q": "пристанище Варна Бургас война корабоплаване"
+    },
+    {
+      "lang": "en",
+      "mkt": "en-US",
+      "q": "\"Black Sea\" minister statement shipping"
+    },
+    {
+      "lang": "en",
+      "mkt": "en-US",
+      "q": "\"Black Sea\" security Romania Bulgaria Turkey"
+    },
+    {
+      "lang": "en",
+      "mkt": "en-US",
+      "q": "\"Black Sea\" NATO maritime security"
+    },
+    {
+      "lang": "en",
+      "mkt": "en-US",
+      "q": "\"Black Sea\" European Commission maritime"
+    },
+    {
+      "lang": "en",
+      "mkt": "en-US",
+      "q": "Turkey Black Sea shipping proposal"
+    },
+    {
+      "lang": "ro",
+      "mkt": "ro-RO",
+      "q": "Marea Neagră ministrul declarat nave"
+    },
+    {
+      "lang": "ro",
+      "mkt": "ro-RO",
+      "q": "Marea Neagră guvernul securitate maritimă"
+    },
+    {
+      "lang": "bg",
+      "mkt": "bg-BG",
+      "q": "Черно море министър кораби"
+    },
+    {
+      "lang": "bg",
+      "mkt": "bg-BG",
+      "q": "Черно море правителство сигурност"
     }
   ],
   "google_news_disabled": [
@@ -709,5 +807,66 @@
       "q": "пристанище Варна Бургас война корабоплаване"
     }
   ],
-  "google_news": []
+  "google_news": [],
+  "maritime": [
+    "black sea",
+    "marea neagra",
+    "черно море",
+    "черноморск",
+    "ship",
+    "vessel",
+    "shipping",
+    "port$",
+    "ports$",
+    "harbour",
+    "harbor",
+    "tanker",
+    "cargo",
+    "bulk carrier",
+    "container ship",
+    "freight",
+    "maritime",
+    "naval",
+    "navy",
+    "fleet",
+    "sea mine",
+    "naval mine",
+    "corridor",
+    "grain export",
+    "seafarer",
+    "sailor",
+    "crew",
+    "coast guard",
+    "strait",
+    "bosphorus",
+    "danube",
+    "dunare",
+    "дунав",
+    "sulina",
+    "insurance",
+    "war risk",
+    "nava",
+    "nave",
+    "portul",
+    "porturi",
+    "petrolier",
+    "maritim",
+    "marinar",
+    "echipaj",
+    "garda de coasta",
+    "coridor",
+    "fortele navale",
+    "strâmtoare",
+    "кораб",
+    "пристанищ",
+    "танкер",
+    "товарен кораб",
+    "морск",
+    "флот",
+    "екипаж",
+    "моряк",
+    "брегова охрана",
+    "коридор",
+    "протока"
+  ]
 }

@@ -149,7 +149,11 @@ def classify(text: str, sources: dict):
     norm = normalize(text)
     topics = [t for t, kws in sources["topics"].items() if has_any(norm, kws)]
     places = [p["id"] for p in sources["places"] if has_any(norm, p["match"])]
-    relevant = (has_any(norm, sources["anchors"]) or places) and topics \
+    maritime = has_any(norm, sources.get("maritime", [])) if sources.get("maritime") else True
+    sea_topics = [t for t in topics if t != "policy"] or (
+        topics and has_any(norm, ["security", "securitate", "сигурност", "maritime", "maritim", "морск",
+                                  "navigation", "navigatie", "корабоплаване"]))
+    relevant = (has_any(norm, sources["anchors"]) or places) and maritime and sea_topics \
         and not has_any(norm, sources["exclude"])
     return bool(relevant), topics, places
 
@@ -403,8 +407,12 @@ def main():
     else:
         items = dedupe(items)
     # re-tag old items when keyword lists change
+    kept = []
     for i in items:
-        _, i["topics"], i["places"] = classify(f"{i['title']} {i.get('summary', '')}", sources)
+        ok, i["topics"], i["places"] = classify(f"{i['title']} {i.get('summary', '')}", sources)
+        if ok:
+            kept.append(i)
+    items = kept
     cutoff = now_utc() - dt.timedelta(days=cfg["news"]["max_age_days"])
     items = [i for i in items if parse_iso(i["published"]) >= cutoff]
     items.sort(key=lambda i: i["published"], reverse=True)

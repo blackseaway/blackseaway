@@ -165,7 +165,7 @@ def compute_ports(items: list[dict], ports_cfg: list[dict], weather: dict) -> li
 
 
 PRIORITY = {"attacks": 5, "mines": 4, "insurance": 4, "prices": 3, "shipping": 2, "grain": 2, "energy": 2, "ports": 1}
-SECTIONS = [("attacks", ["attacks", "mines"]), ("shipping", ["shipping", "ports"]),
+SECTIONS = [("policy", ["policy"]), ("attacks", ["attacks", "mines"]), ("shipping", ["shipping", "ports"]),
             ("insurance", ["insurance", "prices"]), ("grain", ["grain", "energy"])]
 
 
@@ -178,7 +178,12 @@ def home_layout(items: list[dict]) -> dict:
         age_h = (now - parse_iso(i["published"])).total_seconds() / 3600
         return (2 if i.get("image") else 0) + max([PRIORITY.get(t, 0) for t in i["topics"]] or [0]) \
             + 0.5 * min(len(i.get("also", [])), 2) - age_h / 8
-    featured = sorted(fresh, key=score, reverse=True)[:4]
+    ranked = sorted(fresh, key=score, reverse=True)
+    # the lead story always has a picture
+    with_img = [i for i in ranked if i.get("image")] or [i for i in sorted(items, key=score, reverse=True)
+                                                         if i.get("image")]
+    lead = with_img[:1]
+    featured = lead + [i for i in ranked if i not in lead][:3]
     used = {i["id"] for i in featured}
     sections = []
     for key, topics in SECTIONS:

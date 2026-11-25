@@ -69,6 +69,7 @@
       "Dec"
     ],
     "topics": {
+      "policy": "Decisions & statements",
       "attacks": "Attacks",
       "shipping": "Shipping",
       "insurance": "Insurance",
@@ -173,6 +174,7 @@
       "dec."
     ],
     "topics": {
+      "policy": "Decizii și declarații",
       "attacks": "Atacuri",
       "shipping": "Transport maritim",
       "insurance": "Asigurări",
@@ -277,6 +279,7 @@
       "дек"
     ],
     "topics": {
+      "policy": "Решения и изявления",
       "attacks": "Атаки",
       "shipping": "Корабоплаване",
       "insurance": "Застраховане",
