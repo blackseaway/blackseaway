@@ -1,5 +1,7 @@
 {% macro news_item(n, t, lang, place_names) -%}
 <li class="news-item{% if 'attacks' in n.topics %} is-alert{% endif %}" data-topics="{{ n.topics|join(' ') }}">
+  <a class="thumb" href="{{ n.url }}" target="_blank" rel="noopener nofollow" tabindex="-1" aria-hidden="true"><img src="{{ n.image or url('assets/thumb-fallback.jpg') }}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='{{ url('assets/thumb-fallback.jpg') }}'"></a>
+  <div class="news-body">
   <a class="news-title" href="{{ n.url }}" target="_blank" rel="noopener nofollow" lang="{{ n.shown_lang }}">{{ n.title }}</a>
   <div class="news-meta">
     <span class="src">{{ n.source }}</span>
@@ -12,6 +14,7 @@
   <div class="tags">
     {% for tp in n.topics[:3] %}<span class="tag tag-{{ tp }}">{{ t.topics[tp] }}</span>{% endfor %}
     {% for pl in n.places[:2] %}<span class="tag tag-place">📍 {{ place_names[pl] }}</span>{% endfor %}
+  </div>
   </div>
 </li>
 {%- endmacro %}
@@ -34,5 +37,15 @@
   <div class="ind-unit">{{ i.unit }}</div>
   <div class="ind-label">{{ i.label }}</div>
   <div class="ind-src">{% if i.date %}{{ t.as_of }} {{ i.date }} · {% endif %}{% if i.source.url %}<a href="{{ i.source.url }}" target="_blank" rel="noopener">{{ i.source.name or t.source }}</a>{% else %}{{ i.source.name }}{% endif %}</div>
+</div>
+{%- endmacro %}
+
+
+{% macro follow_buttons(t, cls='') -%}
+<div class="follow {{ cls }}">
+  <span class="follow-label">{{ t.follow_us }}:</span>
+  <a class="fbtn" href="{{ cfg.social.facebook }}" rel="me noopener" target="_blank">Facebook</a>
+  <a class="fbtn" href="{{ cfg.social.instagram }}" rel="me noopener" target="_blank">Instagram</a>
+  <a class="fbtn" href="{{ cfg.social.threads }}" rel="me noopener" target="_blank">Threads</a>
 </div>
 {%- endmacro %}

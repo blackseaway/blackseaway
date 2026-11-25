@@ -51,6 +51,29 @@ def text_of(el, *names):
     return ""
 
 
+MEDIA_NS = "{http://search.yahoo.com/mrss/}"
+CONTENT_NS = "{http://purl.org/rss/1.0/modules/content/}"
+
+
+def feed_image(el) -> str:
+    """Image URL from media:content / media:thumbnail / enclosure / first <img> in the HTML body."""
+    for tag in (f"{MEDIA_NS}content", f"{MEDIA_NS}thumbnail"):
+        for m in el.iter(tag):
+            url = m.get("url", "")
+            if url and (m.get("medium") in (None, "image") or re.search(r"\.(jpe?g|png|webp)", url, re.I)):
+                return url
+    enc = el.find("enclosure")
+    if enc is not None and (enc.get("type") or "").startswith("image") and enc.get("url"):
+        return enc.get("url")
+    for tag in (f"{CONTENT_NS}encoded", "description"):
+        node = el.find(tag)
+        if node is not None and node.text:
+            m = re.search(r"<img[^>]+src=[\"']([^\"']+)", node.text)
+            if m:
+                return html.unescape(m.group(1))
+    return ""
+
+
 def parse_feed(raw: bytes):
     """Yield dicts (title, url, published, summary, source) from RSS 2.0 or Atom."""
     root = ET.fromstring(raw)
@@ -74,6 +97,7 @@ def parse_feed(raw: bytes):
             "published": parse_date(text_of(it, "pubDate", "{http://purl.org/dc/elements/1.1/}date")),
             "summary": strip_tags(text_of(it, "description")),
             "source": (src.text or "").strip() if src is not None and src.text else "",
+            "image": feed_image(it),
         }
 
 
@@ -131,6 +155,7 @@ def collect(sources: dict) -> list[dict]:
                 "source": source[:80],
                 "published": iso(pub),
                 "fetched": iso(now),
+                "image": "" if is_gn else (e.get("image") or ""),
                 "topics": topics,
                 "places": places,
             })
@@ -184,6 +209,8 @@ def dedupe(items: list[dict]) -> list[dict]:
             if is_duplicate(k, ktok, item, tok):
                 also = k.setdefault("also", [])
                 known = {k["url"]} | {a["url"] for a in also}
+                if not k.get("image") and item.get("image"):
+                    k["image"] = item["image"]
                 for extra in [{"source": item["source"], "url": item["url"]}] + item.get("also", []):
                     if extra["url"] not in known and len(also) < 8:
                         also.append(extra)
@@ -205,6 +232,48 @@ def merge(existing: list[dict], fresh: list[dict]) -> tuple[list[dict], int]:
     before = {i["id"] for i in existing}
     merged = dedupe(list(by_id.values()))
     return merged, sum(1 for i in merged if i["id"] not in before)
+
+
+# --- pictures: the publisher's own preview image (og:image), as social networks show it ----
+PAGE_UA = "Mozilla/5.0 (compatible; BlackSeaWayBot/1.0; +https://blackseaway.github.io/blackseaway/)"
+IMAGES_PER_RUN = 30
+META_RE = re.compile(r"<meta\s[^>]*>", re.I)
+ATTR_RE = re.compile(r'([a-zA-Z:_-]+)\s*=\s*(?:"([^"]*)"|\'([^\']*)\')')
+
+
+def og_image(url: str) -> str:
+    page = http_request(url, headers={"User-Agent": PAGE_UA, "Accept": "text/html"},
+                        timeout=12)[:600_000].decode("utf-8", "replace")
+    found = {}
+    for tag in META_RE.findall(page):
+        attrs = {k.lower(): (v1 or v2) for k, v1, v2 in ATTR_RE.findall(tag)}
+        key = (attrs.get("property") or attrs.get("name") or "").lower()
+        if attrs.get("content"):
+            found.setdefault(key, html.unescape(attrs["content"]).strip())
+    for key in ("og:image:secure_url", "og:image", "og:image:url", "twitter:image", "twitter:image:src"):
+        img = found.get(key)
+        if img:
+            img = urllib.parse.urljoin(url, img)
+            if img.startswith("http"):
+                return img
+    return ""
+
+
+def enrich_images(items: list[dict], limit: int = IMAGES_PER_RUN) -> None:
+    """Only direct publisher links; Google News links get the site's placeholder picture."""
+    todo = [i for i in items if not i.get("image") and not i.get("img_tried")
+            and "news.google.com" not in i["url"]][:limit]
+    got = 0
+    for i in todo:
+        i["img_tried"] = True
+        try:
+            img = og_image(i["url"])
+            if img:
+                i["image"] = img
+                got += 1
+        except Exception as e:  # noqa: BLE001
+            print(f"[images] {i['source']}: {str(e)[:120]}")
+    print(f"[images] {got}/{len(todo)} pictures found")
 
 
 def translate_missing(items: list[dict], langs: list[str], per_run: int) -> int:
@@ -247,6 +316,8 @@ def main():
     items = [i for i in items if parse_iso(i["published"]) >= cutoff]
     items.sort(key=lambda i: i["published"], reverse=True)
     items = items[: cfg["news"]["max_items"]]
+    if "--no-images" not in sys.argv:
+        enrich_images(items)
     translate_missing(items, cfg["languages"], cfg["news"]["translate_per_run"])
     store = {"updated": iso(now_utc()), "items": items}
     save_json(NEWS_FILE, store)

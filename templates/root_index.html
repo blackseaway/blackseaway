@@ -22,9 +22,10 @@
 })();
 </script>
 <link rel="stylesheet" href="{{ url('assets/style.css') }}">
+<link rel="icon" href="{{ url('assets/favicon.png') }}" type="image/png">
 </head>
 <body class="center-page">
-  <h1>Black Sea <b>Way</b></h1>
+  <img src="{{ url('assets/logo.jpg') }}" alt="Black Sea Way Media" width="240" height="240">
   <p>{% for l in langs %}<a class="button" href="{{ url(l ~ '/') }}">{{ i18n[l].lang_name }}</a> {% endfor %}</p>
 </body>
 </html>

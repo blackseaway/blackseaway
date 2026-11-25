@@ -78,6 +78,41 @@
       "name": "SAFETY4SEA",
       "url": "https://safety4sea.com/feed/",
       "lang": "en"
+    },
+    {
+      "name": "Ukrinform",
+      "url": "https://www.ukrinform.net/rss/rubric-ato",
+      "lang": "en"
+    },
+    {
+      "name": "Ukrinform",
+      "url": "https://www.ukrinform.net/rss/rubric-economy",
+      "lang": "en"
+    },
+    {
+      "name": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/feed/",
+      "lang": "en"
+    },
+    {
+      "name": "Novinite.com",
+      "url": "https://www.novinite.com/services/news_rdf.php",
+      "lang": "en"
+    },
+    {
+      "name": "Digi24",
+      "url": "https://www.digi24.ro/rss",
+      "lang": "ro"
+    },
+    {
+      "name": "БТА",
+      "url": "https://www.bta.bg/bg/rss/free",
+      "lang": "bg"
+    },
+    {
+      "name": "Дневник",
+      "url": "https://www.dnevnik.bg/rss/",
+      "lang": "bg"
     }
   ],
   "anchors": [

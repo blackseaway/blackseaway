@@ -17,7 +17,9 @@
 <meta property="og:image" content="{{ og_image or (cfg.base_url ~ '/assets/og-default.png') }}">
 <meta property="og:locale" content="{{ t.og_locale }}">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="{{ url('assets/favicon.svg') }}" type="image/svg+xml">
+<link rel="icon" href="{{ url('assets/favicon.png') }}" type="image/png">
+<link rel="apple-touch-icon" href="{{ url('assets/apple-touch-icon.png') }}">
+<meta name="theme-color" content="#00142f">
 <link rel="alternate" type="application/rss+xml" title="{{ cfg.name }}" href="{{ url('feed.xml') }}">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,700&display=swap" rel="stylesheet">
@@ -28,14 +30,19 @@
 <header class="site-header">
   <div class="wrap header-row">
     <a class="logo" href="{{ url(lang ~ '/') }}" aria-label="{{ cfg.name }}">
-      <svg viewBox="0 0 40 40" width="34" height="34" aria-hidden="true"><circle cx="20" cy="20" r="19" fill="#0e6ba8"/><path d="M5 24c4-3 7-3 10 0s6 3 10 0 7-3 10 0" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M8 17c3-2 6-2 8 0s5 2 8 0 5-2 8 0" stroke="#9fd3f5" stroke-width="2.5" fill="none" stroke-linecap="round"/></svg>
-      <span>Black Sea <b>Way</b></span>
+      <img src="{{ url('assets/logo-mark.png') }}" alt="" width="56" height="48">
+      <span class="wordmark">Black <b>Sea</b> Way</span>
     </a>
     <nav class="main-nav" aria-label="Main">
       <a href="{{ url(lang ~ '/news.html') }}" {% if page_id=='news' %}aria-current="page"{% endif %}>{{ t.nav_news }}</a>
       <a href="{{ url(lang ~ '/articles/') }}" {% if page_id=='articles' %}aria-current="page"{% endif %}>{{ t.nav_articles }}</a>
       <a href="{{ url(lang ~ '/stats.html') }}" {% if page_id=='stats' %}aria-current="page"{% endif %}>{{ t.nav_stats }}</a>
       <a href="{{ url(lang ~ '/about.html') }}" {% if page_id=='about' %}aria-current="page"{% endif %}>{{ t.nav_about }}</a>
+    </nav>
+    <nav class="header-social" aria-label="{{ t.follow_us }}">
+      <a href="{{ cfg.social.facebook }}" rel="me noopener" target="_blank">Facebook</a>
+      <a href="{{ cfg.social.instagram }}" rel="me noopener" target="_blank">Instagram</a>
+      <a href="{{ cfg.social.threads }}" rel="me noopener" target="_blank">Threads</a>
     </nav>
     <nav class="lang-switch" aria-label="Language">
       {% for l in langs %}<a href="{{ url(l ~ '/' ~ path|replace('index.html','')) }}" hreflang="{{ l }}" lang="{{ l }}" {% if l==lang %}aria-current="true"{% endif %}>{{ l|upper }}</a>{% endfor %}
@@ -48,7 +55,7 @@
 <footer class="site-footer">
   <div class="wrap footer-grid">
     <div>
-      <div class="logo small"><span>Black Sea <b>Way</b></span></div>
+      <img class="footer-logo" src="{{ url('assets/logo.jpg') }}" alt="Black Sea Way Media" width="120" height="120" loading="lazy">
       <p>{{ t.footer_note }}</p>
     </div>
     <div>

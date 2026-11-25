@@ -10,11 +10,13 @@ from common import ROOT
 
 FONT_DIR = ROOT / "assets" / "fonts"
 W, H = 1080, 1350
-NAVY = (8, 27, 46)
-NAVY_2 = (14, 58, 94)
+NAVY = (0, 20, 47)
+NAVY_2 = (11, 45, 85)
 SEA = (56, 152, 214)
 ALERT = (230, 57, 70)
 WHITE = (255, 255, 255)
+GOLD = (205, 154, 89)
+ASSETS = ROOT / "assets"
 MUTED = (170, 195, 215)
 
 
@@ -62,8 +64,14 @@ def news_card(path: Path, headline: str, label: str, footer: str, alert: bool = 
     img = _background()
     d = ImageDraw.Draw(img)
     pad = 84
-    d.text((pad, 80), "BLACK SEA WAY", font=font(40, True), fill=WHITE)
-    d.rectangle([pad, 136, pad + 120, 142], fill=SEA)
+    mark = Image.open(ASSETS / "logo-mark.png").convert("RGB")
+    mark = mark.resize((int(mark.width * 110 / mark.height), 110), Image.LANCZOS)
+    img.paste(mark, (pad - 10, 50))
+    d.text((pad + mark.width + 6, 82), "BLACK", font=font(40, True), fill=WHITE)
+    x = pad + mark.width + 6 + d.textlength("BLACK ", font=font(40, True))
+    d.text((x, 82), "SEA", font=font(40, True), fill=GOLD)
+    x += d.textlength("SEA ", font=font(40, True))
+    d.text((x, 82), "WAY", font=font(40, True), fill=WHITE)
     # topic pill
     f_label = font(34, True)
     lw = d.textlength(label.upper(), font=f_label)
@@ -86,17 +94,11 @@ def news_card(path: Path, headline: str, label: str, footer: str, alert: bool = 
 
 
 def og_card(path: Path, title: str, subtitle: str) -> Path:
-    """1200×630 Open Graph image for link previews."""
+    """1200×630 Open Graph image for link previews: the logo on brand navy."""
     w, h = 1200, 630
-    img = _background(w, h)
-    d = ImageDraw.Draw(img)
-    d.text((70, 70), "BLACK SEA WAY", font=font(64, True), fill=WHITE)
-    d.rectangle([70, 160, 230, 168], fill=SEA)
-    f = font(36)
-    y = 210
-    for ln in wrap(d, subtitle, f, w - 140)[:5]:
-        d.text((70, y), ln, font=f, fill=MUTED)
-        y += 48
+    img = Image.new("RGB", (w, h), NAVY)
+    logo = Image.open(ASSETS / "logo-full.jpg").convert("RGB").resize((600, 600), Image.LANCZOS)
+    img.paste(logo, ((w - 600) // 2, 15))
     path.parent.mkdir(parents=True, exist_ok=True)
     img.save(path, "PNG", optimize=True)
     return path

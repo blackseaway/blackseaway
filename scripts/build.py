@@ -221,6 +221,7 @@ def news_view(item: dict, lang: str) -> dict:
         "topics": item["topics"],
         "places": item["places"],
         "also": item.get("also", []),
+        "image": item.get("image", ""),
         "summary": item.get("summary", "") if not title or lang == item["lang"] else "",
     }
 
