@@ -2,15 +2,28 @@
   "name": "Black Sea Way",
   "base_url": "https://blackseaway.github.io/blackseaway",
   "base_path": "/blackseaway",
-  "languages": ["en", "ro", "bg"],
+  "languages": [
+    "en",
+    "ro",
+    "bg"
+  ],
   "default_language": "en",
   "editor": "Galiia Koshel",
   "contact_email": "",
-  "social": {
-    "facebook": "https://www.facebook.com/blackseaway",
-    "instagram": "https://www.instagram.com/blackseaway",
-    "threads": "https://www.threads.net/@blackseaway"
-  },
+  "social": [
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/profile.php?id=61597098683915"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@BlackSeaWay_Media"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://www.tiktok.com/@blackseawaymedia"
+    }
+  ],
   "news": {
     "max_items": 400,
     "max_age_days": 120,

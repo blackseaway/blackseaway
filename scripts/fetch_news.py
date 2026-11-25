@@ -208,9 +208,14 @@ def dedupe(items: list[dict]) -> list[dict]:
         for k, ktok in reversed(kept):
             if is_duplicate(k, ktok, item, tok):
                 also = k.setdefault("also", [])
-                known = {k["url"]} | {a["url"] for a in also}
-                if not k.get("image") and item.get("image"):
+                if "news.google.com" in k["url"] and "news.google.com" not in item["url"]:
+                    # prefer the publisher's own link (it has a picture and a real URL)
+                    also.append({"source": k["source"], "url": k["url"]})
+                    for f in ("url", "source", "image", "img_tried", "summary", "title", "titles", "lang"):
+                        k[f] = item.get(f, k.get(f))
+                elif not k.get("image") and item.get("image"):
                     k["image"] = item["image"]
+                known = {k["url"]} | {a["url"] for a in also}
                 for extra in [{"source": item["source"], "url": item["url"]}] + item.get("also", []):
                     if extra["url"] not in known and len(also) < 8:
                         also.append(extra)

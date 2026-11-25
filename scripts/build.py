@@ -164,6 +164,32 @@ def compute_ports(items: list[dict], ports_cfg: list[dict], weather: dict) -> li
     return out
 
 
+PRIORITY = {"attacks": 5, "mines": 4, "insurance": 4, "prices": 3, "shipping": 2, "grain": 2, "energy": 2, "ports": 1}
+SECTIONS = [("attacks", ["attacks", "mines"]), ("shipping", ["shipping", "ports"]),
+            ("insurance", ["insurance", "prices"]), ("grain", ["grain", "energy"])]
+
+
+def home_layout(items: list[dict]) -> dict:
+    """Featured block (stories with pictures first), topic sections, then the rest."""
+    now = now_utc()
+    fresh = [i for i in items if now - parse_iso(i["published"]) <= dt.timedelta(hours=48)] or items[:30]
+
+    def score(i):
+        age_h = (now - parse_iso(i["published"])).total_seconds() / 3600
+        return (2 if i.get("image") else 0) + max([PRIORITY.get(t, 0) for t in i["topics"]] or [0]) \
+            + 0.5 * min(len(i.get("also", [])), 2) - age_h / 8
+    featured = sorted(fresh, key=score, reverse=True)[:4]
+    used = {i["id"] for i in featured}
+    sections = []
+    for key, topics in SECTIONS:
+        sec = [i for i in items if i["id"] not in used and set(i["topics"]) & set(topics)][:4]
+        used |= {i["id"] for i in sec}
+        if sec:
+            sections.append({"key": key, "items": sec})
+    latest = [i for i in items if i["id"] not in used][:10]
+    return {"featured": featured, "sections": sections, "latest": latest}
+
+
 def compute_counters(items: list[dict]) -> dict:
     now = now_utc()
 
@@ -202,6 +228,11 @@ def make_env(cfg, i18n):
     env.filters["date"] = fmt_date
     env.filters["pct"] = lambda v: f"{round(v * 100)}%"
     env.filters["compass"] = compass
+
+    def short_dt(value, lang):
+        d = parse_iso(value) if isinstance(value, str) else value
+        return f"{d.day} {i18n[lang]['months'][d.month - 1]}, {d.strftime('%H:%M')}"
+    env.filters["short"] = short_dt
     env.filters["num"] = lambda v, d=1: "–" if v is None else (f"{v:.{d}f}" if d else f"{round(v)}")
     env.filters["tojson_safe"] = lambda v: json.dumps(v, ensure_ascii=False)
     return env
@@ -274,7 +305,11 @@ def build():
         nv = [news_view(i, lang) for i in items]
         common_ctx = dict(news_updated=news.get("updated"), place_names={p["id"]: p["names"][lang]
                                                                          for p in sources["places"]})
-        render("home.html", "index.html", lang, news=nv[:24], posts=[p for p in posts][:3],
+        hl = home_layout(items)
+        view = lambda lst: [news_view(i, lang) for i in lst]  # noqa: E731
+        render("home.html", "index.html", lang, news=nv[:24],
+               featured=view(hl["featured"]), latest=view(hl["latest"]),
+               sections=[{"key": sct["key"], "items": view(sct["items"])} for sct in hl["sections"]], posts=[p for p in posts][:3],
                indicators=[indicator_view(i, lang) for i in indicators][:4], stats=stats,
                ports=[dict(p, latest=[news_view(i, lang) for i in p["latest"]]) for p in ports],
                counters=counters, safety=safety, weather=weather, **common_ctx)
