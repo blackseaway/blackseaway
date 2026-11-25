@@ -1,63 +1,5 @@
 {
-  "_comment": "Джерела новин. google_news: пошукові запити до Google News RSS (за останні 7 днів). feeds: звичайні RSS-стрічки морських медіа; з них беруться тільки матеріали, де згадано Чорне море або порт регіону. Ключові слова шукаються з початку слова; символ $ у кінці означає «тільки ціле слово». gdelt: запити до відкритого сервісу GDELT (повертає пряме посилання на статтю і її фото). bing: пошук Bing News (RSS з прямими посиланнями на статті).",
-  "google_news": [
-    {
-      "lang": "en",
-      "q": "\"Black Sea\" shipping attack"
-    },
-    {
-      "lang": "en",
-      "q": "\"Black Sea\" war risk insurance"
-    },
-    {
-      "lang": "en",
-      "q": "\"Black Sea\" corridor vessels"
-    },
-    {
-      "lang": "en",
-      "q": "Odesa port strike"
-    },
-    {
-      "lang": "en",
-      "q": "\"Black Sea\" grain exports shipping"
-    },
-    {
-      "lang": "en",
-      "q": "\"Black Sea\" sea mine ship"
-    },
-    {
-      "lang": "en",
-      "q": "\"Black Sea\" tanker drone"
-    },
-    {
-      "lang": "ro",
-      "q": "\"Marea Neagră\" atac navă"
-    },
-    {
-      "lang": "ro",
-      "q": "portul Constanța transport război"
-    },
-    {
-      "lang": "ro",
-      "q": "\"Marea Neagră\" mină navă"
-    },
-    {
-      "lang": "ro",
-      "q": "\"Marea Neagră\" asigurări transport maritim"
-    },
-    {
-      "lang": "bg",
-      "q": "\"Черно море\" кораб атака"
-    },
-    {
-      "lang": "bg",
-      "q": "\"Черно море\" мина кораб"
-    },
-    {
-      "lang": "bg",
-      "q": "пристанище Варна Бургас война корабоплаване"
-    }
-  ],
+  "_comment": "Джерела новин. google_news: пошукові запити до Google News RSS (за останні 7 днів). feeds: звичайні RSS-стрічки морських медіа; з них беруться тільки матеріали, де згадано Чорне море або порт регіону. Ключові слова шукаються з початку слова; символ $ у кінці означає «тільки ціле слово». gdelt: запити до відкритого сервісу GDELT (повертає пряме посилання на статтю і її фото). bing: пошук Bing News (RSS з прямими посиланнями на статті). Google News вимкнено (google_news_disabled), бо він не дає прямих посилань і фото; щоб увімкнути, перенесіть запити назад у google_news.",
   "feeds": [
     {
       "name": "gCaptain",
@@ -708,5 +650,64 @@
       "mkt": "bg-BG",
       "q": "пристанище Варна Бургас война корабоплаване"
     }
-  ]
+  ],
+  "google_news_disabled": [
+    {
+      "lang": "en",
+      "q": "\"Black Sea\" shipping attack"
+    },
+    {
+      "lang": "en",
+      "q": "\"Black Sea\" war risk insurance"
+    },
+    {
+      "lang": "en",
+      "q": "\"Black Sea\" corridor vessels"
+    },
+    {
+      "lang": "en",
+      "q": "Odesa port strike"
+    },
+    {
+      "lang": "en",
+      "q": "\"Black Sea\" grain exports shipping"
+    },
+    {
+      "lang": "en",
+      "q": "\"Black Sea\" sea mine ship"
+    },
+    {
+      "lang": "en",
+      "q": "\"Black Sea\" tanker drone"
+    },
+    {
+      "lang": "ro",
+      "q": "\"Marea Neagră\" atac navă"
+    },
+    {
+      "lang": "ro",
+      "q": "portul Constanța transport război"
+    },
+    {
+      "lang": "ro",
+      "q": "\"Marea Neagră\" mină navă"
+    },
+    {
+      "lang": "ro",
+      "q": "\"Marea Neagră\" asigurări transport maritim"
+    },
+    {
+      "lang": "bg",
+      "q": "\"Черно море\" кораб атака"
+    },
+    {
+      "lang": "bg",
+      "q": "\"Черно море\" мина кораб"
+    },
+    {
+      "lang": "bg",
+      "q": "пристанище Варна Бургас война корабоплаване"
+    }
+  ],
+  "google_news": []
 }
