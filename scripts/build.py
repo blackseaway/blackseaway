@@ -341,7 +341,13 @@ def build():
     safety = load_json(CONFIG / "safety.json", {}) or {}
     ports_cfg = (load_json(CONFIG / "ports.json", {}) or {}).get("ports", [])
     items = news["items"]
-    localize_images(items)
+    today = dt.date.today().isoformat()
+    pins = [p for p in (load_json(CONFIG / "pinned.json", {}) or {}).get("items", [])
+            if p.get("url") and p.get("until", "9999") >= today]
+    pin_ext = pins[-1] if pins else None
+    if pin_ext:
+        items = [i for i in items if i["url"] != pin_ext["url"]]
+    localize_images(items + ([pin_ext] if pin_ext else []))
     posts = load_posts(cfg)
     stats = compute_stats(items, sources)
     ports = compute_ports(items, ports_cfg, weather)
@@ -371,8 +377,8 @@ def build():
                                                                          for p in sources["places"]})
         hl = home_layout(items)
         view = lambda lst: [news_view(i, lang) for i in lst]  # noqa: E731
-        pinned = next((p for p in posts if p["pinned"] and p.get("image")), None)
-        render("home.html", "index.html", lang, news=nv[:24], pinned=pinned,
+        pinned = None if pin_ext else next((p for p in posts if p["pinned"] and p.get("image")), None)
+        render("home.html", "index.html", lang, news=nv[:24], pinned=pinned, pin_ext=pin_ext,
                featured=view(hl["featured"]), latest=view(hl["latest"]),
                sections=[{"key": sct["key"], "items": view(sct["items"])} for sct in hl["sections"]], posts=[p for p in posts][:3],
                indicators=[indicator_view(i, lang) for i in indicators][:4], stats=stats,

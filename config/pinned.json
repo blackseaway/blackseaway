@@ -1,0 +1,24 @@
+{
+  "_comment": "Закріплена головна новина з іншого сайту. Показується головною до дати until (включно). Якщо записів кілька, береться останній чинний. Фото (image) завантажується на сайт автоматично.",
+  "items": [
+    {
+      "url": "https://www.focus-news.net/novini/mejdunarodni/Ukrainski-medii-za-mashtabnite-bulgarski-ucheniya-v-Cherno-more-na-fona-na-atakite-s-dronove-3062325",
+      "source": "Focus",
+      "published": "2026-11-26T07:48:00Z",
+      "until": "2026-11-28",
+      "image": "https://i.id24.bg/i/3062325.webp",
+      "lang": "bg",
+      "topic": "policy",
+      "title": {
+        "en": "Ukrainian media on Bulgaria's large-scale Black Sea exercises amid drone attacks",
+        "ro": "Presa ucraineană despre exercițiile ample ale Bulgariei în Marea Neagră, pe fondul atacurilor cu drone",
+        "bg": "Украински медии за мащабните български учения в Черно море на фона на атаките с дронове"
+      },
+      "summary": {
+        "en": "Bulgaria's navy and air force have begun major exercises in the Black Sea as drone attacks on merchant ships rise. A navigational warning closes about 9,000 km² of sea, while former Bulgarian and Romanian defence ministers call for an EU naval mission.",
+        "ro": "Marina și forțele aeriene ale Bulgariei au început exerciții ample în Marea Neagră, pe fondul înmulțirii atacurilor cu drone asupra navelor comerciale. Un avertisment de navigație închide circa 9.000 km² de mare, iar foști miniștri ai apărării din Bulgaria și România cer o misiune navală a UE.",
+        "bg": "Военноморските сили и ВВС на България започнаха мащабни учения в Черно море на фона на зачестилите атаки с дронове срещу търговски кораби. Навигационно предупреждение затваря около 9000 кв. км от морето, а бивши министри на отбраната на България и Румъния призовават за военноморска мисия на ЕС."
+      }
+    }
+  ]
+}

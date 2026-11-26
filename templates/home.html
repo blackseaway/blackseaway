@@ -15,7 +15,18 @@
 <div class="wrap">
   {% if featured %}
   <section class="featured">
-    {% if pinned %}{% set v = pinned.versions[lang] %}
+    {% if pin_ext %}{% set pe = pin_ext %}
+    <div class="feat-lead">
+      <article class="story lead">
+        {% if pe.image %}<a class="story-img" href="{{ pe.url }}" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true"><img src="{{ url(pe.image) if pe.image.startswith('media/') else pe.image }}" alt="" decoding="async" referrerpolicy="no-referrer"></a>{% endif %}
+        {% if pe.topic %}<span class="kicker">{{ t.topics[pe.topic] }}</span>{% endif %}
+        <h3><a href="{{ pe.url }}" target="_blank" rel="noopener" lang="{{ lang if pe.title[lang] else pe.lang }}">{{ pe.title[lang] or pe.title[pe.lang] }}</a></h3>
+        {% if pe.summary and pe.summary[lang] %}<p class="story-summary">{{ pe.summary[lang] }}</p>{% endif %}
+        <div class="meta"><span class="src">{{ pe.source }}</span> · <time datetime="{{ pe.published }}">{{ pe.published|short(lang) }}</time></div>
+      </article>
+    </div>
+    <div class="feat-side">{% for n in featured[:3] %}{{ m.story(n, t, lang) }}{% endfor %}</div>
+    {% elif pinned %}{% set v = pinned.versions[lang] %}
     <div class="feat-lead">
       <article class="story lead">
         <a class="story-img" href="{{ url(lang ~ '/articles/' ~ pinned.slug ~ '.html') }}" tabindex="-1" aria-hidden="true"><img src="{{ url(pinned.image) }}" alt="" decoding="async"></a>
