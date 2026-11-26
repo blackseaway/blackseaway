@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:05:00Z",
+ "updated": "2026-11-26T23:07:28Z",
  "items": [
   {
    "id": "2bb2c4f8fe6b",
@@ -302,6 +302,32 @@
    "img_checked": true
   },
   {
+   "id": "9db9561551da",
+   "lang": "ro",
+   "title": "Investiții blocate și cereri fără răspuns în Portul Constanța? Administrația Porturilor Maritime, chemată în judecată (DOCUMENT)",
+   "titles": {
+    "ro": "Investiții blocate și cereri fără răspuns în Portul Constanța? Administrația Porturilor Maritime, chemată în judecată (DOCUMENT)",
+    "en": "Stalled investments and unanswered requests at the Port of Constanța? The Maritime Ports Authority taken to court (DOCUMENT)",
+    "bg": "Замразени инвестиции и молби без отговор в пристанището на Констанца? Администрацията на морските пристанища е заведена в съда (ДОКУМЕНТ)"
+   },
+   "summary": "Litigiul dintre societatea Trading Line Port Services SRL si Compania Nationala Administratia Porturilor Maritime SA Constanta a ajuns pe rolul Tribunalului Constanta, dupa ce Tribunalul Giurgiu a ...",
+   "url": "https://www.ziuaconstanta.ro/stiri/justitie/investitii-blocate-si-cereri-fara-raspuns-in-portul-constanta-administratia-porturilor-maritime-chemata-in-judecata-document-961905.html",
+   "source": "Ziua de Constanța",
+   "published": "2026-11-26T03:55:00Z",
+   "fetched": "2026-11-26T23:04:40Z",
+   "image": "https://www.ziuaconstanta.ro/images/stories/2026/11/26/port.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.46DSYf2QSzNBibwzb67WSw&pid=News",
+   "topics": [
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "bca5e826e35e",
    "lang": "en",
    "title": "“The situation in the Black Sea near Sulina is becoming critical,” says Yugekotop co-founder Kozyr",
@@ -325,6 +351,32 @@
    "places": [
     "danube"
    ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "5b18769508cf",
+   "lang": "en",
+   "title": "Bulgaria closes part of the Black Sea for military exercises",
+   "titles": {
+    "en": "Bulgaria closes part of the Black Sea for military exercises",
+    "ro": "Bulgaria închide o parte din Marea Neagră pentru exerciții militare",
+    "bg": "България затваря част от Черно море за военни учения"
+   },
+   "summary": "Bulgaria's defense ministry will not disclose the nature of the exercises that closed part of the Black Sea. At least seven ships were recently hit by drones.",
+   "url": "https://aroundprague.cz/en/news/world/bulgaria-temporarily-closes-part-of-the-black-sea-for-military-exercises",
+   "source": "Around Prague",
+   "published": "2026-11-26T01:25:00Z",
+   "fetched": "2026-11-26T23:04:40Z",
+   "image": "https://www.bing.com/th?id=ONUT.NAhDQUUBZIjnDDDJl7qDag&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.NAhDQUUBZIjnDDDJl7qDag&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
    "also": [],
    "img_tried": true,
    "img_checked": true
