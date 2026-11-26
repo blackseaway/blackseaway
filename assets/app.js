@@ -87,9 +87,10 @@
   }
   form.addEventListener("submit", function (ev) {
     ev.preventDefault();
-    if (form._honey && form._honey.value) return;
-    var data = { name: form.name.value, email: form.email.value, topic: form.topic.value,
-                 message: form.message.value, _subject: form._subject.value, _template: "table" };
+    if (form.botcheck && form.botcheck.checked) return;
+    var data = { access_key: form.access_key.value, subject: form.subject.value, from_name: form.from_name.value,
+                 name: form.name.value, email: form.email.value, topic: form.topic.value,
+                 message: form.message.value };
     btn.disabled = true; status.textContent = form.dataset.sending;
     var ctrl = window.AbortController ? new AbortController() : null;
     var timer = setTimeout(function () { if (ctrl) ctrl.abort(); }, 15000);
@@ -98,7 +99,7 @@
       .then(function (r) { return r.json(); })
       .then(function (res) {
         clearTimeout(timer);
-        if (String(res.success) === "true") { location.href = form.dataset.thanks; }
+        if (res.success === true || String(res.success) === "true") { location.href = form.dataset.thanks; }
         else { btn.disabled = false; mailtoFallback(data); }
       })
       .catch(function () { clearTimeout(timer); btn.disabled = false; mailtoFallback(data); });

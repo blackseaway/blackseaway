@@ -118,7 +118,7 @@
       "Partnership",
       "Other"
     ],
-    "f_privacy": "Messages are delivered to our mailbox by the FormSubmit service. Do not send confidential information through this form; for sensitive tips, write to us directly by email.",
+    "f_privacy": "Messages are delivered to our mailbox by the Web3Forms service. Do not send confidential information through this form; for sensitive tips, write to us directly by email.",
     "or_email": "Or write directly to",
     "thanks_title": "Thank you!",
     "thanks_text": "Your message has been sent. We will reply as soon as we can.",
@@ -256,7 +256,7 @@
       "Parteneriat",
       "Altele"
     ],
-    "f_privacy": "Mesajele ajung în căsuța noastră prin serviciul FormSubmit. Nu trimiteți informații confidențiale prin acest formular; pentru ponturi sensibile, scrieți-ne direct pe e-mail.",
+    "f_privacy": "Mesajele ajung în căsuța noastră prin serviciul Web3Forms. Nu trimiteți informații confidențiale prin acest formular; pentru ponturi sensibile, scrieți-ne direct pe e-mail.",
     "or_email": "Sau scrieți direct la",
     "thanks_title": "Mulțumim!",
     "thanks_text": "Mesajul a fost trimis. Vă vom răspunde cât mai curând.",
@@ -394,7 +394,7 @@
       "Партньорство",
       "Друго"
     ],
-    "f_privacy": "Съобщенията се доставят в нашата поща чрез услугата FormSubmit. Не изпращайте поверителна информация чрез тази форма; за чувствителни сигнали ни пишете директно по имейл.",
+    "f_privacy": "Съобщенията се доставят в нашата поща чрез услугата Web3Forms. Не изпращайте поверителна информация чрез тази форма; за чувствителни сигнали ни пишете директно по имейл.",
     "or_email": "Или пишете директно на",
     "thanks_title": "Благодарим!",
     "thanks_text": "Съобщението е изпратено. Ще отговорим възможно най-скоро.",

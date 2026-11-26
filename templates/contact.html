@@ -5,11 +5,12 @@
 <div class="wrap article">
   <h1>{{ t.contact_title }}</h1>
   <p class="lead">{{ t.contact_intro }}</p>
-  <form class="contact-form" id="contact-form" action="https://formsubmit.co/{{ cfg.contact_email }}" method="POST" data-ajax="https://formsubmit.co/ajax/{{ cfg.contact_email }}" data-email="{{ cfg.contact_email }}" data-thanks="{{ url(lang ~ '/thanks.html') }}" data-sending="{{ t.f_sending }}" data-fallback="{{ t.f_fallback }}">
-    <input type="hidden" name="_subject" value="Black Sea Way: new message ({{ lang|upper }})">
-    <input type="hidden" name="_next" value="{{ cfg.base_url }}/{{ lang }}/thanks.html">
-    <input type="hidden" name="_template" value="table">
-    <input type="text" name="_honey" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+  <form class="contact-form" id="contact-form" action="https://api.web3forms.com/submit" method="POST" data-ajax="https://api.web3forms.com/submit" data-email="{{ cfg.contact_email }}" data-thanks="{{ url(lang ~ '/thanks.html') }}" data-sending="{{ t.f_sending }}" data-fallback="{{ t.f_fallback }}">
+    <input type="hidden" name="access_key" value="{{ cfg.web3forms_key }}">
+    <input type="hidden" name="subject" value="Black Sea Way: new message ({{ lang|upper }})">
+    <input type="hidden" name="from_name" value="Black Sea Way website">
+    <input type="hidden" name="redirect" value="{{ cfg.base_url }}/{{ lang }}/thanks.html">
+    <input type="checkbox" name="botcheck" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
     <label>{{ t.f_name }}<input type="text" name="name" required maxlength="120" autocomplete="name"></label>
     <label>{{ t.f_email }}<input type="email" name="email" required maxlength="200" autocomplete="email"></label>
     <label>{{ t.f_topic }}<select name="topic">{% for o in t.f_topics %}<option>{{ o }}</option>{% endfor %}</select></label>
