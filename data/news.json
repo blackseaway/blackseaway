@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T06:10:51Z",
+ "updated": "2026-11-26T06:16:29Z",
  "items": [
   {
    "id": "445c727214e6",
@@ -1458,6 +1458,29 @@
    "img_checked": true
   },
   {
+   "id": "21e41ac3851a",
+   "lang": "en",
+   "title": "Black Sea High-Risk Zone Extended Towards Bulgarian and Romanian Coasts",
+   "titles": {
+    "en": "Black Sea High-Risk Zone Extended Towards Bulgarian and Romanian Coasts",
+    "ro": "Zona de risc ridicat din Marea Neagră a fost extinsă spre coastele Bulgariei și României",
+    "bg": "Зоната с повишен риск в Черно море е разширена към българското и румънското крайбрежие"
+   },
+   "summary": "The International Bargaining Forum (IBF), which brings together maritime unions and shipowners, has expanded the Black Sea High Risk Area to include waters off Bulgaria ...",
+   "url": "http://www.bgnes.com/conflicts/black-sea-high-risk-zone-extended-towards-bulgarian-and-romanian-coasts",
+   "source": "bgnes",
+   "published": "2026-11-23T05:11:00Z",
+   "fetched": "2026-11-26T06:14:06Z",
+   "image": "https://www.bgnes.com/static/images/news/2026/11/23/25234/23181.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.Ro1aEYz9lSQAgL_LQFQJpg&pid=News",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "284b35f2c017",
    "lang": "en",
    "title": "‘A ship graveyard’ — Azerbaijani sailors on the growing dangers of the Black Sea",
@@ -1824,7 +1847,9 @@
    "lang": "bg",
    "title": "Здравко Василев за военните действия в Черно море: Трябва да осъзнаем и мащаба на задачата",
    "titles": {
-    "bg": "Здравко Василев за военните действия в Черно море: Трябва да осъзнаем и мащаба на задачата"
+    "bg": "Здравко Василев за военните действия в Черно море: Трябва да осъзнаем и мащаба на задачата",
+    "en": "Zdravko Vasilev on the military operations in the Black Sea: We must also recognise the scale of the task",
+    "ro": "Zdravo Vasilev despre acțiunile militare din Marea Neagră: Trebuie să conștientizăm și amploarea sarcinii"
    },
    "summary": "Необходимо е съчетание от радарно наблюдение, безпилотни системи, патрулни и специализирани кораби, противоминни способности, брегови средства и координация със съюзниците ни, каза победителят в първи ...",
    "url": "https://blitz.bg/regioni/zdravko-vasilev-za-voennite-deystviya-v-cherno-more-tryabva-da-osaznaem-i-mashtaba-na-zadachata_news1183608.html",
@@ -1845,7 +1870,9 @@
    "lang": "bg",
    "title": "Ангел Найденов: Путин на практика призна, че Русия стои зад атаките в Черно море",
    "titles": {
-    "bg": "Ангел Найденов: Путин на практика призна, че Русия стои зад атаките в Черно море"
+    "bg": "Ангел Найденов: Путин на практика призна, че Русия стои зад атаките в Черно море",
+    "en": "Angel Naydenov: Putin has, in effect, admitted that Russia is behind the attacks in the Black Sea",
+    "ro": "Angel Naidenov: Putin a recunoscut, practic, că Rusia se află în spatele atacurilor din Marea Neagră"
    },
    "summary": "С изявлението си Путин на практика е призна, че Русия стои зад атаките срещу кораби в западната част на Черно море. Това заяви бившият министър на отбраната Ангел Найденов по бТВ, като коментира сигур ...",
    "url": "https://www.24chasa.bg/bulgaria/article/23973024",
@@ -1872,7 +1899,9 @@
    "lang": "en",
    "title": "Russian warship sinks off Libya as suspected Ukrainian strikes take war beyond Black Sea",
    "titles": {
-    "en": "Russian warship sinks off Libya as suspected Ukrainian strikes take war beyond Black Sea"
+    "en": "Russian warship sinks off Libya as suspected Ukrainian strikes take war beyond Black Sea",
+    "ro": "O navă de război rusă se scufundă în largul Libiei, în timp ce presupusele atacuri ucrainene extind conflictul dincolo de Marea Neagră",
+    "bg": "Руски военен кораб потъва край бреговете на Либия, като предполагаеми украински удари разширяват обхвата на войната извън Черно море"
    },
    "summary": "The Russian corvette Merkury capsized at Benghazi Naval Base after suspected Ukrainian sea drones struck, injuring ten people, Libyan officials say.",
    "url": "https://www.foxnews.com/world/russian-warship-sinks-libya-suspected-ukrainian-strikes-take-war-beyond-black-sea",
@@ -1895,7 +1924,9 @@
    "lang": "ro",
    "title": "O parte a Mării Negre, în largul coastelor României, a fost declarată zonă cu risc ridicat. Ce înseamnă decizia pentru navigatori și portul Constanța",
    "titles": {
-    "ro": "O parte a Mării Negre, în largul coastelor României, a fost declarată zonă cu risc ridicat. Ce înseamnă decizia pentru navigatori și portul Constanța"
+    "ro": "O parte a Mării Negre, în largul coastelor României, a fost declarată zonă cu risc ridicat. Ce înseamnă decizia pentru navigatori și portul Constanța",
+    "en": "A section of the Black Sea, off the coast of Romania, has been declared a high-risk area. What does this decision mean for seafarers and the port of Constanța?",
+    "bg": "Част от Черно море, в открито море край бреговете на Румъния, беше обявена за зона с висок риск. Какво означава това решение за моряците и пристанището в Констанца"
    },
    "summary": "O parte a Mării Negre, inclusiv apele din largul coastelor României și Bulgariei, a fost inclusă într-o zonă maritimă cu risc ridicat, în urma unei decizii adoptate la nivel internațional. Măsura vize ...",
    "url": "https://www.ctnews.ro/o-parte-a-marii-negre-in-largul-coastelor-romaniei-a-fost-declarata-zona-cu-risc-ridicat-ce-inseamna-decizia-pentru-navigatori-si-portul-constanta/",
@@ -1919,7 +1950,9 @@
    "lang": "ro",
    "title": "Zona de risc din Marea Neagră s-a extins în largul României. Unele transporturi au deja suprataxe de 30-70 de dolari pe container",
    "titles": {
-    "ro": "Zona de risc din Marea Neagră s-a extins în largul României. Unele transporturi au deja suprataxe de 30-70 de dolari pe container"
+    "ro": "Zona de risc din Marea Neagră s-a extins în largul României. Unele transporturi au deja suprataxe de 30-70 de dolari pe container",
+    "en": "The risk zone in the Black Sea has expanded off the coast of Romania. Some shipments are already subject to surcharges of 30–70 dollars per container",
+    "bg": "Зоната на риск в Черно море се е разширила в открито море край Румъния. За някои превози вече се налагат допълнителни такси от 30 до 70 долара на контейнер"
    },
    "summary": "Zona de risc ridicat din Marea Neagră s-a extins în largul României. Unele transporturi au suprataxe de 30-70 de dolari pe container.",
    "url": "https://financiarul.ro/economie/zona-de-risc-din-marea-neagra-s-a-extins-in-largul-romaniei-unele-transporturi-au-deja-suprataxe-de-30-70-de-dolari-pe-container/",
@@ -3978,6 +4011,10 @@
     {
      "source": "Euronews on MSN",
      "url": "https://www.msn.com/en-us/news/other/three-commercial-vessels-struck-by-drones-near-romanias-black-sea-coast-pm-says/ar-AA2htlM4"
+    },
+    {
+     "source": "Euronews on MSN",
+     "url": "https://www.msn.com/en-au/news/other/three-commercial-vessels-struck-by-drones-near-romanias-black-sea-pm-says/ar-AA2htZLN"
     }
    ],
    "img_tried": true,
