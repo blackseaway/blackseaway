@@ -966,7 +966,9 @@
     "моряк",
     "брегова охрана",
     "коридор",
-    "протока"
+    "протока",
+    "waterway",
+    "shadow fleet"
   ],
   "blocked_domains": [
     "trud.bg",
@@ -1045,5 +1047,42 @@
     "undocs.org",
     "imo.org",
     "documents.un.org"
+  ],
+  "region_words": [
+    "russia",
+    "russian",
+    "ukraine",
+    "ukrainian",
+    "bulgaria",
+    "bulgarian",
+    "romania",
+    "romanian",
+    "turkey",
+    "turkish",
+    "turkiye",
+    "türkiye",
+    "georgia",
+    "georgian",
+    "moldova",
+    "crimea",
+    "kremlin",
+    "kyiv",
+    "moscow",
+    "sofia",
+    "bucharest",
+    "ankara",
+    "rusia",
+    "rus",
+    "ucraina",
+    "ucrainean",
+    "bulgaria",
+    "romania",
+    "turcia",
+    "русия",
+    "руски",
+    "украйна",
+    "украински",
+    "румъния",
+    "турция"
   ]
 }

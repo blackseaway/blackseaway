@@ -146,6 +146,17 @@ def google_news_url(q: str, lang: str) -> str:
     return f"https://news.google.com/rss/search?q={query}&hl={hl}&gl={gl}&ceid={ceid}"
 
 
+def priority_ok(text: str, topics: list, sources: dict) -> bool:
+    """Items from priority sites skip the Black Sea place check, but the headline must still be
+    about ships/the sea and match one of our topics (these sites also cover other regions)."""
+    title_norm = normalize(text.split(" \x1f ")[0])
+    norm = normalize(text)
+    in_region = has_any(norm, sources["anchors"]) or any(has_any(norm, p["match"]) for p in sources["places"]) \
+        or has_any(title_norm, sources.get("region_words", []))
+    return bool(topics) and in_region and has_any(title_norm, sources.get("maritime", [])) \
+        and not has_any(norm, sources["exclude"])
+
+
 def classify(text: str, sources: dict):
     norm = normalize(text)
     topics = [t for t, kws in sources["topics"].items() if has_any(norm, kws)]
@@ -256,7 +267,8 @@ def collect(sources: dict) -> list[dict]:
             # priority sites, searched with "Black Sea" in the query; Bing may ignore site:, so check the link
             site = trusted_urls.get(url)
             host = (urllib.parse.urlparse(e["url"]).hostname or "").lower()
-            trusted = bool(site) and (is_gn or host == site or host.endswith("." + site))
+            trusted = bool(site) and (is_gn or host == site or host.endswith("." + site)) \
+                and priority_ok(f"{title} \x1f {summary}", topics, sources)
             if not ok and not trusted:
                 continue
             out.append({
@@ -480,7 +492,8 @@ def main():
     for i in items:
         ok, i["topics"], i["places"] = classify(f"{i['title']} \x1f {i.get('summary', '')}", sources)
         i["also"] = [a for a in i.get("also", []) if not is_blocked(a, sources)]
-        if (ok or i.get("trusted")) and not is_blocked(i, sources):
+        trusted_ok = i.get("trusted") and priority_ok(f"{i['title']} \x1f {i.get('summary', '')}", i["topics"], sources)
+        if (ok or trusted_ok) and not is_blocked(i, sources):
             kept.append(i)
     items = kept
     cutoff = now_utc() - dt.timedelta(days=cfg["news"]["max_age_days"])
