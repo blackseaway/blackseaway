@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T20:15:14Z",
+ "updated": "2026-11-26T21:04:26Z",
  "items": [
   {
    "id": "2c356e30cc47",
@@ -54,7 +54,9 @@
    "lang": "bg",
    "title": "Руски атаки поразиха два чуждестранни товарни кораба край Одеса (видео)",
    "titles": {
-    "bg": "Руски атаки поразиха два чуждестранни товарни кораба край Одеса (видео)"
+    "bg": "Руски атаки поразиха два чуждестранни товарни кораба край Одеса (видео)",
+    "en": "Russian attacks struck two foreign cargo ships off the coast of Odessa (video)",
+    "ro": "Atacurile rusești au lovit două nave de marfă străine în largul Odessei (video)"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNFlNcEs4T2hWc0MzQjVPVnotTnl3MG8wMEQ4N240cVRWcExMQzVyeGpkSGhkWnQySGtveXp1bHphUktuMWhWejEtSEtfX05FaGU2Uk40ZUFaazhKYTZNVTNYVjhGRnQzYmRXcVNTak1fNjVwSkJPZ3I2MWJGTnZwblRaekZHOUQ2blhsbk5QTzl1dw?oc=5",
@@ -77,7 +79,9 @@
    "lang": "en",
    "title": "Romania urges EU, NATO to prioritise Black Sea security, seeks sustained German defence presence",
    "titles": {
-    "en": "Romania urges EU, NATO to prioritise Black Sea security, seeks sustained German defence presence"
+    "en": "Romania urges EU, NATO to prioritise Black Sea security, seeks sustained German defence presence",
+    "ro": "România îndeamnă UE și NATO să acorde prioritate securității din Marea Neagră și solicită o prezență susținută a Germaniei în domeniul apărării",
+    "bg": "Румъния призовава ЕС и НАТО да отдадат приоритет на сигурността в Черно море и се стреми към трайно германско военно присъствие"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdDFaQnRYTEVYSFhzeUx2UGNwVEJnQ2FkRzFVeXZqVjlwSHRNaEhuOXRrZEM3cXhLRDFzZXdhaXp5aHo5VFJhd0h6OWdKSnVtVWY1STJyS1NpZHBPQUFiMEdxZzgzZ0NLR292QjVhQ2xld04zOU12bG5Uem9VdGQ0UVE1di0wc2ZSNmFQTUhNeV95TWVmVHE4M3ZBZS1KNmp5MzlHZEhTSy1FYm5NNk1ZXzZHb1g5ckhobzFPZUl4VnhrZnVVM19r?oc=5",
@@ -8193,6 +8197,10 @@
     {
      "source": "Boston Herald",
      "url": "https://www.bostonherald.com/2026/11/17/merchant-ship-sinks-black-sea-coast/"
+    },
+    {
+     "source": "The Baltimore Sun",
+     "url": "https://www.baltimoresun.com/2026/11/17/merchant-ship-sinks-black-sea-coast/"
     }
    ]
   },
