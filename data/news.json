@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:09:56Z",
+ "updated": "2026-11-26T08:18:09Z",
  "items": [
   {
    "id": "f7d4edc1927d",
@@ -150,7 +150,9 @@
    "lang": "bg",
    "title": "Фон дер Лайен иска примирие за зърното в Черно море - Maritime.bg",
    "titles": {
-    "bg": "Фон дер Лайен иска примирие за зърното в Черно море - Maritime.bg"
+    "bg": "Фон дер Лайен иска примирие за зърното в Черно море - Maritime.bg",
+    "en": "Von der Leyen calls for a truce over grain in the Black Sea - Maritime.bg",
+    "ro": "Von der Leyen dorește un armistițiu privind cerealele din Marea Neagră - Maritime.bg"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1LajlMRXZEWVZrZ1V2SEhocFh1d2FmOVhvNkpjSEctU0ZsaktUTkJGc1JfcDdzU0xudWppa0NPQXlxVE9MMHc?oc=5",
@@ -276,7 +278,9 @@
    "lang": "en",
    "title": "Egypt warns ships against sailing through Black Sea",
    "titles": {
-    "en": "Egypt warns ships against sailing through Black Sea"
+    "en": "Egypt warns ships against sailing through Black Sea",
+    "ro": "Egiptul avertizează navele să nu navigheze prin Marea Neagră",
+    "bg": "Египет предупреждава корабите да не плават през Черно море"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DdTQ4bV9sX1Q0aFpqNmJHSlVGZ1FzV29hZDlvYnJtSmtDdkpjZ0tSb21Db2JZdTlUbXBkdGpOMERvdHVOUW5IcTVR?oc=5",
@@ -3200,6 +3204,10 @@
     {
      "source": "БГНЕС",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS1hLYTQwcWdRNW5GakZYUUNJMzdYdW9CLVlpaElyNml5OXNGaUFZNkpCSkZLd3BPVERtZDQxckhOMjIySUZhYTh6ZDh6RGZfR1AybVNYRk5HNl9MVjNKYUU3RVgxOUI0YkRPa2ZqREVwZFlCMmFoN1BMYktVeVdvNHNFNGhsSGV3UDlxT1Nic3pVWEY3NXliWWFuTGJQWmdxSEE2LWhidGNaZ1R0dE5Udg?oc=5"
+    },
+    {
+     "source": "Нова телевизия",
+     "url": "https://nova.bg/news/view/2026/11/23/560283/%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D1%8A%D1%82-%D0%BE%D0%B1%D1%81%D1%8A%D0%B4%D0%B8-%D1%81%D0%B8%D0%B3%D1%83%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%82%D0%B0-%D0%B2-%D1%87%D0%B5%D1%80%D0%BD%D0%BE-%D0%BC%D0%BE%D1%80%D0%B5-%D1%81-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8%D1%8F-%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB-%D0%BD%D0%B0-%D1%81%D0%B0%D1%89-%D0%B2-%D0%BD%D0%B0%D1%82%D0%BE-%D0%BC%D0%B0%D1%82%D1%8E-%D1%83%D0%B8%D1%82%D0%B0%D0%BA%D1%8A%D1%80/"
     }
    ],
    "img_tried": true,
