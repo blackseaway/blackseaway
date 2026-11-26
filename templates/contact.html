@@ -5,7 +5,7 @@
 <div class="wrap article">
   <h1>{{ t.contact_title }}</h1>
   <p class="lead">{{ t.contact_intro }}</p>
-  <form class="contact-form" action="https://formsubmit.co/{{ cfg.contact_email }}" method="POST">
+  <form class="contact-form" id="contact-form" action="https://formsubmit.co/{{ cfg.contact_email }}" method="POST" data-ajax="https://formsubmit.co/ajax/{{ cfg.contact_email }}" data-email="{{ cfg.contact_email }}" data-thanks="{{ url(lang ~ '/thanks.html') }}" data-sending="{{ t.f_sending }}" data-fallback="{{ t.f_fallback }}">
     <input type="hidden" name="_subject" value="Black Sea Way: new message ({{ lang|upper }})">
     <input type="hidden" name="_next" value="{{ cfg.base_url }}/{{ lang }}/thanks.html">
     <input type="hidden" name="_template" value="table">
@@ -15,6 +15,7 @@
     <label>{{ t.f_topic }}<select name="topic">{% for o in t.f_topics %}<option>{{ o }}</option>{% endfor %}</select></label>
     <label>{{ t.f_message }}<textarea name="message" rows="7" required maxlength="5000"></textarea></label>
     <button class="button primary" type="submit">{{ t.f_send }}</button>
+    <p class="form-status" id="form-status" role="status" aria-live="polite"></p>
     <p class="note">{{ t.f_privacy }}</p>
   </form>
   <p>{{ t.or_email }} <a class="mail" href="mailto:{{ cfg.contact_email }}">{{ cfg.contact_email }}</a></p>

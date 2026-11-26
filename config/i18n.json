@@ -132,7 +132,10 @@
     "report_text": "Attacks, mines, drones or suspicious activity:",
     "online_form": "Online reporting form",
     "map_first_note": "Places mentioned in Black Sea shipping news over the last 30 days. Circle size = number of reports.",
-    "jump_to": "On this page"
+    "jump_to": "On this page",
+    "f_sending": "Sending…",
+    "f_fallback": "We could not reach the form service from your network. Your email app will open with the message ready to send.",
+    "f_activation": "Message received. (First-time setup: the newsroom must confirm the form once by email.)"
   },
   "ro": {
     "lang_name": "Română",
@@ -267,7 +270,10 @@
     "report_text": "Atacuri, mine, drone sau activitate suspectă:",
     "online_form": "Formular online de raportare",
     "map_first_note": "Locuri menționate în știrile despre transportul maritim la Marea Neagră în ultimele 30 de zile. Mărimea cercului = numărul de știri.",
-    "jump_to": "Pe această pagină"
+    "jump_to": "Pe această pagină",
+    "f_sending": "Se trimite…",
+    "f_fallback": "Serviciul formularului nu este accesibil din rețeaua dvs. Se va deschide aplicația de e-mail cu mesajul pregătit pentru trimitere.",
+    "f_activation": "Mesaj primit. (Configurare inițială: redacția trebuie să confirme formularul o dată prin e-mail.)"
   },
   "bg": {
     "lang_name": "Български",
@@ -402,6 +408,9 @@
     "report_text": "Атаки, мини, дронове или подозрителна дейност:",
     "online_form": "Онлайн формуляр за докладване",
     "map_first_note": "Места, споменати в новините за корабоплаването в Черно море през последните 30 дни. Размерът на кръга = брой новини.",
-    "jump_to": "На тази страница"
+    "jump_to": "На тази страница",
+    "f_sending": "Изпращане…",
+    "f_fallback": "Услугата на формата не е достъпна от вашата мрежа. Ще се отвори пощенското ви приложение с готово съобщение за изпращане.",
+    "f_activation": "Съобщението е получено. (Първоначална настройка: редакцията трябва веднъж да потвърди формата по имейл.)"
   }
 }
