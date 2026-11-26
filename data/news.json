@@ -1,6 +1,31 @@
 {
- "updated": "2026-11-26T09:34:38Z",
+ "updated": "2026-11-26T10:21:33Z",
  "items": [
+  {
+   "id": "e08db0ac0b0f",
+   "lang": "en",
+   "title": "Insurers increasingly refuse to cover shipping risks in the Black Sea and on the Danube",
+   "titles": {
+    "en": "Insurers increasingly refuse to cover shipping risks in the Black Sea and on the Danube",
+    "ro": "Asigurătorii refuză din ce în ce mai des să acopere riscurile legate de transportul maritim în Marea Neagră și pe Dunăre",
+    "bg": "Застрахователите все по-често отказват да покриват рисковете, свързани с превоза по Черно море и по река Дунав"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOU9hMkxtTzBWMS1nWVFHWlRRTi14dU9MSzNJTWZXNFF2Ulp2bXI3OHlMRGYyV1BjWklRSnBabHIwbFEydGs2V1VWYXpKeFR1SlhrMmxNTDhGcFVRdGpfTFBEMUxrZ3pFUHFTQlNzYUc2M0F5WVo3ZEhLNXJEQXB4V1pTVXA5YWVTcGdlQTRYUkNyUTRzTDJCSkdTX1duY3preFNYSjFyLVJlN082QmR2QXNTMEVKT3BGdEJxYTJTRWc?oc=5",
+   "source": "УкрАгроКонсалт",
+   "published": "2026-11-26T09:48:11Z",
+   "fetched": "2026-11-26T10:18:45Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "shipping"
+   ],
+   "places": [
+    "danube"
+   ],
+   "also": [],
+   "img_checked": true
+  },
   {
    "id": "f7d4edc1927d",
    "lang": "ro",
@@ -419,6 +444,33 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "9461620ad31a",
+   "lang": "en",
+   "title": "Russia’s Grip On Crimea Much Weaker After Key Waterways Blocked",
+   "titles": {
+    "en": "Russia’s Grip On Crimea Much Weaker After Key Waterways Blocked",
+    "ro": "Controlul Rusiei asupra Crimeei s-a slăbit considerabil după blocarea principalelor căi navigabile",
+    "bg": "Влиянието на Русия върху Крим значително отслабна след блокирането на ключови водни пътища"
+   },
+   "summary": "Ukraine’s major attack on the Kerch Bridge, combined with a less-reported October strike on a bridge over the Don River, has effectively cut off the Sea of Azov. This makes it much harder for Russia to resupply Crimea. 8 years ago, on the 25th November 2018, Russia blocked the waterway under the…",
+   "url": "https://www.navalnews.com/naval-news/2026/11/kerch-bridge-attack-sea-of-azov-crimea/",
+   "source": "Naval News",
+   "published": "2026-11-25T09:29:00Z",
+   "fetched": "2026-11-26T10:18:45Z",
+   "image": "https://www.navalnews.com/wp-content/uploads/2026/11/Crimea-Isolated.jpg",
+   "fallback_image": "",
+   "topics": [
+    "attacks"
+   ],
+   "places": [
+    "kerch",
+    "crimea"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "d92f5fa8fdf6",
@@ -2529,7 +2581,12 @@
    "places": [
     "danube"
    ],
-   "also": [],
+   "also": [
+    {
+     "source": "FocusPress",
+     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPM0JPUkptM0hXT2dlYVNWbjY1R2hROExRcTNLeklQTW9rU0NhUEZaTl9feFhVd3BYbVE1SWtETTNta2dRNzBaRC00RFk5UWpFN2s0OUNVcURhRmxFZW1RMzl6TkFIUXZMQ3Y0WWwxaWx6eE4wanBUaFJfTVhIbkRNTDV6UUhIblBiWEhzWWtQUTlIVllKQzQ5UG4zU0g2bXdISmhtQXp1c3RHMUk1WWtCbW5wTy1UQWhKU01PTElhMzEtS19KUVFSNUVUbGp2UXk4clBLazl3b2JOQWZnUG9uNzRXMmNQWnZ2OFJZeUpaYkZHR2FBOVV3ZVRKSEM1V2Q5d0pPVW16d1VBMW9LV1NV?oc=5"
+    }
+   ],
    "img_checked": true
   },
   {
@@ -6746,6 +6803,30 @@
    "img_checked": true
   },
   {
+   "id": "e9fe8904c3f3",
+   "lang": "ro",
+   "title": "Acasa » Eveniment » Noi detalii despre petrolierul care se îndrepta spre România și s-a scufundat în Marea Neagră. Nava ar fi fost lovită de 4 ori. Ce a mărturisit ...",
+   "titles": {
+    "ro": "Acasa » Eveniment » Noi detalii despre petrolierul care se îndrepta spre România și s-a scufundat în Marea Neagră. Nava ar fi fost lovită de 4 ori. Ce a mărturisit ..."
+   },
+   "summary": "A fost lovit. Noi detalii despre petrolierul scufundat în Marea Neagră. Află ce a mărturisit căpitanul vasului.",
+   "url": "https://www.b1tv.ro/eveniment/a-fost-lovit-noi-detalii-despre-petrolierul-scufundat-in-marea-neagra-1751063.html",
+   "source": "B1TV.ro",
+   "published": "2026-11-18T02:19:00Z",
+   "fetched": "2026-11-26T10:18:45Z",
+   "image": "https://www.bing.com/th?id=ONUT.k6w8J984b846J-ZFu0g0vQ&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.k6w8J984b846J-ZFu0g0vQ&pid=News",
+   "topics": [
+    "attacks",
+    "shipping",
+    "energy"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "65238ff528cc",
    "lang": "bg",
    "title": "ДБ поиска спешен КСНС: В Черно море все още потъват кораби",
@@ -8666,7 +8747,12 @@
    ],
    "places": [],
    "img_checked": true,
-   "also": []
+   "also": [
+    {
+     "source": "Ziua de Constanța",
+     "url": "https://www.ziuaconstanta.ro/stiri/eveniment/alerta-pentru-navigatori-la-marea-neagra-un-raion-din-zona-romaniei-declarat-periculos-din-cauza-unor-obiecte-plutitoare-960511.html"
+    }
+   ]
   },
   {
    "id": "57f06ebba4fa",
