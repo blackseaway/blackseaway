@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:37:46Z",
+ "updated": "2026-11-26T08:41:20Z",
  "items": [
   {
    "id": "f7d4edc1927d",
@@ -866,6 +866,10 @@
     {
      "source": "Realitatea.NET",
      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVnJEdHRseEVGVFV4c25sbWpuaENKX0toT2JYZHlNY191ZFMxLW1qcEhfQ2d6TkFNbU5QaWFySDEtcGVMNllHRVhfQ3gzVURLSG5CSUtVRmdTTTNTZWl2TVc1Z2p2WUplZ083cUc1MlpjdUFoWk5VRnZabDVsak02WjJDZXVCVW44OFFlZk5LRndIRmtNOXl4d3dZY2wzYXBzVXBPMlplRFVXc2dfOEJESm0zUHlOdlZFSlFFLTdmaldpSWtYNF9uU2MxZTNYRjZ3Znp6NU9pQW9JV0RfbUIzbVlPUXVXQlF2NjR5Rw?oc=5"
+    },
+    {
+     "source": "Ziare.com",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMC1SNTN6ZVRqdnhQeGlqNzh3ODMxT19WdkRSY1FBdEluVllYd0xRM21VSjBoZThPLTB2OTFVcHlVdVMxUXo2OHMxOEQyeEw1enRIejdiNDZXY1E5WVgyZmNaZVFuMGpoRnlfaHdJQnFVQ0NnWi13aWJLdDVkSnpSanFXT2xlTXk2X2ozUlVvZnZTSUlGYTI5ZnhVUdIBowFBVV95cUxNZGxzRmptNG5FamwwWm1wNXNheHZEZTdjTDZNRkY0c0JrQXlTN09Zbk5ZUkdMbFJIZkZYSzJUcWpMUXZQSEtLUFpKckVDN3RtXzlWS0ZIZmNQVV9pamRjZ01JazJDMXNkN0FUcXhZbDZUeThnOWxXWVpvTXd4WG1LdDlSdVJZLW9VS2pLcDg5blBfSlFlcFpzU1FUS1F1M3NXVGpv?oc=5"
     }
    ],
    "img_tried": true,
@@ -984,7 +988,9 @@
    "lang": "en",
    "title": "All 12 Crew Members Rescued After Cargo Ship Sinks in the Black Sea Near Bulgaria",
    "titles": {
-    "en": "All 12 Crew Members Rescued After Cargo Ship Sinks in the Black Sea Near Bulgaria"
+    "en": "All 12 Crew Members Rescued After Cargo Ship Sinks in the Black Sea Near Bulgaria",
+    "ro": "Toți cei 12 membri ai echipajului au fost salvați după ce o navă de marfă s-a scufundat în Marea Neagră, în apropierea Bulgariei",
+    "bg": "Всички 12 члена на екипажа бяха спасени след потъването на товарен кораб в Черно море край България"
    },
    "summary": "All 12 crew members of the cargo ship BETUL 8, which sank in Bulgaria's exclusive economic zone in the Black Sea, have been rescued, the Bulgarian National Radio (BNR) reported, citing the conclusion ...",
    "url": "https://www.novinite.com/articles/241624/All+12+Crew+Members+Rescued+After+Cargo+Ship+Sinks+in+the+Black+Sea+Near+Bulgaria",
@@ -1006,7 +1012,9 @@
    "lang": "en",
    "title": "Bulgarian Defence Minister, Turkish Ambassador Discuss Measures to Strengthen Black Sea Security",
    "titles": {
-    "en": "Bulgarian Defence Minister, Turkish Ambassador Discuss Measures to Strengthen Black Sea Security"
+    "en": "Bulgarian Defence Minister, Turkish Ambassador Discuss Measures to Strengthen Black Sea Security",
+    "ro": "Ministrul bulgar al Apărării și ambasadorul Turciei discută măsuri de consolidare a securității în Marea Neagră",
+    "bg": "Българският министър на отбраната и турският посланик обсъдиха мерки за укрепване на сигурността в Черно море"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUGpTSUx5MHhyc1I1VkZlTXhYUWZQZ1dLLUxpZFp3dUs3b29SRncyUXh1M0lLMkJHeThhTTM3WW9uTHVxdW5qdnFqSnRUVXhMTW5pbzhjczV1WU1PbFp3dTZROTJPUFhzQzZhWjBpWTN1ZjhNX3VkWEJsT1lrZThtZnR2eklzdnlxdGhNb3RmRW51Xy0xSmxvNDUtUXd0UUhLcjZxSXhxY2pSbS1pQ2tkVEVXRXktUkxUNDUtNGZXVQ?oc=5",
@@ -4690,6 +4698,29 @@
    "img_checked": true
   },
   {
+   "id": "7e1157248bf6",
+   "lang": "ro",
+   "title": "Dan Neculăescu, despre rachetele ajunse în Polonia și atacurile din Marea Neagră: „Am mai văzut această escaladare”",
+   "titles": {
+    "ro": "Dan Neculăescu, despre rachetele ajunse în Polonia și atacurile din Marea Neagră: „Am mai văzut această escaladare”"
+   },
+   "summary": "Ministrul Afacerilor Externe, Dan Neculăescu, a atras atenția asupra escaladării tensiunilor de securitate din regiune, evocând incidentele din Marea Neagră, rachetele ajunse pe teritoriul Poloniei și ...",
+   "url": "https://adevarul.ro/politica/dan-neculaescu-despre-rachetele-ajunse-in-polonia-2573248.html",
+   "source": "Adevărul",
+   "published": "2026-11-20T15:10:00Z",
+   "fetched": "2026-11-26T08:39:03Z",
+   "image": "https://cdn.adh.reperio.news/image-6/6efa9f19-2dca-4928-9553-a98e2cdb29fa/index.png?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.lIUwA_SKmgjG54nz83yKWQ&pid=News",
+   "topics": [
+    "policy",
+    "attacks"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "105be6ff9a23",
    "lang": "bg",
    "title": "Нови развития с поразените кораби в Черно море! Един потъна, два още са на повърхността",
@@ -5610,6 +5641,10 @@
     {
      "source": "Informat.ro",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZDlObDVNSlVXMkwyNF9LTE5nRE40ck9YX0lJdnp0TmIxZDd6b3Judml1bzhFNjM3WVNWRlpkNWhhTS1RcHV3QmRfMlpJZDUwb3UyR0lYQ2FIQW03TUdWajMyVjRhMFZqQW0wdEY2YVZ5eHBueHhVNm9ESlZ5RWdrVHpMQzhMTDFTblk4Yl9LdEIyd1d5dUhiSGo0Vkw1enpleGFaeHZlX2p1d25tQUt5TmlyTlVsTENyYXZ1V0h6cw?oc=5"
+    },
+    {
+     "source": "România Liberă",
+     "url": "https://romanialibera.ro/la-zi/bulgaria-vulnerabila-in-fata-dronelor-din-marea-neagra-premierul-recunoaste-ca-armata-nu-le-poate-dobori/"
     }
    ],
    "img_tried": true,
@@ -6275,7 +6310,12 @@
    "places": [],
    "img_tried": true,
    "img_checked": true,
-   "also": []
+   "also": [
+    {
+     "source": "Ziua de Constanța",
+     "url": "https://www.ziuaconstanta.ro/stiri/externe/nava-gas-husky-care-s-a-scufundat-in-marea-neagra-a-fost-lovita-de-proiectile-960979.html"
+    }
+   ]
   },
   {
    "id": "53e390efdb77",
@@ -6671,6 +6711,10 @@
     {
      "source": "Constanta TV",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMDBWYmlHT2lwcHZnUThHbXAwM3RLRG9pRjVuamx1clBleWZER2dfLWZZV09OVlZuY2xTZlYxUHdXdTY1Q0ZpdFNiY1hGN0pITWg1RW5NOV9PUFhpTmlva0hWYXo4QzROYmpSZDVZakx3cEhXSDhIUExkR05qTmlob0x5U1F4Nlh1QzhvS2Y0Vkk1ZnA4T19LRkJacTFpXzdYVTMwSWZzYjc5amNqa1l2ekEtTEN4TWY5UjgzZ3JPZEsxR0hmT2RhNUhB?oc=5"
+    },
+    {
+     "source": "trumedia.ro",
+     "url": "https://trumedia.ro/actualitate/o-nava-cisterna-gpl-romaniei-scufundata/"
     }
    ],
    "img_tried": true,
