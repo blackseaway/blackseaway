@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T09:25:27Z",
+ "updated": "2026-11-26T09:29:57Z",
  "items": [
   {
    "id": "f7d4edc1927d",
@@ -70,6 +70,30 @@
     "shipping"
    ],
    "places": [],
+   "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "77122633a6ba",
+   "lang": "en",
+   "title": "The Daily View: Resilience has a price, and global trade is starting to pay it",
+   "titles": {
+    "en": "The Daily View: Resilience has a price, and global trade is starting to pay it",
+    "ro": "Perspectiva zilnică: Reziliența are un preț, iar comerțul mondial începe să-l plătească",
+    "bg": "„The Daily View“: Устойчивостта си има цена, а световната търговия започва да я плаща"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcDk3OVYtWjRVeDBvQlRaekRtank0SkVYbDdRQnJaSFp4MENtSXlqY29kR0ZkU1hXZ0F6LWhXMUtYWndjQTNIZGdCUG1pU2cxMnFkeno3aUhXRzZWTU45YngyTy01RDZVS0JjSGNRYVREbHVfTHR4dG5tSnc1OE9fTVByLU53b2JSd0xNYV9JdHp2RUoweXpVNkdHMGRIQmp3RjUwVkNqYUk0ZVhpUktlVjZDMA?oc=5",
+   "source": "Lloyd's List",
+   "published": "2026-11-25T17:45:53Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "prices"
+   ],
+   "places": [],
+   "trusted": true,
    "also": [],
    "img_checked": true
   },
@@ -421,6 +445,30 @@
    "also": []
   },
   {
+   "id": "9461620ad31a",
+   "lang": "en",
+   "title": "Russia’s Grip On Crimea Much Weaker After Key Waterways Blocked",
+   "titles": {
+    "en": "Russia’s Grip On Crimea Much Weaker After Key Waterways Blocked",
+    "ro": "Controlul Rusiei asupra Crimeei s-a slăbit considerabil după blocarea principalelor căi navigabile",
+    "bg": "Влиянието на Русия върху Крим значително отслабна след блокирането на ключови водни пътища"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNFJzVVJMdGFGY294MzdlZGxBalNINWpUUUVSdWJaZDhKdXB1cS12QXVwZXZKM09XU2JYVVZLX2tQODRXeXY3WjRfZUd6U0ExLU1HdHdDV2Nac1kyaGpNNUd1a0Fmd1pzUWdEbUxJOTl0YkJXZTd4aHpvSzdqVGVYM0ZzWmNNdlh1UzJndw?oc=5",
+   "source": "Naval News",
+   "published": "2026-11-25T09:31:18Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [],
+   "places": [
+    "crimea"
+   ],
+   "trusted": true,
+   "also": [],
+   "img_checked": true
+  },
+  {
    "id": "d92f5fa8fdf6",
    "lang": "en",
    "title": "Black Sea port blockade could cost Ukraine $9.8 billion in 2027, study says",
@@ -443,6 +491,28 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "d0eadd04753e",
+   "lang": "en",
+   "title": "Speech by the President: European Parliament plenary debate",
+   "titles": {
+    "en": "Speech by the President: European Parliament plenary debate"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sMUN4WmxoZERTQUhobGthdi12emZoU09ua29aZV9HRXFjNDVxQVNPSFY2dm1fZjBoT29wQjBHeF80SkIwNS1lM0RfWWpVa1JfcnFQSWN1M01MM1lLVW5MSzlrMjd4S1VOSGxaZ05sazJxR2Uyc29J?oc=5",
+   "source": "European Commission",
+   "published": "2026-11-25T08:52:31Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_checked": true
   },
   {
    "id": "9b719e3216ff",
@@ -1060,6 +1130,27 @@
    "also": []
   },
   {
+   "id": "b3115d476a8b",
+   "lang": "en",
+   "title": "Media Centre",
+   "titles": {
+    "en": "Media Centre"
+   },
+   "summary": "IMO Media Centre provides the latest information on the Organization's work, including news, multimedia content and other resources for media and journalists. Browse IMO photo library. Sign up for IMO ...",
+   "url": "https://www.imo.org/en/mediacentre/pages/default.aspx",
+   "source": "imo.org",
+   "published": "2026-11-24T15:59:00Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "ed7c1dc883f8",
    "lang": "en",
    "title": "Bulgarian Defence Minister, Turkish Ambassador Discuss Measures to Strengthen Black Sea Security",
@@ -1516,6 +1607,31 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "deed818c7769",
+   "lang": "en",
+   "title": "Agriculture and Fisheries Council, 23 novembre 2026",
+   "titles": {
+    "en": "Agriculture and Fisheries Council, 23 novembre 2026"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hUnFVYkRuOXZQX3JZektnMXVIYm83MFIzMUVFNHdwQktYTktla3I0OEFENDJvN1ZialkzUVdHaDZ6bDRzQzRPRmI2dF94YTJzcTNSREtLbkJscG9HenUyMkpsR3pqWDhJWlJrTktfQmFSQQ?oc=5",
+   "source": "Council, European Union",
+   "published": "2026-11-24T08:00:46Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [],
+   "places": [],
+   "trusted": true,
+   "also": [
+    {
+     "source": "Council, European Union",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Wc3ZCdjdiNzBwNGdXZFB6N2FTVWZ4MjRlRndQOEtlTGdaZmV2b0dsRjRWdDBmMS1wZFd2OFNJcEFkdDJReFhyZVBXTHFQVlRkNE5rcmNIZ1NLWVJBb1k4LU9MRGdIaTRkbFZzX3F2WHNSQQ?oc=5"
+    }
+   ],
+   "img_checked": true
   },
   {
    "id": "cb4856a3690e",
@@ -2082,6 +2198,30 @@
    "img_checked": true
   },
   {
+   "id": "1cb9804f33b0",
+   "lang": "en",
+   "title": "Russia cuts fleet off from global tracking system to foil Ukrainian drone strikes",
+   "titles": {
+    "en": "Russia cuts fleet off from global tracking system to foil Ukrainian drone strikes"
+   },
+   "summary": "Dozens of seafarers have been killed in attacks on commercial shipping by Russia and Ukraine TradeWinds depends on being able to display ads on our services in order to finance our journalism.",
+   "url": "https://www.tradewindsnews.com/regulation/russia-cuts-fleet-off-from-global-tracking-system-to-foil-ukrainian-drone-strikes/2-1-2078567",
+   "source": "TradeWinds",
+   "published": "2026-11-24T00:24:00Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "https://image.dngroup.com/global/nhst/binary/cfd069eb66195e85c4515321f17ffccb?crop=718%2C359%2Cx0%2Cy274%2Csafe&width=1200&format=webp&quality=80",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.1PQvtAfkVhaM4Dj64zTBBw&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "4d6a601f2f3f",
    "lang": "en",
    "title": "UN lays bare the cost of the Black Sea shipping crisis",
@@ -2362,6 +2502,29 @@
    ]
   },
   {
+   "id": "e6d22d23bff3",
+   "lang": "en",
+   "title": "Kuwaiti ambassador slams Iran for attack that caused ‘extensive damage’ to VLCC",
+   "titles": {
+    "en": "Kuwaiti ambassador slams Iran for attack that caused ‘extensive damage’ to VLCC"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaWxwSFhZMUoxX0cxX0Z1Y19DTGhwWUk3R1ByZ25TeHhGVzAzQ0xfSl8xZXdTMjgzem9UVFZBclpzVXhLWWNWNy1QaVE4RVl0X0hOTUNsMFpjV2hjNm5BQXFXQkZzSl8wM2VPVEhObE9JR2dpQnluU0RSNUNCOU9FVGEzblNtZFE4ZHhsWk1nVTN6SU12dDdIUjZ4VnYxVWp2ZFZab1haWmFxdW1hREdNNWVZRTdaaVpjb3BqTF9rc1dDZFl5R1djcDNtNA?oc=5",
+   "source": "TradeWinds News",
+   "published": "2026-11-23T18:59:36Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "attacks"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_checked": true
+  },
+  {
    "id": "5262f102aad5",
    "lang": "en",
    "title": "Russia, Ukraine clash at UN over attacks on Black Sea shipping, energy strikes",
@@ -2407,6 +2570,28 @@
    "places": [
     "danube"
    ],
+   "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "7eebcf0a7a9c",
+   "lang": "en",
+   "title": "Russia restricts ship-tracking data amid fears it is being used to target vessels",
+   "titles": {
+    "en": "Russia restricts ship-tracking data amid fears it is being used to target vessels"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX3JPZ29KZkY2eGVscmNYN2NOcDc2QmtZOUNOanE5bWRzdkMtUU9kb2pVVUdsV1hGajE1YWdEQzBkZjYtV2htODF1WERVZDY1a0VuYktjYmxKZDctbmtIbVJxUG9lQ3NQZm5VZGQ1Q2Q5TU5GRmhObXFfUGliUWE0TGRQc1BsSHR1SFlmdE9xTGRGSDBXbmFiSG5JUmJ3Q2EwcUxOVWRvWl9wV25Kdi1WeVBQLXJ3WnAzVUE?oc=5",
+   "source": "Lloyd's List",
+   "published": "2026-11-23T17:16:35Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "trusted": true,
    "also": [],
    "img_checked": true
   },
@@ -3000,45 +3185,25 @@
    ]
   },
   {
-   "id": "d093c8093f06",
-   "lang": "ro",
-   "title": "MApN mobilizează navele militare în Marea Neagră și pe Dunăre. Măsurile, luate pentru creșterea siguranței navigației",
+   "id": "9a99cb449a5c",
+   "lang": "en",
+   "title": "Shipping braces for a world of disorder",
    "titles": {
-    "ro": "MApN mobilizează navele militare în Marea Neagră și pe Dunăre. Măsurile, luate pentru creșterea siguranței navigației"
+    "en": "Shipping braces for a world of disorder"
    },
-   "summary": "Ministerul Apărării anunță, luni seară, 23 noiembrie, că Forțele Navale Române iau măsuri pentru creșterea siguranței navigației pe Dunăre și în Marea Neagră, fiind programate misiuni în această săptă ...",
-   "url": "https://ziare.com/fortele-navale-romane/mapn-mobilizeaza-nave-militare-marea-neagra-dunare-2049494",
-   "source": "Ziare.com",
-   "published": "2026-11-23T12:34:00Z",
-   "fetched": "2026-11-26T08:29:20Z",
-   "image": "https://s2.ziareromania.ro/?mmid=eb02e56b3c6185a67d",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.3eeP8GLnDKB1rrF15Mst3g&pid=News",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUWhya0F4aVMwbXBZTTNsUi0tVGZxYTk4ZTczQWRiMEZMSzJjQzYxUzZSeWhFaXpLeU5UemhsQWQwYWEyUjRfdE5Pb3l4aVV5dG1xNXNMZ1E2VmQyRUp1SmlqUXYzSWNkQ3c2NUFTNzJJR0t6a2sxMGJlY1N4VURfSFJB?oc=5",
+   "source": "Lloyd's List",
+   "published": "2026-11-23T12:27:33Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
    "topics": [
-    "policy",
     "shipping"
    ],
-   "places": [
-    "danube"
-   ],
-   "also": [
-    {
-     "source": "Ziarul Bursa",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbV9WRU5VbFQ3XzZVRDJRVWdualRjWEZmc01hSVZHaV9NUXcyQXd2endyMHFoRWVFdm53MU1KVENWMi1qVGxjYXZVS3VDSWVfd2J4ODgyRTdkLXF0ZVJSd2FwemQ4N2g4UklxNnRzSGtxLXRfeTdBOHZyZ0pnZ0oyMlp6MDhLVFZPSkx6RUVRbWxtTGptVnJXLUFZWno1YUxTcnhNejZWS0l0UEFFMDc5Mm5menI0RXNfajZ2WFZFZ1NJWWVCOXFMcHAzVDk3dzlQdDBtRUxqUFV0bDQ?oc=5"
-    },
-    {
-     "source": "Newsweek România",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTJDWC1HczZrS2JtUTZ1RFBJV2xTNm1ENFRyOVZldHEwR1ktbndSeGxJTDA1Z0RMWURVWVkyQmx0dTVOSGg4TWUzX3NlSlJuMk40NmhZQkkyU3NhNFhLeHpnTmVVTmE0SC1YajlQVWdlaEtvOXRkenNDVlBSRlhRaTU4YmNwN0FKdFRDVFdjVkVZVHdadDBwdkZKekJ2VFFJOVRyS3BB?oc=5"
-    },
-    {
-     "source": "CAPITAL",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUklmTVFLVFB5YUpNVDBUZkZFbEt2cHZGVTZsM1p4eUYwckE3MFFLTEFYcUQ5NXpybmRObkFOQkNuc1RqQVpDd2pOSEJoNEVhNjhZd2lzeXlTblN2VXN6STAzdHdlVnFLTUYwMWktWW5tMEhJTmd5d20tVnZ1ZTdubTFnV2VfU3JnaTF5UjUzY2VkdzRfeDZUN2l4MVNlaHNrSXJRbmJHcjFfNkxvYWoyOW80MUFqMzV4Wk5hWDE1aUtEZVROdWU3ZVJCMldNT0hlYk4zQS1ORQ?oc=5"
-    },
-    {
-     "source": "Agenția de presă Rador",
-     "url": "https://www.rador.ro/2026/11/23/fortele-navale-romane-iau-masuri-pentru-cresterea-sigurantei-navigatiei-pe-dunare-si-in-marea-neagra/"
-    }
-   ],
-   "img_tried": true,
+   "places": [],
+   "trusted": true,
+   "also": [],
    "img_checked": true
   },
   {
@@ -3110,6 +3275,29 @@
    "also": []
   },
   {
+   "id": "64f4b756b9db",
+   "lang": "en",
+   "title": "Ukraine claims Libya strikes as attacks on Russian shipping spread",
+   "titles": {
+    "en": "Ukraine claims Libya strikes as attacks on Russian shipping spread"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPazQydkx5S3cwazI0Y3o2NUExbEk3LUxkalFEY1hnc2xoRUt1djVFNVdqQ21GdDVyTUQyY1NDX3hHVEpoT1VpS041Z3l0ekVZOGU3OGQyWDREMk05SVZ4d0JvYjl5aVE0aUZoQXZweERJS2x1dzk2NDM1MzI2VmdkaE9vcnRWRlJWLU43SXZ1SUhIQVpjSzRFejJhR01ET3VpMkFBQW5R?oc=5",
+   "source": "Lloyd's List",
+   "published": "2026-11-23T12:07:19Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_checked": true
+  },
+  {
    "id": "a03f3f2d691c",
    "lang": "bg",
    "title": "Възраждане: Кризата в Черно море застрашава хиляди работни места в корабния бранш - Maritime.bg",
@@ -3156,6 +3344,93 @@
    "img_checked": true
   },
   {
+   "id": "2534fc998267",
+   "lang": "ro",
+   "title": "MApN: Forţele Navale Române iau măsuri pentru creşterea siguranţei navigaţiei pe Dunăre şi în Marea Neagră",
+   "titles": {
+    "ro": "MApN: Forţele Navale Române iau măsuri pentru creşterea siguranţei navigaţiei pe Dunăre şi în Marea Neagră"
+   },
+   "summary": "Ministerul Apărării anunţă, luni seară, că Forţele Navale Române iau măsuri pentru creşterea siguranţei navigaţiei pe Dunăre şi în Marea Neagră, fiind programate misiuni în această săptămână. ”Forţele ...",
+   "url": "https://psnews.ro/mapn-fortele-navale-romane-iau-masuri-pentru-cresterea-sigurantei-navigatiei-pe-dunare-si-in-marea-neagra/",
+   "source": "PS News",
+   "published": "2026-11-23T11:37:00Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "https://s2.ziareromania.ro/?mmid=eb02e56b3c6185a67d",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.uI-FWmpEGcTFAG0n7-SU7A&pid=News",
+   "topics": [
+    "policy",
+    "shipping"
+   ],
+   "places": [
+    "danube"
+   ],
+   "also": [
+    {
+     "source": "Ziare.com",
+     "url": "https://ziare.com/fortele-navale-romane/mapn-mobilizeaza-nave-militare-marea-neagra-dunare-2049494"
+    },
+    {
+     "source": "Ziarul Bursa",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbV9WRU5VbFQ3XzZVRDJRVWdualRjWEZmc01hSVZHaV9NUXcyQXd2endyMHFoRWVFdm53MU1KVENWMi1qVGxjYXZVS3VDSWVfd2J4ODgyRTdkLXF0ZVJSd2FwemQ4N2g4UklxNnRzSGtxLXRfeTdBOHZyZ0pnZ0oyMlp6MDhLVFZPSkx6RUVRbWxtTGptVnJXLUFZWno1YUxTcnhNejZWS0l0UEFFMDc5Mm5menI0RXNfajZ2WFZFZ1NJWWVCOXFMcHAzVDk3dzlQdDBtRUxqUFV0bDQ?oc=5"
+    },
+    {
+     "source": "Newsweek România",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTJDWC1HczZrS2JtUTZ1RFBJV2xTNm1ENFRyOVZldHEwR1ktbndSeGxJTDA1Z0RMWURVWVkyQmx0dTVOSGg4TWUzX3NlSlJuMk40NmhZQkkyU3NhNFhLeHpnTmVVTmE0SC1YajlQVWdlaEtvOXRkenNDVlBSRlhRaTU4YmNwN0FKdFRDVFdjVkVZVHdadDBwdkZKekJ2VFFJOVRyS3BB?oc=5"
+    },
+    {
+     "source": "CAPITAL",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUklmTVFLVFB5YUpNVDBUZkZFbEt2cHZGVTZsM1p4eUYwckE3MFFLTEFYcUQ5NXpybmRObkFOQkNuc1RqQVpDd2pOSEJoNEVhNjhZd2lzeXlTblN2VXN6STAzdHdlVnFLTUYwMWktWW5tMEhJTmd5d20tVnZ1ZTdubTFnV2VfU3JnaTF5UjUzY2VkdzRfeDZUN2l4MVNlaHNrSXJRbmJHcjFfNkxvYWoyOW80MUFqMzV4Wk5hWDE1aUtEZVROdWU3ZVJCMldNT0hlYk4zQS1ORQ?oc=5"
+    },
+    {
+     "source": "Agenția de presă Rador",
+     "url": "https://www.rador.ro/2026/11/23/fortele-navale-romane-iau-masuri-pentru-cresterea-sigurantei-navigatiei-pe-dunare-si-in-marea-neagra/"
+    }
+   ],
+   "img_checked": true
+  },
+  {
+   "id": "d9872bf23c3c",
+   "lang": "en",
+   "title": "Ministers advance cooperation on cross-regional security and connectivity",
+   "titles": {
+    "en": "Ministers advance cooperation on cross-regional security and connectivity"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3a0dzeEU2ZXZEY3c0eERjcXRhaFY3bmNJaDNLYVJmQlJBNmhUaEIzVVhRQlVrYkM0bFFmdk1FbzdpRDRsazZmS3JrdW1BZUNxZW40X0cza3Zicmxyblp5TEVPcG4wN2hUbEdCc3NTRnZIZw?oc=5",
+   "source": "European Commission",
+   "published": "2026-11-23T11:31:02Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "2125abf8d257",
+   "lang": "en",
+   "title": "Costa Concordia captain released from prison after fatal 2012 disaster",
+   "titles": {
+    "en": "Costa Concordia captain released from prison after fatal 2012 disaster"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVUpjZ0hYdVJ6cmRPRTJtWEFDYzVWTTBCNlRYSmJPbEI0OUpWUDVoYXhFU1I2X3g0T1FSSFAyWnpfNGFDcV9ZaDdiX2x0RU55VmcyWlIwYi13U0ZnMGpVVThIcWpQNlN1UHAzQjZXNDYyWE04Nl9CcmpqQ0lEejR4aXQ4Y1JybjkyejlmSUgxU1lDWEZCSmNELTczdVdRZDJEQmdMQnpfSXBIekFFOXZKdFhDMFZ0Wnlua1RZZw?oc=5",
+   "source": "TradeWinds News",
+   "published": "2026-11-23T11:19:14Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_checked": true
+  },
+  {
    "id": "792fb653a2e2",
    "lang": "bg",
    "title": "Според министър Абровски сигурността в Черно море трябва да е част от европейската визия за ...",
@@ -3176,6 +3451,26 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "d5f7d3b5a66b",
+   "lang": "en",
+   "title": "BW LPG kept at hold ahead of earnings despite ‘exceptional’ markets",
+   "titles": {
+    "en": "BW LPG kept at hold ahead of earnings despite ‘exceptional’ markets"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWHZuWGNNb21TSUpQN0U0elg3V1dvdzhGR2RFc1dJdzJzQTBuZC00NHJwRGNEemJpZ0FwVFNTY2hwTW5WS1d5bGpscHpZVkFiWmtNcXdvNVJFazlRbk4tVWhnVXRmZXg4cGl2a2F2bWhsdlI5MVplcGw2dHYtRF9LUmtBVXF3c19NRS1RSmZEWGVWVXFndlFRQkRZRWxWSk1RbERhWkk1cENzUW1aLV9IRW53?oc=5",
+   "source": "TradeWinds News",
+   "published": "2026-11-23T10:57:18Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_checked": true
   },
   {
    "id": "416163993693",
@@ -3220,6 +3515,28 @@
     "shipping"
    ],
    "places": [],
+   "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "163bdebf0b33",
+   "lang": "en",
+   "title": "Greek owner Polembros sells oldest bulker as handy prices surge to four-year highs",
+   "titles": {
+    "en": "Greek owner Polembros sells oldest bulker as handy prices surge to four-year highs"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcU5nR250Sk81TVJpaWZ4SFpzcjYwRlJGcW54NzFuY1A1dVNHQjE4aktuUjRTOWRVZExMeFh2cmNxOTF0d3I0eGtOZ0xzZF9VSDR4dlhaZlR0R3ZUN2w3MTUwMmNLRHZJQWh4NVROQ0dWNldfNG9PWDV0TUFyN2pDd1V2eTZxUGdRR0ZBakRYVVZSU0RxRzZNdTJJOFRvejAxeGNxczFuVWVCaW5xUkpJYmVEYnB0SE1WX2dBOUU5Zkcwa3Z1S1RvaU1SSFN5UQ?oc=5",
+   "source": "TradeWinds News",
+   "published": "2026-11-23T10:29:14Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "prices"
+   ],
+   "places": [],
+   "trusted": true,
    "also": [],
    "img_checked": true
   },
@@ -3512,6 +3829,29 @@
    "img_checked": true
   },
   {
+   "id": "68bf30c663b5",
+   "lang": "en",
+   "title": "Swarm of Ukrainian sea drones hit Russian vessels off Libya",
+   "titles": {
+    "en": "Swarm of Ukrainian sea drones hit Russian vessels off Libya"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkE2Z1A2UndDRjUyRUxYZWRUcWhqLWVRYlhOb0FUNlVUVm1VSmQwUENNTVA3XzRBRkR6MncwUUQybklyMkU4a0JUOTl5ZWN1MlJPcm44QXhGQU1hemk2SG9uZHJUdFpIZHVjTWdaRElTY0l1RDBfU2ZkTU1oQUpuZlBtUXNNal85Y3pRVnRvck1oRTNUcWg5Rk5xSUNVRTV5ckdvTC1Wdy01aTl2T0lzN3pqaw?oc=5",
+   "source": "TradeWinds News",
+   "published": "2026-11-23T08:18:57Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_checked": true
+  },
+  {
    "id": "f350a6e77661",
    "lang": "ro",
    "title": "Ucraina extinde atacurile asupra navelor rusești în Mediterana și Baltica – Zelenski confirmă scufundarea corvetei ruse Merkury",
@@ -3535,6 +3875,28 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "8174de4a28fe",
+   "lang": "en",
+   "title": "Morten Astrup's Hunter completes offshore rig takeover with tanker cash pile",
+   "titles": {
+    "en": "Morten Astrup's Hunter completes offshore rig takeover with tanker cash pile"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWDcxOUtEUlhkSkx6ZVg1YnItRHYydy1nd0Fzck1IQjI4WWxnU2hWdlotRUx5aFc0dG5FeXBDc0o2ajIxXzJNRW5kXzBWSDFIcS1tRjBoaTN4R3hDaFlYczkxV0N2MXl1VDFWck1QRHZ3bVdnblp1NWdqcXNEeW1zRW1jTlByY25PVzNDUmxJQWt4WkU3c3ZIQkNTVlJGQXRVSjRMUnJ2QmJsVmNnMV9RSmdkaEVqMXNMckptTGhGblQ3VmxIWXdJ?oc=5",
+   "source": "TradeWinds News",
+   "published": "2026-11-23T07:34:11Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "energy"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_checked": true
   },
   {
    "id": "c1111f707b79",
@@ -3744,6 +4106,28 @@
    "also": []
   },
   {
+   "id": "fc380111dbd8",
+   "lang": "en",
+   "title": "Singapore Shipping Corp splashes out $210m on car carriers in first newbuild move in over a decade",
+   "titles": {
+    "en": "Singapore Shipping Corp splashes out $210m on car carriers in first newbuild move in over a decade"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZVltQ01IMlhzYkNXLVBnT0xmOTIzdWZtSlBObHJEa1V4dGZhaTU5RFRKQURMd2FwV3VBVnc0V04tTGtIbWViNWRxT2VIYmdWWTFCT1VsR0ptcm0xbzl4UmdGQWVYV2FsQkZYWENnSHB5MDc3ZnJxYW8xWng2N3J1c19iaDUzd0V4Q245Skt3NkhjOWEyUkE0dXFxc092V3pqSG9sdW1kbmR0STBFdmU3ZzQ1X29VMUNGR3VOZFctcUswa0ZUeU9iaHJFNFBBRUdrVXpicnUxT3plbF91Q284WWJwUTk?oc=5",
+   "source": "TradeWinds News",
+   "published": "2026-11-23T02:59:07Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_checked": true
+  },
+  {
    "id": "9e307e5ce539",
    "lang": "ro",
    "title": "Traian Băsescu, replică dură pentru Nicușor Dan: „Începi să vinzi Portul Constanța”. Avertisment despre datoria României",
@@ -3770,6 +4154,51 @@
      "url": "https://www.gandul.ro/actualitate/romania-aproape-de-faliment-basescu-avertisment-dur-pentru-nicusor-dan-incepi-sa-vinzi-portul-constanta-hidrocentrala-portile-de-fier-1-si-2-21071996"
     }
    ],
+   "img_checked": true
+  },
+  {
+   "id": "2bf6c4b0eef8",
+   "lang": "en",
+   "title": "Dynagas LNG Partners vessel duo start work with NextDecade project in US",
+   "titles": {
+    "en": "Dynagas LNG Partners vessel duo start work with NextDecade project in US"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZDdyUFlqdlNsbXp2ZmZKTWdJa2Q0Q081eDM5X1I0NGoxZzNVVDJBNFNzUjI1YjY5NVdKcnF1U1BkYnFmdGVVOXFURm9udloyMGxJdFdhaklTTnlsbDZXc2J1ODhsS0pfSFBvc3psQmNETzBVTFowa1A3WkNoc2Z6RHhGTnlmb2RTSXFVUEhhc3djbFZwZ1JhN292cC1mX21UbEhfQkptSGdVMG9la0gzbXltV2RsOGw4QTBz?oc=5",
+   "source": "TradeWinds News",
+   "published": "2026-11-23T01:52:22Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "shipping",
+    "energy"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "9eee7870e286",
+   "lang": "en",
+   "title": "Argentina LNG greenlighted for invesment incentive scheme paving way for FID",
+   "titles": {
+    "en": "Argentina LNG greenlighted for invesment incentive scheme paving way for FID"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMnZlQlVSQ0ROOTc5Yi02anBiLWZIWXBDTW0ycWpHYzNpTzhna0p0ZTZHdFNjRmpFbjVJem0tS1RYTmtGN3ZTX19sNVhaczRtWGZOb3JsaTNZU3RPVmIteHN5TFFXOG0wQWVHRW11N3lUZ1FqenlFREJZVU94ZFEyTDd4WkQxNmI3WVRDR3J4enF3Y0haQ3JUdldxNjZPVXNYU01tWVNZeGVOVTdocDFqMl9YVnBOT0ZUSGZlQ1pFV2U?oc=5",
+   "source": "TradeWinds News",
+   "published": "2026-11-23T01:49:04Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "energy"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
    "img_checked": true
   },
   {
@@ -3936,33 +4365,6 @@
    "places": [],
    "also": [],
    "img_checked": true
-  },
-  {
-   "id": "e5c03eb6942e",
-   "lang": "en",
-   "title": "Russian Black Sea Warship Explodes in Libyan Naval Base",
-   "titles": {
-    "en": "Russian Black Sea Warship Explodes in Libyan Naval Base",
-    "ro": "O navă de război rusă din Marea Neagră explodează într-o bază navală libiană",
-    "bg": "Руски военен кораб от Черно море експлодира във военноморска база в Либия"
-   },
-   "summary": "Russian gas carrier Arktik Metagaz was struck by an explosion off the Libyan coast in March that Moscow blamed on Ukraine. Citing Libyan sources, RFI said the attack was carried out by an autonomous ...",
-   "url": "https://www.newsweek.com/russian-black-sea-warship-explodes-in-libyan-naval-base-12753977",
-   "source": "Newsweek",
-   "published": "2026-11-22T17:11:00Z",
-   "fetched": "2026-11-25T13:50:37Z",
-   "image": "https://assets.newsweek.com/wp-content/uploads/2026/11/AP26327310059538.jpg?w=1200&crop=1",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.EiYcb2Ws4-XYdW0yqIQmlQ&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping",
-    "energy"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
   },
   {
    "id": "b1ffc14f206e",
@@ -4179,6 +4581,29 @@
    ]
   },
   {
+   "id": "5952d43d1223",
+   "lang": "en",
+   "title": "Russian ship on fire and abandoned after Baltic Sea drone attack",
+   "titles": {
+    "en": "Russian ship on fire and abandoned after Baltic Sea drone attack"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUXhiUWNkN20xQnZHek9sNzF3LThENlJGUTlLdUp2VjNNRFB2a2pkeDhEOHQ4Ti1HVl8yUWlhTjZLNGp0REJDZ05ySEdGM29TMUlGYms0VFhJNTd1NTBYUFROdGpWVTJUanI1RVlRbkFBdU1GU2drNEhFRFFPVjNianBEeVd1MXhoc05oV2dOM2wtY2UtU25sazVKLUVwbFhpR2pibmpwd21hajMwY2hRZzlUbGQ0YjlBNUE?oc=5",
+   "source": "TradeWinds News",
+   "published": "2026-11-22T08:12:31Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_checked": true
+  },
+  {
    "id": "d559aef1dda1",
    "lang": "en",
    "title": "Black Sea Security Crisis Costs Bulgaria Ship-Repair Orders and Jobs",
@@ -4379,6 +4804,38 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "b85a016ede7a",
+   "lang": "en",
+   "title": "Russian Warship Destroyed In Huge Explosion In Libya",
+   "titles": {
+    "en": "Russian Warship Destroyed In Huge Explosion In Libya"
+   },
+   "summary": "A Russian Navy Warship has been engulfed in flames following an explosion in Benghazi in Libya. The vessel is almost certainly destroyed.",
+   "url": "https://www.navalnews.com/naval-news/2026/11/russian-warship-destroyed-in-huge-explosion-in-libya/",
+   "source": "Naval News",
+   "published": "2026-11-22T03:58:00Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "https://assets.newsweek.com/wp-content/uploads/2026/11/AP26327310059538.jpg?w=1200&crop=1",
+   "fallback_image": "",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [
+    {
+     "source": "Newsweek",
+     "url": "https://www.newsweek.com/russian-black-sea-warship-explodes-in-libyan-naval-base-12753977"
+    },
+    {
+     "source": "Naval News",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWM3MGdwLTVVbHhtSG1NM3l1Y2lCdFBkRHZEV0M0Y2I3Sk53MVhQd2VHZENrdEg3emYxc1NNU1pKUG9qeURhR1NoMVFsenlqTkZmcGJmQlR6VnVBd3E3SG9FdlVhZU5ad09RSmNNaDB6MEQ3TnhlcVlNcW5KYnV4NmtOak5lcVJIRWRxMEg1VzBsclJTdlRoOHNNS1QzYTQ?oc=5"
+    }
+   ],
+   "img_checked": true
   },
   {
    "id": "55f80c1c0ee2",
@@ -4605,6 +5062,50 @@
    "also": []
   },
   {
+   "id": "b34d9451b36f",
+   "lang": "en",
+   "title": "Joint Statement of the European Union and the United Kingdom Summit, 20 November 2026",
+   "titles": {
+    "en": "Joint Statement of the European Union and the United Kingdom Summit, 20 November 2026"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONVNUTU5zUDZBRGxmUFYwSWN2aE1ySW5mXzJwcXJ4MjJlMmJPam1GblR5M1ZSdDJhbjBqOVVwV2RfdEVXMnItVE9pUEVkcURHckw0YlVMdUJ3YVFpbEthRk1PQ3MtX1cxTG1Ta3hkeG9KUUtIdnJoemxHUXFXZHNMS19zckp3RjJBbWk5a1RVaW5VRF9FTXItNTRVeFZkT0p5b1k2c0NPN0M3WXRpTzQyc0g4NUU?oc=5",
+   "source": "European Commission",
+   "published": "2026-11-21T09:43:34Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "85cdcf3c1878",
+   "lang": "en",
+   "title": "UK and Norway Commit Over £100M for Two New Fast Attack Craft for Ukraine",
+   "titles": {
+    "en": "UK and Norway Commit Over £100M for Two New Fast Attack Craft for Ukraine"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ28taXVrZjNDN3VYUlNaeVFENW8zNHlSaTAxeVhNSWsxbkZwTU9kTHcxbEJRS1ZIU1BjcGZMSVFfNjdFQXVLblcxclI1dC05ZlR3OEZQd2J3RG9QaE9tWDVEejY3QjNXdGhGQWhUYlVFQ0VJUm43ZFRabUxkRWNZeGFvWkU0eEYtN3hWY2l2akQ5U0pjd3M3Y0tFMk5FWjFSQk84Z1d6cGswZEZZQlFoMmpOVHJDUkZYeUE?oc=5",
+   "source": "Naval News",
+   "published": "2026-11-21T09:03:35Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "attacks"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_checked": true
+  },
+  {
    "id": "bb41d8263cd9",
    "lang": "ro",
    "title": "România, în prima linie a securității maritime europene: 50 de milioane de euro pentru un centru strategic la Marea Neagră",
@@ -4716,6 +5217,29 @@
     "shipping"
    ],
    "places": [],
+   "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "9b4490d2975a",
+   "lang": "en",
+   "title": "Global volatility and rising costs push more clubs to hike premiums",
+   "titles": {
+    "en": "Global volatility and rising costs push more clubs to hike premiums"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeHlmcU5jU3BLR2ZiMFFYOTZGQ3ZjSzdJdDBGZS1VQ044RFFiOERaanFOdnR6dE1mcS1MemhMZlpzRnVjUE91Qy1zdGo4TEZadVpYdGU3aVNyZ3RpQlFDaXlnRDdEaWxBdTAxcXVfekE3U3pVZXZwaHlrVUVtVktTYUFoSWI5ZlFpaVpQY0wwdktvUzhINVAzQ1djN3JVbFNPNThjQnhBM1d0b21Ldk5feTVLa1o2cElIQUpKcQ?oc=5",
+   "source": "TradeWinds News",
+   "published": "2026-11-20T16:44:04Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "insurance",
+    "prices"
+   ],
+   "places": [],
+   "trusted": true,
    "also": [],
    "img_checked": true
   },
@@ -4833,6 +5357,28 @@
    "img_checked": true
   },
   {
+   "id": "747e27ffe5ce",
+   "lang": "en",
+   "title": "Commission proposes fishing days for western Mediterranean trawlers in 2027 protecting the most vulnerable stocks - oceans-and-fisheries.ec.europa.eu",
+   "titles": {
+    "en": "Commission proposes fishing days for western Mediterranean trawlers in 2027 protecting the most vulnerable stocks - oceans-and-fisheries.ec.europa.eu"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPalJYdXlzN3AwV0FPTWdCWDJuOGRLOWR3RWpnZmpOWmNfQmRjUkdwbGwyOXJHSHhZSmhWaS00V1hOYXh2RXV5Z002LTcwZnVmM2NiSjY2Mmc1VFhGVFFJUEYwSnB1QUZIM3F2YngyTDNiWU5YejBONzJ3aDJyaHBGaEZ1YzVGajlnVWdkZlRGaEJXc2dwYUpvdnhYQ29yQ2hWZWdhdEpZTWlhR2IzUEV6ZUx1RWxMRUU3STg2Wjl6T2xWU2JPMGJUVXFtd09DSXlkQWlfSU9YTUhjQ3Fqa3JRZ3FURDZmWVFURnNnTg?oc=5",
+   "source": "oceans-and-fisheries.ec.europa.eu",
+   "published": "2026-11-20T13:36:20Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_checked": true
+  },
+  {
    "id": "d375519668c3",
    "lang": "ro",
    "title": "Regatul Unit și Norvegia investesc peste 100 de milioane de lire sterline în două nave militare pentru Ucraina; obiectivul este protejarea rutelor comerciale din Marea Neagră",
@@ -4926,6 +5472,26 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "c281adeafd79",
+   "lang": "en",
+   "title": "Italy’s Next-Generation DDG (NG DDG / DDX): First Platform and Combat System Details",
+   "titles": {
+    "en": "Italy’s Next-Generation DDG (NG DDG / DDX): First Platform and Combat System Details"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDJqRjZscUR6MGdmbURvU1ZFMGZIMGdSbm5WT282SVhvLTJDOEo3TWFIU1BqR3l2S2ZLUGswWEVoNlJmSXc3TWVHUUpETkZYdDREVmxjQmhPOEx0YkhmVHJjSE9rS0NTMXBXenZtSjhEUHNMc3MySGprTE1ZYTRWajVEenFreWxEMkl0aFMtMFp0VlR1NGR5c0Q4UQ?oc=5",
+   "source": "Naval News",
+   "published": "2026-11-20T10:18:54Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_checked": true
   },
   {
    "id": "8665dc42d36e",
@@ -5057,6 +5623,30 @@
     "grain"
    ],
    "places": [],
+   "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "a2fe027941e2",
+   "lang": "en",
+   "title": "Russia claims strikes on vessels as Zelenskyy preps ‘action plan’ to protect grain shipping",
+   "titles": {
+    "en": "Russia claims strikes on vessels as Zelenskyy preps ‘action plan’ to protect grain shipping"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWVBWeE9kU0dhSUc0eVE1Y29aRjJKYnBxS21GQ1plS3RvUlF1RVZUNFZPcEpfVWQwN1BNV2pGekk2NldiY0NRT3YwRjFSMWw0V0hxVFBPdzR2S3dBY0NSZFFfSHVTdnJFcWo0UGxCMW5rbk14SnQyclJrNTVPUUlaa3Zkc2N3Smp3RkRiVFVRc0lDVEZFczlDRVJCVkdjRkZqZDZYcTEwZVIxZTcwRjFWU1BQOF92WHA5SW1FcDNBSzliN0g4emc3X3NwMkxkQlFrdDRMQThnNU12Y28?oc=5",
+   "source": "TradeWinds News",
+   "published": "2026-11-20T07:30:27Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "attacks",
+    "shipping",
+    "grain"
+   ],
+   "places": [],
+   "trusted": true,
    "also": [],
    "img_checked": true
   },
@@ -5243,6 +5833,29 @@
    "also": []
   },
   {
+   "id": "e3e642fdecb0",
+   "lang": "en",
+   "title": "Can China crack Europe's grip on cruise shipbuilding?",
+   "titles": {
+    "en": "Can China crack Europe's grip on cruise shipbuilding?"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVmxWcXNFVGJ4NTBJRXlYMHBoVHlETWVUMVVaZ2doYlExWDJ2cnNCd2pULVFzc2cwNmtWNWNTRGRSc1REY3QtWDNSb0MzeE5mZ0NhVklWWF9Qb3R2SzNUVnN4VkJ3a0pnSUNpSXZpeVdPYU1ncl9ZMEZzcGgtSlQ4Zk4yR1pWV09ZVFVLN1BKREd5VUFwOERiOV8xTWp0S19qRkY4Y3pHLVhncElIVXNGWEh3?oc=5",
+   "source": "TradeWinds News",
+   "published": "2026-11-20T01:38:02Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "shipping"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_checked": true
+  },
+  {
    "id": "7831c0b59566",
    "lang": "ro",
    "title": "Bulgaria nu poate distruge dronele care atacă navele din Marea Neagră din cauza unor limitări tehnico-militare",
@@ -5318,6 +5931,50 @@
    ],
    "also": [],
    "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "43353362f3ba",
+   "lang": "en",
+   "title": "C_202606019FR.000101.fmx.xml - EUR-Lex",
+   "titles": {
+    "en": "C_202606019FR.000101.fmx.xml - EUR-Lex"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xOWxBdVJNZGlzX0ZuQ0wyQXlHSWhqVFBVcmctaTg2QmNQb09SVS1pQ29OUm1MVHJQMzkzTHVEOGs3aVIwT0U3Y0hpRS1uMkladGFMcklIN1l6dVJKNlJ2MWVvQTZja1JWbGR2UHN1dWRIbEM4V3VXWnAyTQ?oc=5",
+   "source": "EUR-Lex",
+   "published": "2026-11-19T23:14:06Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "a931432a5a47",
+   "lang": "en",
+   "title": "Houthis gain positions to target shipping amid advance towards Aden, US-led coalition warns",
+   "titles": {
+    "en": "Houthis gain positions to target shipping amid advance towards Aden, US-led coalition warns"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTW91aDgwRFZ0TXJoNWZHLWJKcjVpYnlQb2ZLWFhYVm1QQm9kTlR1WUVVb2ZLamZPRGFwSTlsOU1ab2xXanluSWhhNzZXeldDVTQ3TDlCeEtFN0VQNHNTOHhQd1hPWmhyTnVyd29tUHN5d3ZRaHpWaDQ4SFEtTzh0T2l3aVJnaDFjV2ZfX1RicFpWQWhCUGNFR2pYZ2ZncjlkNlo4ZlV2eGM0anY5V0FyMmY3RFhDY1cta0x3RzVzQno4Uno5ZWlJcDRZNnVfdEtBVGk3ZnZwbzcxSE5S?oc=5",
+   "source": "TradeWinds News",
+   "published": "2026-11-19T22:58:21Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
    "img_checked": true
   },
   {
@@ -5416,6 +6073,26 @@
    "also": []
   },
   {
+   "id": "158f3ac28862",
+   "lang": "en",
+   "title": "Solidarity Lanes: Latest figures – October 2026",
+   "titles": {
+    "en": "Solidarity Lanes: Latest figures – October 2026"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTVFZSzF2Z0xFWWxfUTBNWDJKa2tVd1FTeHlUS1ZxbjdOMkdyQk5jZWxCVFJzam12QS05YkZrTDJ1azh2dWwwREF2c2FiUFBJUU5haEJRbUpDNUVRNVVnUmtkVXFiYXVRVHZ6TlEwT2pPOWNzaEJCTnZzV1k4aEZQZGVtVU5ib0dTUGJKeDAwUlU5X2VOWHhNQnF4YnZWRDhzWmllZm4wakFaQQ?oc=5",
+   "source": "transport.ec.europa.eu",
+   "published": "2026-11-19T17:07:06Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_checked": true
+  },
+  {
    "id": "4b54ef7ab443",
    "lang": "en",
    "title": "UK and Norway Partner to Fund Two Advanced Combat Vessels for Ukraine, Boosting Black Sea Security",
@@ -5433,6 +6110,26 @@
     "shipping"
    ],
    "places": [],
+   "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "3ff49b3d23b8",
+   "lang": "en",
+   "title": "International Seaways’ Lois Zabrocky has some good news for a new shareholder",
+   "titles": {
+    "en": "International Seaways’ Lois Zabrocky has some good news for a new shareholder"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMmF3V1VMN0Q4WkZQNV93ZG92T1hJUnRid0hpMjlJS1pldm1Zdkh0YVhVXzVSNXZwSC1Kdjc4TFpGWUk1TzNqSVd0ckhVcUFsR3dQZW8ydlZEbldUSGNOYmRYRVdBQlZCblYzdnplQUpaZzJfX2tfakJJMkMxSnRSX2xKeTFGT3dJZW9KZmgxWmc5NjBLLXRJVmlCNEZmVTlqd1l5eGNscGQtUUFfQUhjSTllbzhBVUloeVlKZ0lRNlZvQzZVRVE?oc=5",
+   "source": "TradeWinds News",
+   "published": "2026-11-19T16:44:51Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [],
+   "places": [],
+   "trusted": true,
    "also": [],
    "img_checked": true
   },
@@ -5836,6 +6533,28 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "9d9d7c375295",
+   "lang": "en",
+   "title": "Heidmar targets minutes, not hours, as AI reshapes ship management",
+   "titles": {
+    "en": "Heidmar targets minutes, not hours, as AI reshapes ship management"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX0R4TEZlUHRiRzhrdmtzdlFkeVNoajBlSDhITTJwYzU4bm1HQ3Fmak1hQWJQbkhrc2hjMlVhalhPNERQMkEzaThRZllXRm41eWZXcnZtZy1qdGRvRkZBU2VvRll4Z29DX1BULTlYOVZveEtiMEltUWU4b1lZSjUwUl9kVWEzd0NxUVZkOGxocVZ0dXR0djloQ0t2X05UMC1uNUZCcXlFTGFUV3RRME9pVGUzdU9KMzl5QlBIS2RTbG0?oc=5",
+   "source": "TradeWinds News",
+   "published": "2026-11-19T09:39:31Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_checked": true
   },
   {
    "id": "0d75df19496d",
@@ -6308,6 +7027,30 @@
    "also": []
   },
   {
+   "id": "628eaaf21934",
+   "lang": "en",
+   "title": "Shipping must look beyond turmoil to attract next generation, says Nautical Institute chief",
+   "titles": {
+    "en": "Shipping must look beyond turmoil to attract next generation, says Nautical Institute chief"
+   },
+   "summary": "The shipping industry must accentuate the positive in turbulent times if it wants to keep young people interested in maritime careers, Nautical Institute chief executive John Lloyd believes.",
+   "url": "https://www.tradewindsnews.com/people/shipping-must-look-beyond-turmoil-to-attract-next-generation-says-nautical-institute-chief/2-1-2073923",
+   "source": "TradeWinds",
+   "published": "2026-11-18T14:42:00Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "https://image.dngroup.com/global/nhst/binary/ca7d9660517a23281c3c48f6d72a563e?crop=1032%2C516%2Cx0%2Cy150%2Csafe&width=1200&format=webp&quality=80",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.rA7R1o0h_u9U7mKkyOtKHw&pid=News",
+   "topics": [
+    "shipping",
+    "insurance"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "4ff9dc46354f",
    "lang": "ro",
    "title": "Marea Neagră - transformată într-un câmp de luptă pentru navele comerciale",
@@ -6506,6 +7249,30 @@
    "also": []
   },
   {
+   "id": "b48ed020e42a",
+   "lang": "en",
+   "title": "Transpetrol fixes aframax tanker to Chinese oil giant",
+   "titles": {
+    "en": "Transpetrol fixes aframax tanker to Chinese oil giant"
+   },
+   "summary": "Private Belgian owner Transpetrol is reported to be renaming an aframax tanker under a new charter to PetroChina. Brokers said the 114,000-dwt TP Affinity (built 2016) has been fixed for a year at $89 ...",
+   "url": "https://www.tradewindsnews.com/tankers/transpetrol-fixes-aframax-tanker-to-chinese-oil-giant/2-1-2075984",
+   "source": "TradeWinds",
+   "published": "2026-11-18T07:21:00Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "https://image.dngroup.com/global/nhst/binary/2684286b6ba5844c4df6338e9c50b11d?crop=629%2C314%2Cx1%2Cy44%2Csafe&width=1200&format=webp&quality=80",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.OyE_whsc86snf7qjquRjcw&pid=News",
+   "topics": [
+    "policy",
+    "energy"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "8fe70952c281",
    "lang": "ro",
    "title": "FOTO Peste 43.000 de perechi de mănuși suspectate că sunt contrafăcute, descoperite în Portul Constanța Sud-Agigea. Marfă de peste 2,3 milioane de euro, indisponibilizată",
@@ -6553,6 +7320,31 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "a3561b4ed06e",
+   "lang": "en",
+   "title": "Mistral in a Box: MBDA Revives SPIMM Concept Against Drones",
+   "titles": {
+    "en": "Mistral in a Box: MBDA Revives SPIMM Concept Against Drones"
+   },
+   "summary": "MBDA and Terma partner at Euronaval 2026 to revive the SPIMM containerized Mistral 3 air defense system against drones, cruise missiles, and USVs.",
+   "url": "https://www.navalnews.com/naval-news/2026/11/mistral-in-a-box-mbda-revives-spimm-concept-against-drones/",
+   "source": "Naval News",
+   "published": "2026-11-18T04:28:00Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "https://www.navalnews.com/wp-content/uploads/2026/11/MBDA_2026_SPIMM.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.G3C7heLH_x303nyzvviT-A&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "bf54d0fe6773",
@@ -6675,6 +7467,27 @@
      "url": "https://www.flagman.bg/article/394425"
     }
    ],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "76bbbe4eb1b5",
+   "lang": "en",
+   "title": "Zim raises full-year guidance after ‘industry-leading’ quarter",
+   "titles": {
+    "en": "Zim raises full-year guidance after ‘industry-leading’ quarter"
+   },
+   "summary": "When you click on “Accept all”, you consent to ads on this site being customized to a personal profile we or our advertising partners may have about you. Choose “Customize or Reject all” if you want ...",
+   "url": "https://www.tradewindsnews.com/containers/zim-raises-full-year-guidance-after-industry-leading-quarter/2-1-2076072",
+   "source": "TradeWinds",
+   "published": "2026-11-17T21:32:00Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "https://image.dngroup.com/global/nhst/binary/cb757c1b7b861a3f46fd80c659b3b576?crop=800%2C400%2Cx0%2Cy191%2Csafe&width=1200&format=webp&quality=80",
+   "fallback_image": "",
+   "topics": [],
+   "places": [],
+   "trusted": true,
+   "also": [],
    "img_tried": true,
    "img_checked": true
   },
@@ -6952,6 +7765,29 @@
    "also": []
   },
   {
+   "id": "ab384c258fa2",
+   "lang": "en",
+   "title": "Intertanko backs tanker seizures in tougher shadow fleet crackdown",
+   "titles": {
+    "en": "Intertanko backs tanker seizures in tougher shadow fleet crackdown"
+   },
+   "summary": "When you click on “Accept all”, you consent to ads on this site being customized to a personal profile we or our advertising partners may have about you. Choose “Customize or Reject all” if you want ...",
+   "url": "https://www.tradewindsnews.com/tankers/intertanko-backs-tanker-seizures-in-tougher-shadow-fleet-crackdown/2-1-2075562",
+   "source": "TradeWinds",
+   "published": "2026-11-17T09:30:00Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "https://image.dngroup.com/global/nhst/binary/1201ffeaf49a1a97887bf8eb64b7aad3?crop=2400%2C1200%2Cx0%2Cy0%2Csafe&width=1200&format=webp&quality=80",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.vgnX9D1PeWn039o40JjNDA&pid=News",
+   "topics": [
+    "energy"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "d9708d0fc711",
    "lang": "ro",
    "title": "Justiție Constanța Disputa juridică pentru un teren de aproximativ 11.000 mp din Portul Constanța se mută la Tribunalul Constanța",
@@ -7161,6 +7997,29 @@
    "also": []
   },
   {
+   "id": "fa6cde51bc56",
+   "lang": "en",
+   "title": "#EUBeachCleanup 2026: a global wave of action for cleaner coasts, rivers and seas",
+   "titles": {
+    "en": "#EUBeachCleanup 2026: a global wave of action for cleaner coasts, rivers and seas"
+   },
+   "summary": "From beaches and riverbanks to mountain lagoons, the 2026 edition of #EUBeachCleanup once again showed the power of collective action in the fight against marine litter.",
+   "url": "https://oceans-and-fisheries.ec.europa.eu/news/eubeachcleanup-2026-global-wave-action-cleaner-coasts-rivers-and-seas-2026-11-17_en",
+   "source": "Oceans and Fisheries - European Commission",
+   "published": "2026-11-17T03:03:00Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "https://oceans-and-fisheries.ec.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2026-11/Iceland2026-1.jpg?h=3e865f9d&itok=PC18w60Q",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.ts6Lvlt-vRm9q9M7f2B7KQ&pid=News",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "8433e6fc7ce5",
    "lang": "ro",
    "title": "Ministrul Apărării, despre atacurile cu drone din Marea Neagră: „Este o amenințare care crește“",
@@ -7204,28 +8063,6 @@
     "shipping",
     "energy",
     "ports"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "adb33b7fe24e",
-   "lang": "en",
-   "title": "EU, Black Sea, South Caucasus and Central Asia advance cooperation on cross-regional security and connectivity",
-   "titles": {
-    "en": "EU, Black Sea, South Caucasus and Central Asia advance cooperation on cross-regional security and connectivity"
-   },
-   "summary": "On 16 November, EU High Representative Kaja Kallas, European Commissioner for Enlargement Marta Kos, and Commissioner for International Partnerships Jozef Síkela hosted in Brussels representatives ...",
-   "url": "https://euneighbourseast.eu/news/latest-news/eu-black-sea-south-caucasus-and-central-asia-advance-cooperation-on-cross-regional-security-and-connectivity/",
-   "source": "EU NEIGHBOURS east",
-   "published": "2026-11-17T02:25:00Z",
-   "fetched": "2026-11-26T06:42:36Z",
-   "image": "https://euneighbourseast.eu/wp-content/uploads/2026/11/p-045988_00-06_01-original-351008-scaled-e1794910662930.jpeg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.tMT36IQaf4V-FHjP8wBeaQ&pid=News",
-   "topics": [
-    "policy"
    ],
    "places": [],
    "img_tried": true,
@@ -7481,6 +8318,53 @@
    "also": []
   },
   {
+   "id": "53e52bbdb03a",
+   "lang": "en",
+   "title": "Supporting Ukraine's trade",
+   "titles": {
+    "en": "Supporting Ukraine's trade"
+   },
+   "summary": "The EU is Ukraine's largest trading partner and its largest investor. Since the start of Russia's war of aggression, the EU has supported Ukraine's economy, including through targeted trade measures.",
+   "url": "https://www.consilium.europa.eu/en/policies/ukraine-solidarity-supporting-ukraine-trade/",
+   "source": "consilium.europa",
+   "published": "2026-11-16T16:00:00Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "403d122378d6",
+   "lang": "en",
+   "title": "Over 300 attacks, more than 30 seafarer deaths and disrupted trade: How the Black Sea is becoming a major maritime danger zone",
+   "titles": {
+    "en": "Over 300 attacks, more than 30 seafarer deaths and disrupted trade: How the Black Sea is becoming a major maritime danger zone"
+   },
+   "summary": "Over 300 attacks in the Black Sea have killed more than 30 seafarers this year, disrupted commercial shipping and heightened security concerns for NATO ...",
+   "url": "https://www.wionews.com/world/over-300-attacks-more-than-30-seafarer-deaths-and-disrupted-trade-how-the-black-sea-is-becoming-a-major-maritime-danger-zone-1794482234631",
+   "source": "WION",
+   "published": "2026-11-16T14:31:00Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "9a742634fcf9",
    "lang": "ro",
    "title": "Observator » Evenimente » O navă lovită de drone ruseşti a eşuat pe plaja de la Vadu. România cere protecţie NATO în Marea Neagră",
@@ -7659,6 +8543,33 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "98056b0979ad",
+   "lang": "en",
+   "title": "Co-Chairs’ Conclusions on Cross-Regional Security and Connectivity",
+   "titles": {
+    "en": "Co-Chairs’ Conclusions on Cross-Regional Security and Connectivity"
+   },
+   "summary": "On 16 November, following the second cross-regional security and connectivity ministerial meetings, the Co-Chairs issued conclusions on the security, stability, and resilience in the Black Sea region, ...",
+   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/co-chairs-conclusions-on-cross-regional-security-and-connectivity/",
+   "source": "Consilium",
+   "published": "2026-11-16T08:00:00Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "https://euneighbourseast.eu/wp-content/uploads/2026/11/p-045988_00-06_01-original-351008-scaled-e1794910662930.jpeg",
+   "fallback_image": "",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [
+    {
+     "source": "EU NEIGHBOURS east",
+     "url": "https://euneighbourseast.eu/news/latest-news/eu-black-sea-south-caucasus-and-central-asia-advance-cooperation-on-cross-regional-security-and-connectivity/"
+    }
+   ],
+   "img_checked": true
   },
   {
    "id": "840aa1207022",
@@ -8241,6 +9152,29 @@
    "also": []
   },
   {
+   "id": "ee83be4e8f4b",
+   "lang": "en",
+   "title": "Foreign Affairs Council, 16 November 2026",
+   "titles": {
+    "en": "Foreign Affairs Council, 16 November 2026"
+   },
+   "summary": "EU foreign ministers held an exchange of views on the situation in the Middle East, with a focus on Syria, underlining its strategic importance for regional stability and security. They noted the ...",
+   "url": "https://www.consilium.europa.eu/en/meetings/fac/2026/11/16/",
+   "source": "consilium.europa",
+   "published": "2026-11-15T16:00:00Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "492207b77f6d",
    "lang": "en",
    "title": "Bucharest seeks NATO help to ensure Black Sea security",
@@ -8805,6 +9739,52 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "8683ccf819ca",
+   "lang": "en",
+   "title": "Remarks by President António Costa at the press conference following the meeting of the European Political Community in Dublin",
+   "titles": {
+    "en": "Remarks by President António Costa at the press conference following the meeting of the European Political Community in Dublin"
+   },
+   "summary": "President of the European Council, António Costa, outlined the main results of the discussions of the leaders during the meeting of the European Political Community held in Dublin, Ireland, on 12 ...",
+   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/remarks-by-president-antonio-costa-at-the-press-conference-following-the-meeting-of-the-european-political-community-in-dublin/",
+   "source": "Consilium",
+   "published": "2026-11-12T11:45:00Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "https://www.bing.com/th?id=ONUT.agb2mNS8EqF6lnnAY44ejw&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.agb2mNS8EqF6lnnAY44ejw&pid=News",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "3531d5fd0a17",
+   "lang": "en",
+   "title": "Chinese shipowners target national fleet-building deals from Kazakhstan to Sierra Leone",
+   "titles": {
+    "en": "Chinese shipowners target national fleet-building deals from Kazakhstan to Sierra Leone"
+   },
+   "summary": "Private Chinese shipping companies are moving beyond freight into national fleet-building, financing and maritime capacity partnerships across strategically important Belt and Road markets ...",
+   "url": "https://www.lloydslist.com/LL1158994/Chinese-shipowners-target-national-fleet-building-deals-from-Kazakhstan-to-Sierra-Leone",
+   "source": "Lloyd's List",
+   "published": "2026-11-12T10:50:00Z",
+   "fetched": "2026-11-26T09:27:09Z",
+   "image": "https://www.lloydslist.com/-/media/lloyds-list/images/other/2026-new-pictures/astana-kazakhstan.png?rev=30a336fa9dbe4add82fbb664bc9fca22",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.zW-X1fL6WpmV_u0AoKMcQw&pid=News",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "25786bb6a66d",
