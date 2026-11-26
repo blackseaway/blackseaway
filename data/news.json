@@ -1,6 +1,98 @@
 {
- "updated": "2026-11-26T19:09:31Z",
+ "updated": "2026-11-26T20:15:14Z",
  "items": [
+  {
+   "id": "2c356e30cc47",
+   "lang": "en",
+   "title": "Black Sea Attacks Raise NATO Risks in Russia Ukraine War",
+   "titles": {
+    "en": "Black Sea Attacks Raise NATO Risks in Russia Ukraine War",
+    "ro": "Atacurile din Marea Neagră sporesc riscurile pentru NATO în războiul dintre Rusia și Ucraina",
+    "bg": "Атаките в Черно море увеличават рисковете за НАТО във войната между Русия и Украйна"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mbVdmOWx4NU9tUDJlLUEwbVNiTUxlbnJRTUswSGtSdktRN1RTUWNxUDNVSzJXZGxOV2hsdE1ZVjBCWWJNT0FEZ0dvY2hJelpaTm5ub1VLUVJmekJDbUF2Qg?oc=5",
+   "source": "cwibc.co.id",
+   "published": "2026-11-26T19:27:00Z",
+   "fetched": "2026-11-26T20:12:34Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "attacks"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "41dde4ddea8f",
+   "lang": "en",
+   "title": "Black Sea Attacks Raise NATO Risk in Russia Ukraine War",
+   "titles": {
+    "en": "Black Sea Attacks Raise NATO Risk in Russia Ukraine War",
+    "ro": "Atacurile din Marea Neagră sporesc riscul pentru NATO în războiul dintre Rusia și Ucraina",
+    "bg": "Атаките в Черно море повишават риска за НАТО във войната между Русия и Украйна"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TTm85MnN1QVZTNDdub055N25DdkRRQ3Q4VW01cWszNXRiMUZZT3dKRndwbEcyMTNwSVBub21oZkpnU3E1Nk9mN1d3MldHX2htVEFUcGRuRU9qdUZITlNDaQ?oc=5",
+   "source": "Peradaban.id",
+   "published": "2026-11-26T19:24:00Z",
+   "fetched": "2026-11-26T20:12:34Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "attacks"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "860c1883a757",
+   "lang": "bg",
+   "title": "Руски атаки поразиха два чуждестранни товарни кораба край Одеса (видео)",
+   "titles": {
+    "bg": "Руски атаки поразиха два чуждестранни товарни кораба край Одеса (видео)"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNFlNcEs4T2hWc0MzQjVPVnotTnl3MG8wMEQ4N240cVRWcExMQzVyeGpkSGhkWnQySGtveXp1bHphUktuMWhWejEtSEtfX05FaGU2Uk40ZUFaazhKYTZNVTNYVjhGRnQzYmRXcVNTak1fNjVwSkJPZ3I2MWJGTnZwblRaekZHOUQ2blhsbk5QTzl1dw?oc=5",
+   "source": "Филтър",
+   "published": "2026-11-26T17:00:28Z",
+   "fetched": "2026-11-26T20:12:34Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "shipping"
+   ],
+   "places": [
+    "odesa"
+   ],
+   "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "715a9aa71b4b",
+   "lang": "en",
+   "title": "Romania urges EU, NATO to prioritise Black Sea security, seeks sustained German defence presence",
+   "titles": {
+    "en": "Romania urges EU, NATO to prioritise Black Sea security, seeks sustained German defence presence"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdDFaQnRYTEVYSFhzeUx2UGNwVEJnQ2FkRzFVeXZqVjlwSHRNaEhuOXRrZEM3cXhLRDFzZXdhaXp5aHo5VFJhd0h6OWdKSnVtVWY1STJyS1NpZHBPQUFiMEdxZzgzZ0NLR292QjVhQ2xld04zOU12bG5Uem9VdGQ0UVE1di0wc2ZSNmFQTUhNeV95TWVmVHE4M3ZBZS1KNmp5MzlHZEhTSy1FYm5NNk1ZXzZHb1g5ckhobzFPZUl4VnhrZnVVM19r?oc=5",
+   "source": "Business Upturn",
+   "published": "2026-11-26T13:05:35Z",
+   "fetched": "2026-11-26T20:12:34Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
   {
    "id": "8d66ac089509",
    "lang": "en",
@@ -245,6 +337,10 @@
     {
      "source": "Business Standard",
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcW5pZ1JMcF9iWERBdkJ6Wmp6Y1lFcE0yZnY0bFdwUmdfSmFGN040T05SZmE5c1RRNHNoWmtoVzZIMmFoU1ZWV19CZ2lXVF9YdGtDcjgzYzNETlZqVUkwNWFlSGVRSTl1ZVV2WUVkSjd2X0pOSWpyRGRxclZRUmdMYk51SWxUbEpIakVZMXR0eDZfZDl0UTdwZ3owaHdyRk1naTJ2c1FfbXY4YTllWU9LaF9CUy1WZ28wR3VmdGRWMUl0c3JrUm4wbTYwNDduOVBZN3lMd2JPY9IB3AFBVV95cUxPVjhqVTVELWJaTnp2UXlQb21fdDBobUc0MUdQQnZpQmxWRTNZbFoyMzlpT1Fzam1oLWlISnU1QlJyZWt0Q09aRTlSOUhxOGdGam1BaXVCeFliRzBoUFdwTEZ2ZU5SakN6VjRUajJaZnVaaGE3WXhhSzVWaElrTDhURmd5RHZIWXA2eWZGV1FCVEhMSHJUY095YXJUdXQ1VDNXa2h2ZlFJUEdFVExVQXpzLVQ4M05ranVBQnJpUlZvbEZ1VGliQVNZeDhRTElsTW12WFNVVHRQX1hhd0dp?oc=5"
+    },
+    {
+     "source": "askfuzz.ai",
+     "url": "https://askfuzz.ai/discover/news/commodities/russia-attacks-two-grain-ships-near-odesa-exports-drop-35"
     }
    ],
    "img_checked": true
@@ -3475,6 +3571,27 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "f1899f9723d9",
+   "lang": "ro",
+   "title": "România, tot mai expusă atacurilor Rusiei în Marea Neagră. Avertismentul unui analist britanic în securitate maritimă",
+   "titles": {
+    "ro": "România, tot mai expusă atacurilor Rusiei în Marea Neagră. Avertismentul unui analist britanic în securitate maritimă"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdkx1WXBCaTBqdVdBQ2VTREtpVmt4RWlUR1p1UVFhSGxKZGJwWHJNR0EyLUZ5WGJPYmpMNnJmRFJTUXJKVjJ3OXFZeHF2c0l1d2RzS0RwQ1pMVFJyQklvVlhWM1hKOUhseURjQ3dzYm9lcDJ2cHJPTlhJNm4tOElzMTVLX1NrNWdHeEJYbG1tT2ZiNXVtT1p5bzhKSVlMZ2o4bThyak1n?oc=5",
+   "source": "Adevarul.ro",
+   "published": "2026-11-23T13:51:37Z",
+   "fetched": "2026-11-26T20:12:34Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "attacks"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
   },
   {
    "id": "94b3ebb6fb04",
@@ -9305,6 +9422,29 @@
     "shipping",
     "grain",
     "energy"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "6d94ad383499",
+   "lang": "ro",
+   "title": "Alertă în Marea Neagră: Comandanții sunt avertizați să evite zona unde trei vase au fost lovite de drone. „Riscul este ridicat”",
+   "titles": {
+    "ro": "Alertă în Marea Neagră: Comandanții sunt avertizați să evite zona unde trei vase au fost lovite de drone. „Riscul este ridicat”"
+   },
+   "summary": "„Direcţia Hidrografică Maritimă a emis astăzi avizul radio pentru navigatori nr. 172/2026. Prin acesta se recomandă comandanţilor navelor comerciale să îşi planifice rutele astfel încât să evite zona ...",
+   "url": "https://www.antena3.ro/actualitate/alerta-in-marea-neagra-comandantii-sunt-avertizati-sa-evite-zona-unde-trei-vase-au-fost-lovite-de-drone-riscul-este-ridicat-811229.html",
+   "source": "Antena 3 CNN",
+   "published": "2026-11-15T11:05:00Z",
+   "fetched": "2026-11-26T20:12:34Z",
+   "image": "https://www.antena3.ro/thumbs/amp/2026/11/15/alerta-in-marea-neagra-comandantii-sunt-avertizati-sa-evite-zona-unde-trei-vase-au-fost-lovite-de-drone-riscul-este-ridicat-1119398.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.EjHW2ne5NkcoRc4yXhEzcQ&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
    ],
    "places": [],
    "also": [],
