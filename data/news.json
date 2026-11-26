@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T06:16:29Z",
+ "updated": "2026-11-26T06:26:49Z",
  "items": [
   {
    "id": "445c727214e6",
@@ -1458,29 +1458,6 @@
    "img_checked": true
   },
   {
-   "id": "21e41ac3851a",
-   "lang": "en",
-   "title": "Black Sea High-Risk Zone Extended Towards Bulgarian and Romanian Coasts",
-   "titles": {
-    "en": "Black Sea High-Risk Zone Extended Towards Bulgarian and Romanian Coasts",
-    "ro": "Zona de risc ridicat din Marea Neagră a fost extinsă spre coastele Bulgariei și României",
-    "bg": "Зоната с повишен риск в Черно море е разширена към българското и румънското крайбрежие"
-   },
-   "summary": "The International Bargaining Forum (IBF), which brings together maritime unions and shipowners, has expanded the Black Sea High Risk Area to include waters off Bulgaria ...",
-   "url": "http://www.bgnes.com/conflicts/black-sea-high-risk-zone-extended-towards-bulgarian-and-romanian-coasts",
-   "source": "bgnes",
-   "published": "2026-11-23T05:11:00Z",
-   "fetched": "2026-11-26T06:14:06Z",
-   "image": "https://www.bgnes.com/static/images/news/2026/11/23/25234/23181.webp",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.Ro1aEYz9lSQAgL_LQFQJpg&pid=News",
-   "topics": [
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
    "id": "284b35f2c017",
    "lang": "en",
    "title": "‘A ship graveyard’ — Azerbaijani sailors on the growing dangers of the Black Sea",
@@ -1695,6 +1672,29 @@
    "img_checked": true
   },
   {
+   "id": "01c1da911ff0",
+   "lang": "bg",
+   "title": "Борисов: Дори Путин призна, че Русия атакува кораби в Черно море, какво още чака Радев",
+   "titles": {
+    "bg": "Борисов: Дори Путин призна, че Русия атакува кораби в Черно море, какво още чака Радев",
+    "en": "Borisov: Even Putin has admitted that Russia is attacking ships in the Black Sea – what else is Radev waiting for?",
+    "ro": "Borisov: Chiar și Putin a recunoscut că Rusia atacă nave în Marea Neagră; ce mai așteaptă Radev?"
+   },
+   "summary": "Борисов припомни, че на 18 ноември международен форум за договаряне в морския сектор е актуализирал списъка на рисковите и военните морски зони, като е разширил обхвата на зоната с висок риск в Черно ...",
+   "url": "https://news.bg/politics/borisov-dori-putin-prizna-che-rusiya-atakuva-korabi-v-cherno-more-kakvo-oshte-chaka-radev.html",
+   "source": "News.bg",
+   "published": "2026-11-22T12:04:00Z",
+   "fetched": "2026-11-26T06:24:32Z",
+   "image": "https://webnews.bg/uploads/images/00/6000/786000/1200x675.jpg?_=1794142446",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.GWU0sqINWWawuLfY6rnplw&pid=News",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "f6821eeb9310",
    "lang": "bg",
    "title": "Явор Гечев: Ударите в Черно море не целят български кораби и територии",
@@ -1720,30 +1720,6 @@
    "img_checked": true
   },
   {
-   "id": "7a574c17bd2e",
-   "lang": "ro",
-   "title": "Marea Neagră, inclusă în zona cu risc ridicat de securitate maritimă. Ce se întâmplă cu porturile României și rutele comerciale",
-   "titles": {
-    "ro": "Marea Neagră, inclusă în zona cu risc ridicat de securitate maritimă. Ce se întâmplă cu porturile României și rutele comerciale",
-    "en": "The Black Sea has been designated a high-risk area for maritime security. What does this mean for Romania’s ports and trade routes?",
-    "bg": "Черно море е включено в зоната с висок риск за морската сигурност. Какво се случва с пристанищата на Румъния и търговските маршрути"
-   },
-   "summary": "Marea Neagră, inclusiv zonele maritime din largul coastelor României și Bulgariei, a fost inclusă în categoria regiunilor cu risc ridicat de securitate maritimă, pe fondul intensificării atacurilor cu ...",
-   "url": "https://www.euronews.ro/articole/marea-neagra-inclusa-in-zona-cu-risc-ridicat-de-securitate-maritima-ce-se-intampl",
-   "source": "Euronews România",
-   "published": "2026-11-22T11:01:00Z",
-   "fetched": "2026-11-25T14:58:21Z",
-   "image": "https://www.datocms-assets.com/43475/1723732211-profimedia-marea-neagra-sea-shield-24.jpg?auto=format&fit=max&w=1200",
-   "fallback_image": "",
-   "topics": [
-    "attacks",
-    "ports"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
    "id": "fefa2e49d59c",
    "lang": "bg",
    "title": "Русия съобщи, че е ударила кораб в Черно море",
@@ -1761,31 +1737,6 @@
    "fallback_image": "http://www.bing.com/th?id=ONUT.0BymDvlAxomp4c9A3Q4q_g&pid=News",
    "topics": [
     "attacks",
-    "shipping"
-   ],
-   "places": [
-    "odesa"
-   ],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
-   "id": "37be411bb653",
-   "lang": "bg",
-   "title": "Русия призна, че е атакувала кораб в Черно море",
-   "titles": {
-    "bg": "Русия призна, че е атакувала кораб в Черно море",
-    "en": "Russia has admitted to attacking a ship in the Black Sea",
-    "ro": "Rusia a recunoscut că a atacat o navă în Marea Neagră"
-   },
-   "summary": "През нощта срещу неделя руски военни са поразили сухотоварен кораб, намиращ се в морето североизточно от Одеса ...",
-   "url": "https://www.standartnews.com/svyat/rusiya-prizna-che-e-atakuvala-korab-v-cherno-more-654049.html",
-   "source": "Стандарт Нюз",
-   "published": "2026-11-22T06:29:00Z",
-   "fetched": "2026-11-25T13:50:37Z",
-   "image": "https://cdn.standartnews.com/media/495475/conversions/dronove-og.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.9d3EQDBks1k7EJjo4lqI5A&pid=News",
-   "topics": [
     "shipping"
    ],
    "places": [
@@ -1890,6 +1841,10 @@
     {
      "source": "OFFNews",
      "url": "https://offnews.bg/politika/angel-najdenov-putin-prizna-che-rusia-stoi-zad-atakite-sreshtu-korab-879011.html"
+    },
+    {
+     "source": "Стандарт Нюз",
+     "url": "https://www.standartnews.com/svyat/rusiya-prizna-che-e-atakuvala-korab-v-cherno-more-654049.html"
     }
    ],
    "img_checked": true
@@ -1943,7 +1898,17 @@
     "constanta"
    ],
    "img_tried": true,
-   "img_checked": true
+   "img_checked": true,
+   "also": [
+    {
+     "source": "Euronews România",
+     "url": "https://www.euronews.ro/articole/marea-neagra-inclusa-in-zona-cu-risc-ridicat-de-securitate-maritima-ce-se-intampl"
+    },
+    {
+     "source": "bgnes",
+     "url": "http://www.bgnes.com/conflicts/black-sea-high-risk-zone-extended-towards-bulgarian-and-romanian-coasts"
+    }
+   ]
   },
   {
    "id": "0c7ae8413ddd",
@@ -1973,7 +1938,9 @@
    "lang": "ro",
    "title": "Rusia susține că a lovit în Marea Neagră o navă care transporta echipament militar pentru Ucraina",
    "titles": {
-    "ro": "Rusia susține că a lovit în Marea Neagră o navă care transporta echipament militar pentru Ucraina"
+    "ro": "Rusia susține că a lovit în Marea Neagră o navă care transporta echipament militar pentru Ucraina",
+    "en": "Russia claims to have struck a ship in the Black Sea that was carrying military equipment for Ukraine",
+    "bg": "Русия твърди, че е поразила в Черно море кораб, превозващ военно оборудване за Украйна"
    },
    "summary": "Rusia susține că a lovit o navă de marfă în Marea Neagră, la 107 kilometri de Odesa. România, în alertă după atacurile asupra navelor comerciale de lângă SulinaO nouă lovitură asupra navigației comerc ...",
    "url": "https://www.dcnews.ro/rusia-sustine-ca-a-lovit-in-marea-neagra-o-nava-care-transporta-echipament-militar-pentru-ucraina_1097907.html",
@@ -1998,7 +1965,9 @@
    "lang": "ro",
    "title": "România, în prima linie a securității maritime europene: 50 de milioane de euro pentru un centru strategic la Marea Neagră",
    "titles": {
-    "ro": "România, în prima linie a securității maritime europene: 50 de milioane de euro pentru un centru strategic la Marea Neagră"
+    "ro": "România, în prima linie a securității maritime europene: 50 de milioane de euro pentru un centru strategic la Marea Neagră",
+    "en": "Romania at the forefront of European maritime security: €50 million for a strategic centre on the Black Sea",
+    "bg": "Румъния – на предната линия на европейската морска сигурност: 50 милиона евро за стратегически център на Черно море"
    },
    "summary": "Bruxelles-ul va aloca 50 de milioane de euro pentru înființarea unui centru de securitate maritimă la Marea Neagră, găzduit de România și Bulgaria ...",
    "url": "https://www.stiripesurse.ro/romania-in-prima-linie-a-securitatii-maritime-europene-50-de-milioane-de-euro-pentru-un-centru-strategic-la-marea-neagra_3937423",
@@ -2019,7 +1988,9 @@
    "lang": "ro",
    "title": "Baza sportivă „Portul” renaște! Ce firme a contractat CN APM Constanța pentru refacerea terenului (DOCUMENT)",
    "titles": {
-    "ro": "Baza sportivă „Portul” renaște! Ce firme a contractat CN APM Constanța pentru refacerea terenului (DOCUMENT)"
+    "ro": "Baza sportivă „Portul” renaște! Ce firme a contractat CN APM Constanța pentru refacerea terenului (DOCUMENT)",
+    "en": "The ‘Portul’ sports centre is being revitalised! Which companies has CN APM Constanța contracted to refurbish the pitch? (DOCUMENT)",
+    "bg": "Спортният комплекс „Портул“ се възражда! Кои фирми е наела CN APM Констанца за реконструкцията на игрището (ДОКУМЕНТ)"
    },
    "summary": "CN APM Constanta s-a inteles cu trei firme care vor executa lucrarile de constructii aferente obiectivului Amenajare cu gazon artificial Baza sportiva Proiectare si executie ...",
    "url": "https://www.ziuaconstanta.ro/informatii/achizitii-licitatii-vanzari/baza-sportiva-portul-renaste-ce-firme-a-contractat-cn-apm-constanta-pentru-refacerea-terenului-document-961310.html",
@@ -2042,7 +2013,9 @@
    "lang": "bg",
    "title": "Георги Пирински: Средният коридор – илюзия без споделена сигурност в Черно море",
    "titles": {
-    "bg": "Георги Пирински: Средният коридор – илюзия без споделена сигурност в Черно море"
+    "bg": "Георги Пирински: Средният коридор – илюзия без споделена сигурност в Черно море",
+    "en": "Georgi Pirinski: The Middle Corridor – an illusion without shared security in the Black Sea",
+    "ro": "Georgi Pirinski: Coridorul central – o iluzie fără securitate comună în Marea Neagră"
    },
    "summary": "Георги Пирински* Нашата конференция от ноември 2022 година (бел. ред. – конференция със същото заглавие четири години по-рано) открои нуждата от диалог за единна позиция в защитата на националните инт ...",
    "url": "https://budnaera.com/2026m/2026-11/26-11-21-31dfb.html",
@@ -2063,7 +2036,9 @@
    "lang": "bg",
    "title": "Атанасов пита Радев как брани националната ни сигурност в Черно море",
    "titles": {
-    "bg": "Атанасов пита Радев как брани националната ни сигурност в Черно море"
+    "bg": "Атанасов пита Радев как брани националната ни сигурност в Черно море",
+    "en": "Atanasov asks Radev how he is safeguarding our national security in the Black Sea",
+    "ro": "Atanasov îl întreabă pe Radev cum apără securitatea noastră națională în Marea Neagră"
    },
    "summary": "Депутатът от \"Демократична България\" Атанас Атанасов отправи въпрос към премиера Румен Радев по реда на парламентарния контрол. Той иска да знае как министър-председателя защитава националната сигурно ...",
    "url": "https://news.bg/politics/atanasov-pita-radev-kak-brani-natsionalnata-ni-sigurnost-v-cherno-more.html",
