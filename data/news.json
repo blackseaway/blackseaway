@@ -1,6 +1,32 @@
 {
- "updated": "2026-11-26T21:04:26Z",
+ "updated": "2026-11-26T22:05:00Z",
  "items": [
+  {
+   "id": "2bb2c4f8fe6b",
+   "lang": "en",
+   "title": "Tanker Shipping Market Overview & Outlook: Disruptions still dominate tanker market outlook",
+   "titles": {
+    "en": "Tanker Shipping Market Overview & Outlook: Disruptions still dominate tanker market outlook",
+    "ro": "Prezentare generală și perspective privind piața transportului maritim cu nave-cisternă: Perturbările continuă să domine perspectivele pieței navelor-cisternă",
+    "bg": "Общ преглед и перспективи на пазара на танкерните превози: Сътресенията продължават да определят перспективите на пазара на танкерните превози"
+   },
+   "summary": "“This year, tanker markets have been affected by disruption to transits through the Strait of Hormuz, the Houthi blockade of Saudi Arabian Red Sea exports, and attacks on Russian refineries and on ships in the Black Sea. As a result, year to date, crude oil and dirty-product cargo volumes are down…",
+   "url": "https://www.hellenicshippingnews.com/tanker-shipping-market-overview-outlook-disruptions-still-dominate-tanker-market-outlook/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-11-26T22:00:57Z",
+   "fetched": "2026-11-26T22:02:07Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "attacks",
+    "shipping",
+    "energy"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
   {
    "id": "2c356e30cc47",
    "lang": "en",
@@ -39,6 +65,30 @@
    "source": "Peradaban.id",
    "published": "2026-11-26T19:24:00Z",
    "fetched": "2026-11-26T20:12:34Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "attacks"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "e7ce96febe28",
+   "lang": "en",
+   "title": "Black Sea Attacks Raise NATO Security Concerns",
+   "titles": {
+    "en": "Black Sea Attacks Raise NATO Security Concerns",
+    "ro": "Atacurile din Marea Neagră stârnesc îngrijorări privind securitatea NATO",
+    "bg": "Атаките в Черно море предизвикват опасения за сигурността в НАТО"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WN213MzhfS1kwek5yN1hNbWs1N1hBSnkwSER3ZGhXNUxFS0NaajRhdll6Z3VTNTNfcXpUaE94RXN6N1dTNm5VNC11bk9qbGpORGdBT1pqNURfeEtkc3dGNm85UQ?oc=5",
+   "source": "bsinews.id",
+   "published": "2026-11-26T19:23:00Z",
+   "fetched": "2026-11-26T22:02:07Z",
    "image": "",
    "fallback_image": "",
    "topics": [
@@ -1099,6 +1149,28 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "2367d8432d1d",
+   "lang": "bg",
+   "title": "Путин призна: Русия нанася ответни удари по кораби в Черно море",
+   "titles": {
+    "bg": "Путин призна: Русия нанася ответни удари по кораби в Черно море"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmNYQllnNUpCbUp6R1B3andzVmtGWHBVYnpOc3NyQWJfa1U4MUtobF8xLUdXZzdzMVdEblRVbUp5TVY5XzN1QWxjeE5MaDFfck1vOTBpbUEyWVpFQmRPd0k5N1ZtZTF4eW9XU3BTbDFxa3htRkVaQTgwekxoQklSLW4wal9aSEZ0Rk9rQ2pTQl9PbmpOelg4bFFpajJrZlJ2SDRpdVBfUS0?oc=5",
+   "source": "skandal.bg",
+   "published": "2026-11-25T06:37:54Z",
+   "fetched": "2026-11-26T22:02:07Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
   },
   {
    "id": "779a714685f6",
@@ -3865,6 +3937,31 @@
    "img_checked": true
   },
   {
+   "id": "3d3bfddbdbfb",
+   "lang": "ro",
+   "title": "Mine marine și fragmente de drone, în atenția Armatei Române. Misiuni de supraveghere în Marea Neagră și pe Dunăre",
+   "titles": {
+    "ro": "Mine marine și fragmente de drone, în atenția Armatei Române. Misiuni de supraveghere în Marea Neagră și pe Dunăre"
+   },
+   "summary": "Armata Română monitorizează posibile mine marine și fragmente de drone în Marea Neagră și pe Dunăre. Nave militare și o aeronavă franceză participă la misiuni.",
+   "url": "https://www.b1tv.ro/eveniment/mine-marine-si-drone-armata-romana-intensifica-patrulele-1753242.html",
+   "source": "B1TV.ro",
+   "published": "2026-11-23T12:21:00Z",
+   "fetched": "2026-11-26T22:02:07Z",
+   "image": "https://www.bing.com/th?id=ONUT.1rw37q9308gsOxJPdY135A&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.1rw37q9308gsOxJPdY135A&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [
+    "danube"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "694329bb42a9",
    "lang": "ro",
    "title": "28 Octombrie 2026 - Încă o navă comercială atacată cu drone în apropiere de coasta Bulgariei: incendiu la bord",
@@ -4989,6 +5086,28 @@
    "img_checked": true
   },
   {
+   "id": "7b316de0540c",
+   "lang": "bg",
+   "title": "Противоминната група в Черно море се включи в спасителна акция",
+   "titles": {
+    "bg": "Противоминната група в Черно море се включи в спасителна акция"
+   },
+   "summary": "Операцията по спасяване на потъващ край Калиакра кораб е успешна, наложи се да бъде извършена по време на тринадесетата активация на MCM BLACK SEA ...",
+   "url": "https://varnae.bg/chernomorie-all/protivominnata-grupa-v-cherno-more-se-vkluchi-v-spasitelna-akciya-8461",
+   "source": "varnae.bg",
+   "published": "2026-11-22T13:09:00Z",
+   "fetched": "2026-11-26T22:02:07Z",
+   "image": "https://varnae.bg/uploads/photo/000/011/890/image/watermarked-protivominnata-grupa-v-cherno-more-se-vkluchi-v-spasitelna-akciya.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.HzA4zITDAaLRb5Dlc3AAOQ&pid=News",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "81c9b92431db",
    "lang": "en",
    "title": "Russia Shifts Grain and Metal Exports from Black Sea to Baltic and Northern Sea Routes",
@@ -5586,6 +5705,31 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "a0d3c992e41d",
+   "lang": "ro",
+   "title": "Un grup de bărbați, surprins de camere în timp ce sustrage marfa din camioanele care au luat foc în portul Constanța",
+   "titles": {
+    "ro": "Un grup de bărbați, surprins de camere în timp ce sustrage marfa din camioanele care au luat foc în portul Constanța"
+   },
+   "summary": "Un grup de bărbați, surprins de camere în timp ce sustrage marfa din camioanele care au luat foc în portul Constanța ...",
+   "url": "https://stirileprotv.ro/stiri/actualitate/un-grup-de-barbati-surprins-de-camere-in-timp-ce-sustrage-marfa-din-camioanele-care-au-luat-foc-in-portul-constanta.html",
+   "source": "Știrile PRO TV",
+   "published": "2026-11-20T23:31:00Z",
+   "fetched": "2026-11-26T22:02:07Z",
+   "image": "https://stirileprotv.ro/img/2026/11/21/052558/vlcsnap-2026-11-21-07h25m46s937.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&watermark=og&w=1280",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.1-tHStCq3WBu7xJIwR3ecg&pid=News",
+   "topics": [
+    "shipping",
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "0fcf27c1a280",
@@ -7195,6 +7339,30 @@
    "also": []
   },
   {
+   "id": "14d5b6f8eaa3",
+   "lang": "ro",
+   "title": "Două tiruri au ars în Portul Constanța Sud-Agigea. Pompierii au lichidat incendiul",
+   "titles": {
+    "ro": "Două tiruri au ars în Portul Constanța Sud-Agigea. Pompierii au lichidat incendiul"
+   },
+   "summary": "Două tiruri în flăcări, în Portul Constanța Sud-Agigea. Pompierii intervin cu două mașini pentru stingerea incendiului.",
+   "url": "https://www.g4media.ro/doua-tiruri-in-flacari-in-portul-constanta-sud-agigea-pompierii-intervin-pentru-stingerea-incendiului.html",
+   "source": "G4Media.ro",
+   "published": "2026-11-19T02:26:00Z",
+   "fetched": "2026-11-26T22:02:07Z",
+   "image": "https://www.g4media.ro/wp-content/uploads/2024/09/pompieri.jpeg",
+   "fallback_image": "",
+   "topics": [
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "0203778511bc",
    "lang": "en",
    "title": "19 Filipinos safe after drone attack sinks LPG tanker in Black Sea off Bulgaria",
@@ -8201,6 +8369,10 @@
     {
      "source": "The Baltimore Sun",
      "url": "https://www.baltimoresun.com/2026/11/17/merchant-ship-sinks-black-sea-coast/"
+    },
+    {
+     "source": "Orange County Register",
+     "url": "https://www.ocregister.com/2026/11/17/merchant-ship-sinks-black-sea-coast/"
     }
    ]
   },
@@ -8645,6 +8817,32 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "43335df59781",
+   "lang": "ro",
+   "title": "Constanţa 78%, Odesa 0%, Burgas 22%. Războiul a dat României cel mai bun port din Marea Neagră. România nu ştie ce să facă cu el",
+   "titles": {
+    "ro": "Constanţa 78%, Odesa 0%, Burgas 22%. Războiul a dat României cel mai bun port din Marea Neagră. România nu ştie ce să facă cu el"
+   },
+   "summary": "Trei porturi, trei poveşti diferite. Constanţa are azi 78% din piaţa maritimă a Mării Negre. Odesa are 0,01%. Burgas are 22% şi exact ...",
+   "url": "https://www.zf.ro/zf-24/constanta-78-odesa-0-burgas-22-razboiul-a-dat-romaniei-cel-mai-bun-port-din-marea-neagra-romania-nu-stie-ce-sa-faca-cu-el-23283117",
+   "source": "Ziarul Financiar",
+   "published": "2026-11-16T10:04:00Z",
+   "fetched": "2026-11-26T22:02:07Z",
+   "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/10376/23283117/2/02.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.cPCA3w735jQOXrlRm5AyEg&pid=News",
+   "topics": [
+    "ports"
+   ],
+   "places": [
+    "odesa",
+    "constanta",
+    "burgas"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "02968412639e",
@@ -9220,6 +9418,10 @@
     {
      "source": "Wall-Street.ro",
      "url": "https://www.wall-street.ro/articol/international/cargou-cu-cereale-din-romania-in-pericol-in-marea-neagra.html"
+    },
+    {
+     "source": "Forbes România",
+     "url": "https://www.forbes.ro/o-nava-cu-peste-3-400-de-tone-de-propan-s-a-scufundat-in-marea-neagra-in-largul-bulgariei-532112"
     }
    ],
    "img_tried": true,
