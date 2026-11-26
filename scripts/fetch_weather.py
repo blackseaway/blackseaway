@@ -4,6 +4,7 @@ Writes data/weather.json. On any failure the previous values for that port are k
 """
 from __future__ import annotations
 
+import time
 import urllib.parse
 
 from common import CONFIG, DATA, http_json, iso, load_json, now_utc, save_json
@@ -14,7 +15,13 @@ FORECAST = "https://api.open-meteo.com/v1/forecast"
 
 
 def fetch(url: str, params: dict) -> dict:
-    return http_json(url + "?" + urllib.parse.urlencode(params), timeout=30)
+    for attempt in range(3):
+        try:
+            return http_json(url + "?" + urllib.parse.urlencode(params), timeout=30)
+        except Exception:  # noqa: BLE001
+            if attempt == 2:
+                raise
+            time.sleep(5 * (attempt + 1))
 
 
 def max_next_24h(hourly: dict, key: str) -> float | None:
@@ -57,6 +64,7 @@ def main():
         try:
             result[p["id"]] = dict(port_conditions(p["sea_lat"], p["sea_lon"]), updated=iso(now_utc()))
             ok += 1
+            time.sleep(1)
         except Exception as e:  # noqa: BLE001
             print(f"[weather] {p['id']}: {e}")
             if p["id"] in old:

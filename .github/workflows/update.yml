@@ -48,7 +48,7 @@ jobs:
 
       - name: Sea conditions
         continue-on-error: true
-        run: python scripts/fetch_weather.py
+        run: python -u scripts/fetch_weather.py 2>&1 | tee -a data/fetch_log.txt
 
       - name: Choose next social post
         id: prepare
