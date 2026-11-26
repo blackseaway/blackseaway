@@ -105,7 +105,7 @@
     "gale": "Gale",
     "nav_contact": "Contact",
     "contact_title": "Contact the newsroom",
-    "contact_intro": "Send us a tip, a correction, data or a question. We read every message.",
+    "contact_intro": "Send us a tip, a correction, data or a question by email. We read every message.",
     "f_name": "Your name",
     "f_email": "Your email",
     "f_topic": "Topic",
@@ -135,7 +135,8 @@
     "jump_to": "On this page",
     "f_sending": "Sending…",
     "f_fallback": "We could not reach the form service from your network. Your email app will open with the message ready to send.",
-    "f_activation": "Message received. (First-time setup: the newsroom must confirm the form once by email.)"
+    "f_activation": "Message received. (First-time setup: the newsroom must confirm the form once by email.)",
+    "write_email": "Write an email"
   },
   "ro": {
     "lang_name": "Română",
@@ -243,7 +244,7 @@
     "gale": "Furtună",
     "nav_contact": "Contact",
     "contact_title": "Contactați redacția",
-    "contact_intro": "Trimiteți-ne un pont, o corectură, date sau o întrebare. Citim fiecare mesaj.",
+    "contact_intro": "Trimiteți-ne pe e-mail un pont, o corectură, date sau o întrebare. Citim fiecare mesaj.",
     "f_name": "Numele dvs.",
     "f_email": "E-mailul dvs.",
     "f_topic": "Subiect",
@@ -273,7 +274,8 @@
     "jump_to": "Pe această pagină",
     "f_sending": "Se trimite…",
     "f_fallback": "Serviciul formularului nu este accesibil din rețeaua dvs. Se va deschide aplicația de e-mail cu mesajul pregătit pentru trimitere.",
-    "f_activation": "Mesaj primit. (Configurare inițială: redacția trebuie să confirme formularul o dată prin e-mail.)"
+    "f_activation": "Mesaj primit. (Configurare inițială: redacția trebuie să confirme formularul o dată prin e-mail.)",
+    "write_email": "Scrieți un e-mail"
   },
   "bg": {
     "lang_name": "Български",
@@ -381,7 +383,7 @@
     "gale": "Щорм",
     "nav_contact": "Контакт",
     "contact_title": "Свържете се с редакцията",
-    "contact_intro": "Изпратете ни сигнал, корекция, данни или въпрос. Четем всяко съобщение.",
+    "contact_intro": "Изпратете ни по имейл сигнал, корекция, данни или въпрос. Четем всяко съобщение.",
     "f_name": "Вашето име",
     "f_email": "Вашият имейл",
     "f_topic": "Тема",
@@ -411,6 +413,7 @@
     "jump_to": "На тази страница",
     "f_sending": "Изпращане…",
     "f_fallback": "Услугата на формата не е достъпна от вашата мрежа. Ще се отвори пощенското ви приложение с готово съобщение за изпращане.",
-    "f_activation": "Съобщението е получено. (Първоначална настройка: редакцията трябва веднъж да потвърди формата по имейл.)"
+    "f_activation": "Съобщението е получено. (Първоначална настройка: редакцията трябва веднъж да потвърди формата по имейл.)",
+    "write_email": "Напишете имейл"
   }
 }

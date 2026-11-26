@@ -220,3 +220,4 @@ table.data td:last-child, table.data th:last-child { text-align: right; font-var
 a.mail { color: var(--link); font-weight: 600; }
 .footer-grid h3.mt { margin-top: 18px; }
 .form-status { font-size: 14px; color: var(--ink-2); min-height: 1.2em; margin: 0; }
+.contact-email { font-size: 22px; margin: 8px 0 18px; }

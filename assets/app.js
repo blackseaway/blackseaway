@@ -70,37 +70,3 @@
     mapEl.hidden = true;
   }
 })();
-
-/* contact form: send in the background; if the form service is unreachable, open the email app */
-(function () {
-  var form = document.getElementById("contact-form");
-  if (!form || !window.fetch) return;
-  var status = document.getElementById("form-status");
-  var btn = form.querySelector("button[type=submit]");
-  function mailtoFallback(data) {
-    var body = data.message + "\n\n— " + data.name + " <" + data.email + ">";
-    status.textContent = form.dataset.fallback;
-    setTimeout(function () {
-      location.href = "mailto:" + form.dataset.email + "?subject=" + encodeURIComponent("Black Sea Way: " + data.topic) +
-        "&body=" + encodeURIComponent(body);
-    }, 1200);
-  }
-  form.addEventListener("submit", function (ev) {
-    ev.preventDefault();
-    if (form._honey && form._honey.value) return;
-    var data = { name: form.name.value, email: form.email.value, topic: form.topic.value,
-                 message: form.message.value, _subject: form._subject.value, _template: "table" };
-    btn.disabled = true; status.textContent = form.dataset.sending;
-    var ctrl = window.AbortController ? new AbortController() : null;
-    var timer = setTimeout(function () { if (ctrl) ctrl.abort(); }, 15000);
-    fetch(form.dataset.ajax, { method: "POST", headers: { "Content-Type": "application/json", "Accept": "application/json" },
-                               body: JSON.stringify(data), signal: ctrl ? ctrl.signal : undefined })
-      .then(function (r) { return r.json(); })
-      .then(function (res) {
-        clearTimeout(timer);
-        if (String(res.success) === "true") { location.href = form.dataset.thanks; }
-        else { btn.disabled = false; mailtoFallback(data); }
-      })
-      .catch(function () { clearTimeout(timer); btn.disabled = false; mailtoFallback(data); });
-  });
-})();

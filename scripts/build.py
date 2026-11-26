@@ -374,7 +374,6 @@ def build():
                counters=counters, safety=safety, weather=weather, **common_ctx)
         render("news.html", "news.html", lang, news=nv, topics=list(sources["topics"].keys()), **common_ctx)
         render("contact.html", "contact.html", lang, **common_ctx)
-        render("thanks.html", "thanks.html", lang, **common_ctx)
         render("stats.html", "stats.html", lang, stats=stats, ports=ports, safety=safety,
                indicators=[indicator_view(i, lang) for i in indicators], **common_ctx)
         render("articles.html", "articles/index.html", lang, posts=posts, **common_ctx)
