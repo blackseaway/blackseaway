@@ -377,7 +377,7 @@ def build():
                                                                          for p in sources["places"]})
         hl = home_layout(items)
         view = lambda lst: [news_view(i, lang) for i in lst]  # noqa: E731
-        pinned = None if pin_ext else next((p for p in posts if p["pinned"] and p.get("image")), None)
+        pinned = next((p for p in posts if p["pinned"] and p.get("image")), None)
         render("home.html", "index.html", lang, news=nv[:24], pinned=pinned, pin_ext=pin_ext,
                featured=view(hl["featured"]), latest=view(hl["latest"]),
                sections=[{"key": sct["key"], "items": view(sct["items"])} for sct in hl["sections"]], posts=[p for p in posts][:3],

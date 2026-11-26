@@ -25,7 +25,17 @@
         <div class="meta"><span class="src">{{ pe.source }}</span> · <time datetime="{{ pe.published }}">{{ pe.published|short(lang) }}</time></div>
       </article>
     </div>
-    <div class="feat-side">{% for n in featured[:3] %}{{ m.story(n, t, lang) }}{% endfor %}</div>
+    <div class="feat-side">
+      {% if pinned %}{% set v = pinned.versions[lang] %}
+      <article class="story">
+        <a class="story-img" href="{{ url(lang ~ '/articles/' ~ pinned.slug ~ '.html') }}" tabindex="-1" aria-hidden="true"><img src="{{ url(pinned.image) }}" alt="" decoding="async"></a>
+        <span class="kicker">{{ t.from_newsroom }}</span>
+        <h3><a href="{{ url(lang ~ '/articles/' ~ pinned.slug ~ '.html') }}" lang="{{ pinned.lang if v.untranslated else lang }}">{{ v.title }}</a></h3>
+        <div class="meta"><span class="src">Black Sea Way</span> · {{ pinned.date|date(lang) }}</div>
+      </article>
+      {% for n in featured[:2] %}{{ m.story(n, t, lang) }}{% endfor %}
+      {% else %}{% for n in featured[:3] %}{{ m.story(n, t, lang) }}{% endfor %}{% endif %}
+    </div>
     {% elif pinned %}{% set v = pinned.versions[lang] %}
     <div class="feat-lead">
       <article class="story lead">
