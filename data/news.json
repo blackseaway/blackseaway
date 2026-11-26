@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:18:09Z",
+ "updated": "2026-11-26T08:23:45Z",
  "items": [
   {
    "id": "f7d4edc1927d",
@@ -301,7 +301,9 @@
    "lang": "bg",
    "title": "Русия: Зърно през Черно море, когато Киев спре атаките срещу кораби - Maritime.bg",
    "titles": {
-    "bg": "Русия: Зърно през Черно море, когато Киев спре атаките срещу кораби - Maritime.bg"
+    "bg": "Русия: Зърно през Черно море, когато Киев спре атаките срещу кораби - Maritime.bg",
+    "en": "Russia: Grain via the Black Sea once Kyiv stops its attacks on ships - Maritime.bg",
+    "ro": "Rusia: Transportul de cereale pe Marea Neagră va fi reluat atunci când Kievul va înceta atacurile împotriva navelor - Maritime.bg"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WdllxWUlLSV9zcHBWTy05UFk2RktRMF9YWTVGLTJwc3Q1ZGhJOHVucnJNcTB6cXVaNnMxS2ZsN3NMRm1CWlE?oc=5",
@@ -751,7 +753,9 @@
    "lang": "ro",
    "title": "NEWS ALERT O altă navă s-a scufundat în Marea Neagră după ce ar fi fost lovită de o dronă! Ce s-a...",
    "titles": {
-    "ro": "NEWS ALERT O altă navă s-a scufundat în Marea Neagră după ce ar fi fost lovită de o dronă! Ce s-a..."
+    "ro": "NEWS ALERT O altă navă s-a scufundat în Marea Neagră după ce ar fi fost lovită de o dronă! Ce s-a...",
+    "en": "NEWS ALERT Another ship has sunk in the Black Sea after reportedly being struck by a drone! What happened...",
+    "bg": "СПЕШНА НОВИНА: Още един кораб потъна в Черно море, след като, както се предполага, е бил ударен от дрон! Какво се е..."
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQeFNHYkdqTEYwRERhQnJrN2YyLWlpWTVYY01PSERCMjZPWkhaUkF6TVFOSmp2c1lPLVplTmxHZG93MjMwUms2MjloaDFSckRZenFfdUd2NzBkSEJyeGxoZ25XMS1lLVNzY040eXkxNUN5ZzNPTTREbEMwQk1BTXZoUlJUTjVUamNtYVVLbFFEVzFkbVFlYjBSTUtGWVNneXdiRUlBNzZFaS1PZU5nem1HTjRUR2NIYmpoNXNyWWQ5UmdjWEtFZF9qR3FKS3NDWlVBOGVNRGhkei1jbmJmOHphSU1IVHltZ25PdGdWTERTSUlnNmZvVXU4SkZHSF9RLVE40gGGAkFVX3lxTE15cGFNOU9jMnNJUzBFMXd1ODUzb0RueE9yMXZiM1pBMW1BMGlaeVFHUjN3b2NrSVV4SEFXQWVpUmd0LWs4RFN0ay1qLUNaa2x3RTF6QkpaVW9RQVhPNGVKak1xVHByZXhISm40WXEzZVY2YnJqN2UydFh6ZS1jUHpQQkp5c3VmU3RDcWFlbzBROUNOTDhMc3c1NUJYdzRVZEJDa0NnZlRNSTRFemhTdmw5Yk03Q005N0hpUEhWU1VwTERRSU1KeGVvUFVVLV9kOWNaTkZMTU5jbGxzbW8zUjhxWXlScXFCTG8tck1JUDdpXzBMc0VPbUtqOV9SVXl1SVBRTTdvblE?oc=5",
@@ -5445,8 +5449,38 @@
     {
      "source": "Ruse news",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXNoTlNGNVdvb1l5OGJXZTJJYzdJWVVFakVkZ2sxTHRzYVBmRUxQOHpIYmtYYlV3eWlfYlRoMmNDeTI4bk1nLTBqVEMzWWlicFVOQzZjWXBNNWNuNEpYRzhaQmRVbEt1WkotNGcySHJzSGtxSHlHbks1VHVUcUdyYV9nQVVzZFBmMFBoY29yczVzVHBPNDNOR0ZBWVVHanZs?oc=5"
+    },
+    {
+     "source": "Tribune.bg",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwT1RsMDJ0b2tacE1vTGc2WDgzU3V0TzJRc1NpYk5DYW1veTI5WnJiaFhtRWtWOUdmSWVCSHQ5YlQ2X1dDUWZZZXZ5TXJsUDRwSGJLVHludC16T1lJTmxPeERRSC1WQVZGZmJsM0xZcw?oc=5"
     }
    ],
+   "img_checked": true
+  },
+  {
+   "id": "9f71ccaae2b0",
+   "lang": "ro",
+   "title": "17 Octombrie 2023 - Exportul uriaș de cereale din Ucraina prin Portul Constanța. Guvernul a promis dublarea capacității de tranzit",
+   "titles": {
+    "ro": "17 Octombrie 2023 - Exportul uriaș de cereale din Ucraina prin Portul Constanța. Guvernul a promis dublarea capacității de tranzit"
+   },
+   "summary": "Ucraina a exportat, în primele nouă luni ale acestui an, 10,5 milioane tone metrice de cereale prin portul românesc Constanţa, de la Marea Neagră, a informat autoritatea portuară pentru Reuters. În di ...",
+   "url": "https://ziare.com/cautare/restric%c5%a3ii-pag84",
+   "source": "Ziare.com",
+   "published": "2026-11-19T14:18:00Z",
+   "fetched": "2026-11-26T08:22:03Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "grain",
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "also": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -6043,6 +6077,29 @@
    "image": "",
    "img_tried": true,
    "fallback_image": "",
+   "img_checked": true
+  },
+  {
+   "id": "7a4e25c0db5f",
+   "lang": "ro",
+   "title": "Vânt de dezgheț pe rutele cerealelor din Marea Neagră? Negocierile Turciei ar putea schimba jocul pentru România",
+   "titles": {
+    "ro": "Vânt de dezgheț pe rutele cerealelor din Marea Neagră? Negocierile Turciei ar putea schimba jocul pentru România"
+   },
+   "summary": "Turcia încearcă să dezlege nodul transporturilor de cereale din Marea Neagră și poartă negocieri cu Ucraina, Rusia și mai multe state europene pentru reluarea livrărilor către piețele internaționale ...",
+   "url": "https://www.stiripesurse.ro/vant-de-dezghet-pe-rutele-cerealelor-din-marea-neagra-negocierile-turciei-ar-putea-schimba-jocul-pentru-romania_3937748",
+   "source": "Stiri pe surse",
+   "published": "2026-11-18T22:20:00Z",
+   "fetched": "2026-11-26T08:22:03Z",
+   "image": "https://www.bing.com/th?id=ONUT.fI0GuPjZrRE6cm2rK4eRIw&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.fI0GuPjZrRE6cm2rK4eRIw&pid=News",
+   "topics": [
+    "policy",
+    "grain"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -6799,43 +6856,6 @@
    "also": []
   },
   {
-   "id": "430ffef480af",
-   "lang": "ro",
-   "title": "Alertă pe Marea Neagră. O navă încărcată cu propan s-a scufundat după un atac cu drone",
-   "titles": {
-    "ro": "Alertă pe Marea Neagră. O navă încărcată cu propan s-a scufundat după un atac cu drone"
-   },
-   "summary": "Este din nou alertă în Marea Neagră. O navă încărcată cu propan, care avea ca destinaţie Portul Midia, a emis un semnal de primejdie în largul Capului Kaliakra din Bulgaria după ce ar fi fost lovită d ...",
-   "url": "https://observatornews.ro/eveniment/alerta-pe-marea-neagra-o-nava-incarcata-cu-propan-asteptata-in-portul-midia-ar-fi-fost-lovita-de-drona-672567.html",
-   "source": "Observator News",
-   "published": "2026-11-17T04:04:00Z",
-   "fetched": "2026-11-25T13:50:37Z",
-   "image": "https://img.observatornews.ro/?u=https%3A%2F%2Fobservatornews.ro%2Fuploads%2Fmodules%2Fnews%2F0%2F2026%2F11%2F17%2F672567%2Ffotojet-11-eea2610a.jpg&w=1200&h=630&c=1",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.SfXmU7wCXX_f4wcF8hc7cg&pid=News",
-   "topics": [
-    "attacks",
-    "shipping",
-    "ports"
-   ],
-   "places": [],
-   "also": [
-    {
-     "source": "Botosaneanul",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMFRLY3lwN0swN2VSVG9FbFJjZVI0SkJGYkRUeVF2SU0zUUN6aTBpWTZWQTVKV1B5VDY0QjNKZHoyUTBSVXpncVBFQUFEeS1DV1hyR3UwTGNvVlJ0bV81aWlQbEdoakVyQnowazZ1cHp3VkZOaXhYYVNHMThjOWVFZGt3Wmc1Q3RHOFQ0ak9uakRrQUxGa2FlVC1tODBLTGoyZEFWN1ZKa1BuTlhfWUxyUg?oc=5"
-    },
-    {
-     "source": "Economica.net",
-     "url": "https://www.economica.net/alerta-marea-neagra-o-nava-cisterna-incarcata-cu-propan-care-trebuia-sa-ajunga-in-portul-midia-din-romania-s-a-scufundat-langa-bulgaria_996196.html"
-    },
-    {
-     "source": "Newsweek Romania",
-     "url": "https://newsweek.ro/actualitate/alerta-pe-marea-neagra-o-nava-cu-propan-care-se-indrepta-spre-navodari-s-a-scufundat-dupa-un-atac-cu-drone"
-    }
-   ],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
    "id": "a9b98fbba75b",
    "lang": "en",
    "title": "Another commercial vessel sinks off Bulgaria’s Black Sea coast",
@@ -6873,38 +6893,12 @@
     {
      "source": "Los Angeles Daily News",
      "url": "https://www.dailynews.com/2026/11/17/merchant-ship-sinks-black-sea-coast/"
+    },
+    {
+     "source": "Boston Herald",
+     "url": "https://www.bostonherald.com/2026/11/17/merchant-ship-sinks-black-sea-coast/"
     }
    ]
-  },
-  {
-   "id": "bba1968e1055",
-   "lang": "ro",
-   "title": "Un nou atac pe Marea Neagră: O navă care se îndrepta spre Portul Midia, s-a scufundat în zona economică a Bulgariei",
-   "titles": {
-    "ro": "Un nou atac pe Marea Neagră: O navă care se îndrepta spre Portul Midia, s-a scufundat în zona economică a Bulgariei"
-   },
-   "summary": "UPDATE: Conform presei bulgare, nava GAS HUSKY s-a scufundat! Echipajul a fost localizat pe o plută de salvare, iar autoritățile bulgare intervin pentru salvarea marinarilor. ––––––––––––––––––––––––– ...",
-   "url": "https://www.radioconstanta.ro/2026/11/17/un-nou-atac-pe-marea-neagra-o-nava-care-se-indrepta-spre-portul-midia-s-a-scufundat-in-zona-economica-a-bulgariei/",
-   "source": "radioconstanta",
-   "published": "2026-11-17T03:29:00Z",
-   "fetched": "2026-11-25T13:50:37Z",
-   "image": "https://www.radioconstanta.ro/wp-content/uploads/2026/09/Breaking-news-RC.png",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.2RCVu7c3UMh6b79M_z2asw&pid=News",
-   "topics": [
-    "attacks",
-    "shipping",
-    "energy",
-    "ports"
-   ],
-   "places": [],
-   "img_tried": true,
-   "also": [
-    {
-     "source": "Cotidianul",
-     "url": "https://www.cotidianul.ro/nava-care-se-indrepta-spre-portul-midia-scufundata-in-marea-neagra-bulgaria-a-trimis-avioane-su-25-pentru-salvarea-echipajului/"
-    }
-   ],
-   "img_checked": true
   },
   {
    "id": "c98ab364bad3",
@@ -7026,6 +7020,54 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "8d67cae6279b",
+   "lang": "ro",
+   "title": "Un petrolier încărcat cu propan, care se îndrepta spre portul Midia, s-a scufundat în Marea Neagră. Avioane SU-25, trimise în zonă",
+   "titles": {
+    "ro": "Un petrolier încărcat cu propan, care se îndrepta spre portul Midia, s-a scufundat în Marea Neagră. Avioane SU-25, trimise în zonă"
+   },
+   "summary": "Nava implicată în incident este Gas Husky, un petrolier sub pavilion liberian, încărcat cu propan, care se îndrepta spre Portul Midia din România, venind din Egipt. Nava a suferit un grav incident pe ...",
+   "url": "https://www.antena3.ro/externe/un-petrolier-incarcat-cu-propan-care-se-indrepta-spre-portul-midia-s-a-scufundat-in-marea-neagra-avioane-su-25-trimise-in-zona-811466.html",
+   "source": "Antena 3 CNN",
+   "published": "2026-11-17T01:53:00Z",
+   "fetched": "2026-11-26T08:22:03Z",
+   "image": "https://www.radioconstanta.ro/wp-content/uploads/2026/09/Breaking-news-RC.png",
+   "fallback_image": "",
+   "topics": [
+    "shipping",
+    "energy",
+    "ports"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "radioconstanta",
+     "url": "https://www.radioconstanta.ro/2026/11/17/un-nou-atac-pe-marea-neagra-o-nava-care-se-indrepta-spre-portul-midia-s-a-scufundat-in-zona-economica-a-bulgariei/"
+    },
+    {
+     "source": "Cotidianul",
+     "url": "https://www.cotidianul.ro/nava-care-se-indrepta-spre-portul-midia-scufundata-in-marea-neagra-bulgaria-a-trimis-avioane-su-25-pentru-salvarea-echipajului/"
+    },
+    {
+     "source": "Observator News",
+     "url": "https://observatornews.ro/eveniment/alerta-pe-marea-neagra-o-nava-incarcata-cu-propan-asteptata-in-portul-midia-ar-fi-fost-lovita-de-drona-672567.html"
+    },
+    {
+     "source": "Botosaneanul",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMFRLY3lwN0swN2VSVG9FbFJjZVI0SkJGYkRUeVF2SU0zUUN6aTBpWTZWQTVKV1B5VDY0QjNKZHoyUTBSVXpncVBFQUFEeS1DV1hyR3UwTGNvVlJ0bV81aWlQbEdoakVyQnowazZ1cHp3VkZOaXhYYVNHMThjOWVFZGt3Wmc1Q3RHOFQ0ak9uakRrQUxGa2FlVC1tODBLTGoyZEFWN1ZKa1BuTlhfWUxyUg?oc=5"
+    },
+    {
+     "source": "Economica.net",
+     "url": "https://www.economica.net/alerta-marea-neagra-o-nava-cisterna-incarcata-cu-propan-care-trebuia-sa-ajunga-in-portul-midia-din-romania-s-a-scufundat-langa-bulgaria_996196.html"
+    },
+    {
+     "source": "Newsweek Romania",
+     "url": "https://newsweek.ro/actualitate/alerta-pe-marea-neagra-o-nava-cu-propan-care-se-indrepta-spre-navodari-s-a-scufundat-dupa-un-atac-cu-drone"
+    }
+   ],
+   "img_checked": true
   },
   {
    "id": "1d832c0707b8",
@@ -7459,6 +7501,10 @@
     {
      "source": "The Kyiv Independent on MSN",
      "url": "https://www.msn.com/en-us/news/other/cargo-ship-sinks-in-bulgarias-black-sea-after-reported-drone-attack-all-12-crew-rescued/ar-AA2hz4GB"
+    },
+    {
+     "source": "Ships & Ports",
+     "url": "https://shipsandports.com.ng/12-crew-rescued-after-somali-flagged-cargo-ship-capsizes-in-black-sea/"
     }
    ],
    "img_checked": true
