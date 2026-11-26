@@ -63,6 +63,10 @@ jobs:
           THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
         run: python scripts/social_post.py prepare
 
+      - name: Get analytics script
+        continue-on-error: true
+        run: curl -sSfL -m 20 https://gc.zgo.at/count.js -o assets/gc-count.js
+
       - name: Build site
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}

@@ -234,7 +234,8 @@ def make_env(cfg, i18n):
             s += f", {value.strftime('%H:%M')} UTC"
         return s
 
-    env.globals.update(url=url, cfg=cfg, i18n=i18n, langs=cfg["languages"], build_time=now_utc())
+    env.globals.update(url=url, cfg=cfg, i18n=i18n, langs=cfg["languages"], build_time=now_utc(),
+                       gc_local=(ROOT / "assets" / "gc-count.js").exists())
     env.filters["date"] = fmt_date
     env.filters["pct"] = lambda v: f"{round(v * 100)}%"
     env.filters["compass"] = compass
