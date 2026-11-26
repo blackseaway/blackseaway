@@ -79,5 +79,6 @@
 </footer>
 {% block scripts %}{% endblock %}
 <script src="{{ url('assets/app.js') }}" defer></script>
+{% if cfg.goatcounter %}<script data-goatcounter="https://{{ cfg.goatcounter }}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>{% endif %}
 </body>
 </html>
