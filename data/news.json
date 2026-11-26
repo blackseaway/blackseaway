@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T06:46:17Z",
+ "updated": "2026-11-26T06:51:20Z",
  "items": [
   {
    "id": "445c727214e6",
@@ -346,6 +346,32 @@
    "img_checked": true
   },
   {
+   "id": "b6d215abe5ff",
+   "lang": "en",
+   "title": "Russia hides full shipping blockade between Azov and Black seas – expert",
+   "titles": {
+    "en": "Russia hides full shipping blockade between Azov and Black seas – expert",
+    "ro": "Rusia ascunde blocada totală a transporturilor maritime între Marea Azov și Marea Neagră – spune un expert",
+    "bg": "Русия прикрива пълната морска блокада между Азовско и Черно море – експерт"
+   },
+   "summary": "\"No one (in Russia — ed.) is saying that, besides the destroyed (Crimean — ed.) bridge itself, shipping between the Azov and Black seas is fully blocked,\" Andriushchenko said on Radio NV. \"Russian ...",
+   "url": "https://www.msn.com/en-us/money/general/russia-hides-full-shipping-blockade-between-azov-and-black-seas-expert/ar-AA2ickWr",
+   "source": "The New Voice of Ukraine on MSN",
+   "published": "2026-11-25T02:00:00Z",
+   "fetched": "2026-11-26T06:48:47Z",
+   "image": "https://www.bing.com/th?id=ONUT.5E6nkIvD8aaSEhJnE219YQ&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.5E6nkIvD8aaSEhJnE219YQ&pid=News",
+   "topics": [
+    "policy",
+    "shipping"
+   ],
+   "places": [
+    "crimea"
+   ],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "b6e54f2b244b",
    "lang": "en",
    "title": "Hull insurance in Romania rises by more than 50% — Romania Insider",
@@ -610,7 +636,9 @@
    "lang": "en",
    "title": "Russia rules out new Black Sea grain deal at UN meeting",
    "titles": {
-    "en": "Russia rules out new Black Sea grain deal at UN meeting"
+    "en": "Russia rules out new Black Sea grain deal at UN meeting",
+    "ro": "Rusia exclude posibilitatea unui nou acord privind cerealele din Marea Neagră în cadrul reuniunii ONU",
+    "bg": "Русия изключва сключването на ново споразумение за зърното от Черно море на срещата в ООН"
    },
    "summary": "Russia ruled out any new Black Sea grain deal at a U.N. Security Council meeting on Monday, accusing Ukraine of attacking more ...",
    "url": "https://shippingtelegraph.com/shipping-reports/russia-rules-out-new-black-sea-grain-deal-at-un-meeting/",
@@ -775,7 +803,13 @@
    ],
    "places": [],
    "img_tried": true,
-   "img_checked": true
+   "img_checked": true,
+   "also": [
+    {
+     "source": "G4Media.ro",
+     "url": "https://www.g4media.ro/video-figurine-de-mos-craciun-in-marime-naturala-gasite-intr-un-container-gasit-in-marea-neagra-ar-proveni-de-pe-o-nava-greceasca-lovita-de-drone-luna-trecuta.html"
+    }
+   ]
   },
   {
    "id": "6f7754ac1e77",
@@ -2213,6 +2247,27 @@
    "img_checked": true
   },
   {
+   "id": "54f05b724d6e",
+   "lang": "en",
+   "title": "Two Ships Sunk, No Shots Fired: Why Bulgaria Can't Do What Romania Did in the Black Sea",
+   "titles": {
+    "en": "Two Ships Sunk, No Shots Fired: Why Bulgaria Can't Do What Romania Did in the Black Sea"
+   },
+   "summary": "Within 24 hours last week, two merchant ships sank off Bulgaria's northern Black Sea coast. Bulgaria's armed forces took part in both rescues but in neither defense.",
+   "url": "https://www.novinite.com/articles/241743/Two+Ships+Sunk%2C+No+Shots+Fired%3A+Why+Bulgaria+Can%27t+Do+What+Romania+Did+in+the+Black+Sea",
+   "source": "Novinite",
+   "published": "2026-11-23T06:46:00Z",
+   "fetched": "2026-11-26T06:48:47Z",
+   "image": "https://www.novinite.com/media/images/2026-11/photo_verybig_241743.jpg",
+   "fallback_image": "",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "70e1b2bccf1e",
    "lang": "en",
    "title": "Former Bulgarian and Romanian defence ministers call for EU naval mission in the Black Sea",
@@ -2272,29 +2327,6 @@
    "img_checked": true
   },
   {
-   "id": "e999ec8e1dc3",
-   "lang": "ro",
-   "title": "România aproape de faliment? Băsescu, avertisment dur pentru Nicușor Dan: Începi să vinzi Portul Constanța, hidrocentrala Porțile de Fier 1 și 2",
-   "titles": {
-    "ro": "România aproape de faliment? Băsescu, avertisment dur pentru Nicușor Dan: Începi să vinzi Portul Constanța, hidrocentrala Porțile de Fier 1 și 2"
-   },
-   "summary": "Traian Băsescu avertizează că România este foarte aproape de faliment, în condițiile în care datoria țării crește constant.",
-   "url": "https://www.gandul.ro/actualitate/romania-aproape-de-faliment-basescu-avertisment-dur-pentru-nicusor-dan-incepi-sa-vinzi-portul-constanta-hidrocentrala-portile-de-fier-1-si-2-21071996",
-   "source": "Gândul",
-   "published": "2026-11-23T04:11:00Z",
-   "fetched": "2026-11-26T06:42:36Z",
-   "image": "https://www.gandul.ro/wp-content/uploads/2026/09/basescu-nicusor-dan-jpg.jpeg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.c73Z2ESd70hmtVdrGeQReg&pid=News",
-   "topics": [
-    "ports"
-   ],
-   "places": [
-    "constanta"
-   ],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
    "id": "284b35f2c017",
    "lang": "en",
    "title": "‘A ship graveyard’ — Azerbaijani sailors on the growing dangers of the Black Sea",
@@ -2339,6 +2371,35 @@
    ],
    "places": [],
    "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "9e307e5ce539",
+   "lang": "ro",
+   "title": "Traian Băsescu, replică dură pentru Nicușor Dan: „Începi să vinzi Portul Constanța”. Avertisment despre datoria României",
+   "titles": {
+    "ro": "Traian Băsescu, replică dură pentru Nicușor Dan: „Începi să vinzi Portul Constanța”. Avertisment despre datoria României"
+   },
+   "summary": "Traian Băsescu lansează un avertisment grav privind viitorul economic al României și îi transmite președintelui Nicușor Dan că problemele financiare ale Traian Băsescu îl critică pe Nicușor Dan după d ...",
+   "url": "https://www.b1tv.ro/politica/traian-basescu-nicusor-dan-alegeri-2028-datorie-portul-constanta-1752825.html",
+   "source": "B1TV.ro",
+   "published": "2026-11-23T02:43:00Z",
+   "fetched": "2026-11-26T06:48:47Z",
+   "image": "https://www.gandul.ro/wp-content/uploads/2026/09/basescu-nicusor-dan-jpg.jpeg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.KfGYteIv_27PG0EbnFm9NQ&pid=News",
+   "topics": [
+    "policy",
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "also": [
+    {
+     "source": "Gândul",
+     "url": "https://www.gandul.ro/actualitate/romania-aproape-de-faliment-basescu-avertisment-dur-pentru-nicusor-dan-incepi-sa-vinzi-portul-constanta-hidrocentrala-portile-de-fier-1-si-2-21071996"
+    }
+   ],
    "img_checked": true
   },
   {
@@ -3191,6 +3252,29 @@
    "img_checked": true
   },
   {
+   "id": "7831c0b59566",
+   "lang": "ro",
+   "title": "Bulgaria nu poate distruge dronele care atacă navele din Marea Neagră din cauza unor limitări tehnico-militare",
+   "titles": {
+    "ro": "Bulgaria nu poate distruge dronele care atacă navele din Marea Neagră din cauza unor limitări tehnico-militare"
+   },
+   "summary": "Premierul Rumen Radev a relatat presei că Bulgaria nu este, în prezent, în măsură să distrugă dronele care atacă nave în Marea Neagră, din cauza unor limitări tehnico-militare. Bulgaria colaborează cu ...",
+   "url": "https://www.ziaruldeiasi.ro/stiri/bulgaria-nu-poate-distruge-dronele-care-ataca-navele-din-marea-neagra-din-cauza-unor-limitari-tehnico-militare--1912238.html",
+   "source": "Ziarul de Iași",
+   "published": "2026-11-20T01:33:00Z",
+   "fetched": "2026-11-26T06:48:47Z",
+   "image": "https://www.bing.com/th?id=ONUT.ow5SgXyxPqSjDw7tMpfSLg&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.ow5SgXyxPqSjDw7tMpfSLg&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "75df8093563e",
    "lang": "en",
    "title": "Black Sea Drone Attacks: Romania and Turkey Intensify Security Efforts as Bulgaria Holds Back",
@@ -3461,6 +3545,34 @@
    ],
    "places": [],
    "img_tried": true,
+   "img_checked": true,
+   "also": [
+    {
+     "source": "Novinite",
+     "url": "https://www.novinite.com/articles/241703/Bulgaria%27s+President+Rules+Out+New+Security+Council+Meeting+on+the+Black+Sea+for+Now"
+    }
+   ]
+  },
+  {
+   "id": "e6c43d7f3801",
+   "lang": "ro",
+   "title": "Libertatea Ştiri Știri România Nicușor Dan avertizează la Bucharest Forum 2026: „Europa este acum sub atac hibrid, iar Marea Neagră este sub un asalt puternic”",
+   "titles": {
+    "ro": "Libertatea Ştiri Știri România Nicușor Dan avertizează la Bucharest Forum 2026: „Europa este acum sub atac hibrid, iar Marea Neagră este sub un asalt puternic”"
+   },
+   "summary": "Președintele României, Nicușor Dan, a participat joi, 19 noiembrie 2026, la evenimentul Bucharest Forum 2026, organizat de Institutul Aspen România și German Marshall Fund. Șeful statului a lansat un ...",
+   "url": "https://www.libertatea.ro/stiri/nicusor-dan-bucharest-forum-2026-europa-atac-hibrid-marea-neagra-neptun-deep-fzdj8sl",
+   "source": "Libertatea",
+   "published": "2026-11-19T06:50:00Z",
+   "fetched": "2026-11-26T06:48:47Z",
+   "image": "https://images.libertatea.ro/1/FGOk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84M2RjZGE3MzVmNjcxZTczODc0NmU4NWE5OGZmOWI5Yi5qcGeRkwXNBLDNAqPeAAGhMQQ",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.gXxaMs0mP18qPrcZ1qhr_Q&pid=News",
+   "topics": [
+    "policy",
+    "attacks"
+   ],
+   "places": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -3697,6 +3809,28 @@
    "img_checked": true
   },
   {
+   "id": "c014ad4da28e",
+   "lang": "en",
+   "title": "The Black Sea, Transformed into a Battlefield for Commercial Vessels",
+   "titles": {
+    "en": "The Black Sea, Transformed into a Battlefield for Commercial Vessels"
+   },
+   "summary": "A growing threat in our regionThe wave of drone attacks this autumn has brought the Russo-Ukrainian War to within a few nautical miles of the Romanian and Bulgarian coastlines. Commercial vessels ...",
+   "url": "https://www.bursa.ro/the-black-sea-transformed-into-a-battlefield-for-commercial-vessels-85890169",
+   "source": "Bursa",
+   "published": "2026-11-18T08:44:00Z",
+   "fetched": "2026-11-26T06:48:47Z",
+   "image": "https://www.bursa.ro/_img/articole/mare/610985.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.IRMra3aFgAH69YQB0-nHEA&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "9fb816520187",
    "lang": "ro",
    "title": "O navă-cisternă pentru GPL care s-a scufundat în largul Bulgariei a fost lovită de proiectile",
@@ -3761,6 +3895,30 @@
    "topics": [
     "policy",
     "attacks"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "ef98f3158702",
+   "lang": "en",
+   "title": "Zelenskyy ordered the protection of ports and grain shipping routes in the Black Sea to be strengthened",
+   "titles": {
+    "en": "Zelenskyy ordered the protection of ports and grain shipping routes in the Black Sea to be strengthened"
+   },
+   "summary": "Ukrainian President Volodymyr Zelenskyy heard briefings from intelligence and military officials on the security situation in the Black Sea and along grain export routes. Following the meeting, ...",
+   "url": "https://ua.news/en/war-vs-rf/zelenskii-doruchiv-posiliti-zakhist-portiv-i-zernovikh-marshrutiv-u-chornomu-mori",
+   "source": "UA.NEWS",
+   "published": "2026-11-18T07:33:00Z",
+   "fetched": "2026-11-26T06:48:47Z",
+   "image": "https://cdn-cabinet.ua.news/uploads/images/no-image.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.AIsIJBdnt6eR6sympMIYeg&pid=News",
+   "topics": [
+    "policy",
+    "shipping",
+    "grain",
+    "ports"
    ],
    "places": [],
    "img_tried": true,
@@ -4077,6 +4235,28 @@
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMDBWYmlHT2lwcHZnUThHbXAwM3RLRG9pRjVuamx1clBleWZER2dfLWZZV09OVlZuY2xTZlYxUHdXdTY1Q0ZpdFNiY1hGN0pITWg1RW5NOV9PUFhpTmlva0hWYXo4QzROYmpSZDVZakx3cEhXSDhIUExkR05qTmlob0x5U1F4Nlh1QzhvS2Y0Vkk1ZnA4T19LRkJacTFpXzdYVTMwSWZzYjc5amNqa1l2ekEtTEN4TWY5UjgzZ3JPZEsxR0hmT2RhNUhB?oc=5"
     }
    ],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "fee7df7b56a4",
+   "lang": "en",
+   "title": "EU targets threefold rise in Middle Corridor freight by 2030 amid Black Sea security threats",
+   "titles": {
+    "en": "EU targets threefold rise in Middle Corridor freight by 2030 amid Black Sea security threats"
+   },
+   "summary": "The European Union aims to triple freight volumes along the Middle Corridor by 2030, cutting transit times between Europe and Asia as growing security threats in the Black Sea raise concerns over ...",
+   "url": "https://anewz.tv/region/central-asia/26848/eu-aims-to-triple-middle-corridor-freight-by-2030/news",
+   "source": "anewz",
+   "published": "2026-11-17T10:44:00Z",
+   "fetched": "2026-11-26T06:48:47Z",
+   "image": "https://anewz.tv/data/images/2026-11-17/39551_9ea875d9c49697f87d66dc0dca724e9114d91a8a5db79e3d14498d9f2a1a0aea-1280x720-1_gd.jpeg?t=1794929981",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "shipping"
+   ],
+   "places": [],
    "img_tried": true,
    "img_checked": true
   },
@@ -4412,6 +4592,29 @@
    "img_checked": true
   },
   {
+   "id": "35e2bd1c1aae",
+   "lang": "ro",
+   "title": "Alertă pe Marea Neagră: O navă așteptată în Portul Midia a emis un semnal de primejdie",
+   "titles": {
+    "ro": "Alertă pe Marea Neagră: O navă așteptată în Portul Midia a emis un semnal de primejdie"
+   },
+   "summary": "Un tanc specializat în transportul de gaze petroliere lichefiate (LPG), care avea ca destinație Portul Midia (Năvodari), a emis un semnal de primejdie în dimineața zilei de marți, 17 noiembrie, în lar ...",
+   "url": "https://www.radioconstanta.ro/2026/11/17/alerta-pe-marea-neagra-o-nava-asteptata-in-portul-midia-a-emis-un-semnal-de-primejdie/",
+   "source": "radioconstanta",
+   "published": "2026-11-17T02:30:00Z",
+   "fetched": "2026-11-26T06:48:47Z",
+   "image": "https://www.radioconstanta.ro/wp-content/uploads/2026/11/Captura-de-ecran-2026-11-17-102744.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.UjM-0dSalcgfJ-ykCHLL_w&pid=News",
+   "topics": [
+    "shipping",
+    "energy",
+    "ports"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "adb33b7fe24e",
    "lang": "en",
    "title": "EU, Black Sea, South Caucasus and Central Asia advance cooperation on cross-regional security and connectivity",
@@ -4427,6 +4630,30 @@
    "fallback_image": "http://www.bing.com/th?id=ONUT.tMT36IQaf4V-FHjP8wBeaQ&pid=News",
    "topics": [
     "policy"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "06222ab586b1",
+   "lang": "ro",
+   "title": "Navă cu peste 3.400 de tone de gaz, destinată României, posibil atacată cu drone în Marea Neagră. 19 marinari la bord, informații contradictorii despre soarta vasului",
+   "titles": {
+    "ro": "Navă cu peste 3.400 de tone de gaz, destinată României, posibil atacată cu drone în Marea Neagră. 19 marinari la bord, informații contradictorii despre soarta vasului"
+   },
+   "summary": "Un nou incident naval grav a fost semnalat marți, 17 noiembrie, în Marea Neagră, în zona economică exclusivă a Bulgariei. Nava GAS HUSKY, sub pavilion liberian, care se îndrepta din Egipt către portul ...",
+   "url": "https://www.ziuaveche.ro/international/externe/nava-cu-peste-3-400-de-tone-de-gaz-destinata-romaniei-posibil-atacata-cu-drone-in-marea-neagra-19-marinari-la-bord-informatii-contradictorii-despre-soarta-vasului-353613.html/",
+   "source": "Ziua Veche",
+   "published": "2026-11-17T02:08:00Z",
+   "fetched": "2026-11-26T06:48:47Z",
+   "image": "https://www.ziuaveche.ro/wp-content/uploads/2026/11/GAS-HUSKY.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.QmanUQfQBFCvvWQU25jfQg&pid=News",
+   "topics": [
+    "attacks",
+    "shipping",
+    "energy",
+    "ports"
    ],
    "places": [],
    "img_tried": true,
@@ -4691,19 +4918,19 @@
    "img_checked": true
   },
   {
-   "id": "26ef6a3caaba",
+   "id": "510819185cf6",
    "lang": "ro",
-   "title": "O navă cu cereale plecată din România se scufundă în Marea Neagră, după un atac cu drone. Ce s-a întâmplat cu membrii echipajului",
+   "title": "Incident grav în Marea Neagră. Un cargou cu cereale plecat din România se scufundă după ce ar fi fost lovit de drone. Ce s-a întâmplat cu marinarii de la bord UPDATE",
    "titles": {
-    "ro": "O navă cu cereale plecată din România se scufundă în Marea Neagră, după un atac cu drone. Ce s-a întâmplat cu membrii echipajului"
+    "ro": "Incident grav în Marea Neagră. Un cargou cu cereale plecat din România se scufundă după ce ar fi fost lovit de drone. Ce s-a întâmplat cu marinarii de la bord UPDATE"
    },
-   "summary": "Autorităţile bulgare au primit luni un semnal de urgenţă de la un cargou aflat în pericol de scufundare în zona economică exclusivă a Bulgariei din Marea Neagră, a anunţat Ministerul Transporturilor ş ...",
-   "url": "https://www.antena3.ro/externe/o-nava-cu-cereale-plecata-din-romania-se-scufunda-in-marea-neagra-din-cauze-inca-necunoscute-ce-s-a-intamplat-cu-membrii-echipajului-811319.html",
-   "source": "Antena 3 CNN",
-   "published": "2026-11-16T09:34:00Z",
-   "fetched": "2026-11-25T13:53:52Z",
+   "summary": "Autoritățile bulgare au primit luni, 16 noiembrie, un semnal de urgență de la un cargou aflat în pericol de scufundare în zona economică exclusivă a Bulgariei din Marea Neagră, a anunțat Ministerul Tr ...",
+   "url": "https://ziare.com/nava-scufundata/incident-grav-marea-neagra-cargou-cereale-plecat-romania-2048016",
+   "source": "Ziare.com",
+   "published": "2026-11-16T08:06:00Z",
+   "fetched": "2026-11-26T06:48:47Z",
    "image": "https://www.antena3.ro/thumbs/amp/2026/11/16/o-nava-cu-cereale-plecata-din-romania-se-scufunda-in-marea-neagra-din-cauze-inca-necunoscute-ce-s-a-intamplat-cu-membrii-echipajului-1119559.webp",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.jKbkSyOtyHDpcylPpQKksA&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.ZtPWZndOJaKinJS7k_wcXA&pid=News",
    "topics": [
     "policy",
     "attacks",
@@ -4713,6 +4940,10 @@
    "places": [],
    "also": [
     {
+     "source": "Antena 3 CNN",
+     "url": "https://www.antena3.ro/externe/o-nava-cu-cereale-plecata-din-romania-se-scufunda-in-marea-neagra-din-cauze-inca-necunoscute-ce-s-a-intamplat-cu-membrii-echipajului-811319.html"
+    },
+    {
      "source": "Radio Impuls",
      "url": "https://www.radioimpuls.ro/o-nava-care-transporta-gaze-naturale-de-la-alexandria-catre-portul-romanesc-midia-s-a-scufundat-in-marea-neagra-ce-s-a-intamplat-cu-cei-19-membri-ai-echipajului-20550873"
     },
@@ -4721,7 +4952,6 @@
      "url": "https://evz.ro/o-nava-cu-destinatia-midia-s-a-scufundat-in-marea-neagra-in-largul-bulgariei-autoritatile-cauta-19-membri-ai-echipajului.html"
     }
    ],
-   "img_tried": true,
    "img_checked": true
   },
   {
@@ -5561,6 +5791,10 @@
     {
      "source": "Euronews on MSN",
      "url": "https://www.msn.com/en-au/news/other/three-commercial-vessels-struck-by-drones-near-romanias-black-sea-pm-says/ar-AA2htZLN"
+    },
+    {
+     "source": "militarnyi",
+     "url": "https://militarnyi.com/en/news/drones-strike-three-civilian-vessels-off-romania-s-coast/"
     }
    ],
    "img_tried": true,
