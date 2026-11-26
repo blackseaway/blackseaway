@@ -6,21 +6,30 @@
 {% set page_title = (title ~ ' · ' ~ cfg.name) if title else (cfg.name ~ ' · ' ~ t.tagline) %}
 <title>{{ page_title }}</title>
 <meta name="description" content="{{ description or t.intro }}">
-<link rel="canonical" href="{{ cfg.base_url }}/{{ lang }}/{{ path|replace('index.html','') }}">
+{% set page_url = cfg.base_url ~ '/' ~ lang ~ '/' ~ path|replace('index.html','') %}
+<meta name="robots" content="{{ robots or 'index, follow, max-image-preview:large, max-snippet:-1' }}">
+<link rel="canonical" href="{{ page_url }}">
 {% for l in langs %}<link rel="alternate" hreflang="{{ l }}" href="{{ cfg.base_url }}/{{ l }}/{{ path|replace('index.html','') }}">
-{% endfor %}
+{% endfor %}<link rel="alternate" hreflang="x-default" href="{{ cfg.base_url }}/{{ cfg.default_language }}/{{ path|replace('index.html','') }}">
+{% if cfg.google_site_verification %}<meta name="google-site-verification" content="{{ cfg.google_site_verification }}">{% endif %}
+{% if cfg.bing_site_verification %}<meta name="msvalidate.01" content="{{ cfg.bing_site_verification }}">{% endif %}
 <meta property="og:site_name" content="{{ cfg.name }}">
 <meta property="og:type" content="{{ og_type or 'website' }}">
 <meta property="og:title" content="{{ title or cfg.name }}">
 <meta property="og:description" content="{{ description or t.intro }}">
-<meta property="og:url" content="{{ cfg.base_url }}/{{ lang }}/{{ path|replace('index.html','') }}">
+<meta property="og:url" content="{{ page_url }}">
 <meta property="og:image" content="{{ og_image or (cfg.base_url ~ '/assets/og-default.png') }}">
+{% if not og_image %}<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">{% endif %}
+<meta property="og:image:alt" content="{{ title or cfg.name }}">
 <meta property="og:locale" content="{{ t.og_locale }}">
+{% for l in langs if l != lang %}<meta property="og:locale:alternate" content="{{ i18n[l].og_locale }}">
+{% endfor %}{% block meta_extra %}{% endblock %}
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#ffffff">
 <link rel="icon" href="{{ url('assets/favicon.png') }}" type="image/png">
 <link rel="apple-touch-icon" href="{{ url('assets/apple-touch-icon.png') }}">
-<link rel="alternate" type="application/rss+xml" title="{{ cfg.name }}" href="{{ url('feed.xml') }}">
+<link rel="alternate" type="application/rss+xml" title="{{ cfg.name }} ({{ lang|upper }})" href="{{ url('feed-' ~ lang ~ '.xml') }}">
+<script type="application/ld+json">{{ ld_site|tojson }}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ url('assets/style.css') }}?v={{ build_time.strftime('%Y%m%d%H%M') }}">
@@ -64,7 +73,7 @@
       <h3>{{ t.follow_us }}</h3>
       <ul class="plain-links">
         {% for s in cfg.social %}<li><a href="{{ s.url }}" rel="me noopener" target="_blank">{{ s.name }}</a></li>{% endfor %}
-        <li><a href="{{ url('feed.xml') }}">{{ t.rss }}</a></li>
+        <li><a href="{{ url('feed-' ~ lang ~ '.xml') }}">{{ t.rss }}</a></li>
       </ul>
       <h3 class="mt">{{ t.nav_contact }}</h3>
       <ul class="plain-links">

@@ -135,7 +135,8 @@
     "jump_to": "On this page",
     "f_sending": "Sending…",
     "f_fallback": "We could not reach the form service from your network. Your email app will open with the message ready to send.",
-    "f_activation": "Message received. (First-time setup: the newsroom must confirm the form once by email.)"
+    "f_activation": "Message received. (First-time setup: the newsroom must confirm the form once by email.)",
+    "more_from": "More from Black Sea Way"
   },
   "ro": {
     "lang_name": "Română",
@@ -273,7 +274,8 @@
     "jump_to": "Pe această pagină",
     "f_sending": "Se trimite…",
     "f_fallback": "Serviciul formularului nu este accesibil din rețeaua dvs. Se va deschide aplicația de e-mail cu mesajul pregătit pentru trimitere.",
-    "f_activation": "Mesaj primit. (Configurare inițială: redacția trebuie să confirme formularul o dată prin e-mail.)"
+    "f_activation": "Mesaj primit. (Configurare inițială: redacția trebuie să confirme formularul o dată prin e-mail.)",
+    "more_from": "Mai multe de la Black Sea Way"
   },
   "bg": {
     "lang_name": "Български",
@@ -411,6 +413,7 @@
     "jump_to": "На тази страница",
     "f_sending": "Изпращане…",
     "f_fallback": "Услугата на формата не е достъпна от вашата мрежа. Ще се отвори пощенското ви приложение с готово съобщение за изпращане.",
-    "f_activation": "Съобщението е получено. (Първоначална настройка: редакцията трябва веднъж да потвърди формата по имейл.)"
+    "f_activation": "Съобщението е получено. (Първоначална настройка: редакцията трябва веднъж да потвърди формата по имейл.)",
+    "more_from": "Още от Black Sea Way"
   }
 }

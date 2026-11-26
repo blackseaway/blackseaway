@@ -4,6 +4,28 @@
 {% set title = v.title %}
 {% set description = v.summary %}
 {% set og_type = 'article' %}
+{% block meta_extra %}
+<meta property="article:published_time" content="{{ post.date.isoformat() }}T08:00:00Z">
+<meta property="article:modified_time" content="{{ post.modified }}">
+<meta property="article:author" content="{{ post.author }}">
+<meta property="article:section" content="{{ t.nav_articles }}">
+<script type="application/ld+json">{{ {
+  "@context": "https://schema.org", "@type": "NewsArticle",
+  "headline": v.title[:110], "description": v.summary,
+  "inLanguage": lang, "isAccessibleForFree": true,
+  "datePublished": post.date.isoformat() ~ "T08:00:00Z", "dateModified": post.modified,
+  "image": [og_image or (cfg.base_url ~ "/assets/og-default.png")],
+  "author": {"@type": "Organization", "name": post.author, "url": cfg.base_url ~ "/" ~ lang ~ "/about.html"},
+  "publisher": {"@type": "NewsMediaOrganization", "name": cfg.name, "logo": {"@type": "ImageObject", "url": cfg.base_url ~ "/assets/logo.jpg", "width": 600, "height": 600}},
+  "mainEntityOfPage": cfg.base_url ~ "/" ~ lang ~ "/articles/" ~ post.slug ~ ".html"
+}|tojson }}</script>
+<script type="application/ld+json">{{ {
+  "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": cfg.name, "item": cfg.base_url ~ "/" ~ lang ~ "/"},
+    {"@type": "ListItem", "position": 2, "name": t.nav_articles, "item": cfg.base_url ~ "/" ~ lang ~ "/articles/"},
+    {"@type": "ListItem", "position": 3, "name": v.title}]
+}|tojson }}</script>
+{% endblock %}
 {% block content %}
 <article class="wrap article">
   <header>
@@ -14,7 +36,7 @@
     {% if v.auto %}<p class="notice">{{ t.auto_translated_article }} <a href="{{ url('en/articles/' ~ post.slug ~ '.html') }}">EN</a></p>
     {% elif v.untranslated %}<p class="notice">{{ t.original_language }}: {{ post.lang|upper }}</p>{% endif %}
   </header>
-  {% if post.image %}<img class="hero-img" src="{{ url(post.image) if not post.image.startswith('http') else post.image }}" alt="">{% endif %}
+  {% if post.image %}<img class="hero-img" fetchpriority="high" src="{{ url(post.image) if not post.image.startswith('http') else post.image }}" alt="">{% endif %}
   <div class="prose" lang="{{ post.lang if v.untranslated else lang }}">{{ v.html|safe }}</div>
   <footer class="share">
     <span>{{ t.share }}:</span>
@@ -23,5 +45,11 @@
     <a href="https://www.threads.net/intent/post?text={{ (v.title ~ ' ' ~ link)|urlencode }}" target="_blank" rel="noopener">Threads</a>
     <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ link|urlencode }}" target="_blank" rel="noopener">LinkedIn</a>
   </footer>
+  {% if related %}
+  <aside class="related">
+    <h2 class="section-title">{{ t.more_from }}</h2>
+    <ul class="latest">{% for r in related %}{% set rv = r.versions[lang] %}<li><time>{{ r.date|date(lang) }}</time> <a href="{{ url(lang ~ '/articles/' ~ r.slug ~ '.html') }}">{{ rv.title }}</a></li>{% endfor %}</ul>
+  </aside>
+  {% endif %}
 </article>
 {% endblock %}

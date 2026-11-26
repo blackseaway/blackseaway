@@ -2,6 +2,7 @@
 {% import "_macros.html" as m with context %}
 {% set page_id = 'home' %}
 {% block content %}
+<h1 class="visually-hidden">{{ cfg.name }}: {{ t.tagline }}</h1>
 {% if safety.risk %}
 <div class="alert-bar">
   <div class="wrap">

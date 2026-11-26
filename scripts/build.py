@@ -77,6 +77,7 @@ def load_posts(cfg: dict) -> list[dict]:
         post = {"slug": slug, "date": date, "lang": src_lang, "author": meta.get("author", cfg["editor"]),
                 "image": meta.get("image"), "minutes": max(1, round(words / 220)), "versions": {},
                 "kind": meta.get("kind", "analysis"),
+                "modified": str(meta.get("updated") or date) + "T08:00:00Z",
                 "pinned": bool(pin_until and pin_until >= dt.date.today())}
         digest = hashlib.sha1(json.dumps(base, sort_keys=True).encode()).hexdigest()[:16]
         for lang in langs:
@@ -234,7 +235,19 @@ def make_env(cfg, i18n):
             s += f", {value.strftime('%H:%M')} UTC"
         return s
 
-    env.globals.update(url=url, cfg=cfg, i18n=i18n, langs=cfg["languages"], build_time=now_utc(),
+    ld_site = {
+        "@context": "https://schema.org",
+        "@graph": [
+            {"@type": "NewsMediaOrganization", "@id": cfg["base_url"] + "/#org", "name": cfg["name"],
+             "url": cfg["base_url"] + "/", "logo": {"@type": "ImageObject", "url": cfg["base_url"] + "/assets/logo.jpg",
+                                                  "width": 600, "height": 600},
+             "email": cfg.get("contact_email", ""), "sameAs": [x["url"] for x in cfg.get("social", [])],
+             "areaServed": ["Black Sea", "Romania", "Bulgaria", "Ukraine", "Türkiye", "Georgia"]},
+            {"@type": "WebSite", "@id": cfg["base_url"] + "/#website", "name": cfg["name"], "url": cfg["base_url"] + "/",
+             "inLanguage": cfg["languages"], "publisher": {"@id": cfg["base_url"] + "/#org"}},
+        ],
+    }
+    env.globals.update(url=url, cfg=cfg, i18n=i18n, langs=cfg["languages"], build_time=now_utc(), ld_site=ld_site,
                        gc_local=(ROOT / "assets" / "gc-count.js").exists())
     env.filters["date"] = fmt_date
     env.filters["pct"] = lambda v: f"{round(v * 100)}%"
@@ -393,17 +406,20 @@ def build():
         render("articles.html", "articles/index.html", lang, posts=posts, **common_ctx)
         for p in posts:
             render("article.html", f"articles/{p['slug']}.html", lang, post=p, v=p["versions"][lang],
+                   related=[r for r in posts if r["slug"] != p["slug"]][:4],
                    og_image=(f"{cfg['base_url']}/{p['image']}" if p.get("image") else None), **common_ctx)
         render("page.html", "about.html", lang, page=load_page("about", lang), **common_ctx)
 
     # root: language redirect + 404
     write(OUT / "index.html", env.get_template("root_index.html").render(t=i18n["en"], lang="en", path=""))
     write(OUT / "404.html", env.get_template("404.html").render(t=i18n["en"], lang="en", path=""))
-    write(OUT / "robots.txt", f"User-agent: *\nAllow: /\nSitemap: {cfg['base_url']}/sitemap.xml\n")
-    sm = "".join(f"<url><loc>{html.escape(cfg['base_url'] + '/' + p)}</loc></url>" for p in pages_for_sitemap)
-    write(OUT / "sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n'
-          f'<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{sm}</urlset>\n')
-    write(OUT / "feed.xml", rss_feed(cfg, posts, items))
+    write(OUT / "robots.txt", f"User-agent: *\nAllow: /\nDisallow: /*/thanks.html\n"
+                              f"Sitemap: {cfg['base_url']}/sitemap.xml\nSitemap: {cfg['base_url']}/news-sitemap.xml\n")
+    write(OUT / "sitemap.xml", sitemap_xml(cfg, posts, news.get("updated")))
+    write(OUT / "news-sitemap.xml", news_sitemap_xml(cfg, posts))
+    for lang in cfg["languages"]:
+        write(OUT / f"feed-{lang}.xml", rss_feed(cfg, posts, items, lang))
+    write(OUT / "feed.xml", rss_feed(cfg, posts, items, "en"))
 
     # social cards for the queued item(s)
     for c in queue.get("cards", []):
@@ -414,24 +430,60 @@ def build():
     print(f"[build] {len(pages_for_sitemap)} pages, {len(items)} news, {len(posts)} articles → {OUT}")
 
 
-def rss_feed(cfg, posts, items) -> str:
+def rss_feed(cfg, posts, items, lang="en") -> str:
     entries = []
     for p in posts[:20]:
-        v = p["versions"]["en"]
-        d = dt.datetime.combine(p["date"], dt.time(9, 0), tzinfo=dt.timezone.utc)
-        entries.append((d, v["title"], f"{cfg['base_url']}/en/articles/{p['slug']}.html", v["summary"]))
+        v = p["versions"][lang]
+        d = dt.datetime.combine(p["date"], dt.time(8, 0), tzinfo=dt.timezone.utc)
+        entries.append((d, v["title"], f"{cfg['base_url']}/{lang}/articles/{p['slug']}.html", v["summary"]))
     for i in items[:40]:
-        entries.append((parse_iso(i["published"]), i["titles"].get("en", i["title"]), i["url"],
-                        f"{i['source']}"))
+        entries.append((parse_iso(i["published"]), i["titles"].get(lang, i["title"]), i["url"], i["source"]))
     entries.sort(key=lambda e: e[0], reverse=True)
     body = "".join(
         f"<item><title>{html.escape(t)}</title><link>{html.escape(u)}</link><guid>{html.escape(u)}</guid>"
         f"<pubDate>{format_datetime(d)}</pubDate><description>{html.escape(s)}</description></item>"
         for d, t, u, s in entries)
     return ('<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel>'
-            f"<title>{cfg['name']}</title><link>{cfg['base_url']}/en/</link>"
+            f"<title>{cfg['name']} ({lang.upper()})</title><link>{cfg['base_url']}/{lang}/</link>"
+            f"<language>{lang}</language>"
             "<description>Black Sea shipping, security and trade monitor</description>"
             f"{body}</channel></rss>\n")
+
+
+def sitemap_xml(cfg, posts, news_updated) -> str:
+    """All pages in all languages, with hreflang alternates and last-modified dates."""
+    base, langs = cfg["base_url"], cfg["languages"]
+    now = news_updated or iso(now_utc())
+    pages = [("", now, "hourly", "1.0"), ("news.html", now, "hourly", "0.9"),
+             ("stats.html", now, "daily", "0.7"), ("articles/", now, "daily", "0.8"),
+             ("about.html", None, "monthly", "0.4"), ("contact.html", None, "yearly", "0.3")]
+    pages += [(f"articles/{p['slug']}.html", p["modified"], "weekly", "0.8") for p in posts]
+    out = []
+    for path, lastmod, freq, prio in pages:
+        alts = "".join(f'<xhtml:link rel="alternate" hreflang="{l}" href="{base}/{l}/{path}"/>' for l in langs)
+        alts += f'<xhtml:link rel="alternate" hreflang="x-default" href="{base}/{cfg["default_language"]}/{path}"/>'
+        for l in langs:
+            out.append(f"<url><loc>{base}/{l}/{path}</loc>" + (f"<lastmod>{lastmod}</lastmod>" if lastmod else "")
+                       + f"<changefreq>{freq}</changefreq><priority>{prio}</priority>{alts}</url>")
+    return ('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
+            'xmlns:xhtml="http://www.w3.org/1999/xhtml">' + "".join(out) + "</urlset>\n")
+
+
+def news_sitemap_xml(cfg, posts) -> str:
+    """Google News sitemap: our own articles from the last 2 days."""
+    cutoff = dt.date.today() - dt.timedelta(days=2)
+    out = []
+    for p in posts:
+        if p["date"] < cutoff:
+            continue
+        for l in cfg["languages"]:
+            v = p["versions"][l]
+            out.append(f"<url><loc>{cfg['base_url']}/{l}/articles/{p['slug']}.html</loc><news:news>"
+                       f"<news:publication><news:name>{cfg['name']}</news:name><news:language>{l}</news:language>"
+                       f"</news:publication><news:publication_date>{p['date'].isoformat()}</news:publication_date>"
+                       f"<news:title>{html.escape(v['title'])}</news:title></news:news></url>")
+    return ('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
+            'xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">' + "".join(out) + "</urlset>\n")
 
 
 if __name__ == "__main__":
