@@ -1,5 +1,5 @@
 {
-  "_comment": "Джерела новин. google_news: пошукові запити до Google News RSS (за останні 7 днів). feeds: звичайні RSS-стрічки морських медіа; з них беруться тільки матеріали, де згадано Чорне море або порт регіону. Ключові слова шукаються з початку слова; символ $ у кінці означає «тільки ціле слово». gdelt: запити до відкритого сервісу GDELT (повертає пряме посилання на статтю і її фото). bing: пошук Bing News (RSS з прямими посиланнями на статті). Google News вимкнено (google_news_disabled), бо він не дає прямих посилань і фото; щоб увімкнути, перенесіть запити назад у google_news. maritime: новина береться, лише якщо в ній є хоч одне морське слово з цього списку. blocked_*: російські та проросійські ресурси, новини з них не беруться.",
+  "_comment": "Джерела новин. google_news: пошукові запити до Google News RSS (за останні 7 днів). feeds: звичайні RSS-стрічки морських медіа; з них беруться тільки матеріали, де згадано Чорне море або порт регіону. Ключові слова шукаються з початку слова; символ $ у кінці означає «тільки ціле слово». gdelt: запити до відкритого сервісу GDELT (повертає пряме посилання на статтю і її фото). bing: пошук Bing News (RSS з прямими посиланнями на статті). Google News вимкнено (google_news_disabled), бо він не дає прямих посилань і фото; щоб увімкнути, перенесіть запити назад у google_news. maritime: новина береться, лише якщо в ній є хоч одне морське слово з цього списку. blocked_*: російські та проросійські ресурси, новини з них не беруться. priority_sites: обов'язкові сайти, по яких окремо шукаються новини про Чорне море (site:).",
   "feeds": [
     {
       "name": "gCaptain",
@@ -55,6 +55,16 @@
       "name": "Дневник",
       "url": "https://www.dnevnik.bg/rss/",
       "lang": "bg"
+    },
+    {
+      "name": "Naval News",
+      "url": "https://www.navalnews.com/feed/",
+      "lang": "en"
+    },
+    {
+      "name": "USNI News",
+      "url": "https://news.usni.org/feed",
+      "lang": "en"
     }
   ],
   "anchors": [
@@ -747,6 +757,56 @@
       "lang": "bg",
       "mkt": "bg-BG",
       "q": "Черно море правителство сигурност"
+    },
+    {
+      "lang": "en",
+      "mkt": "en-US",
+      "q": "site:lloydslist.com \"Black Sea\""
+    },
+    {
+      "lang": "en",
+      "mkt": "en-US",
+      "q": "site:tradewindsnews.com \"Black Sea\""
+    },
+    {
+      "lang": "en",
+      "mkt": "en-US",
+      "q": "site:news.usni.org \"Black Sea\""
+    },
+    {
+      "lang": "en",
+      "mkt": "en-US",
+      "q": "site:navalnews.com \"Black Sea\""
+    },
+    {
+      "lang": "en",
+      "mkt": "en-US",
+      "q": "site:eur-lex.europa.eu \"Black Sea\""
+    },
+    {
+      "lang": "en",
+      "mkt": "en-US",
+      "q": "site:ec.europa.eu \"Black Sea\""
+    },
+    {
+      "lang": "en",
+      "mkt": "en-US",
+      "q": "site:consilium.europa.eu \"Black Sea\""
+    },
+    {
+      "lang": "en",
+      "mkt": "en-US",
+      "q": "site:undocs.org \"Black Sea\""
+    },
+    {
+      "lang": "en",
+      "mkt": "en-US",
+      "q": "site:imo.org \"Black Sea\""
+    },
+    {
+      "lang": "en",
+      "mkt": "en-US",
+      "q": "site:documents.un.org \"Black Sea\""
     }
   ],
   "google_news": [
@@ -805,6 +865,46 @@
     {
       "lang": "bg",
       "q": "пристанище Варна Бургас война корабоплаване"
+    },
+    {
+      "lang": "en",
+      "q": "site:lloydslist.com \"Black Sea\""
+    },
+    {
+      "lang": "en",
+      "q": "site:tradewindsnews.com \"Black Sea\""
+    },
+    {
+      "lang": "en",
+      "q": "site:news.usni.org \"Black Sea\""
+    },
+    {
+      "lang": "en",
+      "q": "site:navalnews.com \"Black Sea\""
+    },
+    {
+      "lang": "en",
+      "q": "site:eur-lex.europa.eu \"Black Sea\""
+    },
+    {
+      "lang": "en",
+      "q": "site:ec.europa.eu \"Black Sea\""
+    },
+    {
+      "lang": "en",
+      "q": "site:consilium.europa.eu \"Black Sea\""
+    },
+    {
+      "lang": "en",
+      "q": "site:undocs.org \"Black Sea\""
+    },
+    {
+      "lang": "en",
+      "q": "site:imo.org \"Black Sea\""
+    },
+    {
+      "lang": "en",
+      "q": "site:documents.un.org \"Black Sea\""
     }
   ],
   "maritime": [
@@ -933,5 +1033,17 @@
     "ukraina.ru",
     "царьград",
     "ruptly"
+  ],
+  "priority_sites": [
+    "lloydslist.com",
+    "tradewindsnews.com",
+    "news.usni.org",
+    "navalnews.com",
+    "eur-lex.europa.eu",
+    "ec.europa.eu",
+    "consilium.europa.eu",
+    "undocs.org",
+    "imo.org",
+    "documents.un.org"
   ]
 }
