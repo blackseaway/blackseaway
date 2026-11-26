@@ -192,7 +192,9 @@ def gdelt_entries(q: str) -> list[dict]:
 
 
 def bing_url(q: str, mkt: str) -> str:
-    return "https://www.bing.com/news/search?" + urllib.parse.urlencode({"q": q, "format": "rss", "mkt": mkt})
+    # qft=sortbydate="1": newest first (otherwise Bing returns "best match", often days old)
+    return "https://www.bing.com/news/search?" + urllib.parse.urlencode(
+        {"q": q, "format": "rss", "mkt": mkt, "qft": 'sortbydate="1"'})
 
 
 def collect(sources: dict) -> list[dict]:
@@ -466,7 +468,8 @@ def main():
     translate_missing(items, cfg["languages"], cfg["news"]["translate_per_run"])
     store = {"updated": iso(now_utc()), "items": items}
     save_json(NEWS_FILE, store)
-    print(f"[news] +{added} new, {len(items)} total")
+    last24 = sum(1 for i in items if now_utc() - parse_iso(i["published"]) <= dt.timedelta(hours=24))
+    print(f"[news] +{added} new, {len(items)} total, {last24} from the last 24 h, newest {items[0]['published'] if items else '-'}")
 
 
 if __name__ == "__main__":
