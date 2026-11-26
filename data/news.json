@@ -1,32 +1,6 @@
 {
- "updated": "2026-11-26T14:53:34Z",
+ "updated": "2026-11-26T15:04:21Z",
  "items": [
-  {
-   "id": "8358e5f80bf2",
-   "lang": "en",
-   "title": "Russia hit two ships carrying 100,000 tons of grain near Odesa, Ukraine says",
-   "titles": {
-    "en": "Russia hit two ships carrying 100,000 tons of grain near Odesa, Ukraine says",
-    "ro": "Rusia a lovit două nave care transportau 100.000 de tone de cereale în apropiere de Odesa, afirmă Ucraina",
-    "bg": "Русия е ударила два кораба, превозващи 100 000 тона зърно, близо до Одеса, съобщава Украйна"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNemFCUWFHZWE2MHpqdTZrNTdKMU5jZ1NKNWJTZE1OVEphVEpIbEk5VFBLS1ladER4QlNxZFVVdUpaME1XY2F3MFQxU3hjZ01mYWl2N2NNZkJ2ZW1QVUZBcGVyYldzd2tXeTlHVXg5T1ppZl9vazlvYnlKbXhyNW1wSVNEZlIzcXE4a29aTG1TLUt0MEplUXJYeFdQSQ?oc=5",
-   "source": "MLQ.ai",
-   "published": "2026-11-26T13:09:21Z",
-   "fetched": "2026-11-26T14:42:31Z",
-   "image": "",
-   "fallback_image": "",
-   "topics": [
-    "shipping",
-    "grain"
-   ],
-   "places": [
-    "odesa"
-   ],
-   "also": [],
-   "img_checked": true
-  },
   {
    "id": "8d66ac089509",
    "lang": "en",
@@ -124,6 +98,40 @@
     "danube"
    ],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "79b62aa791fd",
+   "lang": "en",
+   "title": "Russia attacks two foreign grain ships near Odesa, Ukrainian prime minister says",
+   "titles": {
+    "en": "Russia attacks two foreign grain ships near Odesa, Ukrainian prime minister says",
+    "ro": "Rusia atacă două nave străine care transportă cereale în apropiere de Odesa, afirmă prim-ministrul ucrainean",
+    "bg": "Русия атакува два чуждестранни кораба с зърно край Одеса, заяви украинският министър-председател"
+   },
+   "summary": "Russia attacks two foreign grain ships near Odesa, Ukrainian prime minister says. Prime Minister Serhii Koretskyi said the vessels carried more than 100,000 metric tons of grain, while Moscow reported ...",
+   "url": "https://www.kiprinform.com/en/news/russia-attacks-two-foreign-grain-ships-near-odesa-ukrainian-prime-minister-says/",
+   "source": "kiprinform",
+   "published": "2026-11-26T06:55:00Z",
+   "fetched": "2026-11-26T15:01:28Z",
+   "image": "https://www.kiprinform.com/wp-content/uploads/2026/11/cyinform-war-ukraine.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.-MqiLP8mfMaOh5nPJcu6EA&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping",
+    "grain"
+   ],
+   "places": [
+    "odesa"
+   ],
+   "also": [
+    {
+     "source": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNemFCUWFHZWE2MHpqdTZrNTdKMU5jZ1NKNWJTZE1OVEphVEpIbEk5VFBLS1ladER4QlNxZFVVdUpaME1XY2F3MFQxU3hjZ01mYWl2N2NNZkJ2ZW1QVUZBcGVyYldzd2tXeTlHVXg5T1ppZl9vazlvYnlKbXhyNW1wSVNEZlIzcXE4a29aTG1TLUt0MEplUXJYeFdQSQ?oc=5"
+    }
+   ],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -255,6 +263,34 @@
    ],
    "places": [],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "74d7e8c8e857",
+   "lang": "bg",
+   "title": "Нови атаки срещу търговски кораби в Черно море",
+   "titles": {
+    "bg": "Нови атаки срещу търговски кораби в Черно море",
+    "en": "New attacks on merchant ships in the Black Sea",
+    "ro": "Noi atacuri împotriva navelor comerciale în Marea Neagră"
+   },
+   "summary": "Два чуждестранни товарни кораба, превозващи общо над 100 000 тона зърно, са били атакувани от руските сили през изминалата нощ в Черно море край украинското пристанище Одеса. Това съобщи украинският ...",
+   "url": "https://nova.bg/news/view/2026/11/26/560730/%D0%BD%D0%BE%D0%B2%D0%B8-%D0%B0%D1%82%D0%B0%D0%BA%D0%B8-%D1%81%D1%80%D0%B5%D1%89%D1%83-%D1%82%D1%8A%D1%80%D0%B3%D0%BE%D0%B2%D1%81%D0%BA%D0%B8-%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%B8-%D0%B2-%D1%87%D0%B5%D1%80%D0%BD%D0%BE-%D0%BC%D0%BE%D1%80%D0%B5/",
+   "source": "Нова телевизия",
+   "published": "2026-11-25T18:59:00Z",
+   "fetched": "2026-11-26T15:01:28Z",
+   "image": "https://nstatic.nova.bg/public/pics/nova/article/980x551_1795268437.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.Ly2vesMx7XKr3X9RfQ9mdQ&pid=News",
+   "topics": [
+    "shipping",
+    "grain",
+    "ports"
+   ],
+   "places": [
+    "odesa"
+   ],
+   "also": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -1099,6 +1135,27 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "1a81dac0169c",
+   "lang": "en",
+   "title": "Fewer Ships, Same Weather: Black Sea Shipping Heads Into Winter",
+   "titles": {
+    "en": "Fewer Ships, Same Weather: Black Sea Shipping Heads Into Winter"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KWUlIS2ZQZ2VNbElERVBZRzVfNGF1eXVONm5ZWnhxRzJtQ1dpb3N1ZDQ5dGliQnJXb2sxRlZnQWt6MEh4VFcxdXA3bEJDY2Z5ZzI0aFlKb2x1SVFo?oc=5",
+   "source": "株式会社ウェザーニューズ",
+   "published": "2026-11-24T23:00:00Z",
+   "fetched": "2026-11-26T15:01:28Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
   },
   {
    "id": "997a45c7f7a5",
@@ -5352,6 +5409,27 @@
    "img_checked": true
   },
   {
+   "id": "de51a13dbc06",
+   "lang": "en",
+   "title": "Russia launches more than 20 Kalibr missiles from the Black Sea ᐉ News from Fakti.bg - World",
+   "titles": {
+    "en": "Russia launches more than 20 Kalibr missiles from the Black Sea ᐉ News from Fakti.bg - World"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSi1xSmZrRXhGTWl6T2o2MmZrWE51U2g4Y1R4MlNwYnBkNnZMWG5ud181eTNUWmkzMFlOemw3enJEUWZVekJXdy1DeTc0Sm9LNkpDYnRMbERlblA0SXZDbGp0R1loZmwtbFV4dnpXWUJ5N3psNGZ6ZHdUMGcwT01aR2N2Q2F3cTFsS29Bbzc3NTZxU3RKU0Z3clB2eHBYdw?oc=5",
+   "source": "Fakti.bg",
+   "published": "2026-11-20T13:39:00Z",
+   "fetched": "2026-11-26T15:01:28Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "attacks"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
+  {
    "id": "d375519668c3",
    "lang": "ro",
    "title": "Regatul Unit și Norvegia investesc peste 100 de milioane de lire sterline în două nave militare pentru Ucraina; obiectivul este protejarea rutelor comerciale din Marea Neagră",
@@ -5627,45 +5705,6 @@
    "also": []
   },
   {
-   "id": "1b74ed4dca8f",
-   "lang": "ro",
-   "title": "Premierul Rumen Radev: Bulgaria nu poate doborî dronele din Marea Neagră, din motive tehnice/ Opoziţia a cerut convocarea Consiliului Consultativ pentru Securitate Naţională. Preşedinta Iotova nu consideră necesară o asemenea reuniune",
-   "titles": {
-    "ro": "Premierul Rumen Radev: Bulgaria nu poate doborî dronele din Marea Neagră, din motive tehnice/ Opoziţia a cerut convocarea Consiliului Consultativ pentru Securitate Naţională. Preşedinta Iotova nu consideră necesară o asemenea reuniune"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNUkFpYjhfSU1YdEwwWUpENlF4VFp2WmFEY2xKaFpQQTRDQk1kTVBSZk1BOTNXejNGTFF4MkU5cjZsdnRZOU9XQnZkamlfbVJCNkluRDhYSGxlNEQ3VjVDaVNveW93QUdCVmc1ckgxbEFlNGJ2STBJaERzLXlJazlpdWpiXzZLMDVNaDB0cmtJY3JqWllDRlVlQldFMzd5MVh5TWdLdjhPSm9IQW04M1BodjhvbnNyd0xRWW5UbzZDUlFjQ05zaVBFbnNMQ1NQZXdjRDhwRjFUbHJEbXZVSDcxTnNqXzdSRlc3Y3pOYmVad2YyZERmaWxZbnlvT25OZFNRVkNJQkRvVmVTNTg2Rmhfa0tubERzMWdrYV9OdmJmdEZ0a3YxQlVuLWhxRnZ3bjhvNlFLZ2l5VVZBTUF4b25FR2I4cnZPR3NLZ1liNENROWlGbU84cnZvNnZlNm1FQVBlM1k4RzNR?oc=5",
-   "source": "News.ro",
-   "published": "2026-11-20T06:17:00Z",
-   "fetched": "2026-11-26T07:20:39Z",
-   "image": "",
-   "fallback_image": "",
-   "topics": [
-    "policy",
-    "attacks"
-   ],
-   "places": [],
-   "also": [
-    {
-     "source": "Digi24",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNEM2VmlxQkRVZ0R0U0xZZUE3SnIzUE15RVRTN1RhRk1hd255cWFuYzVEeFRTcGpIVHdWMU5Sa3dDUGlZNGVEcGZMZkxnS082bzMyc1J1UFZ5ZVVrQjNYakdxMy1vT2kxR2xpTnVZRloxdHE5ak13X3Y3dC1DaUJIQXZaRW9hUk0tN1kzMnZQVndhNTdCSDVIZFRBOVRjTnhDdVA1LXhIWnJWXzZXVWpZLUNSbjZxMXNEU3Q2NFU1eU9pendvdG9WVkJ4NGJOajVsdzhKbk1EZm8weERFMmNFVVllMXlYQWRRWjFkZmRZUk1RUEZlZVBTN0xOUXhwckxUd1RxNmxKUdIBkgJBVV95cUxOQTdSWFpoNmFJdXN6UUhRMVZYQTBVaUdQeS12a2lpX2JaUFdlcFFSN2MwVzNxMDk5MFhCTTllbGNGUW0tZk5NS3dmRW9BT3FSc0ExUHRKNGJ5ZzFRLUZnUHAwY0NEVU9DNTJ1Q2FteUtwRXM4emVqVzZJV243dU85S2lJZVZ5ME9EWllHUG9oVFlHSTctYkZZamVFVjBKNGR4Qkg4cjJrOGV1RVBIVEw1R3AzT2d1a2N6b0NYS0xMTkdrTFRmNldMSWJnQ1FLaUZCYkFxQzY4MDJyWm1WVkNacmVQS1V5ZnpTQTBSLTNMVGlrQWxiLU10bjlHRjFxc005RGxhQU11VlMweFktQ2RQRklR?oc=5"
-    },
-    {
-     "source": "B1TV",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdEJzWTJSM0pITW1jQVBjNmQxd3FfTHB0dnZvbXduVDFsaWFHU1h4X3JOVVpBcU5LRjVQMVJhTWV4ay04ZF93Z1hXOEpTbDM0X3hMVHRnWmRpdDR3UGdoYUtuZ2lCMlY5UzVIZ0pFQllNc3ZSMTRjcFBPeXNsV3ljYnRsYTYxYjNBRkJvdnhVVzlNWndjMDRhRGZxaXVBbG9KWldfRzA0dnNDTTR5MmlyQXl1aHJmbExCUERtYkwyQzVEdTZTVTRyU1p1X1NRUUxGejFWQkFNcGxuazJxNVZiUmpPdTA5UEd1T2VEc1JBRjhaRE1k0gH6AUFVX3lxTE5rNmg0QU1wMFJDZTNBU0tFSV9Za2hZbkdlbk43dVBZcUFVMktOYjNKTXpmX3JHb0t5N0tEdlVCMkdxcFN1S2U5bUlxSDY0UWQ4ZXBFMUo0QXFIdTRDQnlWQVRpYTV3QlFJVE03RFVXT0I3ZGVsdEJCZzRfVUJrTXFfYnAxNWRrSXl6aWNsTHp4bklyaVBoM1E5N2Z5X0gxa3psOThWTjkyelRJRktWNlNQNFVsQmJyYzBmcE5QOXlCT0hJWnFGdFF5RF9XdUN3X3FvbEVXRHo4WnJoeUx2dVVWc09tOFE3bGszYmVpb3VQQzBsMC10aUh5bUE?oc=5"
-    },
-    {
-     "source": "ZiarulNational",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUFBVVXB0bFYweVp6cnpoekg3X0dmRjJybVlxV2RmbUYydlpzREFubVFUMnJwejZockFkX2NVYm1HQVE2Q2ZZUmhCVnZQZ2Y2TTBOeDNMU1JKOFdpblN1bFExeDdROU1MRkV2MWVESUFkTEZ5SlI3UTYwcUtSbXV3Z3lXQ1hrdWwxOWlqOEU1MFg4cVBUbG42TnhBcHE0ckZCZk9TcnJNRWNNbVZ6SUhBQ2VZSGdJT0k?oc=5"
-    },
-    {
-     "source": "Antena 3",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQjQxNEV6Z0doOEVoYUh1S01hd2EwN2l3WTJhYkpPSXBTVW9XYzNFbS1fbVU0aE9FTGRCVmE0TmRqcFdWYk1TajhoU0tKRzZzMFNTNXkzYXZJNzBEWURjb2hOMlA1MU5ZdzFJVFRKZEJnN1FzNDR3Y1VpVzZTbERudVlIMlVndS02RHdhZi1SYXdZQWF3eUYtWDhiRHg2SjNKQ2EwYTd2b3V6d210VHJlamk2cDZDbllhbGRSTmlfSVc5V3hHY0ZIS190eGFrSGtQT0NYVDVjNGV6U1I2eUdoMktQZ016YWNaYkg5Q0VIbzFrQ21BLWFCSXZRZUVKNVpVZGtj0gH-AUFVX3lxTE55T1l3bFR2ZzZFeEpYRVRYalZHQWUtMVlQVHQ1X2s0bGlSakI3em95cHNNWlJSY2JTSkRfNW1Sd05DajdHbzdkUHAtYk5ZaUVUSFo5M3lldmdDeFRJZE1DWUVfZV9VU1lhLVpUZTNjdWhzbGNsZ3pHekpSSXA1M1B2QmIwR011M1VzY1BjY20tMkJLQ1pLUUxqd1lub2FDN19XMW00cFAwZFVmMGFQTFVJeVRLUWpsaFc3WHBzaUFfdTNaZzJyZmtMMUY0NXR2a240ZmUydUg4R1R3N2p0M1UzeTR4UmZwOEFMT1BTYjdNYl9tNUtybklTZ2Q5endn?oc=5"
-    }
-   ],
-   "img_checked": true
-  },
-  {
    "id": "d7f1d36b5049",
    "lang": "bg",
    "title": "Последните два ударени кораба в българската икономическа зона в Черно море все още не са потънали",
@@ -5784,6 +5823,51 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "65750c82c76d",
+   "lang": "ro",
+   "title": "De ce Bulgaria nu doboară dronele care atacă și scufundă nave în Marea Neagră. Rumen Radev spune că \"nu e posibil, din motive tehnice\"",
+   "titles": {
+    "ro": "De ce Bulgaria nu doboară dronele care atacă și scufundă nave în Marea Neagră. Rumen Radev spune că \"nu e posibil, din motive tehnice\""
+   },
+   "summary": "Premierul bulgar Rumen Radev a declarat joi că, în acest moment, Bulgaria nu poate distruge dronele care atacă navele în Marea Neagră din cauza unor limitări de ordin militar și tehnic, scrie Novinite ...",
+   "url": "https://www.antena3.ro/externe/de-ce-bulgaria-nu-doboara-dronele-care-ataca-si-scufunda-nave-in-marea-neagra-rumen-radev-spune-ca-nu-e-posibil-din-motive-tehnice-811907.html",
+   "source": "Antena 3 CNN",
+   "published": "2026-11-20T01:40:00Z",
+   "fetched": "2026-11-26T15:01:28Z",
+   "image": "https://www.antena3.ro/thumbs/amp/2026/11/20/de-ce-bulgaria-nu-doboara-dronele-care-ataca-si-scufunda-nave-in-marea-neagra-rumen-radev-spune-ca-nu-e-posibil-din-motive-tehnice-1120863.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.k4Td9iD43dHse41SbtLf8w&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "News.ro",
+     "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNUkFpYjhfSU1YdEwwWUpENlF4VFp2WmFEY2xKaFpQQTRDQk1kTVBSZk1BOTNXejNGTFF4MkU5cjZsdnRZOU9XQnZkamlfbVJCNkluRDhYSGxlNEQ3VjVDaVNveW93QUdCVmc1ckgxbEFlNGJ2STBJaERzLXlJazlpdWpiXzZLMDVNaDB0cmtJY3JqWllDRlVlQldFMzd5MVh5TWdLdjhPSm9IQW04M1BodjhvbnNyd0xRWW5UbzZDUlFjQ05zaVBFbnNMQ1NQZXdjRDhwRjFUbHJEbXZVSDcxTnNqXzdSRlc3Y3pOYmVad2YyZERmaWxZbnlvT25OZFNRVkNJQkRvVmVTNTg2Rmhfa0tubERzMWdrYV9OdmJmdEZ0a3YxQlVuLWhxRnZ3bjhvNlFLZ2l5VVZBTUF4b25FR2I4cnZPR3NLZ1liNENROWlGbU84cnZvNnZlNm1FQVBlM1k4RzNR?oc=5"
+    },
+    {
+     "source": "Digi24",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNEM2VmlxQkRVZ0R0U0xZZUE3SnIzUE15RVRTN1RhRk1hd255cWFuYzVEeFRTcGpIVHdWMU5Sa3dDUGlZNGVEcGZMZkxnS082bzMyc1J1UFZ5ZVVrQjNYakdxMy1vT2kxR2xpTnVZRloxdHE5ak13X3Y3dC1DaUJIQXZaRW9hUk0tN1kzMnZQVndhNTdCSDVIZFRBOVRjTnhDdVA1LXhIWnJWXzZXVWpZLUNSbjZxMXNEU3Q2NFU1eU9pendvdG9WVkJ4NGJOajVsdzhKbk1EZm8weERFMmNFVVllMXlYQWRRWjFkZmRZUk1RUEZlZVBTN0xOUXhwckxUd1RxNmxKUdIBkgJBVV95cUxOQTdSWFpoNmFJdXN6UUhRMVZYQTBVaUdQeS12a2lpX2JaUFdlcFFSN2MwVzNxMDk5MFhCTTllbGNGUW0tZk5NS3dmRW9BT3FSc0ExUHRKNGJ5ZzFRLUZnUHAwY0NEVU9DNTJ1Q2FteUtwRXM4emVqVzZJV243dU85S2lJZVZ5ME9EWllHUG9oVFlHSTctYkZZamVFVjBKNGR4Qkg4cjJrOGV1RVBIVEw1R3AzT2d1a2N6b0NYS0xMTkdrTFRmNldMSWJnQ1FLaUZCYkFxQzY4MDJyWm1WVkNacmVQS1V5ZnpTQTBSLTNMVGlrQWxiLU10bjlHRjFxc005RGxhQU11VlMweFktQ2RQRklR?oc=5"
+    },
+    {
+     "source": "B1TV",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdEJzWTJSM0pITW1jQVBjNmQxd3FfTHB0dnZvbXduVDFsaWFHU1h4X3JOVVpBcU5LRjVQMVJhTWV4ay04ZF93Z1hXOEpTbDM0X3hMVHRnWmRpdDR3UGdoYUtuZ2lCMlY5UzVIZ0pFQllNc3ZSMTRjcFBPeXNsV3ljYnRsYTYxYjNBRkJvdnhVVzlNWndjMDRhRGZxaXVBbG9KWldfRzA0dnNDTTR5MmlyQXl1aHJmbExCUERtYkwyQzVEdTZTVTRyU1p1X1NRUUxGejFWQkFNcGxuazJxNVZiUmpPdTA5UEd1T2VEc1JBRjhaRE1k0gH6AUFVX3lxTE5rNmg0QU1wMFJDZTNBU0tFSV9Za2hZbkdlbk43dVBZcUFVMktOYjNKTXpmX3JHb0t5N0tEdlVCMkdxcFN1S2U5bUlxSDY0UWQ4ZXBFMUo0QXFIdTRDQnlWQVRpYTV3QlFJVE03RFVXT0I3ZGVsdEJCZzRfVUJrTXFfYnAxNWRrSXl6aWNsTHp4bklyaVBoM1E5N2Z5X0gxa3psOThWTjkyelRJRktWNlNQNFVsQmJyYzBmcE5QOXlCT0hJWnFGdFF5RF9XdUN3X3FvbEVXRHo4WnJoeUx2dVVWc09tOFE3bGszYmVpb3VQQzBsMC10aUh5bUE?oc=5"
+    },
+    {
+     "source": "ZiarulNational",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUFBVVXB0bFYweVp6cnpoekg3X0dmRjJybVlxV2RmbUYydlpzREFubVFUMnJwejZockFkX2NVYm1HQVE2Q2ZZUmhCVnZQZ2Y2TTBOeDNMU1JKOFdpblN1bFExeDdROU1MRkV2MWVESUFkTEZ5SlI3UTYwcUtSbXV3Z3lXQ1hrdWwxOWlqOEU1MFg4cVBUbG42TnhBcHE0ckZCZk9TcnJNRWNNbVZ6SUhBQ2VZSGdJT0k?oc=5"
+    },
+    {
+     "source": "Antena 3",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQjQxNEV6Z0doOEVoYUh1S01hd2EwN2l3WTJhYkpPSXBTVW9XYzNFbS1fbVU0aE9FTGRCVmE0TmRqcFdWYk1TajhoU0tKRzZzMFNTNXkzYXZJNzBEWURjb2hOMlA1MU5ZdzFJVFRKZEJnN1FzNDR3Y1VpVzZTbERudVlIMlVndS02RHdhZi1SYXdZQWF3eUYtWDhiRHg2SjNKQ2EwYTd2b3V6d210VHJlamk2cDZDbllhbGRSTmlfSVc5V3hHY0ZIS190eGFrSGtQT0NYVDVjNGV6U1I2eUdoMktQZ016YWNaYkg5Q0VIbzFrQ21BLWFCSXZRZUVKNVpVZGtj0gH-AUFVX3lxTE55T1l3bFR2ZzZFeEpYRVRYalZHQWUtMVlQVHQ1X2s0bGlSakI3em95cHNNWlJSY2JTSkRfNW1Sd05DajdHbzdkUHAtYk5ZaUVUSFo5M3lldmdDeFRJZE1DWUVfZV9VU1lhLVpUZTNjdWhzbGNsZ3pHekpSSXA1M1B2QmIwR011M1VzY1BjY20tMkJLQ1pLUUxqd1lub2FDN19XMW00cFAwZFVmMGFQTFVJeVRLUWpsaFc3WHBzaUFfdTNaZzJyZmtMMUY0NXR2a240ZmUydUg4R1R3N2p0M1UzeTR4UmZwOEFMT1BTYjdNYl9tNUtybklTZ2Q5endn?oc=5"
+    }
+   ],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "7831c0b59566",
