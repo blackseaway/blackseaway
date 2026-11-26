@@ -1,6 +1,32 @@
 {
- "updated": "2026-11-26T13:30:50Z",
+ "updated": "2026-11-26T14:45:12Z",
  "items": [
+  {
+   "id": "8358e5f80bf2",
+   "lang": "en",
+   "title": "Russia hit two ships carrying 100,000 tons of grain near Odesa, Ukraine says",
+   "titles": {
+    "en": "Russia hit two ships carrying 100,000 tons of grain near Odesa, Ukraine says",
+    "ro": "Rusia a lovit două nave care transportau 100.000 de tone de cereale în apropiere de Odesa, afirmă Ucraina",
+    "bg": "Русия е ударила два кораба, превозващи 100 000 тона зърно, близо до Одеса, съобщава Украйна"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNemFCUWFHZWE2MHpqdTZrNTdKMU5jZ1NKNWJTZE1OVEphVEpIbEk5VFBLS1ladER4QlNxZFVVdUpaME1XY2F3MFQxU3hjZ01mYWl2N2NNZkJ2ZW1QVUZBcGVyYldzd2tXeTlHVXg5T1ppZl9vazlvYnlKbXhyNW1wSVNEZlIzcXE4a29aTG1TLUt0MEplUXJYeFdQSQ?oc=5",
+   "source": "MLQ.ai",
+   "published": "2026-11-26T13:09:21Z",
+   "fetched": "2026-11-26T14:42:31Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "shipping",
+    "grain"
+   ],
+   "places": [
+    "odesa"
+   ],
+   "also": [],
+   "img_checked": true
+  },
   {
    "id": "8d66ac089509",
    "lang": "en",
@@ -20,30 +46,6 @@
    "topics": [
     "insurance",
     "grain"
-   ],
-   "places": [],
-   "also": [],
-   "img_checked": true
-  },
-  {
-   "id": "c620e4c133ae",
-   "lang": "en",
-   "title": "China Urges Safety For Black Sea Shipping As EU Calls It The World's Deadliest Maritime Route",
-   "titles": {
-    "en": "China Urges Safety For Black Sea Shipping As EU Calls It The World's Deadliest Maritime Route",
-    "ro": "China solicită măsuri de siguranță pentru transportul maritim pe Marea Neagră, în timp ce UE o califică drept cea mai periculoasă rută maritimă din lume",
-    "bg": "Китай призовава за безопасност на корабоплаването в Черно море, докато ЕС го определя като най-смъртоносния морски маршрут в света"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aTzlFY29GZEV1bVVuNlpqa1JEZTJ1OWFmZjcwSlV6WDFzeEFfaFZKTmFiek5iMUp6NFhaUjgzSEhFSFFhUlE1LTI5UEx1c3J4SjFqLXVnakF3T3VFcTdjSG8zd1FqT19IWGV4cnpOVUM4bi15?oc=5",
-   "source": "Marine Insight",
-   "published": "2026-11-26T11:30:14Z",
-   "fetched": "2026-11-26T13:28:33Z",
-   "image": "",
-   "fallback_image": "",
-   "topics": [
-    "policy",
-    "shipping"
    ],
    "places": [],
    "also": [],
@@ -149,6 +151,37 @@
    "img_checked": true
   },
   {
+   "id": "8b46b040dfff",
+   "lang": "en",
+   "title": "China Urges Safety For Black Sea Shipping As EU Calls It The World’s Deadliest Maritime Route",
+   "titles": {
+    "en": "China Urges Safety For Black Sea Shipping As EU Calls It The World’s Deadliest Maritime Route",
+    "ro": "China solicită măsuri de siguranță pentru transportul maritim pe Marea Neagră, în timp ce UE o califică drept cea mai periculoasă rută maritimă din lume",
+    "bg": "Китай призовава за безопасност на корабоплаването в Черно море, докато ЕС го определя като най-смъртоносния морски маршрут в света"
+   },
+   "summary": "Panama’s representative said that cargo vessels under the Panamanian flag have suffered damage in Ukrainian ports and the Black Sea as well as nearby areas. The head of the European Union’s delegation ...",
+   "url": "https://www.marineinsight.com/china-protect-black-sea-shipping-un/",
+   "source": "Marine Insight",
+   "published": "2026-11-26T04:00:00Z",
+   "fetched": "2026-11-26T14:42:31Z",
+   "image": "https://www.marineinsight.com/wp-content/uploads/2026/11/Merchant-vessel-in-Black-Sea.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.5ITPzcqR8Tg6worVePu-Mw&pid=News",
+   "topics": [
+    "policy",
+    "shipping",
+    "ports"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "Marine Insight",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aTzlFY29GZEV1bVVuNlpqa1JEZTJ1OWFmZjcwSlV6WDFzeEFfaFZKTmFiek5iMUp6NFhaUjgzSEhFSFFhUlE1LTI5UEx1c3J4SjFqLXVnakF3T3VFcTdjSG8zd1FqT19IWGV4cnpOVUM4bi15?oc=5"
+    }
+   ],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "bca5e826e35e",
    "lang": "en",
    "title": "“The situation in the Black Sea near Sulina is becoming critical,” says Yugekotop co-founder Kozyr",
@@ -220,6 +253,28 @@
    ],
    "places": [],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "66563c5cbee2",
+   "lang": "ro",
+   "title": "România are gazul, dar îl poate proteja? Avertisment privind riscurile care amenință comoara din Marea Neagră",
+   "titles": {
+    "ro": "România are gazul, dar îl poate proteja? Avertisment privind riscurile care amenință comoara din Marea Neagră"
+   },
+   "summary": "Exploatarea gazelor din Marea Neagră ar putea transforma România într-un actor energetic important în Europa, însă războiul din Ucraina și riscurile de securitate din regiune ridică o problemă majoră: ...",
+   "url": "https://www.money.ro/stiri/romania-are-gazul-dar-il-poate-proteja-avertisment-privind-riscurile-care-amenin-mwxmiwxz",
+   "source": "Money.ro",
+   "published": "2026-11-25T18:04:00Z",
+   "fetched": "2026-11-26T14:42:31Z",
+   "image": "https://money-ro-cdn.sorin-freciu.workers.dev/storage/v1/object/public/media/articles/1795701803997-kqf56i9soxm.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.km8_AIhSNrRC7hEwkAdsVw&pid=News",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -1842,28 +1897,6 @@
    "img_checked": true
   },
   {
-   "id": "0901cb16c348",
-   "lang": "bg",
-   "title": "US Strikes Merchant Vessels Near Hormuz but Points at Russia over Black Sea Attacks - Maritime.bg",
-   "titles": {
-    "bg": "US Strikes Merchant Vessels Near Hormuz but Points at Russia over Black Sea Attacks - Maritime.bg"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBIckVNTkxqak9iaXd4Y3Nuam1ZVGR6bXVlOFFuZzd2SEdIcmdKcEF0R3VZcks3RjlQVU0xYnFmTERYMmFIaXc?oc=5",
-   "source": "Maritime.bg - Морският портал",
-   "published": "2026-11-24T07:19:53Z",
-   "fetched": "2026-11-26T07:20:39Z",
-   "image": "",
-   "fallback_image": "",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "also": [],
-   "img_checked": true
-  },
-  {
    "id": "8ca4072383fb",
    "lang": "bg",
    "title": "Двоен аршин: САЩ поразяват търговски кораби в Ормузкия проток, но сочат Москва за атаките в Черно море - Maritime.bg",
@@ -2312,6 +2345,35 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "3cd94d520ff7",
+   "lang": "en",
+   "title": "US Strikes Merchant Vessels Near Hormuz but Points at Russia over Black Sea Attacks",
+   "titles": {
+    "en": "US Strikes Merchant Vessels Near Hormuz but Points at Russia over Black Sea Attacks"
+   },
+   "summary": "US envoy to NATO blamed Russia for Black Sea ship attacks without evidence, while US forces strike merchant ships near Hormuz.",
+   "url": "https://www.maritime.bg/158645/",
+   "source": "maritime",
+   "published": "2026-11-24T01:19:00Z",
+   "fetched": "2026-11-26T14:42:31Z",
+   "image": "https://www.maritime.bg/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-90641-scaled.png",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "Maritime.bg - Морският портал",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBIckVNTkxqak9iaXd4Y3Nuam1ZVGR6bXVlOFFuZzd2SEdIcmdKcEF0R3VZcks3RjlQVU0xYnFmTERYMmFIaXc?oc=5"
+    }
+   ],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "096e46587700",
@@ -3942,23 +4004,30 @@
   {
    "id": "c1111f707b79",
    "lang": "en",
-   "title": "No safe harbour as maritime war spreads beyond Black Sea",
+   "title": "‘Criminal Zelensky…’: Putin’s fiery attack on Kyiv for spreading ‘maritime terror’ beyond Black Sea",
    "titles": {
-    "en": "No safe harbour as maritime war spreads beyond Black Sea"
+    "en": "‘Criminal Zelensky…’: Putin’s fiery attack on Kyiv for spreading ‘maritime terror’ beyond Black Sea"
    },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWnZkSkVWSEpxSUNhb0tlSWJRdFRuQXRfLW0yLW9lQ0ZaazdmeWN6RUNoUGJnOVpoVUpXclkxdDF6LWN0Y2MwOGtlZkl4a0hUZ1h4OFdKWTBnVlk4Ml9wZUc5b1BxNjlWS2xtb2FrR3dyTHBEN2JrNTk0QUJFZmd5VFBUWVkwZw?oc=5",
-   "source": "Splash247",
+   "summary": "Russia has accused Ukraine of expanding its maritime attacks into the Mediterranean Sea, warning that strikes on Russian vessels off Libya's coast threaten international shipping and global food ...",
+   "url": "https://www.msn.com/en-in/news/other/criminal-zelensky-putin-s-fiery-attack-on-kyiv-for-spreading-maritime-terror-beyond-black-sea/vi-AA2i5Lhs",
+   "source": "The Times of India on MSN",
    "published": "2026-11-23T07:31:17Z",
    "fetched": "2026-11-26T07:20:39Z",
    "image": "",
    "fallback_image": "",
    "topics": [
-    "ports"
+    "attacks",
+    "shipping"
    ],
    "places": [],
-   "also": [],
-   "img_checked": true
+   "also": [
+    {
+     "source": "Splash247",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWnZkSkVWSEpxSUNhb0tlSWJRdFRuQXRfLW0yLW9lQ0ZaazdmeWN6RUNoUGJnOVpoVUpXclkxdDF6LWN0Y2MwOGtlZkl4a0hUZ1h4OFdKWTBnVlk4Ml9wZUc5b1BxNjlWS2xtb2FrR3dyTHBEN2JrNTk0QUJFZmd5VFBUWVkwZw?oc=5"
+    }
+   ],
+   "img_checked": true,
+   "img_tried": true
   },
   {
    "id": "1fe9a68de16d",
