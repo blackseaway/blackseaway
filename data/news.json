@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:15:33Z",
+ "updated": "2026-11-26T17:20:23Z",
  "items": [
   {
    "id": "8d66ac089509",
@@ -98,40 +98,6 @@
     "danube"
    ],
    "also": [],
-   "img_checked": true
-  },
-  {
-   "id": "79b62aa791fd",
-   "lang": "en",
-   "title": "Russia attacks two foreign grain ships near Odesa, Ukrainian prime minister says",
-   "titles": {
-    "en": "Russia attacks two foreign grain ships near Odesa, Ukrainian prime minister says",
-    "ro": "Rusia atacă două nave străine care transportă cereale în apropiere de Odesa, afirmă prim-ministrul ucrainean",
-    "bg": "Русия атакува два чуждестранни кораба с зърно край Одеса, заяви украинският министър-председател"
-   },
-   "summary": "Russia attacks two foreign grain ships near Odesa, Ukrainian prime minister says. Prime Minister Serhii Koretskyi said the vessels carried more than 100,000 metric tons of grain, while Moscow reported ...",
-   "url": "https://www.kiprinform.com/en/news/russia-attacks-two-foreign-grain-ships-near-odesa-ukrainian-prime-minister-says/",
-   "source": "kiprinform",
-   "published": "2026-11-26T06:55:00Z",
-   "fetched": "2026-11-26T15:01:28Z",
-   "image": "https://www.kiprinform.com/wp-content/uploads/2026/11/cyinform-war-ukraine.webp",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.-MqiLP8mfMaOh5nPJcu6EA&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping",
-    "grain"
-   ],
-   "places": [
-    "odesa"
-   ],
-   "also": [
-    {
-     "source": "MLQ.ai",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNemFCUWFHZWE2MHpqdTZrNTdKMU5jZ1NKNWJTZE1OVEphVEpIbEk5VFBLS1ladER4QlNxZFVVdUpaME1XY2F3MFQxU3hjZ01mYWl2N2NNZkJ2ZW1QVUZBcGVyYldzd2tXeTlHVXg5T1ppZl9vazlvYnlKbXhyNW1wSVNEZlIzcXE4a29aTG1TLUt0MEplUXJYeFdQSQ?oc=5"
-    }
-   ],
-   "img_tried": true,
    "img_checked": true
   },
   {
@@ -242,6 +208,48 @@
    "img_checked": true
   },
   {
+   "id": "ccdbb6f02870",
+   "lang": "en",
+   "title": "Ukraine says Russia hits two grain ships near Odesa ports",
+   "titles": {
+    "en": "Ukraine says Russia hits two grain ships near Odesa ports",
+    "ro": "Ucraina afirmă că Rusia a lovit două nave de transport cereale în apropierea porturilor din Odesa",
+    "bg": "Украйна твърди, че Русия е ударила два кораба с зърно в близост до пристанищата в Одеса"
+   },
+   "summary": "Russia attacked two foreign cargo ships carrying more than 100,000 metric tons of grain overnight near Ukraine's Black Sea port of Odesa, ​Ukrainian Prime Minister Sergiy Koretskyi said on Thursday.",
+   "url": "https://wsau.com/2026/11/26/ukraine-says-russia-hits-two-grain-ships-near-odesa-ports/",
+   "source": "WSAU",
+   "published": "2026-11-25T20:50:00Z",
+   "fetched": "2026-11-26T17:17:24Z",
+   "image": "https://www.kiprinform.com/wp-content/uploads/2026/11/cyinform-war-ukraine.webp",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping",
+    "grain",
+    "ports"
+   ],
+   "places": [
+    "odesa"
+   ],
+   "also": [
+    {
+     "source": "kiprinform",
+     "url": "https://www.kiprinform.com/en/news/russia-attacks-two-foreign-grain-ships-near-odesa-ukrainian-prime-minister-says/"
+    },
+    {
+     "source": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNemFCUWFHZWE2MHpqdTZrNTdKMU5jZ1NKNWJTZE1OVEphVEpIbEk5VFBLS1ladER4QlNxZFVVdUpaME1XY2F3MFQxU3hjZ01mYWl2N2NNZkJ2ZW1QVUZBcGVyYldzd2tXeTlHVXg5T1ppZl9vazlvYnlKbXhyNW1wSVNEZlIzcXE4a29aTG1TLUt0MEplUXJYeFdQSQ?oc=5"
+    },
+    {
+     "source": "Business Standard",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcW5pZ1JMcF9iWERBdkJ6Wmp6Y1lFcE0yZnY0bFdwUmdfSmFGN040T05SZmE5c1RRNHNoWmtoVzZIMmFoU1ZWV19CZ2lXVF9YdGtDcjgzYzNETlZqVUkwNWFlSGVRSTl1ZVV2WUVkSjd2X0pOSWpyRGRxclZRUmdMYk51SWxUbEpIakVZMXR0eDZfZDl0UTdwZ3owaHdyRk1naTJ2c1FfbXY4YTllWU9LaF9CUy1WZ28wR3VmdGRWMUl0c3JrUm4wbTYwNDduOVBZN3lMd2JPY9IB3AFBVV95cUxPVjhqVTVELWJaTnp2UXlQb21fdDBobUc0MUdQQnZpQmxWRTNZbFoyMzlpT1Fzam1oLWlISnU1QlJyZWt0Q09aRTlSOUhxOGdGam1BaXVCeFliRzBoUFdwTEZ2ZU5SakN6VjRUajJaZnVaaGE3WXhhSzVWaElrTDhURmd5RHZIWXA2eWZGV1FCVEhMSHJUY095YXJUdXQ1VDNXa2h2ZlFJUEdFVExVQXpzLVQ4M05ranVBQnJpUlZvbEZ1VGliQVNZeDhRTElsTW12WFNVVHRQX1hhd0dp?oc=5"
+    }
+   ],
+   "img_checked": true
+  },
+  {
    "id": "3b5551f03f77",
    "lang": "en",
    "title": "Black Sea shipwreck: investigators examine drone attack",
@@ -293,36 +301,6 @@
    "img_checked": true
   },
   {
-   "id": "28b68f5c4830",
-   "lang": "bg",
-   "title": "Украинският премиер съобщи за два ударени кораба със зърно край Одеса",
-   "titles": {
-    "bg": "Украинският премиер съобщи за два ударени кораба със зърно край Одеса",
-    "en": "The Ukrainian Prime Minister reported that two ships carrying grain had been hit off the coast of Odessa",
-    "ro": "Prim-ministrul ucrainean a anunțat că două nave încărcate cu cereale au fost lovite în largul Odessei"
-   },
-   "summary": "Сергий Корецки съобщи за атака срещу два кораба с над 100 000 тона зърно край Одеса. Украинските пристанища съобщават и за други инциденти с дронове.",
-   "url": "https://paragraf.bg/ukrainskiyat-premier-saobshti-za-dva-udareni-koraba-sas-zarno-kraj-odesa/",
-   "source": "paragraf",
-   "published": "2026-11-25T19:27:00Z",
-   "fetched": "2026-11-26T16:13:24Z",
-   "image": "https://paragraf.bg/wp-content/uploads/socialmark-images/1795706968164208.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.3MggSVtQfvyS8ejivEQyCQ&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping",
-    "grain",
-    "ports"
-   ],
-   "places": [
-    "odesa"
-   ],
-   "also": [],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
    "id": "74d7e8c8e857",
    "lang": "bg",
    "title": "Нови атаки срещу търговски кораби в Черно море",
@@ -355,7 +333,9 @@
    "lang": "bg",
    "title": "Русия атакува два чуждестранни кораба с над 100 000 тона зърно в Черно море",
    "titles": {
-    "bg": "Русия атакува два чуждестранни кораба с над 100 000 тона зърно в Черно море"
+    "bg": "Русия атакува два чуждестранни кораба с над 100 000 тона зърно в Черно море",
+    "en": "Russia has attacked two foreign ships carrying over 100,000 tonnes of grain in the Black Sea",
+    "ro": "Rusia a atacat două nave străine care transportau peste 100 000 de tone de cereale în Marea Neagră"
    },
    "summary": "Два чуждестранни товарни кораба, превозващи общо над 100 000 тона зърно, са били атакувани от руските сили през изминалата нощ в Черно море край украинскот... Прочетете цялата новина тук на Vesti.bg ...",
    "url": "https://www.vesti.bg/sviat/rusiia-atakuva-dva-chuzhdestranni-koraba-s-nad-100-000-tona-zyrno-v-cherno-more-6277422",
@@ -373,6 +353,14 @@
     {
      "source": "Blitz.bg",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQWFxcjNfdHBFMHhyVGNpZUJMSEp2V0Vpb0ZUODFqR256aXN2ZE9kUnlPalJsNTM5S3ZaQ2pqT3p4NlFzUjRFZW1OZXZ0MGpXenpjSlBTUkdmU3N1LXpEbVpxdEd3cVZsQ2JJczQ5SWNtaFM0Mko5bnRKOTQtcERCUEd0QWI5SnN6bkRSRWhXT3E1RkhSbkpCamtwemI?oc=5"
+    },
+    {
+     "source": "Блиц",
+     "url": "https://blitz.bg/voinite/rusiya-atakuva-dva-chuzhdestranni-koraba-v-cherno-more_news1184348.html"
+    },
+    {
+     "source": "NewsPoint.bg",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYzFxS09EVXczTHB3SUZKV1RObjFCVDBzdUJRTXByRG9pR0lTWHhnUV9RSDNqcVZnTDlzX3JiSFM4MF9BaVpaalQ0TlRnWURyNXpkS1lOWGY2UktuU2RxZzY1VlZHVXYtblVrd29yelpRbktHSEpqSWRHQ3lzN0FRT0g2a3FRdl9kVEFFRFhHMmVGRmtjQXNiVWVrSlpNdw?oc=5"
     }
    ],
    "img_tried": true,
@@ -1619,28 +1607,37 @@
   {
    "id": "6050460f9cf0",
    "lang": "bg",
-   "title": "Нова атака в Черно море! Русия удари кораб с военен товар край Одеса",
+   "title": "Украинският премиер съобщи за два ударени кораба със зърно край Одеса",
    "titles": {
-    "bg": "Нова атака в Черно море! Русия удари кораб с военен товар край Одеса",
-    "en": "Another attack in the Black Sea! Russia strikes a ship carrying military cargo off the coast of Odessa",
-    "ro": "Un nou atac în Marea Neagră! Rusia a lovit o navă cu încărcătură militară în largul Odessei"
+    "bg": "Украинският премиер съобщи за два ударени кораба със зърно край Одеса",
+    "en": "The Ukrainian Prime Minister reported that two ships carrying grain had been hit off the coast of Odessa",
+    "ro": "Prim-ministrul ucrainean a anunțat că două nave încărcate cu cereale au fost lovite în largul Odessei"
    },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUFJXNHdJNzc1MGdZQWVVM0c5U0xwTEhIb0dERVZlNHhYMVY5MEdtOUg1TUxxMmU2OGxPYTh2c0FBT18yVlkxZ0dqRzZmRkw2SDNyMzlFeE1QY2lDSXVLU1lpNkRGNVNUc2FhSUszQzBsRlVCVnNFOVJSU2lYREZzOExDcmRYc1dkTnk0RUVrQ2FPQkM2?oc=5",
-   "source": "SafeNews.bg",
+   "summary": "Сергий Корецки съобщи за атака срещу два кораба с над 100 000 тона зърно край Одеса. Украинските пристанища съобщават и за други инциденти с дронове.",
+   "url": "https://paragraf.bg/ukrainskiyat-premier-saobshti-za-dva-udareni-koraba-sas-zarno-kraj-odesa/",
+   "source": "paragraf",
    "published": "2026-11-24T14:25:49Z",
    "fetched": "2026-11-26T07:20:39Z",
-   "image": "",
-   "fallback_image": "",
+   "image": "https://paragraf.bg/wp-content/uploads/socialmark-images/1795706968164208.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.3MggSVtQfvyS8ejivEQyCQ&pid=News",
    "topics": [
+    "policy",
     "attacks",
-    "shipping"
+    "shipping",
+    "grain",
+    "ports"
    ],
    "places": [
     "odesa"
    ],
-   "also": [],
-   "img_checked": true
+   "also": [
+    {
+     "source": "SafeNews.bg",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUFJXNHdJNzc1MGdZQWVVM0c5U0xwTEhIb0dERVZlNHhYMVY5MEdtOUg1TUxxMmU2OGxPYTh2c0FBT18yVlkxZ0dqRzZmRkw2SDNyMzlFeE1QY2lDSXVLU1lpNkRGNVNUc2FhSUszQzBsRlVCVnNFOVJSU2lYREZzOExDcmRYc1dkTnk0RUVrQ2FPQkM2?oc=5"
+    }
+   ],
+   "img_checked": true,
+   "img_tried": true
   },
   {
    "id": "9aba8a8682da",
@@ -3540,6 +3537,10 @@
     {
      "source": "Блиц",
      "url": "https://blitz.bg/politika/amerikanskiyat-poslanik-v-nato-nayasno-sme-che-atakite-sreshtu-korabi-v-cherno-more-idvat-ot-rusiya_news1183862.html"
+    },
+    {
+     "source": "БУДНАЕРА",
+     "url": "https://budnaera.com/2026m/2026-11/26-11-24-98de3.html"
     }
    ]
   },
@@ -3778,7 +3779,12 @@
    "places": [],
    "img_tried": true,
    "img_checked": true,
-   "also": []
+   "also": [
+    {
+     "source": "Maritime.bg - Морският портал",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9haE9WWlRhQ0ZMQ1RidGtWdmlZa3BpbVB0QV9mMENSMHBKeVExeXpXbEVBd0xOME1JaklKNGRuT016MlVrWGc?oc=5"
+    }
+   ]
   },
   {
    "id": "492c96aa60b3",
