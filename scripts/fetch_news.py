@@ -211,6 +211,11 @@ def is_blocked(item: dict, sources: dict) -> bool:
 
 def collect(sources: dict) -> list[dict]:
     jobs = [(google_news_url(g["q"], g["lang"]), g["lang"], None, True) for g in sources["google_news"]]
+    # url of a site: query -> the site's domain
+    trusted_urls = {google_news_url(g["q"], g["lang"]): g["q"].split()[0][5:]
+                    for g in sources["google_news"] if g["q"].startswith("site:")}
+    trusted_urls |= {bing_url(b["q"], b["mkt"]): b["q"].split()[0][5:]
+                     for b in sources.get("bing", []) if b["q"].startswith("site:")}
     jobs += [(f["url"], f["lang"], f["name"], False) for f in sources["feeds"]]
     jobs += [(bing_url(b["q"], b["mkt"]), b["lang"], None, False) for b in sources.get("bing", [])]
     jobs += [("gdelt:" + g["q"], g["lang"], None, False) for g in sources.get("gdelt", [])]
@@ -248,7 +253,11 @@ def collect(sources: dict) -> list[dict]:
             if re.search(r"[ыэё]", (title + " " + summary).lower()):
                 continue  # Russian-language text (Bulgarian has no ы, э, ё)
             ok, topics, places = classify(f"{title} \x1f {summary}", sources)
-            if not ok:
+            # priority sites, searched with "Black Sea" in the query; Bing may ignore site:, so check the link
+            site = trusted_urls.get(url)
+            host = (urllib.parse.urlparse(e["url"]).hostname or "").lower()
+            trusted = bool(site) and (is_gn or host == site or host.endswith("." + site))
+            if not ok and not trusted:
                 continue
             out.append({
                 "id": short_hash(normalize(title)[:90]),
@@ -264,6 +273,7 @@ def collect(sources: dict) -> list[dict]:
                 "fallback_image": e.get("fallback_image", ""),
                 "topics": topics,
                 "places": places,
+                **({"trusted": True} if trusted else {}),
             })
             kept += 1
         label = name or ("GDELT " + lang if url.startswith("gdelt:") else
@@ -470,7 +480,7 @@ def main():
     for i in items:
         ok, i["topics"], i["places"] = classify(f"{i['title']} \x1f {i.get('summary', '')}", sources)
         i["also"] = [a for a in i.get("also", []) if not is_blocked(a, sources)]
-        if ok and not is_blocked(i, sources):
+        if (ok or i.get("trusted")) and not is_blocked(i, sources):
             kept.append(i)
     items = kept
     cutoff = now_utc() - dt.timedelta(days=cfg["news"]["max_age_days"])
