@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:16:10Z",
+ "updated": "2026-11-26T16:15:33Z",
  "items": [
   {
    "id": "8d66ac089509",
@@ -266,6 +266,63 @@
    "img_checked": true
   },
   {
+   "id": "a290a2e1929f",
+   "lang": "ro",
+   "title": "FOTO&VIDEO Mii de parfumuri contrafăcute, găsite în container în Portul Constanța. Veneau din India, pentru Republica Moldova",
+   "titles": {
+    "ro": "FOTO&VIDEO Mii de parfumuri contrafăcute, găsite în container în Portul Constanța. Veneau din India, pentru Republica Moldova",
+    "en": "PHOTOS & VIDEO: Thousands of counterfeit perfumes found in a container at the Port of Constanța. They were coming from India, bound for the Republic of Moldova",
+    "bg": "ФОТО И ВИДЕО: Хиляди фалшиви парфюми, открити в контейнер в пристанището на Констанца. Те са били предназначени за Република Молдова и са дошли от Индия"
+   },
+   "summary": "Mii de parfumuri susceptibile a fi contrafăcute, în valoare de peste 2,5 milioane de lei, găsite într-un container sosit în Portul Constanța.",
+   "url": "https://www.profit.ro/stiri/social/foto-video-mii-de-parfumuri-contrafacute-gasite-in-container-in-portul-constanta-veneau-din-india-pentru-republica-moldova-23012610",
+   "source": "PROFIT.ro",
+   "published": "2026-11-25T19:42:00Z",
+   "fetched": "2026-11-26T16:13:24Z",
+   "image": "https://www.bing.com/th?id=ONUT.Q7_CJaRmQv5iSLddrYcDeg&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.Q7_CJaRmQv5iSLddrYcDeg&pid=News",
+   "topics": [
+    "shipping",
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "28b68f5c4830",
+   "lang": "bg",
+   "title": "Украинският премиер съобщи за два ударени кораба със зърно край Одеса",
+   "titles": {
+    "bg": "Украинският премиер съобщи за два ударени кораба със зърно край Одеса",
+    "en": "The Ukrainian Prime Minister reported that two ships carrying grain had been hit off the coast of Odessa",
+    "ro": "Prim-ministrul ucrainean a anunțat că două nave încărcate cu cereale au fost lovite în largul Odessei"
+   },
+   "summary": "Сергий Корецки съобщи за атака срещу два кораба с над 100 000 тона зърно край Одеса. Украинските пристанища съобщават и за други инциденти с дронове.",
+   "url": "https://paragraf.bg/ukrainskiyat-premier-saobshti-za-dva-udareni-koraba-sas-zarno-kraj-odesa/",
+   "source": "paragraf",
+   "published": "2026-11-25T19:27:00Z",
+   "fetched": "2026-11-26T16:13:24Z",
+   "image": "https://paragraf.bg/wp-content/uploads/socialmark-images/1795706968164208.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.3MggSVtQfvyS8ejivEQyCQ&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping",
+    "grain",
+    "ports"
+   ],
+   "places": [
+    "odesa"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "74d7e8c8e857",
    "lang": "bg",
    "title": "Нови атаки срещу търговски кораби в Черно море",
@@ -290,6 +347,34 @@
     "odesa"
    ],
    "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "4d09ded7153f",
+   "lang": "bg",
+   "title": "Русия атакува два чуждестранни кораба с над 100 000 тона зърно в Черно море",
+   "titles": {
+    "bg": "Русия атакува два чуждестранни кораба с над 100 000 тона зърно в Черно море"
+   },
+   "summary": "Два чуждестранни товарни кораба, превозващи общо над 100 000 тона зърно, са били атакувани от руските сили през изминалата нощ в Черно море край украинскот... Прочетете цялата новина тук на Vesti.bg ...",
+   "url": "https://www.vesti.bg/sviat/rusiia-atakuva-dva-chuzhdestranni-koraba-s-nad-100-000-tona-zyrno-v-cherno-more-6277422",
+   "source": "Vesti.bg",
+   "published": "2026-11-25T18:59:00Z",
+   "fetched": "2026-11-26T16:13:24Z",
+   "image": "https://m3.netinfo.bg/media/images/51395/51395348/1920-1080-tyrgovski-korab-cherno-more.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.9ub-VTrPsVJt7rUrYiB1zQ&pid=News",
+   "topics": [
+    "shipping",
+    "grain"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "Blitz.bg",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQWFxcjNfdHBFMHhyVGNpZUJMSEp2V0Vpb0ZUODFqR256aXN2ZE9kUnlPalJsNTM5S3ZaQ2pqT3p4NlFzUjRFZW1OZXZ0MGpXenpjSlBTUkdmU3N1LXpEbVpxdEd3cVZsQ2JJczQ5SWNtaFM0Mko5bnRKOTQtcERCUEd0QWI5SnN6bkRSRWhXT3E1RkhSbkpCamtwemI?oc=5"
+    }
+   ],
    "img_tried": true,
    "img_checked": true
   },
