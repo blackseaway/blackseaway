@@ -5,7 +5,7 @@ title: About Black Sea Way
 
 ## What we do
 
-- **News monitoring.** Every three hours our system collects news from international, Romanian and Bulgarian media, tags it by topic and place, and translates the headlines into English, Romanian and Bulgarian. Each headline links to the original publisher. We do not republish full texts.
+- **News monitoring.** Every hour our system collects news from international, Romanian and Bulgarian media, tags it by topic and place, and translates the headlines into English, Romanian and Bulgarian. Each headline links to the original publisher. We do not republish full texts.
 - **Data.** We put the key figures in one place: insurance premiums, cargo volumes, incidents. Each figure carries its date and source. The charts and the map are calculated automatically from the news we collect.
 - **Analysis.** Our editorial team writes explainers and investigations for logistics professionals, journalists and policymakers.
 

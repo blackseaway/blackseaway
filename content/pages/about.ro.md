@@ -5,7 +5,7 @@ title: Despre Black Sea Way
 
 ## Ce facem
 
-- **Monitorizarea știrilor.** La fiecare trei ore, sistemul nostru colectează știri din presa internațională, română și bulgară, le etichetează după temă și loc și traduce titlurile în engleză, română și bulgară. Fiecare titlu duce la publicația originală. Nu republicăm texte integrale.
+- **Monitorizarea știrilor.** În fiecare oră, sistemul nostru colectează știri din presa internațională, română și bulgară, le etichetează după temă și loc și traduce titlurile în engleză, română și bulgară. Fiecare titlu duce la publicația originală. Nu republicăm texte integrale.
 - **Date.** Adunăm cifrele-cheie într-un singur loc: prime de asigurare, volume de marfă, incidente. Fiecare cifră are data și sursa ei. Graficele și harta sunt calculate automat din știrile pe care le colectăm.
 - **Analize.** Redacția noastră scrie explicații și investigații pentru profesioniștii din logistică, jurnaliști și factori de decizie.
 
