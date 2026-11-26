@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T07:57:42Z",
+ "updated": "2026-11-26T08:09:56Z",
  "items": [
   {
    "id": "f7d4edc1927d",
@@ -101,7 +101,9 @@
    "lang": "ro",
    "title": "15 Noiembrie 2026 - Pericol de securitate în Marea Neagră. Luca Niculescu: „A fost încălcat dreptul internațional”",
    "titles": {
-    "ro": "15 Noiembrie 2026 - Pericol de securitate în Marea Neagră. Luca Niculescu: „A fost încălcat dreptul internațional”"
+    "ro": "15 Noiembrie 2026 - Pericol de securitate în Marea Neagră. Luca Niculescu: „A fost încălcat dreptul internațional”",
+    "en": "15 November 2026 – Security threat in the Black Sea. Luca Niculescu: “International law has been breached”",
+    "bg": "15 ноември 2026 г. – Заплаха за сигурността в Черно море. Лука Никулеску: „Беше нарушено международното право“"
    },
    "summary": "Premierul Luca Niculescu afirmă că securitatea maritimă în Marea Neagră a fost pusă în pericol încă o dată, după ce trei nave comerciale au fost lovite de drone, în largul localității ...",
    "url": "https://ziare.com/cautare/raul-domos-romania-pag39",
@@ -125,7 +127,9 @@
    "lang": "ro",
    "title": "Generalul Gabriel Oprea: ”190 de atacuri lângă granița României. Nu cerem război, cerem un scut la Marea Neagră”",
    "titles": {
-    "ro": "Generalul Gabriel Oprea: ”190 de atacuri lângă granița României. Nu cerem război, cerem un scut la Marea Neagră”"
+    "ro": "Generalul Gabriel Oprea: ”190 de atacuri lângă granița României. Nu cerem război, cerem un scut la Marea Neagră”",
+    "en": "General Gabriel Oprea: “190 attacks near Romania’s border. We are not calling for war; we are calling for a defence shield in the Black Sea”",
+    "bg": "Генерал Габриел Опреа: „190 нападения в близост до границата на Румъния. Не искаме война, искаме защитен щит в Черно море“"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQS3NGVDJkZVJPYnVwZkEtUEI2MkpnSG91ZUxhYVlRTU5wUTBBTmNYRGVDc0NWanpOZC1KeWRfU0xmc2tVM2pDR3VzMFRWSENmVTdPWXlhVEdDcy1jZm9UeWJGMWxnbzB6WHlkdVpINnZ4UTFGS1hlNHpBODBSUzBiS2pzak04Tk9wTGRPZHhlSHNqUEx5b0p5ZEp2anY3UnVSdlRBVFg5cGw4TXBwTEdMZUR3d2ZrZklvbWgzSl8wQWtsQk82N2tJMmExTWZmUlBqZG9yWU9RNEJHc25vR3RNSjZXVjczbVhXLVh6OA?oc=5",
@@ -684,33 +688,6 @@
    "img_checked": true
   },
   {
-   "id": "f5ea43c45d17",
-   "lang": "ro",
-   "title": "Moş Crăciuni şi un urs polar au ieşit dintr-un container eşuat pe o plajă din Bulgaria. Decoraţiunile ar aparţine unei firme din România şi ar proveni de pe o navă scufundată în Marea Neagră după un atac cu drone",
-   "titles": {
-    "ro": "Moş Crăciuni şi un urs polar au ieşit dintr-un container eşuat pe o plajă din Bulgaria. Decoraţiunile ar aparţine unei firme din România şi ar proveni de pe o navă scufundată în Marea Neagră după un atac cu drone"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQVmxHdGs1bEF3VHBkQW02Y3RfeEtNTEg3OHlUcHNfY2VZUFJ4Z3VvV2ZWd3BhTWFGb2NUQjZ2aHBCc0NkZzA4ZnoyMWxVY2htTmF2SnVOaWdNcGxpeFNlY1NuSEFPbFJIdEtocmIwNDVPMjFYa1lQbGFSbG1RaTlFZEJaVlNmc1d3NEZDekNkeElxRmJIWUhWTzc1M2JUME9jYk9KbFZHMWFqT2ZOb2xNU28tSHJqbFJ2YWhaZ2xfTFZNTXlyRGlZVGdOSDFsUFFkUVdGenQ4RnBnNGR4bTI5b1BucTBscGk2dmpkeHBRbkV0eEdWdWJXNVBLbnd5R3NaX3ROdVZtdnVHYlpJb2FBUlNMdV9fS1ByV0VBb2tGem83ajlXWlY0MF9rcU9kZ2ppcThHck1SeEV5RWloaExySUVoUmVBYlYta1E?oc=5",
-   "source": "News.ro",
-   "published": "2026-11-24T23:15:00Z",
-   "fetched": "2026-11-26T07:20:39Z",
-   "image": "",
-   "fallback_image": "",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "also": [
-    {
-     "source": "Informat.ro",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORVdFLWdHVWQ2UEJXdVVaN0VDUDZ5cEtqbGpXZzBPN0Q1ZjNySTVZa1V4MFg0UzFoZHVpNnNRSkZOYnJlbTNPbC1FSkl0SWVNaUpSeU5DVUpUeWR2aUlOM0N5OFFJSUUtM1ZlMGJIcXN5M2RYOGU1dGhaay1aNkcwSW5MZkJUcDc5NjlWbzdHYmFwWXNpMExFckRaM3JDaEs4?oc=5"
-    }
-   ],
-   "img_checked": true
-  },
-  {
    "id": "997a45c7f7a5",
    "lang": "en",
    "title": "Bulgaria Wants More Surveillance in the Black Sea from Allies, Turkey Is Cautious",
@@ -866,6 +843,38 @@
      "url": "https://www.cotidianul.ro/cristela-georgescu-chemata-in-judecata-lichidatorul-unei-firme-din-portul-constanta-doreste-recuperarea-a-40-000-de-lei/"
     }
    ]
+  },
+  {
+   "id": "20e4560f2ea2",
+   "lang": "ro",
+   "title": "VIDEO Moș Crăciuni și urși polari, eșuați din drumul spre România pe o plajă din Bulgaria după un atac cu drone. Figurinele au căzut dintr-o navă scufundată",
+   "titles": {
+    "ro": "VIDEO Moș Crăciuni și urși polari, eșuați din drumul spre România pe o plajă din Bulgaria după un atac cu drone. Figurinele au căzut dintr-o navă scufundată"
+   },
+   "summary": "Decorațiuni cu Moș Crăciun și urși polari au ieșit dintr-un container eșuat pe o plajă din Bulgaria. Decorațiunile aparțin unei firme din România și provin de pe o navă scufundată în Marea Neagră după ...",
+   "url": "https://www.profit.ro/stiri/life/video-mos-craciuni-si-ursi-polari-esuati-din-drumul-spre-romania-pe-o-plaja-din-bulgaria-dupa-un-atac-cu-drone-figurinele-au-cazut-dintr-o-nava-scufundata-23008883",
+   "source": "PROFIT.ro",
+   "published": "2026-11-24T17:46:00Z",
+   "fetched": "2026-11-26T08:08:14Z",
+   "image": "https://www.bing.com/th?id=ONUT.Uz617fgwU3LNz5s_YUl6Qw&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.Uz617fgwU3LNz5s_YUl6Qw&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "News.ro",
+     "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQVmxHdGs1bEF3VHBkQW02Y3RfeEtNTEg3OHlUcHNfY2VZUFJ4Z3VvV2ZWd3BhTWFGb2NUQjZ2aHBCc0NkZzA4ZnoyMWxVY2htTmF2SnVOaWdNcGxpeFNlY1NuSEFPbFJIdEtocmIwNDVPMjFYa1lQbGFSbG1RaTlFZEJaVlNmc1d3NEZDekNkeElxRmJIWUhWTzc1M2JUME9jYk9KbFZHMWFqT2ZOb2xNU28tSHJqbFJ2YWhaZ2xfTFZNTXlyRGlZVGdOSDFsUFFkUVdGenQ4RnBnNGR4bTI5b1BucTBscGk2dmpkeHBRbkV0eEdWdWJXNVBLbnd5R3NaX3ROdVZtdnVHYlpJb2FBUlNMdV9fS1ByV0VBb2tGem83ajlXWlY0MF9rcU9kZ2ppcThHck1SeEV5RWloaExySUVoUmVBYlYta1E?oc=5"
+    },
+    {
+     "source": "Informat.ro",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORVdFLWdHVWQ2UEJXdVVaN0VDUDZ5cEtqbGpXZzBPN0Q1ZjNySTVZa1V4MFg0UzFoZHVpNnNRSkZOYnJlbTNPbC1FSkl0SWVNaUpSeU5DVUpUeWR2aUlOM0N5OFFJSUUtM1ZlMGJIcXN5M2RYOGU1dGhaay1aNkcwSW5MZkJUcDc5NjlWbzdHYmFwWXNpMExFckRaM3JDaEs4?oc=5"
+    }
+   ],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "f93043e2678c",
@@ -1376,6 +1385,31 @@
    "img_checked": true
   },
   {
+   "id": "9d93a8e0e731",
+   "lang": "ro",
+   "title": "Criza Neptun Deep. România, la un pas de o confruntare cu Rusia în Marea Neagră",
+   "titles": {
+    "ro": "Criza Neptun Deep. România, la un pas de o confruntare cu Rusia în Marea Neagră"
+   },
+   "summary": "Situația creată în jurul platformei a fost una extrem de tensionată. Neptun Deep se află la 160 de kilometri de Portul Constanța, efectiv în mijlocul Mării Negre. O navă de salvare avea nevoie de ...",
+   "url": "https://psnews.ro/criza-neptun-deep-romania-la-un-pas-de-o-confruntare-cu-rusia-in-marea-neagra/",
+   "source": "PS News",
+   "published": "2026-11-24T08:38:00Z",
+   "fetched": "2026-11-26T08:08:14Z",
+   "image": "https://psnews.ro/wp-content/uploads/2026/07/platforma-proiectului-neptun-deep-a-fost-instalata-in-marea-neagra-neptun-alpha-cantareste-16-500-de-tone-cat-doua-turnuri-eiffel-1086213.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.61izxBEwFqRT9s-9WtA31g&pid=News",
+   "topics": [
+    "shipping",
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "f3d01d8e55bf",
    "lang": "en",
    "title": "Black Sea drone strikes put Egypt's vital wheat lifeline at risk",
@@ -1533,7 +1567,12 @@
    "places": [],
    "img_tried": true,
    "img_checked": true,
-   "also": []
+   "also": [
+    {
+     "source": "Fakti.bg",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM3RKcWFmMl8zby1WVGw3SHFTRWdvWktfdVVvME00UHB3VElYZFFMRGtYbzNmMDJNM2pHc0RDS1NoMEx3X214RjFQZnQzakwxWXJzdzlFaTNvaWYxSEk3em9ZWlo1cncyd2VoM3VGREpWbmZHY25SLWJ5VkJqMndzMW55ZWh6N1h4NXhfS19KWXlheFgt?oc=5"
+    }
+   ]
   },
   {
    "id": "e66fa62c2675",
@@ -1911,6 +1950,29 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "096e46587700",
+   "lang": "ro",
+   "title": "Scenariul de coșmar pentru economia regiunii: Marea Neagră poate fi blocată fără o singură bătălie navală! Avertismentul unui amiral",
+   "titles": {
+    "ro": "Scenariul de coșmar pentru economia regiunii: Marea Neagră poate fi blocată fără o singură bătălie navală! Avertismentul unui amiral"
+   },
+   "summary": "ȘOC în Marea Neagră! Cum ne pot paraliza comerțul fără o singură luptă pe mare? Un amiral spulberă iluzia dronelor și a AI-ului și arată coșmarul care pândește regiunea!",
+   "url": "https://www.stiripesurse.ro/scenariul-de-cosmar-pentru-economia-regiunii-marea-neagra-poate-fi-blocata-fara-o-singura-batalie-navala-avertismentul-unui-amiral_3939312",
+   "source": "Stiri pe surse",
+   "published": "2026-11-24T01:08:00Z",
+   "fetched": "2026-11-26T08:08:14Z",
+   "image": "https://www.bing.com/th?id=ONUT.dfs1jImYVYqbb-3Te-Uuxg&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.dfs1jImYVYqbb-3Te-Uuxg&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "1bccc82158dd",
@@ -5401,6 +5463,27 @@
    "img_checked": true
   },
   {
+   "id": "43a2b280d298",
+   "lang": "bg",
+   "title": "Илияна Йотова: Няма да свиквам нов КСНС за новите удари в Черно море",
+   "titles": {
+    "bg": "Илияна Йотова: Няма да свиквам нов КСНС за новите удари в Черно море"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMFpMeVdSTld3NEdveFhnOW93VkhQWGozbGNHM2stU2R1SkpfTnMwdDk5X0FaM0FsSVhjVGVVN3FsQ1FPUXpqMUJRTzZOekRaQ1NBNHBDNkpnZWdkQlNDbzIzNGQ0YkRDV2cwTENsLVpicmxZX0tVREtvSW41eGR6OVc5XzlRZEJMdkZoVmlXd0RvZUZSUmxycDg0bTdNQi1abzdGUg?oc=5",
+   "source": "Fakti.bg",
+   "published": "2026-11-19T13:52:15Z",
+   "fetched": "2026-11-26T08:08:14Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "attacks"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
+  {
    "id": "f2ef4a17a657",
    "lang": "en",
    "title": "Bulgaria, Turkey and Romania plan naval group to counter drones in the Black Sea",
@@ -6778,6 +6861,10 @@
     {
      "source": "bne IntelliNews on MSN",
      "url": "https://www.msn.com/en-us/news/other/second-ship-sinks-off-bulgaria-s-black-sea-coast-in-two-days/ar-AA2hGIwj"
+    },
+    {
+     "source": "Los Angeles Daily News",
+     "url": "https://www.dailynews.com/2026/11/17/merchant-ship-sinks-black-sea-coast/"
     }
    ]
   },
