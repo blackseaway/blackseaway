@@ -71,8 +71,13 @@ def load_posts(cfg: dict) -> list[dict]:
             "html": md_to_html(body),
         }
         words = len(re.findall(r"\w+", body))
+        pin_until = meta.get("pin_until")
+        if isinstance(pin_until, str):
+            pin_until = dt.date.fromisoformat(pin_until[:10])
         post = {"slug": slug, "date": date, "lang": src_lang, "author": meta.get("author", cfg["editor"]),
-                "image": meta.get("image"), "minutes": max(1, round(words / 220)), "versions": {}}
+                "image": meta.get("image"), "minutes": max(1, round(words / 220)), "versions": {},
+                "kind": meta.get("kind", "analysis"),
+                "pinned": bool(pin_until and pin_until >= dt.date.today())}
         digest = hashlib.sha1(json.dumps(base, sort_keys=True).encode()).hexdigest()[:16]
         for lang in langs:
             if lang == src_lang:
@@ -366,7 +371,8 @@ def build():
                                                                          for p in sources["places"]})
         hl = home_layout(items)
         view = lambda lst: [news_view(i, lang) for i in lst]  # noqa: E731
-        render("home.html", "index.html", lang, news=nv[:24],
+        pinned = next((p for p in posts if p["pinned"] and p.get("image")), None)
+        render("home.html", "index.html", lang, news=nv[:24], pinned=pinned,
                featured=view(hl["featured"]), latest=view(hl["latest"]),
                sections=[{"key": sct["key"], "items": view(sct["items"])} for sct in hl["sections"]], posts=[p for p in posts][:3],
                indicators=[indicator_view(i, lang) for i in indicators][:4], stats=stats,
@@ -380,7 +386,7 @@ def build():
         render("articles.html", "articles/index.html", lang, posts=posts, **common_ctx)
         for p in posts:
             render("article.html", f"articles/{p['slug']}.html", lang, post=p, v=p["versions"][lang],
-                   og_image=(p.get("image") or None), **common_ctx)
+                   og_image=(f"{cfg['base_url']}/{p['image']}" if p.get("image") else None), **common_ctx)
         render("page.html", "about.html", lang, page=load_page("about", lang), **common_ctx)
 
     # root: language redirect + 404

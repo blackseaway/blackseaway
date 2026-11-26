@@ -14,7 +14,7 @@
     {% if v.auto %}<p class="notice">{{ t.auto_translated_article }} <a href="{{ url('en/articles/' ~ post.slug ~ '.html') }}">EN</a></p>
     {% elif v.untranslated %}<p class="notice">{{ t.original_language }}: {{ post.lang|upper }}</p>{% endif %}
   </header>
-  {% if post.image %}<img class="hero-img" src="{{ post.image }}" alt="">{% endif %}
+  {% if post.image %}<img class="hero-img" src="{{ url(post.image) if not post.image.startswith('http') else post.image }}" alt="">{% endif %}
   <div class="prose" lang="{{ post.lang if v.untranslated else lang }}">{{ v.html|safe }}</div>
   <footer class="share">
     <span>{{ t.share }}:</span>
