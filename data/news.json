@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T17:20:23Z",
+ "updated": "2026-11-26T19:09:31Z",
  "items": [
   {
    "id": "8d66ac089509",
@@ -324,7 +324,12 @@
    "places": [
     "odesa"
    ],
-   "also": [],
+   "also": [
+    {
+     "source": "Днес България",
+     "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQLUktS3lqR0V0bTc0QXI1dzYzLWtMRVJDcUtIN05zQTJZcjcwd0hETGxqUHZvY2pSS1ZfWEQzN2h1cWJxQlpEOWtOWE05X1paRXVfeE5XWFg3UlBwNjRYZ1pkSlIxYXR2M2F5Y21lTFB2QTdHcFkzZ29ZNjI4RUV2d2F3ejJoMV9ia0Y5NW5zY1BCRi16X1FQRncyb24yd3dJdjhGTXBDM2FEQmZFWFlEbmlHSzBuc0pRTUFZQnJIbnI5NmZiaERwMzl5b1gxdl95S28zeEhiOXdoUnU1LTNDeEJ4TnVnWEI4YlJ2bndkc3dlNnk2QlUzNnZPV0tGM0NtSVlKZjB6cEswakdYSFB0eVJrcGRvN25MTWxZdTVmY2ZhWUF5QU91dGVqdXo3TkZJMTM3WGpBbFJBUU1zcWxMNkw0czZQYzg?oc=5"
+    }
+   ],
    "img_tried": true,
    "img_checked": true
   },
@@ -555,7 +560,9 @@
    "lang": "bg",
    "title": "Средният коридор – илюзия без споделена сигурност в Черно море",
    "titles": {
-    "bg": "Средният коридор – илюзия без споделена сигурност в Черно море"
+    "bg": "Средният коридор – илюзия без споделена сигурност в Черно море",
+    "en": "The Central Corridor – an illusion without shared security in the Black Sea",
+    "ro": "Coridorul central – o iluzie fără securitate comună în Marea Neagră"
    },
    "summary": "Нашата конференция* от ноември 2022 година открои нуждата от диалог за единна позиция в защитата на националните интереси и сигурността на държавата в рамките на ЕС и НАТО. Днес такава позиция е двойн ...",
    "url": "https://duma.bg/sredniyat-koridor-–-ilyuziya-bez-spodelena-sigurnost-v-cherno-more-n330190",
@@ -747,6 +754,31 @@
    "img_checked": true
   },
   {
+   "id": "334547889a82",
+   "lang": "bg",
+   "title": "Правителството разреши събарянето на сграда в Бургас-запад - Maritime.bg",
+   "titles": {
+    "bg": "Правителството разреши събарянето на сграда в Бургас-запад - Maritime.bg",
+    "en": "The government has authorised the demolition of a building in western Burgas - Maritime.bg",
+    "ro": "Guvernul a aprobat demolarea unei clădiri în zona de vest a orașului Burgas - Maritime.bg"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FWjBJU0ZleE9Oc2RxdU9QN00xQUtScmRJQUNWaUNYZWJ2akhDdmNmRFQ2M3QzRmZ6NmI3QWhoRHB2MXp2TkE?oc=5",
+   "source": "Maritime.bg - Морският портал",
+   "published": "2026-11-25T12:12:31Z",
+   "fetched": "2026-11-26T19:06:45Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy"
+   ],
+   "places": [
+    "burgas"
+   ],
+   "also": [],
+   "img_checked": true
+  },
+  {
    "id": "85c5a0730c52",
    "lang": "ro",
    "title": "BTA/Eurodeputații bulgari îndeamnă UE să protejeze transportul maritim în Marea Neagră și să despăgubească sectoarele industriale afectate de război",
@@ -774,6 +806,29 @@
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVzR2UUxmSU1BVFRIZUxmQjJLYmdRaFdqaHFja3ZuY05ERi1sUmVnUUJUbUtmLVdKQWhGLVlSdXJ6eWJPMzZCR2lPdjR2djd1b19ZNzlfMU4tM3V1aVFnRDdCajRpRzVDWUJyYURPU2xfekJ3SVhILVhxYnVyWVZFN3hsU3ZSZS1hZmFPU3Iyc1ZnNEVDVFo5TTJQOFI4bWxzVktYaA?oc=5"
     }
    ]
+  },
+  {
+   "id": "a5c439331813",
+   "lang": "bg",
+   "title": "МТС обяви конкурс за член на борда на „Пристанище Варна“ - Maritime.bg",
+   "titles": {
+    "bg": "МТС обяви конкурс за член на борда на „Пристанище Варна“ - Maritime.bg"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBFbnpWcmM4VTZ4MkdDM3piaWI4TVJTd09FYVlwVjlhOFhkbXQzQzZEbmdhQjZ2QW9DTUF3b21GcjFXS0lIZXc?oc=5",
+   "source": "Maritime.bg - Морският портал",
+   "published": "2026-11-25T11:19:22Z",
+   "fetched": "2026-11-26T19:06:45Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "ports"
+   ],
+   "places": [
+    "varna"
+   ],
+   "also": [],
+   "img_checked": true
   },
   {
    "id": "b6e6da3525e5",
@@ -2049,6 +2104,27 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "9cb4abdbf9d4",
+   "lang": "en",
+   "title": "Egypt warns ships against entering the Black Sea over risks to crews",
+   "titles": {
+    "en": "Egypt warns ships against entering the Black Sea over risks to crews"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNTh3LXc1QnV3WUgtMXN4RGlwUGxvUjRadmxwQlhRcExKR2YtamVZUmlyM2NGVWdrcEp6cmpwalNkX0Jpc0pQdmFUdGY0S0JfYWNiUGhFM2RubDkzMWRONHZxU0laZmxKSWZpdmJpaGdwcXd5NmZiUzM5YXJCaTVhMzA1cVZCaWloN1ZKc3pRVUl2UlBNN0dXbjRJZjhxZEZsZnRzT25BWng0c3JLSHM4WmNKMEl3MTl1WUHSAcIBQVVfeXFMTlVXaVR4bTI2a2dMYXRnZ0RQb0Zoem9KM2s1bmZ1LWwzYkJEcUEtaTVBZWtrZnpzSUFvbU5kdmVBbTU1V2NrSTExUFVrOUVISkx4c181dnhEUDlNMTliVkNzR0pxMlNjVTFPaFVoZVd0LXRTSkpWeHNlU0tQbm9CWHFvcjZYelBmd2VnX0dXMFNaOS1yYS1ZZ2xyekdGODZhTndBZUtIWjBFdVhJQi15V2Q1QUl2cWVrdWFNWkpDYjZycHc?oc=5",
+   "source": "Latifundist.com",
+   "published": "2026-11-24T08:00:00Z",
+   "fetched": "2026-11-26T19:06:45Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
   },
   {
    "id": "cb4856a3690e",
@@ -4069,6 +4145,10 @@
     {
      "source": "Bastille Post",
      "url": "https://www.bastillepost.com/global/article/6393269-un-official-warns-escalating-black-sea-attacks-drive-food-insecurity"
+    },
+    {
+     "source": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcDlHMlhwblNDUDZGc2ZsWTA1eVVmUU1SMUp1aGRZdXFfNjNFYUNtVWl5YzZYdTB2b3NEd3paampIZ3JnZkdHMzBoZHJUZWs2NlhYVjBiZ1V4UUdTYUJQd1J6Wl93al9mSTZqOU5jUEo5V2dPM1NrVXc3Y2JxZ2xqN1JiVDNUVUpOd0Y1TWdzU0JMTDkwTHpLNTQ1V00zOEVsMTZuQWlaaUZxMi1EQUk1UFk4alhQMjFuZ2lwSUdnTGpqcmJ1?oc=5"
     }
    ],
    "img_tried": true,
@@ -5679,6 +5759,28 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "d02e683de877",
+   "lang": "ro",
+   "title": "Dispută politică în Bulgaria, pe tema securității maritime în Marea Neagră. Premierul invocă limitări tehnico-militare în combaterea dronelor: „Pirații își fac de cap!”",
+   "titles": {
+    "ro": "Dispută politică în Bulgaria, pe tema securității maritime în Marea Neagră. Premierul invocă limitări tehnico-militare în combaterea dronelor: „Pirații își fac de cap!”"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOeVZHQkpNRy1FclhzLVhiS1BialZNZjF3MDBjX3E3U0E2MndrQjdqaXZJN2xIbVVlbDhjbjJNX25NT2lBZEhLZEpzZlJocTNuVWhpZEV1bjQwcmZVdzBsUUJIMmVNM0NOU21HUTJyZmdQN09UTVNPM2ZDZTdiUTZqWFE4NTdyWlpubmYtcGpHN2c1QXpXUUNpZFd4emZDOHotNmFVY1hLWGRBVjk4SzIzUTNWdUxldFp4VW94eGJPdlVCdXdpN3JJMTJ5YTgyRFVyVFlHTlEtQ25kMTNrQmNoZmF0RE5xY3VmRldoRlNhOEFTTlZVTlVlaTV1clc0VTg4MUNBZkVpXzBlbGRPWVhiT2tn0gGaAkFVX3lxTE1peTNNVUtRanZURGlMOFBBVWpmODhncnlnbEJGSTNZa0dTSzNNQUN1cjdSN0xwU2s4d0NGWWFuMWFvVFhLWFNCYzQySnBhZjhTeDlJRnA5eHY4QzhZc2RISWYyRXVNN3dsY3FRdVg5LTFXX3RmOHZvZENHRDIwc1JSV1JaS2ZVTXJwaGM1Z1VfS1dOdVR5RVRSRFRRQUxmOG00SEJmY0ZIUEJ1MXZ1dzUyLU1MdHBFWlZiZm1Fbzc1NzhiM01fdmNCQWJ1c0pIVHA1T1dtdEV4TW1jQlNDY0RwRmZ6Vm1oRWF2RVliMmZjUEM2cUhOdVR2ZW4zb1hNUDlra3g5YlZycEdYeXZIazNrQi1faGI0bXZHdw?oc=5",
+   "source": "tomis news",
+   "published": "2026-11-20T10:26:46Z",
+   "fetched": "2026-11-26T19:06:45Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "attacks"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
   },
   {
    "id": "8665dc42d36e",
