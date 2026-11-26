@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-26T10:21:33Z",
+ "updated": "2026-11-26T12:11:42Z",
  "items": [
+  {
+   "id": "8d66ac089509",
+   "lang": "en",
+   "title": "Russia Rejects New Black Sea Grain Deal, Wheat Risk Premium Reawakens",
+   "titles": {
+    "en": "Russia Rejects New Black Sea Grain Deal, Wheat Risk Premium Reawakens",
+    "ro": "Rusia respinge noul acord privind exporturile de cereale din Marea Neagră; prima de risc pentru grâu revine în prim-plan",
+    "bg": "Русия отхвърля новото споразумение за зърното от Черно море, рисковата премия за пшеницата отново се появява"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTXAxR1dpX0Zza1h2ZlNsbGF0QUgxRXRiNDMxRF9QQ2tWQU1sXzRwdlo2dGxBM0dnUFpkZXlOY0hJRkxMLTJZUjlQTzdiVE1vdU5fRG0zU0JndUhhS0JZSlAxUUs0RnEzbVVzcHZ0NDFvSm9JWllhcnRIaWxUYUNSWVROazZ2NGFzaXQ0d1ZjR0xEemlvVHlHajNHNGRZVlV4Qk13UFdPdXhlSnkwMVNRSDVuMU1RQQ?oc=5",
+   "source": "Frontier Africa Reports",
+   "published": "2026-11-26T11:37:00Z",
+   "fetched": "2026-11-26T12:08:45Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "insurance",
+    "grain"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "bb11709ce05c",
+   "lang": "ro",
+   "title": "Două barje încărcate cu cereale sunt în pericol să se scufunde în Dunăre",
+   "titles": {
+    "ro": "Două barje încărcate cu cereale sunt în pericol să se scufunde în Dunăre",
+    "en": "Two barges loaded with grain are in danger of sinking in the Danube",
+    "bg": "Две баржи, натоварени със зърно, са в опасност да потънат в Дунава"
+   },
+   "summary": "Incident grav pe Dunăre: două barje încărcate cu cereale sunt în pericol de scufundare, în zona Corabia. Scafandrii intervin pentru a remedia defecțiunile.",
+   "url": "https://www.digi24.ro/stiri/actualitate/doua-barje-incarcate-cu-cereale-sunt-in-pericol-sa-se-scufunde-in-dunare-4053973",
+   "source": "Digi24",
+   "published": "2026-11-26T11:24:11Z",
+   "fetched": "2026-11-26T12:08:45Z",
+   "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMSUyRjI2JTJGMzA4NzM4Ml8zMDg3/MzgyX2JhamEucG5nJmhhc2g9MWM1ZGQy/N2QwMGZjYjEzNDA2NDZjNjBiZWU1MGJiMWU=.png",
+   "fallback_image": "",
+   "topics": [
+    "grain"
+   ],
+   "places": [
+    "danube"
+   ],
+   "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "02e364a5e9a2",
+   "lang": "ro",
+   "title": "Rusia respinge armistițiul energetic şi maritim în Ucraina, cerut de Ursula Von der Leyen: Trebuie să apărăm interesele naționale",
+   "titles": {
+    "ro": "Rusia respinge armistițiul energetic şi maritim în Ucraina, cerut de Ursula Von der Leyen: Trebuie să apărăm interesele naționale"
+   },
+   "summary": "Kremlinul a respins joi armistiţiul de iarnă, atât în ce priveşte atacurile asupra infrastructurilor energice, cât şi cele care ţintesc exporturile de cereale prin Marea Neagră, cerut în ziua precedentă de preşedinta Comisiei Europene, Ursula von der Leyen, solicitare descrisă de preşedinţia rusă…",
+   "url": "https://www.digi24.ro/stiri/externe/rusia-respinge-armistitiul-energetic-si-maritim-in-ucraina-cerut-de-ursula-von-der-leyen-trebuie-sa-aparam-interesele-nationale-4053795",
+   "source": "Digi24",
+   "published": "2026-11-26T10:43:04Z",
+   "fetched": "2026-11-26T12:08:45Z",
+   "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMSUyRjI2JTJGMzA4NzIyOV8zMDg3/MjI5X3Byb2ZpbWVkaWEtMTE0MDExNzY5/MC5qcGcmaGFzaD0zNDJhMjVhZDNkMGM3NjkyNzY0YTZmZTExYjU2OGVlNg==.jpg",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "attacks",
+    "grain"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
   {
    "id": "e08db0ac0b0f",
    "lang": "en",
@@ -99,6 +171,31 @@
    "img_checked": true
   },
   {
+   "id": "efc9bb99558a",
+   "lang": "en",
+   "title": "Maritime disruption ‘devastating’ for food insecure countries",
+   "titles": {
+    "en": "Maritime disruption ‘devastating’ for food insecure countries"
+   },
+   "summary": "Grain shipments from the Black Sea have fallen by more than 50% and it is those already struggling most that will pay the highest price for supply shortages ...",
+   "url": "https://www.lloydslist.com/LL1159349/Maritime-disruption-devastating-for-food-insecure-countries",
+   "source": "Lloyd's List",
+   "published": "2026-11-25T17:53:00Z",
+   "fetched": "2026-11-26T12:08:45Z",
+   "image": "https://www.lloydslist.com/-/media/lloyds-list/images/dry-bulk/2026-new-pictures/shipment-of-wheat-bags-offloading-from-ship-to-trucks.png?rev=7af924e6f9884a0099775575cbce098e",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.hS1KJGGLsarnetK-Xb8a-A&pid=News",
+   "topics": [
+    "shipping",
+    "grain",
+    "prices"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "b8a47752c77c",
    "lang": "ro",
    "title": "BREAKING NEWS O navă cargo plecată din România s-a scufundat în Marea Neagră! La bord erau 12 marinari",
@@ -122,6 +219,31 @@
    "img_checked": true
   },
   {
+   "id": "ca9993b0fa97",
+   "lang": "ro",
+   "title": "FOTO Peste 18.000 de parfumuri suspectate că sunt contrafăcute, descoperite în Portul Constanța. Marfa valorează peste 2,5 milioane de lei",
+   "titles": {
+    "ro": "FOTO Peste 18.000 de parfumuri suspectate că sunt contrafăcute, descoperite în Portul Constanța. Marfa valorează peste 2,5 milioane de lei"
+   },
+   "summary": "O captura importanta a fost facuta in Portul Constanta, unde politistii de frontiera si inspectorii vamali au descoperit peste 18.000 de parfumuri susceptibile sa incalce drepturile de proprietate ...",
+   "url": "https://www.ziuaconstanta.ro/stiri/actualitate/foto-peste-18-000-de-parfumuri-suspectate-ca-sunt-contrafacute-descoperite-in-portul-constanta-marfa-valoreaza-peste-2-5-milioane-de-lei-961927.html",
+   "source": "Ziua de Constanța",
+   "published": "2026-11-25T15:09:00Z",
+   "fetched": "2026-11-26T12:08:45Z",
+   "image": "https://www.ziuaconstanta.ro/images/stories/2026/11/26/ANA/1795690444130-untitled185-s4.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.L2VEQGYhgdrPAUD-wKIrNA&pid=News",
+   "topics": [
+    "shipping",
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "a759019970c7",
    "lang": "ro",
    "title": "15 Noiembrie 2026 - Pericol de securitate în Marea Neagră. Luca Niculescu: „A fost încălcat dreptul internațional”",
@@ -140,6 +262,28 @@
    "topics": [
     "policy",
     "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "a970edc11918",
+   "lang": "bg",
+   "title": "Средният коридор – илюзия без споделена сигурност в Черно море",
+   "titles": {
+    "bg": "Средният коридор – илюзия без споделена сигурност в Черно море"
+   },
+   "summary": "Нашата конференция* от ноември 2022 година открои нуждата от диалог за единна позиция в защитата на националните интереси и сигурността на държавата в рамките на ЕС и НАТО. Днес такава позиция е двойн ...",
+   "url": "https://duma.bg/sredniyat-koridor-–-ilyuziya-bez-spodelena-sigurnost-v-cherno-more-n330190",
+   "source": "ДУМА",
+   "published": "2026-11-25T14:37:00Z",
+   "fetched": "2026-11-26T12:08:45Z",
+   "image": "https://www.bing.com/th?id=ONUT.i0l4XjS75IGIX5fcypDKcg&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.i0l4XjS75IGIX5fcypDKcg&pid=News",
+   "topics": [
     "shipping"
    ],
    "places": [],
@@ -5804,6 +5948,10 @@
     {
      "source": "Tribune.bg",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwT1RsMDJ0b2tacE1vTGc2WDgzU3V0TzJRc1NpYk5DYW1veTI5WnJiaFhtRWtWOUdmSWVCSHQ5YlQ2X1dDUWZZZXZ5TXJsUDRwSGJLVHludC16T1lJTmxPeERRSC1WQVZGZmJsM0xZcw?oc=5"
+    },
+    {
+     "source": "Vesti.bg",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaUNGR25NSU5XTUZzZ1JlRXVTVFFBX2lJeUhHc3lQckQtMkk3N2t3UVhsOHh0WC0yN2w2aFpWOFJMRHFENXhSY0Y4NTVOdEEwSmNwT25Na1B1akh3X3NId2E4NFdWVmU1VmFLRHVjNVJJOTNUWGYtSXpEeElvQXd6OUltcTJBSWJva01BdkRDMWE?oc=5"
     }
    ],
    "img_checked": true
