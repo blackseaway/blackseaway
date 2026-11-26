@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T07:23:09Z",
+ "updated": "2026-11-26T07:57:42Z",
  "items": [
   {
    "id": "f7d4edc1927d",
@@ -54,7 +54,9 @@
    "lang": "en",
    "title": "Black Sea shipwreck: investigators examine drone attack",
    "titles": {
-    "en": "Black Sea shipwreck: investigators examine drone attack"
+    "en": "Black Sea shipwreck: investigators examine drone attack",
+    "ro": "Naufragiu în Marea Neagră: anchetatorii examinează atacul cu drona",
+    "bg": "Корабокрушение в Черно море: разследващите проучват атаката с дрон"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWWpYTFpNYklGLTVpeTBGWEFBZ0dycHZFR3ZzU1l4Tk1xbHdLNDNybnRjdUVGcVZERUx1Q05jUFo3Y0NQaW5Ib2ZiYUxvVGM4b19xN0V1endZTEVEVWJaai14cklUeHhRa1B1dzBNb3hPb3BOQjQyOUhWbDNSX2pwcm5jMjNCYzNTYm5McnFqY0dtci1lalFsOUYtaWdJaEtkUUgyQXMzUlo2Zw?oc=5",
@@ -65,6 +67,29 @@
    "fallback_image": "",
    "topics": [
     "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "b8a47752c77c",
+   "lang": "ro",
+   "title": "BREAKING NEWS O navă cargo plecată din România s-a scufundat în Marea Neagră! La bord erau 12 marinari",
+   "titles": {
+    "ro": "BREAKING NEWS O navă cargo plecată din România s-a scufundat în Marea Neagră! La bord erau 12 marinari",
+    "en": "BREAKING NEWS: A cargo ship that had set sail from Romania has sunk in the Black Sea! There were 12 sailors on board",
+    "bg": "ПОСЛЕДНИ НОВИНИ: Търговски кораб, отплавал от Румъния, потъна в Черно море! На борда му имаше 12 моряци"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORXVObUlsczluUmVMdXZ3cGZkbFNrNTZEX3BUWWg2NW1uR2IyaFZGdGZ1N3U4ODFCeFBOWFhxUmI1a194Sm1ESXlVOTVCWHVsVmNGZWxqazZwLXluaFFoMlYtRmhvU3ltV1ZkWmJhTlIxUVhnVlZfUnhZeWd5MWNhSUJTNTlCSTIybEU4cDhhZEoyUzBaLUgzaG5qMndydkhaMy1rZmVlT0MzUzVTVVVhUl80QkV1VnozVldwbzBQeVlybjY1bjRrZzVtOXDSAdIBQVVfeXFMTklBLUpGSnl0bFZVc04yWS1BZm5oa01CNjNqSWxUWmdaLTNyMGwyUXNTN1B6ejBtU0h5dFRpOVp1YnRLQmtHbmNZeFVCY2wzZHR2ckdQM1R3TzlSWWVFenQ1YjFrUGlYd09ETDVtamFuUWdxZ1FuVUxaMWJiNkxjUjExUkliLWplSGJCRXRUWmhrOFNtWW1ONzZLNFlYODlRZ1BfbVpKcGFpUFpTSjBfTDlvLXBBMS00a0NnbUVKUldBWWpNbk1zR3VaMlM4VnBpdld3?oc=5",
+   "source": "Kanal D Romania",
+   "published": "2026-11-25T17:29:32Z",
+   "fetched": "2026-11-26T07:55:24Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
     "shipping"
    ],
    "places": [],
@@ -93,6 +118,27 @@
    "places": [],
    "also": [],
    "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "45da90625f87",
+   "lang": "ro",
+   "title": "Generalul Gabriel Oprea: ”190 de atacuri lângă granița României. Nu cerem război, cerem un scut la Marea Neagră”",
+   "titles": {
+    "ro": "Generalul Gabriel Oprea: ”190 de atacuri lângă granița României. Nu cerem război, cerem un scut la Marea Neagră”"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQS3NGVDJkZVJPYnVwZkEtUEI2MkpnSG91ZUxhYVlRTU5wUTBBTmNYRGVDc0NWanpOZC1KeWRfU0xmc2tVM2pDR3VzMFRWSENmVTdPWXlhVEdDcy1jZm9UeWJGMWxnbzB6WHlkdVpINnZ4UTFGS1hlNHpBODBSUzBiS2pzak04Tk9wTGRPZHhlSHNqUEx5b0p5ZEp2anY3UnVSdlRBVFg5cGw4TXBwTEdMZUR3d2ZrZklvbWgzSl8wQWtsQk82N2tJMmExTWZmUlBqZG9yWU9RNEJHc25vR3RNSjZXVjczbVhXLVh6OA?oc=5",
+   "source": "Realitatea.NET",
+   "published": "2026-11-25T14:26:00Z",
+   "fetched": "2026-11-26T07:55:24Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "attacks"
+   ],
+   "places": [],
+   "also": [],
    "img_checked": true
   },
   {
@@ -2144,6 +2190,27 @@
    "also": []
   },
   {
+   "id": "9c0c80c2c690",
+   "lang": "bg",
+   "title": "Черно море стана най-смъртоносната зона за корабоплаване: Над 570 поразени кораба и 40 загинали моряци",
+   "titles": {
+    "bg": "Черно море стана най-смъртоносната зона за корабоплаване: Над 570 поразени кораба и 40 загинали моряци"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb3BOMDJ2Yk9fNkhkZjNkazRQT3ZUT09XTFhUdGh0VDNtbEVqZnJZU0pCbG5OUkp0TllnZEg3ai02TXZpNGMxektWZHJNX1NWYWxVVThfRnAzbnRHSkNYLWl6QkV3VjV0YTFiUEt2QkVMZWtNZjhER3AteUdpNHlzdXR4WVpWcUVrRWxQc19NRElmdXNXNWYtMTVhVm4?oc=5",
+   "source": "NewsPoint.bg",
+   "published": "2026-11-23T21:28:00Z",
+   "fetched": "2026-11-26T07:55:24Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
+  {
    "id": "2929d40bf27f",
    "lang": "en",
    "title": "Security Council live: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies",
@@ -2313,6 +2380,10 @@
     {
      "source": "УкрАгроКонсалт",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZG9NdDdwajItX3daS3lEOFNRMUdSRXFycHZWR3FELVhxZlJoc3k1bllzb2tjMklBeHp5LVNTSzJ2ZHhZNHpidVBZSUotblRYSFR4c2d2UTdOeUk1d01mOG5iVE4wN1B3YzlpVlJqc2paU1pQRXdGWjhFdGRZdDlGbXh4cw?oc=5"
+    },
+    {
+     "source": "Shipping Telegraph",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGNwRUl4ZXcwUloyUkpSWEZnTWhZVjY5bEJpZ1cwdGhYaGw2cDFsY1ZoZ0NPQnN1WGYwTHpVaGFNNGlaVnpKNFRQSWlJakZXMHNucVFCYXZqSFlET1c1RnJqQXozT0tUYWlCT0psVUFDN0NES3JDTUh6Q1pTejc0aS1zbVdOc0lnZExVOHR3dlJnQTlJZjhIdXlQQXhIdDZ6V3Ita1Jn?oc=5"
     }
    ],
    "img_tried": true,
@@ -2493,6 +2564,14 @@
     {
      "source": "The Manila Times",
      "url": "https://www.manilatimes.net/2026/11/25/business/maritime/filipino-seafarers-of-sunken-tanker-in-black-sea-set-to-return-home/2476933"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVHNCT3V1OWFGdmhVdHdIeWlYQmFUWDBIcXZsa2VFZkxlMHY1Tkx1dm0ydmhPcG1ydERFM3QyeUkybDhmem83cjZRdnZYTTB0SGFnaWtlc3IyMGRjMG5PaGZGZFpMdjZUcU5xQl85S21TcXZ1TV9Ua0FjQzRXb1AzTS1BNzNsWFAyWHk5WjdiMHpYeGl5aXFfUTdtZTdFOGM0clBVcnRLWkdpaERfTkx0WkgyN3VPN29kN0FpQllmSVlhdVlq?oc=5"
+    },
+    {
+     "source": "Newswav",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdDNIT2UzSzR4TWtzeFRtTzQxRDQ5UTFmd3Q2b3ZtY0hkbXJxZlVqUGlmaDRCeGVvUkdsaTNVVEswazZwTFd0eUxXYVd5WWtfV1ZwSGVaU2JNbVdLZlNUX0lkRnJHa0ticXV6SHpvZWhINWZ6ZlMzVU05NkdvS0VZbTRZSUh2T2dmeEtTd1dvT2Zmb3Q0Rks1ZkduTnJOZXVnNlNMb2FyaDVJTE0z?oc=5"
     }
    ]
   },
@@ -3505,6 +3584,28 @@
    "img_checked": true
   },
   {
+   "id": "28da3bf29d7c",
+   "lang": "en",
+   "title": "Aselsan Gokdeniz air defense system destroys drone threats in Black Sea test",
+   "titles": {
+    "en": "Aselsan Gokdeniz air defense system destroys drone threats in Black Sea test"
+   },
+   "summary": "Aselsan's Gokdeniz close-in weapon system successfully detected and engaged multiple drone targets from different directions ...",
+   "url": "https://ssbulten.com.tr/en/gundem/detay/aselsan-gokdeniz-air-defense-system-destroys-drone-threats-in-black-sea-test--30560",
+   "source": "ssbulten",
+   "published": "2026-11-23T00:40:00Z",
+   "fetched": "2026-11-26T07:55:24Z",
+   "image": "https://www.bing.com/th?id=ONUT.-4BRz4oZP-xRGTO4NJ2AEQ&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.-4BRz4oZP-xRGTO4NJ2AEQ&pid=News",
+   "topics": [
+    "attacks"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "5b03227ae9f3",
    "lang": "bg",
    "title": "Гръцките медии бият тревога: Кораби потъват един след друг в Черно море край България",
@@ -3801,6 +3902,31 @@
     "grain"
    ],
    "places": [],
+   "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "3e78351dff3b",
+   "lang": "en",
+   "title": "Russia Admits Fresh Drone Strikes on Cargo Ship in Black Sea and Port in Ukraine’s Odesa Region",
+   "titles": {
+    "en": "Russia Admits Fresh Drone Strikes on Cargo Ship in Black Sea and Port in Ukraine’s Odesa Region"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTm5YTWtkSUF3YWRPcFNnZVpnNVl5TmFvcHN2REtrbGdGQW1IcmJka3lXcXJRVXhUVFVnY0xqc0xLc3dCRENVSkRuOW9MQ1ZJaWZSZURVOTNLTmNuWWZmTlRTOEpQUDRDdWRtMUcxN0NGMTdDUHczRUNubHk4UzVtTFJic1l0cXBqMVdfU01YdHNCOXlwLXJFQk9UUzNBdWtlaVhPMDh3aHRCbUM4MHRodEZVZF9tS2N3XzRodmRnUm9qREI2?oc=5",
+   "source": "BGNES",
+   "published": "2026-11-22T11:07:41Z",
+   "fetched": "2026-11-26T07:55:24Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "attacks",
+    "shipping",
+    "ports"
+   ],
+   "places": [
+    "odesa"
+   ],
    "also": [],
    "img_checked": true
   },
@@ -4644,6 +4770,27 @@
    "also": []
   },
   {
+   "id": "b29afc2aa4f9",
+   "lang": "ro",
+   "title": "Misiune încheiată pentru vânătorul de mine M 271! Forțele Navale Române, alături de aliații din Marea Neagră",
+   "titles": {
+    "ro": "Misiune încheiată pentru vânătorul de mine M 271! Forțele Navale Române, alături de aliații din Marea Neagră"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObUZ1dmxGY1BxWDV4bWlsOXBkZWhrdWJXVWd0OVZhU2hnb196Q1BHVU9CVWFOVm82T2FFelM2RElvWVNMX194OWdudTNzdUVHQjMydmpBQ0VRQjl2MGV4WUFwdEhQdElTTURuUE5PRFdiNXZicTQzZHBvWFd0YzdrOW5ZOWpjeTlfd3ZyMGtUTGxpS05VbzZyUmtXUTMxeDltVUVRRkE2U0RaSTZlcVNWS1lCLVZqZE15aVc2QXdGTTc5QWdOSGRpWTlkSGloQVZ5SHJfRTRyNWtKM2tPOUJFN2luc1g3UQ?oc=5",
+   "source": "CugetLiber.ro",
+   "published": "2026-11-20T08:03:29Z",
+   "fetched": "2026-11-26T07:55:24Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
+  {
    "id": "f9501b0d87fe",
    "lang": "en",
    "title": "Black Sea grain shipments: several countries consider roles as guarantors",
@@ -4890,7 +5037,12 @@
    "places": [],
    "img_tried": true,
    "img_checked": true,
-   "also": []
+   "also": [
+    {
+     "source": "DCNews",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU29OYWgxSmpXdmh6T29NSmZteHlpNjBSVmRKYWtLY0E1eUlZQnFmZE1MdnNwdjRfVmVualFjalNzbURIQWxSNVI4bURFYjBKcFNvTHB1a0lMVEZWQzVFM2w3QVdQRUtaUklhN0ZtX1k1eDE4MW9VLXpaWkxzc1ZVV2hQa2FRX1JrNHJNc05BOENEanpRNTZIWWxqQjNNUXI2WV9OQW9xUlBMaGw3NmpvVERpYWpUWHRtU1NOMlFBMTJ0dEZQX2xZd1Z6N2RSckMySlE0Y3lB0gHbAUFVX3lxTE1CVmoydnFHQWQ2dXU5OUo2REczZmZQLVZ3aFhBb1Nrd1ctNkxYampTbzZfVUQ4RkZnNlhIT0ViSDQ5V2NJVExBMy1mZm9sb1pRdWZ5NS1RVDQtNzlrdk51aDF3endCUFdhWVRQQVNRQ005bVpOeTdRcmtmSnhYczFubmpMTXhJZ2xSY2lpZUlTV3lLZ3BHLWNncWlEMUl6UXFfQTdCRmJzaTZ5dDc4SW92dXRQelV5M0daNHhLS0dYTk4xNW5xaHV3NHlDb3JQSnQtaDIxLUgxdlBWUQ?oc=5"
+    }
+   ]
   },
   {
    "id": "75df8093563e",
@@ -4916,6 +5068,30 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "979f6d994bc7",
+   "lang": "ro",
+   "title": "VIDEO Cinci bărbați, reținuți într-un dosar de contrabandă cu motorină în Portul Constanța. Percheziții la Constanța, Năvodari și Cumpăna",
+   "titles": {
+    "ro": "VIDEO Cinci bărbați, reținuți într-un dosar de contrabandă cu motorină în Portul Constanța. Percheziții la Constanța, Năvodari și Cumpăna"
+   },
+   "summary": "Cinci bărbați au fost reținuți pentru 24 de ore, în urma unor percheziții domiciliare desfășurate joi, 19 noiembrie, în municipiul Constanța, orașul Năvodari și comuna Cumpăna, într-un dosar penal de ...",
+   "url": "https://www.ctnews.ro/video-cinci-barbati-retinuti-intr-un-dosar-de-contrabanda-cu-motorina-in-portul-constanta-perchezitii-la-constanta-navodari-si-cumpana/",
+   "source": "ctnews",
+   "published": "2026-11-20T00:39:00Z",
+   "fetched": "2026-11-26T07:55:24Z",
+   "image": "https://www.ctnews.ro/wp-content/uploads/2026/09/politie-1.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.qvgJpw8rEkzKgN4IczHR-w&pid=News",
+   "topics": [
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "d04b95d8cf89",
@@ -5274,6 +5450,10 @@
     {
      "source": "Novinite.com",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObWhtczl1WDc2Y1FWM3dEVGpqYjNvZFE2bUpfV3NuS05qUm5YN2VoUmIzTjhuVHpFUWlhOWh1ZVhpaGZYamdjTkswSXlVM3hXWFlhVzFKVDBEOXhzdzI1UURrSG04SkFuX0NrSlFTZnBKQkFFTjh6UWNOOUpzRTJacXhicjlPWHZSc0NtcGpwWGZFaS1oNVpiY3V5SWJ6ZjJqYk1fVEZQdW1iVWJpMzBzNnotcndXZw?oc=5"
+    },
+    {
+     "source": "Informat.ro",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZDlObDVNSlVXMkwyNF9LTE5nRE40ck9YX0lJdnp0TmIxZDd6b3Judml1bzhFNjM3WVNWRlpkNWhhTS1RcHV3QmRfMlpJZDUwb3UyR0lYQ2FIQW03TUdWajMyVjRhMFZqQW0wdEY2YVZ5eHBueHhVNm9ESlZ5RWdrVHpMQzhMTDFTblk4Yl9LdEIyd1d5dUhiSGo0Vkw1enpleGFaeHZlX2p1d25tQUt5TmlyTlVsTENyYXZ1V0h6cw?oc=5"
     }
    ],
    "img_tried": true,
@@ -5324,6 +5504,29 @@
    ],
    "places": [],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "af21c1b4b876",
+   "lang": "en",
+   "title": "Black Sea mine-clearing group to hold two meetings in December",
+   "titles": {
+    "en": "Black Sea mine-clearing group to hold two meetings in December"
+   },
+   "summary": "Defence ministers and military chiefs from Bulgaria, Romania and Turkey will meet in Bucharest and in Ankara or Istanbul, Dimitar Stoyanov said.",
+   "url": "https://burgasmedia.com/news/dve-sreshti-prez-dekemvri-za-protivominnata-grupirovka-v-cherno-more?lang=en",
+   "source": "burgasmedia",
+   "published": "2026-11-19T10:57:00Z",
+   "fetched": "2026-11-26T07:55:24Z",
+   "image": "https://burgasmedia.com/uploads/images/img_6aff2a3b033ed9.52483573.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.XZEaYlFyh41tnySc0LAw-g&pid=News",
+   "topics": [
+    "policy",
+    "mines"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
