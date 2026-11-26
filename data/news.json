@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:41:20Z",
+ "updated": "2026-11-26T09:25:27Z",
  "items": [
   {
    "id": "f7d4edc1927d",
@@ -169,6 +169,33 @@
    "img_checked": true
   },
   {
+   "id": "2989e38c0091",
+   "lang": "en",
+   "title": "Libyan naval officers die after Ukrainian drone strike as ship comes under fire in Novorossiysk",
+   "titles": {
+    "en": "Libyan naval officers die after Ukrainian drone strike as ship comes under fire in Novorossiysk",
+    "ro": "Ofițeri ai marinei libiene își pierd viața în urma unui atac cu drone ucrainene, în timp ce nava era ținta unui atac armat la Novorossiysk",
+    "bg": "Либийски военноморски офицери загинаха след удар с украински дрон, докато корабът им беше подложен на обстрел в Новоросийск"
+   },
+   "summary": "When you click on “Accept all”, you consent to ads on this site being customized to a personal profile we or our advertising partners may have about you. Choose “Customize or Reject all” if you want ...",
+   "url": "https://www.tradewindsnews.com/casualties/libyan-naval-officers-die-after-ukrainian-drone-strike-as-ship-comes-under-fire-in-novorossiysk/2-1-2079752",
+   "source": "TradeWinds",
+   "published": "2026-11-25T14:16:00Z",
+   "fetched": "2026-11-26T09:22:37Z",
+   "image": "https://image.dngroup.com/global/nhst/binary/777e9244754fd4711025fac38c6c25ab?crop=1245%2C623%2Cx0%2Cy0%2Csafe&width=1200&format=webp&quality=80",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.6-Pzzd2eTSHM0whZfluSWg&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [
+    "novorossiysk"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "445c727214e6",
    "lang": "ro",
    "title": "Dosarul de CORUPȚIE din Portul Constanța: Unul dintre inculpați ar putea afla înainte de Crăciun când începe judecata. Despre cine e vorba",
@@ -243,6 +270,31 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "67d1d3075109",
+   "lang": "en",
+   "title": "Beyond the Black Sea: Ukraine's Naval Drones Put Russian Supply Lines in the Crosshairs",
+   "titles": {
+    "en": "Beyond the Black Sea: Ukraine's Naval Drones Put Russian Supply Lines in the Crosshairs",
+    "ro": "Dincolo de Marea Neagră: dronele navale ale Ucrainei țintesc liniile de aprovizionare rusești",
+    "bg": "Отвъд Черно море: Военноморските дронове на Украйна поставят руските линии за снабдяване на прицел"
+   },
+   "summary": "Ukraine has hit five Russian military-linked vessels in 12 days, expanding its naval drone campaign from the Baltic to the Mediterranean and threatening Moscow.",
+   "url": "https://united24media.com/world/beyond-the-black-sea-ukraines-naval-drones-put-russian-supply-lines-in-the-crosshairs-24703",
+   "source": "UNITED24 Media",
+   "published": "2026-11-25T13:00:00Z",
+   "fetched": "2026-11-26T09:22:37Z",
+   "image": "https://storage.united24media.com/og/6/cd/838717323d4d3d8afc14b9d7492e7cd6.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.O-RvWlkptPuPvA-843cydA&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "85c5a0730c52",
@@ -2980,6 +3032,10 @@
     {
      "source": "CAPITAL",
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUklmTVFLVFB5YUpNVDBUZkZFbEt2cHZGVTZsM1p4eUYwckE3MFFLTEFYcUQ5NXpybmRObkFOQkNuc1RqQVpDd2pOSEJoNEVhNjhZd2lzeXlTblN2VXN6STAzdHdlVnFLTUYwMWktWW5tMEhJTmd5d20tVnZ1ZTdubTFnV2VfU3JnaTF5UjUzY2VkdzRfeDZUN2l4MVNlaHNrSXJRbmJHcjFfNkxvYWoyOW80MUFqMzV4Wk5hWDE1aUtEZVROdWU3ZVJCMldNT0hlYk4zQS1ORQ?oc=5"
+    },
+    {
+     "source": "Agenția de presă Rador",
+     "url": "https://www.rador.ro/2026/11/23/fortele-navale-romane-iau-masuri-pentru-cresterea-sigurantei-navigatiei-pe-dunare-si-in-marea-neagra/"
     }
    ],
    "img_tried": true,
@@ -3007,6 +3063,28 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "f961cd1cab2b",
+   "lang": "ro",
+   "title": "Luca Niculescu, interviu în Franța: Securitatea la Marea Neagră, viitorul economiei și prezența americană în România",
+   "titles": {
+    "ro": "Luca Niculescu, interviu în Franța: Securitatea la Marea Neagră, viitorul economiei și prezența americană în România"
+   },
+   "summary": "Luca Niculescu, prim-ministrul României, subliniază provocările economice și amenințările rusești în interviul acordat L'Express.",
+   "url": "https://www.dcnews.ro/luca-niculescu-interviu-franta-securitatea-marea-neagra_1098294.html",
+   "source": "DCNews",
+   "published": "2026-11-23T12:22:00Z",
+   "fetched": "2026-11-26T09:22:37Z",
+   "image": "https://www.dcnews.ro/thumbs/amp/2026/11/23/luca-niculescu-interviu-franta-securitatea-marea-neagra-5470197.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.isoTgdo5s8wX8B4vqFm5cg&pid=News",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "694329bb42a9",
@@ -3291,6 +3369,10 @@
     {
      "source": "Stiripesurse",
      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdmt0bzV3MHdkQ1NUZjRUeGJIRWNFQ1hfeklHQ0dfR3BINlViOGJibzZTc09UdmVXaXZFYXA4T1NWdkdGNFVEeVczNzRhVm9vTnlBR0Vra1NjVkZHdWRxazFKWVpXNERLdjM2eHRmdkpqdF8zRThCVElRdUVuLXNFMWxscmJnWGFCdElSUmFsMkV4OWR1eE43dE9WdGV4UUs0X2ctUXZEak5fSldqUmRaaUhFenc3aDg1ZkxnZHpqUFY5OWFtTG1YbXJLWTg1U29MTFB3SV9UNjhLQ2I4MFI5c3FrdWtuenoyRjZXQlkwOWpTSGUzTXQ5NXZkV2g?oc=5"
+    },
+    {
+     "source": "Newsweek Romania",
+     "url": "https://newsweek.ro/international/fortele-navale-romane-misiuni-siguranta-navigatie-dunare-marea-neagra"
     }
    ]
   },
@@ -3544,6 +3626,10 @@
     {
      "source": "ФАКТИ.БГ",
      "url": "https://fakti.bg/bulgaria/1103865-glavniat-mehanik-na-tankera-lisbon-pochina-sled-medicinska-evakuacia-krai-varna"
+    },
+    {
+     "source": "Maritime.bg - Морският портал",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hR1B6bVAta254TXlYaWNBb29Cc2tQS1F1Y3JQSjJXUERsQUFrSkpGdEtMN2x0R1hKY1A3T0J4RkxqZ2lnWmc?oc=5"
     }
    ],
    "img_checked": true
@@ -4375,7 +4461,12 @@
    "places": [],
    "img_tried": true,
    "img_checked": true,
-   "also": []
+   "also": [
+    {
+     "source": "Head Topics",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEhjR1dfb0RRb2JLSzkyOFNaY3FwTUhYeWFMaS1QejZGeW5UbkZKZG9OU1pHS2UzVnBSSlI2aUVydDZsVGZhcnF1ZTFBblBXd2thbkRiN1BTTTVmbk52QVlqM0dENEh2THQyb1NhdFlVb21xcmNyWTJUMERrc0Rtb3ZvY0JQeFVwVmxCTDE0UjZUTlY5T0ZsTzl3?oc=5"
+    }
+   ]
   },
   {
    "id": "63f25e991a41",
@@ -5973,6 +6064,29 @@
    "also": []
   },
   {
+   "id": "0a2736b09bf7",
+   "lang": "en",
+   "title": "GERB calls on Radev for a plan to protect the Black Sea from drones",
+   "titles": {
+    "en": "GERB calls on Radev for a plan to protect the Black Sea from drones"
+   },
+   "summary": "Hristo Gadjev and Daniel Mitov called for specific systems and measures to protect shipping in the Bulgarian area of responsibility ...",
+   "url": "https://fakti.bg/en/bulgaria/1102573-gerb-calls-on-radev-for-a-plan-to-protect-the-black-sea-from-drones",
+   "source": "Fakti.bg",
+   "published": "2026-11-19T06:24:00Z",
+   "fetched": "2026-11-26T09:22:37Z",
+   "image": "https://www.bing.com/th?id=ONUT.4REds9vhBQf8Cq7ErKFKHQ&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.4REds9vhBQf8Cq7ErKFKHQ&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "94023f2b930e",
    "lang": "en",
    "title": "Turkey Is Not Staying Silent on the Black Sea, Wants an Agreement Before the War Ends",
@@ -6467,6 +6581,30 @@
    "also": []
   },
   {
+   "id": "330b0fa19a7a",
+   "lang": "en",
+   "title": "Previous Ukraine port calls could expose ships to drone attacks in Black Sea",
+   "titles": {
+    "en": "Previous Ukraine port calls could expose ships to drone attacks in Black Sea"
+   },
+   "summary": "When you click on “Accept all”, you consent to ads on this site being customized to a personal profile we or our advertising partners may have about you. Choose “Customize or Reject all” if you want ...",
+   "url": "https://www.tradewindsnews.com/casualties/previous-ukraine-port-calls-could-expose-ships-to-drone-attacks-in-black-sea/2-1-2076262",
+   "source": "TradeWinds",
+   "published": "2026-11-18T03:08:00Z",
+   "fetched": "2026-11-26T09:22:37Z",
+   "image": "https://image.dngroup.com/global/nhst/binary/d43832dea342c1b5a715a52ead8cc87e?crop=1600%2C800%2Cx0%2Cy266%2Csafe&width=1200&format=webp&quality=80",
+   "fallback_image": "",
+   "topics": [
+    "attacks",
+    "shipping",
+    "ports"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "65238ff528cc",
    "lang": "bg",
    "title": "ДБ поиска спешен КСНС: В Черно море все още потъват кораби",
@@ -6717,6 +6855,29 @@
      "url": "https://trumedia.ro/actualitate/o-nava-cisterna-gpl-romaniei-scufundata/"
     }
    ],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "dd341e355bff",
+   "lang": "en",
+   "title": "Two vessels sink in Black Sea as grain cargoes shift north",
+   "titles": {
+    "en": "Two vessels sink in Black Sea as grain cargoes shift north"
+   },
+   "summary": "Conflict in the Black Sea continues to spill over into the waters of neighbouring states after two cargoships sank off Bulgaria ...",
+   "url": "https://www.lloydslist.com/LL1159049/Two-vessels-sink-in-Black-Sea-as-grain-cargoes-shift-north",
+   "source": "Lloyd's List",
+   "published": "2026-11-17T10:54:00Z",
+   "fetched": "2026-11-26T09:22:37Z",
+   "image": "https://www.lloydslist.com/-/media/lloyds-list/images/dry-bulk/2026-new-pictures/general-cargoship-betul-8_black-sea-casualty.png?rev=75de63a43d07496da1c045118c4ef6cc",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.rfy1zCEDXE5mMBbPEgqVAA&pid=News",
+   "topics": [
+    "shipping",
+    "grain"
+   ],
+   "places": [],
+   "also": [],
    "img_tried": true,
    "img_checked": true
   },
@@ -7394,6 +7555,29 @@
    "also": []
   },
   {
+   "id": "02968412639e",
+   "lang": "en",
+   "title": "Fighter jets scrambled following Black Sea attacks",
+   "titles": {
+    "en": "Fighter jets scrambled following Black Sea attacks"
+   },
+   "summary": "Prime Minister Luca Niculescu called the attacks ‘unacceptable’ and a ‘violation of international law’ Thank you for your interest. Please complete the form below and a member of the team will be in ...",
+   "url": "https://www.lloydslist.com/LL1159028/Fighter-jets-scrambled-following-Black-Sea-attacks",
+   "source": "Lloyd's List",
+   "published": "2026-11-16T08:30:00Z",
+   "fetched": "2026-11-26T09:22:37Z",
+   "image": "https://www.lloydslist.com/-/media/lloyds-list/images/dry-bulk/2026-new-pictures/bulk-carrier-marsol-pictured-as-calypso.png?rev=a6bcdcabd69f4f31bf4e1fa3b93986fc",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.NQIL96jKl5PmboQkvzYT-A&pid=News",
+   "topics": [
+    "policy",
+    "attacks"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "eb5d69acd71b",
    "lang": "en",
    "title": "Turkey joins Black Sea security talks after drone strikes",
@@ -7634,6 +7818,30 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "bec9d2a363bd",
+   "lang": "en",
+   "title": "Turkish Navy plans new Black Sea base in Rize, officials say",
+   "titles": {
+    "en": "Turkish Navy plans new Black Sea base in Rize, officials say"
+   },
+   "summary": "Turkey plans to establish a major naval base at Rize Port on the Black Sea, including shipyard facilities for submarines and ...",
+   "url": "https://ssbulten.com.tr/en/gundem/detay/turkish-navy-plans-new-black-sea-base-in-rize-officials-say--29728",
+   "source": "ssbulten",
+   "published": "2026-11-16T05:44:00Z",
+   "fetched": "2026-11-26T09:22:37Z",
+   "image": "https://www.bing.com/th?id=ONUT.4LB6JJhGz55eyauuSRynQw&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.4LB6JJhGz55eyauuSRynQw&pid=News",
+   "topics": [
+    "policy",
+    "shipping",
+    "ports"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "5d6ccf799272",
