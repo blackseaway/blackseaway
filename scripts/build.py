@@ -178,20 +178,20 @@ def home_layout(items: list[dict]) -> dict:
         age_h = (now - parse_iso(i["published"])).total_seconds() / 3600
         return (2 if i.get("image") else 0) + max([PRIORITY.get(t, 0) for t in i["topics"]] or [0]) \
             + 0.5 * min(len(i.get("also", [])), 2) - age_h / 8
-    ranked = sorted(fresh, key=score, reverse=True)
-    # the lead story always has a picture
-    with_img = [i for i in ranked if i.get("image")] or [i for i in sorted(items, key=score, reverse=True)
-                                                         if i.get("image")]
-    lead = with_img[:1]
-    featured = lead + [i for i in ranked if i not in lead][:3]
+    # featured block and topic sections: only stories with a picture (lead first);
+    # stories without one (e.g. fresh Google News items) go to the "Latest news" column
+    with_img = [i for i in sorted(fresh, key=score, reverse=True) if i.get("image")]
+    if len(with_img) < 4:
+        with_img += [i for i in sorted(items, key=score, reverse=True) if i.get("image") and i not in with_img]
+    featured = with_img[:4]
     used = {i["id"] for i in featured}
     sections = []
     for key, topics in SECTIONS:
-        sec = [i for i in items if i["id"] not in used and set(i["topics"]) & set(topics)][:4]
+        sec = [i for i in items if i["id"] not in used and i.get("image") and set(i["topics"]) & set(topics)][:4]
         used |= {i["id"] for i in sec}
         if sec:
             sections.append({"key": key, "items": sec})
-    latest = [i for i in items if i["id"] not in used][:10]
+    latest = [i for i in items if i["id"] not in used][:12]
     return {"featured": featured, "sections": sections, "latest": latest}
 
 

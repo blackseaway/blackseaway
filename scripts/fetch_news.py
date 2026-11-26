@@ -197,6 +197,18 @@ def bing_url(q: str, mkt: str) -> str:
         {"q": q, "format": "rss", "mkt": mkt, "qft": 'sortbydate="1"'})
 
 
+def is_blocked(item: dict, sources: dict) -> bool:
+    """Russian and pro-Russian outlets (by domain or by publisher name)."""
+    host = urllib.parse.urlparse(item.get("url", "")).hostname or ""
+    host = host.lower().removeprefix("www.")
+    if any(host == d or host.endswith("." + d) for d in sources.get("blocked_domains", [])):
+        return True
+    if any(host.endswith(sfx) for sfx in sources.get("blocked_domain_suffixes", [])):
+        return True
+    src = normalize(item.get("source", ""))
+    return any(src == normalize(b) or src.startswith(normalize(b) + " ") for b in sources.get("blocked_sources", []))
+
+
 def collect(sources: dict) -> list[dict]:
     jobs = [(google_news_url(g["q"], g["lang"]), g["lang"], None, True) for g in sources["google_news"]]
     jobs += [(f["url"], f["lang"], f["name"], False) for f in sources["feeds"]]
@@ -227,6 +239,8 @@ def collect(sources: dict) -> list[dict]:
             else:
                 summary = e["summary"][:400]
             if not title or not e["url"]:
+                continue
+            if is_blocked({"url": e["url"], "source": source}, sources):
                 continue
             pub = e["published"] or now
             if now - pub > MAX_FETCH_AGE or pub > now + dt.timedelta(hours=2):
@@ -455,7 +469,8 @@ def main():
     kept = []
     for i in items:
         ok, i["topics"], i["places"] = classify(f"{i['title']} \x1f {i.get('summary', '')}", sources)
-        if ok:
+        i["also"] = [a for a in i.get("also", []) if not is_blocked(a, sources)]
+        if ok and not is_blocked(i, sources):
             kept.append(i)
     items = kept
     cutoff = now_utc() - dt.timedelta(days=cfg["news"]["max_age_days"])

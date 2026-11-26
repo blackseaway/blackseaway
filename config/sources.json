@@ -1,5 +1,5 @@
 {
-  "_comment": "Джерела новин. google_news: пошукові запити до Google News RSS (за останні 7 днів). feeds: звичайні RSS-стрічки морських медіа; з них беруться тільки матеріали, де згадано Чорне море або порт регіону. Ключові слова шукаються з початку слова; символ $ у кінці означає «тільки ціле слово». gdelt: запити до відкритого сервісу GDELT (повертає пряме посилання на статтю і її фото). bing: пошук Bing News (RSS з прямими посиланнями на статті). Google News вимкнено (google_news_disabled), бо він не дає прямих посилань і фото; щоб увімкнути, перенесіть запити назад у google_news. maritime: новина береться, лише якщо в ній є хоч одне морське слово з цього списку.",
+  "_comment": "Джерела новин. google_news: пошукові запити до Google News RSS (за останні 7 днів). feeds: звичайні RSS-стрічки морських медіа; з них беруться тільки матеріали, де згадано Чорне море або порт регіону. Ключові слова шукаються з початку слова; символ $ у кінці означає «тільки ціле слово». gdelt: запити до відкритого сервісу GDELT (повертає пряме посилання на статтю і її фото). bing: пошук Bing News (RSS з прямими посиланнями на статті). Google News вимкнено (google_news_disabled), бо він не дає прямих посилань і фото; щоб увімкнути, перенесіть запити назад у google_news. maritime: новина береться, лише якщо в ній є хоч одне морське слово з цього списку. blocked_*: російські та проросійські ресурси, новини з них не беруться.",
   "feeds": [
     {
       "name": "gCaptain",
@@ -749,7 +749,7 @@
       "q": "Черно море правителство сигурност"
     }
   ],
-  "google_news_disabled": [
+  "google_news": [
     {
       "lang": "en",
       "q": "\"Black Sea\" shipping attack"
@@ -807,7 +807,6 @@
       "q": "пристанище Варна Бургас война корабоплаване"
     }
   ],
-  "google_news": [],
   "maritime": [
     "black sea",
     "marea neagra",
@@ -868,5 +867,71 @@
     "брегова охрана",
     "коридор",
     "протока"
+  ],
+  "blocked_domains": [
+    "trud.bg",
+    "pogled.info",
+    "rt.com",
+    "sputniknews.com",
+    "sputnik.md",
+    "sputnik.by",
+    "sputnik-tj.com",
+    "tass.com",
+    "tass.ru",
+    "ria.ru",
+    "rg.ru",
+    "iz.ru",
+    "lenta.ru",
+    "gazeta.ru",
+    "kommersant.ru",
+    "interfax.ru",
+    "aif.ru",
+    "mk.ru",
+    "regnum.ru",
+    "pravda.ru",
+    "news-pravda.com",
+    "pravda-en.com",
+    "ukraina.ru",
+    "topcor.ru",
+    "tsargrad.tv",
+    "eadaily.com",
+    "news-front.su",
+    "rusvesna.su",
+    "ruptly.tv",
+    "vz.ru",
+    "ura.news",
+    "svpressa.ru",
+    "bulgaria.news-pravda.com",
+    "romania.news-pravda.com"
+  ],
+  "blocked_domain_suffixes": [
+    ".ru",
+    ".su",
+    ".рф"
+  ],
+  "blocked_sources": [
+    "труд",
+    "trud",
+    "rt",
+    "rt news",
+    "russia today",
+    "sputnik",
+    "спутник",
+    "tass",
+    "тасс",
+    "ria novosti",
+    "риа новости",
+    "известия",
+    "izvestia",
+    "новости сво",
+    "pravda.ru",
+    "news-pravda",
+    "поглед",
+    "pogled",
+    "eadaily",
+    "news front",
+    "ukraina.ru",
+    "царьград",
+    "ruptly"
   ]
 }
