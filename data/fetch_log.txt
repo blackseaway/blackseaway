@@ -1,16 +1,16 @@
-[fetch]  43/ 64 kept  Google News en
-[fetch]   8/ 26 kept  Google News en
+[fetch]  38/ 52 kept  Google News en
+[fetch]  10/ 46 kept  Google News en
 [fetch]  20/ 45 kept  Google News en
-[fetch]   7/ 30 kept  Google News en
+[fetch]   2/  6 kept  Google News en
 [fetch]  28/ 43 kept  Google News en
 [fetch]  13/ 23 kept  Google News en
-[fetch]  13/ 30 kept  Google News en
+[fetch]  19/ 49 kept  Google News en
 [fetch]  17/ 55 kept  Google News ro
 [fetch]   4/ 10 kept  Google News ro
-[fetch]  17/ 28 kept  Google News ro
+[fetch]  18/ 29 kept  Google News ro
 [fetch]   6/ 10 kept  Google News ro
-[fetch]  11/ 26 kept  Google News bg
-[fetch]   7/ 11 kept  Google News bg
+[fetch]  11/ 27 kept  Google News bg
+[fetch]   7/ 12 kept  Google News bg
 [fetch]   1/  8 kept  Google News bg
 [fetch]   2/  6 kept  Google News en
 [fetch]   4/ 17 kept  Google News en
@@ -23,7 +23,7 @@
 [fetch]   0/  2 kept  Google News en
 [fetch]   0/  0 kept  Google News en
 [fetch]   0/ 12 kept  gCaptain
-[fetch]   0/ 10 kept  Splash247
+[fetch]   0/  0 kept  Splash247
 [fetch]   0/ 20 kept  Hellenic Shipping News
 [fetch]   0/  0 kept  SAFETY4SEA
 [fetch]   0/ 30 kept  Ukrinform
@@ -36,28 +36,28 @@
 [fetch]   1/ 10 kept  Naval News
 [fetch]   0/ 30 kept  USNI News
 [fetch]  12/ 12 kept  Bing News en
-[fetch]   9/ 11 kept  Bing News en
+[fetch]  10/ 11 kept  Bing News en
 [fetch]   8/ 11 kept  Bing News en
 [fetch]   0/ 12 kept  Bing News en
 [fetch]  10/ 12 kept  Bing News en
-[fetch]   8/ 12 kept  Bing News ro
+[fetch]   6/ 12 kept  Bing News ro
 [fetch]  10/ 12 kept  Bing News ro
 [fetch]  10/ 11 kept  Bing News bg
 [fetch]  12/ 12 kept  Bing News en
-[fetch]  10/ 12 kept  Bing News en
+[fetch]  12/ 12 kept  Bing News en
 [fetch]   8/ 12 kept  Bing News en
 [fetch]   9/ 12 kept  Bing News en
-[fetch]   3/ 11 kept  Bing News ro
-[fetch]  10/ 12 kept  Bing News ro
+[fetch]   8/ 12 kept  Bing News ro
+[fetch]   9/ 12 kept  Bing News ro
 [fetch]   9/ 12 kept  Bing News ro
 [fetch]  10/ 12 kept  Bing News ro
 [fetch]  11/ 12 kept  Bing News bg
-[fetch]   8/ 12 kept  Bing News bg
-[fetch]   6/ 10 kept  Bing News bg
+[fetch]   9/ 12 kept  Bing News bg
+[fetch]   4/  9 kept  Bing News bg
 [fetch]   7/ 11 kept  Bing News en
 [fetch]  10/ 12 kept  Bing News en
-[fetch]   4/ 12 kept  Bing News en
-[fetch]   7/ 11 kept  Bing News en
+[fetch]   7/ 12 kept  Bing News en
+[fetch]   8/ 11 kept  Bing News en
 [fetch]   8/ 12 kept  Bing News en
 [fetch]  12/ 12 kept  Bing News ro
 [fetch]  11/ 12 kept  Bing News ro
@@ -68,14 +68,14 @@
 [fetch]   0/ 12 kept  Bing News en
 [fetch]   1/ 11 kept  Bing News en
 [fetch]   0/  0 kept  Bing News en
-[fetch]   0/  9 kept  Bing News en
+[fetch]   0/ 10 kept  Bing News en
 [fetch]   0/ 11 kept  Bing News en
 [fetch]   0/  0 kept  Bing News en
 [fetch]   0/ 12 kept  Bing News en
 [fetch]   0/  0 kept  Bing News en
 [fetch] FAIL gdelt:"black sea" (attack OR drone OR shipping OR vessel OR tanker OR insurance OR port): HTTP Error 429: Too Many Requests
-[images] 3/4 pictures found
-[images] verified 4: 3 usable on the site
-[deepl] translated 4 headlines, used this month ≈ 59006 chars
-[news] +4 new, 369 total, 15 from the last 24 h, newest 2026-11-26T13:09:21Z
+[images] 2/2 pictures found
+[images] verified 2: 2 usable on the site
+[deepl] translated 4 headlines, used this month ≈ 59364 chars
+[news] +2 new, 371 total, 16 from the last 24 h, newest 2026-11-26T13:09:21Z
 [weather] 8/8 ports updated

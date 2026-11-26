@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:45:12Z",
+ "updated": "2026-11-26T14:53:34Z",
  "items": [
   {
    "id": "8358e5f80bf2",
@@ -186,7 +186,9 @@
    "lang": "en",
    "title": "“The situation in the Black Sea near Sulina is becoming critical,” says Yugekotop co-founder Kozyr",
    "titles": {
-    "en": "“The situation in the Black Sea near Sulina is becoming critical,” says Yugekotop co-founder Kozyr"
+    "en": "“The situation in the Black Sea near Sulina is becoming critical,” says Yugekotop co-founder Kozyr",
+    "ro": "„Situația din Marea Neagră, în apropierea localității Sulina, devine critică”, afirmă Kozyr, cofondatorul Yugekotop",
+    "bg": "„Ситуацията в Черно море край Сулина става критична“, казва Козир, съосновател на Yugekotop"
    },
    "summary": "The risks for civilian cargo ships in the Black Sea near the Sulina Canal are steadily increasing, and Ukrainian agricultural exports could lose yet another key corridor, said Borys Kozyr, co-founder ...",
    "url": "https://nikvesti.com/en/news/business/326987-the-situation-in-the-black-sea-near-sulina-is-becoming-critical-says",
@@ -253,6 +255,32 @@
    ],
    "places": [],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "36bc12b7d601",
+   "lang": "en",
+   "title": "Germany calls on Russia to show peace talks readiness through Black Sea ceasefire",
+   "titles": {
+    "en": "Germany calls on Russia to show peace talks readiness through Black Sea ceasefire",
+    "ro": "Germania solicită Rusiei să-și demonstreze disponibilitatea pentru negocierile de pace prin instaurarea unui armistițiu în Marea Neagră",
+    "bg": "Германия призовава Русия да покаже готовност за мирни преговори чрез прекратяване на огъня в Черно море"
+   },
+   "summary": "Foreign minister says Moscow must take concrete steps to demonstrate willingness to negotiate, warns attacks on merchant vessels threaten global food security | Anadolu ...",
+   "url": "https://www.aa.com.tr/en/russia-ukraine-war/germany-calls-on-russia-to-show-peace-talks-readiness-through-black-sea-ceasefire/4138794",
+   "source": "Anadolu Agency",
+   "published": "2026-11-25T18:13:00Z",
+   "fetched": "2026-11-26T14:50:44Z",
+   "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/11/26/thumbs_b_c_71754fe92144cf1335b6a3b5212316aa.jpg",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -4214,6 +4242,29 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "87363bd877e6",
+   "lang": "en",
+   "title": "Bulgaria's Defense Minister Urges NATO Support to Counter Black Sea Drone Threat",
+   "titles": {
+    "en": "Bulgaria's Defense Minister Urges NATO Support to Counter Black Sea Drone Threat"
+   },
+   "summary": "Bulgaria urgently needs to acquire capabilities to detect and counter maritime drones in the Black Sea, Defense Minister Dimitar Stoyanov said during a meeting with U.S.",
+   "url": "https://www.novinite.com/articles/241742/Bulgaria%27s+Defense+Minister+Urges+NATO+Support+to+Counter+Black+Sea+Drone+Threat",
+   "source": "Novinite",
+   "published": "2026-11-23T03:00:00Z",
+   "fetched": "2026-11-26T14:50:44Z",
+   "image": "https://www.novinite.com/media/images/2026-11/photo_verybig_241742.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.DCfKLwQqe95v60TT8uhu8Q&pid=News",
+   "topics": [
+    "policy",
+    "attacks"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "9e307e5ce539",
