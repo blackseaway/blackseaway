@@ -1,6 +1,6 @@
 {
   "_comment": "Блоки «Ризики і страхування», «Офіційні попередження» та «Екстрені контакти» на головній. Оновлюється редакцією вручну. Після кожної зміни оновіть checked (дату перевірки).",
-  "checked": "2026-11-25",
+  "checked": "2026-11-26",
   "risk": {
     "level": "high",
     "status": {
@@ -26,36 +26,225 @@
       }
     ],
     "sources": [
-      {"name": "Gard: War in Ukraine — impact on the maritime situation", "url": "https://gard.no/articles/war-ukraine-impact-on-maritime-situation/"},
-      {"name": "U.S. MARAD maritime advisories", "url": "https://www.maritime.dot.gov/msci-advisories"}
+      {
+        "name": "Gard: War in Ukraine — impact on the maritime situation",
+        "url": "https://gard.no/articles/war-ukraine-impact-on-maritime-situation/"
+      },
+      {
+        "name": "U.S. MARAD maritime advisories",
+        "url": "https://www.maritime.dot.gov/msci-advisories"
+      }
     ]
   },
   "official_links": [
-    {"name": "NAVAREA III warnings in force (Spanish Navy, coordinator)", "url": "https://armada.defensa.gob.es/ihm/Aplicaciones/Navareas/Index_Navareas_xml_en.html",
-     "note": {"en": "Official navigational warnings for the Black Sea", "ro": "Avertismente oficiale de navigație pentru Marea Neagră", "bg": "Официални навигационни предупреждения за Черно море"}},
-    {"name": "Turkish Navy Office of Navigation (ONHO) — NAVTEX", "url": "https://www.shodb.gov.tr",
-     "note": {"en": "Daily NAVTEX messages in English, with a map", "ro": "Mesaje NAVTEX zilnice în engleză, cu hartă", "bg": "Ежедневни NAVTEX съобщения на английски, с карта"}},
-    {"name": "NATO Shipping Centre", "url": "https://shipping.nato.int/nsc",
-     "note": {"en": "Security advice for merchant shipping", "ro": "Recomandări de securitate pentru navele comerciale", "bg": "Препоръки за сигурност за търговското корабоплаване"}},
-    {"name": "U.S. MARAD maritime advisories", "url": "https://www.maritime.dot.gov/msci-advisories",
-     "note": {"en": "Current Black Sea and Sea of Azov advisory", "ro": "Avertismentul actual pentru Marea Neagră și Marea Azov", "bg": "Актуално предупреждение за Черно и Азовско море"}},
-    {"name": "IMO: Maritime security and safety in the Black Sea", "url": "https://www.imo.org/en/MediaCentre/HotTopics/Pages/MaritimeSecurityandSafetyintheBlackSeaandSeaofAzov.aspx",
-     "note": {"en": "IMO updates and national contact points", "ro": "Actualizări IMO și puncte naționale de contact", "bg": "Актуална информация от IMO и национални звена за контакт"}},
-    {"name": "Ukrainian Sea Ports Authority", "url": "https://www.uspa.gov.ua/en",
-     "note": {"en": "Port operations and the Ukrainian corridor", "ro": "Activitatea porturilor și coridorul ucrainean", "bg": "Работа на пристанищата и украинския коридор"}}
+    {
+      "name": "NAVAREA III warnings in force (Spanish Navy, coordinator)",
+      "url": "https://armada.defensa.gob.es/ihm/Aplicaciones/Navareas/Index_Navareas_xml_en.html",
+      "note": {
+        "en": "Official navigational warnings for the Black Sea",
+        "ro": "Avertismente oficiale de navigație pentru Marea Neagră",
+        "bg": "Официални навигационни предупреждения за Черно море"
+      }
+    },
+    {
+      "name": "Turkish Navy Office of Navigation (ONHO) — NAVTEX",
+      "url": "https://www.shodb.gov.tr",
+      "note": {
+        "en": "Daily NAVTEX messages in English, with a map",
+        "ro": "Mesaje NAVTEX zilnice în engleză, cu hartă",
+        "bg": "Ежедневни NAVTEX съобщения на английски, с карта"
+      }
+    },
+    {
+      "name": "Romania: coastal navigational warnings (DHMFN)",
+      "url": "https://niord.dhmfn.ro/#/messages/details",
+      "note": {
+        "en": "Romanian coastal warnings and recommended safe routes",
+        "ro": "Avertismente costiere românești și rute sigure recomandate",
+        "bg": "Румънски крайбрежни предупреждения и препоръчани безопасни маршрути"
+      }
+    },
+    {
+      "name": "Turkish Straits Vessel Traffic Service",
+      "url": "https://www.kiyiemniyeti.gov.tr/gemi_trafik_ve_kilavuzluk_hizmeti?lang=1",
+      "note": {
+        "en": "Bosphorus and Dardanelles traffic services (General Directorate of Coastal Safety)",
+        "ro": "Serviciul de trafic din Bosfor și Dardanele (Direcția Generală pentru Siguranța Coastelor)",
+        "bg": "Трафик услуги в Босфора и Дарданелите (Главна дирекция „Крайбрежна безопасност“)"
+      }
+    },
+    {
+      "name": "NATO Shipping Centre",
+      "url": "https://shipping.nato.int/nsc",
+      "note": {
+        "en": "Security advice for merchant shipping",
+        "ro": "Recomandări de securitate pentru navele comerciale",
+        "bg": "Препоръки за сигурност за търговското корабоплаване"
+      }
+    },
+    {
+      "name": "U.S. MARAD maritime advisories",
+      "url": "https://www.maritime.dot.gov/msci-advisories",
+      "note": {
+        "en": "Current Black Sea and Sea of Azov advisory",
+        "ro": "Avertismentul actual pentru Marea Neagră și Marea Azov",
+        "bg": "Актуално предупреждение за Черно и Азовско море"
+      }
+    },
+    {
+      "name": "IMO: Maritime security and safety in the Black Sea",
+      "url": "https://www.imo.org/en/MediaCentre/HotTopics/Pages/MaritimeSecurityandSafetyintheBlackSeaandSeaofAzov.aspx",
+      "note": {
+        "en": "IMO updates and national contact points",
+        "ro": "Actualizări IMO și puncte naționale de contact",
+        "bg": "Актуална информация от IMO и национални звена за контакт"
+      }
+    },
+    {
+      "name": "Ukrainian Sea Ports Authority",
+      "url": "https://www.uspa.gov.ua/en",
+      "note": {
+        "en": "Port operations and the Ukrainian corridor",
+        "ro": "Activitatea porturilor și coridorul ucrainean",
+        "bg": "Работа на пристанищата и украинския коридор"
+      }
+    }
   ],
   "contacts": [
-    {"name": {"en": "Distress at sea, any country", "ro": "Pericol pe mare, orice țară", "bg": "Бедствие в морето, всяка държава"},
-     "lines": ["VHF ch. 16 · DSC ch. 70", "112"]},
-    {"name": {"en": "Romania: MRCC Constanța", "ro": "România: MRCC Constanța", "bg": "Румъния: MRCC Констанца"},
-     "lines": ["+40 241 615 949", "mrcc@rna.ro"],
-     "source": "https://portal.rna.ro/english/Pagini/Maritime Coordination Centre.aspx"},
-    {"name": {"en": "Türkiye: Main SAR Coordination Centre, Ankara", "ro": "Turcia: Centrul principal SAR, Ankara", "bg": "Турция: Главен център за търсене и спасяване, Анкара"},
-     "lines": ["+90 312 231 91 05"],
-     "source": "https://www.rempec.org/en/knowledge-centre/country-profiles/turkey/country_profile_pdf"},
-    {"name": {"en": "Bulgaria: MRCC Varna (Maritime Administration)", "ro": "Bulgaria: MRCC Varna (Administrația Maritimă)", "bg": "България: MRCC Варна (ИА „Морска администрация“)"},
-     "lines": [], "link": "https://www.marad.bg"},
-    {"name": {"en": "Ukraine: State Maritime Rescue Coordination Centre, Odesa", "ro": "Ucraina: Centrul de coordonare a salvării pe mare, Odesa", "bg": "Украйна: Държавен морски спасителен координационен център, Одеса"},
-     "lines": [], "link": "https://www.imo.org/en/MediaCentre/HotTopics/Pages/MaritimeSecurityandSafetyintheBlackSeaandSeaofAzov.aspx"}
-  ]
+    {
+      "name": {
+        "en": "Distress at sea, any country",
+        "ro": "Pericol pe mare, orice țară",
+        "bg": "Бедствие в морето, всяка държава"
+      },
+      "lines": [
+        "VHF ch. 16 · DSC ch. 70",
+        "112"
+      ]
+    },
+    {
+      "name": {
+        "en": "Romania: MRCC Constanța",
+        "ro": "România: MRCC Constanța",
+        "bg": "Румъния: MRCC Констанца"
+      },
+      "lines": [
+        "+40 241 615 949",
+        "mrcc@rna.ro"
+      ],
+      "source": "https://portal.rna.ro/english/Pagini/Maritime Coordination Centre.aspx"
+    },
+    {
+      "name": {
+        "en": "Türkiye: Main SAR Coordination Centre, Ankara",
+        "ro": "Turcia: Centrul principal SAR, Ankara",
+        "bg": "Турция: Главен център за търсене и спасяване, Анкара"
+      },
+      "lines": [
+        "+90 312 231 91 05"
+      ],
+      "source": "https://www.rempec.org/en/knowledge-centre/country-profiles/turkey/country_profile_pdf"
+    },
+    {
+      "name": {
+        "en": "Bulgaria: MRCC Varna (Maritime Administration)",
+        "ro": "Bulgaria: MRCC Varna (Administrația Maritimă)",
+        "bg": "България: MRCC Варна (ИА „Морска администрация“)"
+      },
+      "lines": [],
+      "link": "https://www.marad.bg"
+    },
+    {
+      "name": {
+        "en": "Ukraine: State Maritime Rescue Coordination Centre, Odesa",
+        "ro": "Ucraina: Centrul de coordonare a salvării pe mare, Odesa",
+        "bg": "Украйна: Държавен морски спасителен координационен център, Одеса"
+      },
+      "lines": [],
+      "link": "https://www.imo.org/en/MediaCentre/HotTopics/Pages/MaritimeSecurityandSafetyintheBlackSeaandSeaofAzov.aspx"
+    }
+  ],
+  "insurance": {
+    "points": [
+      {
+        "en": "Listed Area: since 16 September 2026 (JWC circular JWLA-035) the whole Black Sea is a war-risk Listed Area, except the territorial waters of Türkiye, Romania, Bulgaria and Georgia. Declare every voyage to your war-risk underwriters in advance; additional premiums and conditions apply.",
+        "ro": "Zonă listată: din 16 septembrie 2026 (circulara JWC JWLA-035), întreaga Mare Neagră este zonă listată de risc de război, cu excepția apelor teritoriale ale Turciei, României, Bulgariei și Georgiei. Declarați fiecare voiaj în prealabil asigurătorilor de risc de război; se aplică prime și condiții suplimentare.",
+        "bg": "Зона с военен риск: от 16 септември 2026 г. (циркуляр JWLA-035 на JWC) цялото Черно море е в списъка на зоните с военен риск, с изключение на териториалните води на Турция, Румъния, България и Грузия. Декларирайте всеки рейс предварително пред застрахователите за военен риск; прилагат се допълнителни премии и условия."
+      },
+      {
+        "en": "Excluded waters are not risk-free: ships have been struck off Bulgaria, near the Sulina canal and about 11.6 nautical miles north of the Bosphorus. Check your policy wording for coastal-state waters too.",
+        "ro": "Apele excluse nu sunt lipsite de risc: nave au fost lovite în largul Bulgariei, lângă canalul Sulina și la circa 11,6 mile marine nord de Bosfor. Verificați formularea poliței și pentru apele statelor riverane.",
+        "bg": "Изключените води не са без риск: кораби бяха ударени край България, до канала Сулина и на около 11,6 морски мили северно от Босфора. Проверете условията на полицата и за водите на крайбрежните държави."
+      },
+      {
+        "en": "Unity facility (Ukrainian corridor): a war-risk scheme of the Ukrainian government, Marsh McLennan and Lloyd's insurers led by Ascot offers hull and P&I war cover of up to US$50 million per ship for all non-military cargo at reduced premiums. Ask your broker.",
+        "ro": "Facilitatea Unity (coridorul ucrainean): o schemă de risc de război a guvernului Ucrainei, Marsh McLennan și asigurătorilor Lloyd's conduși de Ascot oferă acoperire de corp navă și P&I de până la 50 de milioane USD pe navă, pentru orice marfă nemilitară, la prime reduse. Întrebați brokerul.",
+        "bg": "Механизмът Unity (украинският коридор): схема за военен риск на правителството на Украйна, Marsh McLennan и застрахователи от Lloyd's начело с Ascot предлага покритие за корпус и P&I до 50 млн. щ.д. на кораб за всички невоенни товари с намалени премии. Попитайте брокера си."
+      },
+      {
+        "en": "Ukrainian state compensation: since 19 October 2026 Ukraine partially compensates (up to 80% of assessed damage) shipowners, operators and charterers of civilian vessels damaged by Russian strikes, under any flag, when insurers do not cover the risk. Covers hull, cargo and rescue costs.",
+        "ro": "Compensații de la statul ucrainean: din 19 octombrie 2026, Ucraina compensează parțial (până la 80% din paguba evaluată) armatorii, operatorii și navlositorii navelor civile avariate de atacurile rusești, sub orice pavilion, atunci când asigurătorii nu acoperă riscul. Include corpul navei, marfa și costurile de salvare.",
+        "bg": "Компенсации от украинската държава: от 19 октомври 2026 г. Украйна частично компенсира (до 80% от оценената щета) корабособственици, оператори и наематели на граждански кораби, повредени от руски удари, под всякакъв флаг, когато застрахователите не покриват риска. Покрива корпуса, товара и спасителните разходи."
+      }
+    ],
+    "sources": [
+      {
+        "name": "SAFETY4SEA / Ambrey: JWLA-035",
+        "url": "https://safety4sea.com/ambrey-whole-black-sea-now-a-contested-operating-environment/"
+      },
+      {
+        "name": "Insurance Journal: Unity facility",
+        "url": "https://www.insurancejournal.com/news/international/2024/03/01/763042.htm"
+      },
+      {
+        "name": "Kyiv Independent: Ukraine to compensate damaged ships",
+        "url": "https://kyivindependent.com/ukraine-to-compensate-damaged-cargo-ships-as-russia-rejects-black-sea-proposal/"
+      }
+    ]
+  },
+  "guidance": [
+    {
+      "en": "Keep AIS on (SOLAS) and keep a listening watch on VHF channel 16. AIS may be switched off only if it endangers the ship; log the reason and switch it back on as soon as possible.",
+      "ro": "Mențineți AIS pornit (SOLAS) și veghe permanentă pe canalul VHF 16. AIS poate fi oprit doar dacă pune nava în pericol; consemnați motivul și reporniți-l cât mai curând.",
+      "bg": "Поддържайте AIS включен (SOLAS) и постоянна вахта на УКВ канал 16. AIS може да се изключи само ако застрашава кораба; запишете причината и го включете отново възможно най-скоро."
+    },
+    {
+      "en": "Expect GNSS (GPS) interference, especially along the northern and western coasts. Cross-check positions with radar and visual bearings.",
+      "ro": "Așteptați-vă la interferențe GNSS (GPS), mai ales de-a lungul coastelor de nord și de vest. Verificați poziția cu radarul și relevmente vizuale.",
+      "bg": "Очаквайте смущения на GNSS (GPS), особено по северното и западното крайбрежие. Проверявайте позицията с радар и визуални пеленги."
+    },
+    {
+      "en": "Floating objects may be mines or drones: keep a visual lookout, keep crew off the forward deck where practicable, stay well clear and report the position.",
+      "ro": "Obiectele plutitoare pot fi mine sau drone: mențineți veghe vizuală, țineți echipajul departe de puntea din prova când este posibil, păstrați distanța și raportați poziția.",
+      "bg": "Плаващите предмети може да са мини или дронове: поддържайте визуално наблюдение, дръжте екипажа далеч от носовата палуба, когато е възможно, стойте на разстояние и докладвайте позицията."
+    },
+    {
+      "en": "Follow the safe routes in national coastal warnings (Romania, Bulgaria, Türkiye) and check NAVAREA III and NAVTEX before and during the voyage.",
+      "ro": "Urmați rutele sigure din avertismentele costiere naționale (România, Bulgaria, Turcia) și verificați NAVAREA III și NAVTEX înainte și în timpul voiajului.",
+      "bg": "Следвайте безопасните маршрути от националните крайбрежни предупреждения (Румъния, България, Турция) и проверявайте NAVAREA III и NAVTEX преди и по време на рейса."
+    },
+    {
+      "en": "Report any attack, mine sighting or suspicious activity to the flag state, the coastal authority and the NATO Shipping Centre.",
+      "ro": "Raportați orice atac, observare de mine sau activitate suspectă statului de pavilion, autorității de coastă și NATO Shipping Centre.",
+      "bg": "Докладвайте всяка атака, забелязана мина или подозрителна дейност на държавата на флага, крайбрежната власт и NATO Shipping Centre."
+    }
+  ],
+  "guidance_sources": [
+    {
+      "name": "Gard: War in Ukraine, impact on the maritime situation",
+      "url": "https://gard.no/articles/war-ukraine-impact-on-maritime-situation/"
+    },
+    {
+      "name": "NATO Shipping Centre",
+      "url": "https://shipping.nato.int/nsc"
+    }
+  ],
+  "report": {
+    "name": "NATO Shipping Centre (24/7)",
+    "lines": [
+      "info@shipping.nato.int",
+      "+44 1923 956 574"
+    ],
+    "form": "https://shipping.nato.int/nsc/operations/merchant-shipping-reporting/incident-reporting-form"
+  }
 }

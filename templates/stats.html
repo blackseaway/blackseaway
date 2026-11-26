@@ -8,19 +8,100 @@
 {% block content %}
 <div class="wrap block">
   <h1 class="page-title">{{ t.stats_title }}</h1>
-  <p class="lead narrow">{{ t.stats_intro }}</p>
+  <nav class="toc" aria-label="{{ t.jump_to }}">
+    <a href="#map-section">{{ t.map_title }}</a>
+    <a href="#sea">{{ t.sea_forecast }}</a>
+    <a href="#insurance">{{ t.insurance_title }}</a>
+    <a href="#guidance">{{ t.guidance_title }}</a>
+    <a href="#contacts">{{ t.contacts_title }}</a>
+    <a href="#figures">{{ t.key_figures }}</a>
+  </nav>
 
-  <section class="block">
-    <h2>{{ t.key_figures }}</h2>
+  <section class="section" id="map-section">
+    <h2 class="section-title">{{ t.map_title }}</h2>
+    <div id="map" class="map"></div>
+    <p class="note">{{ t.map_first_note }}</p>
+    <details><summary>{{ t.table_view }}</summary>
+      <table class="data"><thead><tr><th>{{ t.place }}</th><th>{{ t.mentions }}</th></tr></thead>
+      <tbody>{% for p in stats.places %}<tr><td>{{ p.names[lang] }}</td><td>{{ p.count }}</td></tr>{% else %}<tr><td colspan="2">–</td></tr>{% endfor %}</tbody></table>
+    </details>
+  </section>
+
+  <section class="section" id="sea">
+    <h2 class="section-title">{{ t.sea_forecast }}</h2>
+    <div class="table-wrap">
+    <table class="ports-table">
+      <thead><tr><th></th><th>{{ t.waves }}</th><th>{{ t.wind }}</th><th>{{ t.sea_temp }}</th>
+        {% set first = (ports|selectattr('weather')|first) %}
+        {% if first and first.weather.days %}{% for d in first.weather.days %}<th>{{ d.date[8:10] }}.{{ d.date[5:7] }}</th>{% endfor %}{% endif %}</tr></thead>
+      <tbody>
+      {% for p in ports %}{% set w = p.weather %}
+        <tr>
+          <th scope="row">{{ p.names[lang] }}</th>
+          <td>{% if w %}{{ w.wave_height|num }} {{ t.m }} <span class="muted">{{ w.wave_direction|compass }}</span>{% else %}–{% endif %}</td>
+          <td>{% if w %}{{ w.wind_speed|num(0) }} {{ t.kn }} <span class="muted">{{ w.wind_direction|compass }}</span><br><small class="muted">{{ t.gusts }} {{ w.wind_gusts|num(0) }}</small>{% else %}–{% endif %}</td>
+          <td>{% if w %}{{ w.sea_temp|num }}°C{% else %}–{% endif %}</td>
+          {% if w and w.days %}{% for d in w.days %}
+          <td class="{% if (d.wave_max or 0) >= 2.5 or (d.gust_max or 0) >= 34 %}rough{% endif %}">{{ d.wave_max|num }} {{ t.m }}<br><small class="muted">{{ d.gust_max|num(0) }} {{ t.kn }}</small></td>
+          {% endfor %}{% endif %}
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    </div>
+    <p class="note">{{ t.max_waves }} / {{ t.max_gusts }} · <span class="rough-key">■</span> {{ t.rough }} / {{ t.gale }} (≥ 2.5 {{ t.m }} / ≥ 34 {{ t.kn }}). {{ t.weather_note }} <a href="https://open-meteo.com/" target="_blank" rel="noopener">Weather data by Open-Meteo.com</a> (CC BY 4.0)</p>
+  </section>
+
+  <div class="two-col">
+    {% if safety.insurance %}
+    <section class="section" id="insurance">
+      <h2 class="section-title">{{ t.insurance_title }}</h2>
+      <ul class="plain">{% for pt in safety.insurance.points %}<li>{{ pt[lang] or pt.en }}</li>{% endfor %}</ul>
+      <p class="note">{{ t.source }}: {% for s in safety.insurance.sources %}<a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.name }}</a>{% if not loop.last %}; {% endif %}{% endfor %} · {{ t.checked }} {{ safety.checked }}</p>
+    </section>
+    {% endif %}
+    {% if safety.guidance %}
+    <section class="section" id="guidance">
+      <h2 class="section-title">{{ t.guidance_title }}</h2>
+      <ul class="plain">{% for pt in safety.guidance %}<li>{{ pt[lang] or pt.en }}</li>{% endfor %}</ul>
+      <p class="note">{{ t.source }}: {% for s in safety.guidance_sources %}<a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.name }}</a>{% if not loop.last %}; {% endif %}{% endfor %}</p>
+      {% if safety.report %}
+      <div class="report-box">
+        <h3>{{ t.report_title }}</h3>
+        <p>{{ t.report_text }} <b>{{ safety.report.name }}</b><br>
+        {% for line in safety.report.lines %}{% if '@' in line %}<a href="mailto:{{ line }}">{{ line }}</a>{% else %}<a href="tel:{{ line|replace(' ', '') }}">{{ line }}</a>{% endif %}{% if not loop.last %} · {% endif %}{% endfor %}<br>
+        <a href="{{ safety.report.form }}" target="_blank" rel="noopener">{{ t.online_form }} →</a></p>
+      </div>
+      {% endif %}
+    </section>
+    {% endif %}
+  </div>
+
+  <section class="section safety" id="contacts">
+    <h2 class="section-title">{{ t.official_warnings }} · {{ t.contacts_title }}</h2>
+    <div class="safety-grid two">
+      <ul class="link-list">{% for l in safety.official_links %}<li><a href="{{ l.url }}" target="_blank" rel="noopener">{{ l.name }}</a> <span class="muted">{{ l.note[lang] or l.note.en }}</span></li>{% endfor %}</ul>
+      <ul class="contact-list">
+        {% for c in safety.contacts %}
+        <li><b>{{ c.name[lang] or c.name.en }}</b>
+          {% for line in c.lines %}<span>{% if line.startswith('+') or line == '112' %}<a href="tel:{{ line|replace(' ', '') }}">{{ line }}</a>{% elif '@' in line %}<a href="mailto:{{ line }}">{{ line }}</a>{% else %}{{ line }}{% endif %}</span>{% endfor %}
+          {% if c.link %}<span><a href="{{ c.link }}" target="_blank" rel="noopener">{{ c.link|replace('https://', '')|replace('www.', '')|truncate(34, true, '…') }}</a></span>{% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+
+  <section class="section" id="figures">
+    <h2 class="section-title">{{ t.key_figures }}</h2>
     {% if indicators %}
     <div class="indicators">{% for i in indicators %}{{ m.indicator_card(i, t) }}{% endfor %}</div>
-    {% for i in indicators if i.note %}<p class="muted small"><b>{{ i.label }}:</b> {{ i.note }}</p>{% endfor %}
     {% else %}
     <p class="placeholder">{{ t.indicators_pending }}</p>
     {% endif %}
   </section>
 
-  <section class="block chart-block">
+  <section class="section chart-block">
     <h2>{{ t.chart_weekly }}</h2>
     <p class="muted">{{ t.chart_weekly_note }}</p>
     {% set maxw = [stats.weeks|map(attribute='count')|max, 1]|max %}
@@ -42,32 +123,16 @@
       {% endfor %}
     </svg>
     </div>
-    <details><summary>{{ t.table_view }}</summary>
-      <table class="data"><thead><tr><th>{{ t.week_of }}</th><th>{{ t.articles_count }}</th></tr></thead>
-      <tbody>{% for w in stats.weeks|reverse %}<tr><td>{{ w.week|date(lang) }}</td><td>{{ w.count }}</td></tr>{% endfor %}</tbody></table>
-    </details>
   </section>
 
-  <section class="block chart-block">
+  <section class="section chart-block">
     <h2>{{ t.chart_topics }}</h2>
     <p class="muted">{{ t.chart_topics_note }}</p>
-    {% if stats.topics %}
     <ul class="hbars">
       {% for tp in stats.topics %}
-      <li title="{{ t.topics[tp.id] }}: {{ tp.count }} {{ t.articles_count }}"><span class="lbl">{{ t.topics[tp.id] }}</span><span class="bar"><i style="width: {{ (tp.share*100)|round(1) }}%"></i></span><span class="num">{{ tp.share|pct }} <small>({{ tp.count }})</small></span></li>
+      <li title="{{ t.topics[tp.id] }}: {{ tp.count }}"><span class="lbl">{{ t.topics[tp.id] }}</span><span class="bar"><i style="width: {{ (tp.share*100)|round(1) }}%"></i></span><span class="num">{{ tp.share|pct }} <small>({{ tp.count }})</small></span></li>
       {% endfor %}
     </ul>
-    {% else %}<p class="placeholder">—</p>{% endif %}
-  </section>
-
-  <section class="block">
-    <h2>{{ t.map_title }}</h2>
-    <p class="muted">{{ t.map_note }}</p>
-    <div id="map" class="map"></div>
-    <details><summary>{{ t.table_view }}</summary>
-      <table class="data"><thead><tr><th>{{ t.place }}</th><th>{{ t.mentions }}</th></tr></thead>
-      <tbody>{% for p in stats.places %}<tr><td>{{ p.names[lang] }}</td><td>{{ p.count }}</td></tr>{% else %}<tr><td colspan="2">—</td></tr>{% endfor %}</tbody></table>
-    </details>
   </section>
 </div>
 {% endblock %}

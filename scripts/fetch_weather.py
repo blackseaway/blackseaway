@@ -24,21 +24,28 @@ def max_next_24h(hourly: dict, key: str) -> float | None:
 
 def port_conditions(lat: float, lon: float) -> dict:
     out = {}
-    m = fetch(MARINE, {"latitude": lat, "longitude": lon, "timezone": "UTC", "forecast_days": 2,
+    m = fetch(MARINE, {"latitude": lat, "longitude": lon, "timezone": "UTC", "forecast_days": 3,
                        "current": "wave_height,wave_direction,wave_period,sea_surface_temperature",
-                       "hourly": "wave_height"})
+                       "hourly": "wave_height", "daily": "wave_height_max,wave_period_max"})
     cur = m.get("current", {})
     out.update(wave_height=cur.get("wave_height"), wave_direction=cur.get("wave_direction"),
                wave_period=cur.get("wave_period"), sea_temp=cur.get("sea_surface_temperature"),
                wave_max_24h=max_next_24h(m.get("hourly"), "wave_height"))
-    w = fetch(FORECAST, {"latitude": lat, "longitude": lon, "timezone": "UTC", "forecast_days": 2,
+    days = (m.get("daily") or {})
+    out["days"] = [{"date": d, "wave_max": wm} for d, wm in zip(days.get("time", []), days.get("wave_height_max", []))]
+    w = fetch(FORECAST, {"latitude": lat, "longitude": lon, "timezone": "UTC", "forecast_days": 3,
                          "wind_speed_unit": "kn",
                          "current": "wind_speed_10m,wind_direction_10m,wind_gusts_10m,temperature_2m",
-                         "hourly": "wind_gusts_10m"})
+                         "hourly": "wind_gusts_10m", "daily": "wind_speed_10m_max,wind_gusts_10m_max"})
     cur = w.get("current", {})
     out.update(wind_speed=cur.get("wind_speed_10m"), wind_direction=cur.get("wind_direction_10m"),
                wind_gusts=cur.get("wind_gusts_10m"), air_temp=cur.get("temperature_2m"),
                gusts_max_24h=max_next_24h(w.get("hourly"), "wind_gusts_10m"))
+    wd = (w.get("daily") or {})
+    gust = dict(zip(wd.get("time", []), wd.get("wind_gusts_10m_max", [])))
+    wind = dict(zip(wd.get("time", []), wd.get("wind_speed_10m_max", [])))
+    for d in out["days"]:
+        d["gust_max"], d["wind_max"] = gust.get(d["date"]), wind.get(d["date"])
     return out
 
 

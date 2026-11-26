@@ -48,6 +48,7 @@
     <a href="{{ url(lang ~ '/articles/') }}" {% if page_id=='articles' %}aria-current="page"{% endif %}>{{ t.nav_articles }}</a>
     <a href="{{ url(lang ~ '/stats.html') }}" {% if page_id=='stats' %}aria-current="page"{% endif %}>{{ t.nav_stats }}</a>
     <a href="{{ url(lang ~ '/about.html') }}" {% if page_id=='about' %}aria-current="page"{% endif %}>{{ t.nav_about }}</a>
+    <a href="{{ url(lang ~ '/contact.html') }}" {% if page_id=='contact' %}aria-current="page"{% endif %}>{{ t.nav_contact }}</a>
   </nav>
 </header>
 <main id="main">
@@ -64,6 +65,11 @@
       <ul class="plain-links">
         {% for s in cfg.social %}<li><a href="{{ s.url }}" rel="me noopener" target="_blank">{{ s.name }}</a></li>{% endfor %}
         <li><a href="{{ url('feed.xml') }}">{{ t.rss }}</a></li>
+      </ul>
+      <h3 class="mt">{{ t.nav_contact }}</h3>
+      <ul class="plain-links">
+        <li><a href="mailto:{{ cfg.contact_email }}">{{ cfg.contact_email }}</a></li>
+        <li><a href="{{ url(lang ~ '/contact.html') }}">{{ t.contact_title }}</a></li>
       </ul>
     </div>
     <div>
