@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T01:29:08Z",
+ "updated": "2026-11-26T04:13:58Z",
  "items": [
   {
    "id": "445c727214e6",
@@ -89,6 +89,29 @@
    "fallback_image": "http://www.bing.com/th?id=ONUT.X1RvnMWP--oO-utN0FhNgg&pid=News",
    "topics": [
     "ports"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "9b719e3216ff",
+   "lang": "ro",
+   "title": "Acasă • Explainer • Marea Neagră, miză pentru securitatea energetică a Europei. Ce bani poate obține România din viitorul buget UE. Siegfried Mureșan: „Securitatea ...",
+   "titles": {
+    "ro": "Acasă • Explainer • Marea Neagră, miză pentru securitatea energetică a Europei. Ce bani poate obține România din viitorul buget UE. Siegfried Mureșan: „Securitatea ...",
+    "en": "Home • Explainer • The Black Sea: a key factor for Europe’s energy security. How much funding could Romania secure from the future EU budget? Siegfried Mureșan: “Security ...",
+    "bg": "Начало • Обяснителни статии • Черно море – ключ към енергийната сигурност на Европа. Какви средства може да получи Румъния от бъдещия бюджет на ЕС. Зигфрид Мурешан: „Сигурността ..."
+   },
+   "summary": "Exploatarea gazelor din Neptun Deep poate consolida rolul României pe piața energetică europeană. Securitatea infrastructurii din Marea Neagră devine însă o miză strategică.",
+   "url": "https://economedia.ro/marea-neagra-miza-pentru-securitatea-energetica-a-europei-ce-bani-poate-obtine-romania-din-viitorul-buget-ue-siegfried-muresan-securitatea-ei-trebuie-finantata-ca-prioritate-europeana.html",
+   "source": "Economedia.ro",
+   "published": "2026-11-25T08:00:00Z",
+   "fetched": "2026-11-26T04:12:01Z",
+   "image": "https://www.economedia.ro/wp-content/uploads/2021/03/investitii-mare-offshore-e1617096560710.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.zqPVleVU4b_bQf4YGfvtCg&pid=News",
+   "topics": [
+    "policy"
    ],
    "places": [],
    "img_tried": true,
@@ -1507,7 +1530,9 @@
    "lang": "en",
    "title": "Russian Black Sea Warship Explodes in Libyan Naval Base",
    "titles": {
-    "en": "Russian Black Sea Warship Explodes in Libyan Naval Base"
+    "en": "Russian Black Sea Warship Explodes in Libyan Naval Base",
+    "ro": "O navă de război rusă din Marea Neagră explodează într-o bază navală libiană",
+    "bg": "Руски военен кораб от Черно море експлодира във военноморска база в Либия"
    },
    "summary": "Russian gas carrier Arktik Metagaz was struck by an explosion off the Libyan coast in March that Moscow blamed on Ukraine. Citing Libyan sources, RFI said the attack was carried out by an autonomous ...",
    "url": "https://www.newsweek.com/russian-black-sea-warship-explodes-in-libyan-naval-base-12753977",
@@ -1531,7 +1556,9 @@
    "lang": "bg",
    "title": "Руската армия удари кораб в Черно море и енергийни обекти на украинските въоръжени сили",
    "titles": {
-    "bg": "Руската армия удари кораб в Черно море и енергийни обекти на украинските въоръжени сили"
+    "bg": "Руската армия удари кораб в Черно море и енергийни обекти на украинските въоръжени сили",
+    "en": "The Russian army struck a ship in the Black Sea and energy facilities belonging to the Ukrainian armed forces",
+    "ro": "Armata rusă a lovit o navă în Marea Neagră și obiective energetice ale forțelor armate ucrainene"
    },
    "summary": "Руските военни сили атакуваха през нощта енергийни, логистични и инфраструктурни обекти, действащи в интерес на украинските въоръжени сили, съобщи руското Министерство на отбраната, цитирано от РИА ...",
    "url": "https://budnaera.com/2026m/2026-11/26-11-23-83230.html",
@@ -1553,7 +1580,9 @@
    "lang": "en",
    "title": "Russia Reports Strikes on Port and Cargo Ship near Odesa",
    "titles": {
-    "en": "Russia Reports Strikes on Port and Cargo Ship near Odesa"
+    "en": "Russia Reports Strikes on Port and Cargo Ship near Odesa",
+    "ro": "Rusia anunță atacuri asupra unui port și a unei nave de marfă în apropiere de Odesa",
+    "bg": "Русия съобщава за удари по пристанище и товарен кораб край Одеса"
    },
    "summary": "Russia’s Ministry of Defence reported strikes on Ukrainian energy, logistics and port infrastructure overnight on November 23. The ministry claims that a substation in Dnipropetrovsk, facilities at ...",
    "url": "https://fakti.bg/en/world/1103665-russia-reports-strikes-on-port-and-cargo-ship-near-odesa",
@@ -1585,7 +1614,9 @@
    "lang": "bg",
    "title": "Бойко Борисов: Румен Радев не вярва на Путин за корабите в Черно море",
    "titles": {
-    "bg": "Бойко Борисов: Румен Радев не вярва на Путин за корабите в Черно море"
+    "bg": "Бойко Борисов: Румен Радев не вярва на Путин за корабите в Черно море",
+    "en": "Boyko Borisov: Rumen Radev does not trust Putin regarding the ships in the Black Sea",
+    "ro": "Boiko Borisov: Rumen Radev nu are încredere în Putin în ceea ce privește navele din Marea Neagră"
    },
    "summary": "Лидерът на ГЕРБ и бивш министър-председател Бойко Борисов обвини премиера Румен Радев, че пренебрегва дори публичните признания на руския президент Владимир Путин за ударите срещу търговски кораби в Ч ...",
    "url": "https://www.dunavmost.com/novini/boiko-borisov-rumen-radev-ne-vyarva-na-putin-za-korabite-v-cherno-more",
@@ -1608,7 +1639,9 @@
    "lang": "bg",
    "title": "Явор Гечев: Ударите в Черно море не целят български кораби и територии",
    "titles": {
-    "bg": "Явор Гечев: Ударите в Черно море не целят български кораби и територии"
+    "bg": "Явор Гечев: Ударите в Черно море не целят български кораби и територии",
+    "en": "Yavor Gechev: The strikes in the Black Sea are not targeting Bulgarian ships or territory",
+    "ro": "Yavor Gechev: Atacurile din Marea Neagră nu vizează navele și teritoriile bulgare"
    },
    "summary": "\"Таргетът на ударите, които са свързани с войната в Украйна, не целят българска територия, нито български кораби. Но това е част от икономическата война, която се води.\" Това заяви председателят на Ко ...",
    "url": "https://www.24chasa.bg/bulgaria/article/23974974",
@@ -1921,6 +1954,27 @@
    "places": [
     "constanta"
    ],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "8cd1a27b0031",
+   "lang": "bg",
+   "title": "Георги Пирински: Средният коридор – илюзия без споделена сигурност в Черно море",
+   "titles": {
+    "bg": "Георги Пирински: Средният коридор – илюзия без споделена сигурност в Черно море"
+   },
+   "summary": "Георги Пирински* Нашата конференция от ноември 2022 година (бел. ред. – конференция със същото заглавие четири години по-рано) открои нуждата от диалог за единна позиция в защитата на националните инт ...",
+   "url": "https://budnaera.com/2026m/2026-11/26-11-21-31dfb.html",
+   "source": "БУДНАЕРА",
+   "published": "2026-11-20T16:00:00Z",
+   "fetched": "2026-11-26T04:12:01Z",
+   "image": "https://www.budnaera.com/2026m/2026-11-pix/26-11-21-31dfb.webp",
+   "fallback_image": "",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
    "img_tried": true,
    "img_checked": true
   },
@@ -2803,6 +2857,29 @@
      "url": "https://newsweek.ro/actualitate/alerta-pe-marea-neagra-o-nava-cu-propan-care-se-indrepta-spre-navodari-s-a-scufundat-dupa-un-atac-cu-drone"
     }
    ],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "a9b98fbba75b",
+   "lang": "en",
+   "title": "Another commercial vessel sinks off Bulgaria’s Black Sea coast",
+   "titles": {
+    "en": "Another commercial vessel sinks off Bulgaria’s Black Sea coast"
+   },
+   "summary": "The Bulgarian Defense Ministry says that a Liberia-flagged gas tanker sank in Bulgaria’s exclusive economic zone in the Black Sea.",
+   "url": "https://apnews.com/article/bulgaria-romania-black-sea-gas-tanker-gas-husky-3265b6f9e84eb28b349dceb3223fd37f",
+   "source": "Associated Press News",
+   "published": "2026-11-17T03:40:00Z",
+   "fetched": "2026-11-26T04:12:01Z",
+   "image": "https://www.bing.com/th?id=ONUT.0bGOZYxTzUn0DaByHyjQLA&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.0bGOZYxTzUn0DaByHyjQLA&pid=News",
+   "topics": [
+    "policy",
+    "shipping",
+    "energy"
+   ],
+   "places": [],
    "img_tried": true,
    "img_checked": true
   },
