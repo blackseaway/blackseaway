@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:31:53Z",
+ "updated": "2026-11-26T08:37:46Z",
  "items": [
   {
    "id": "f7d4edc1927d",
@@ -665,39 +665,6 @@
    "also": []
   },
   {
-   "id": "cac568f6c64b",
-   "lang": "ro",
-   "title": "Un container plin cu dulciuri și figurine de Crăciun a eșuat pe o plajă de la Marea Neagră, după ce nava care îl transporta s-a scufundat în urma unui atac cu drone ...",
-   "titles": {
-    "ro": "Un container plin cu dulciuri și figurine de Crăciun a eșuat pe o plajă de la Marea Neagră, după ce nava care îl transporta s-a scufundat în urma unui atac cu drone ...",
-    "en": "A container full of sweets and Christmas figurines washed up on a Black Sea beach after the ship carrying it sank following a drone attack ...",
-    "bg": "Контейнер, пълен със сладкиши и коледни фигурки, се изхвърли на един плаж на Черно море, след като корабът, който го превозваше, потъна вследствие на атака с дронове..."
-   },
-   "summary": "Un container plin cu decorațiuni de Crăciun a fost adus de valuri pe o plajă din apropierea orașului bulgar Țarevo. Autoritățile cred că acesta provine de pe nava grecească Contship Jet, scufundată în ...",
-   "url": "https://ziare.com/razboi-ucraina/container-dulciuri-figurine-craciun-esuat-plaja-neagra-2049787",
-   "source": "Ziare.com",
-   "published": "2026-11-25T00:18:00Z",
-   "fetched": "2026-11-26T06:42:36Z",
-   "image": "https://www.realitatea.net/storage/media/7/2026/11/container-esuat-marea-neagra-J5cEH1.webp",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.vctUUtTupS6yxW4YbvyyEQ&pid=News",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "also": [
-    {
-     "source": "Realitatea.NET",
-     "url": "https://www.realitatea.net/stiri/extern/container-cu-decoratiuni-de-craciun-esuat-pe-o-plaja-la-marea-neagra-ar-proveni-de-pe-o-nava-atacata-cu-drone-3llyhv"
-    },
-    {
-     "source": "Realitatea.NET",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVnJEdHRseEVGVFV4c25sbWpuaENKX0toT2JYZHlNY191ZFMxLW1qcEhfQ2d6TkFNbU5QaWFySDEtcGVMNllHRVhfQ3gzVURLSG5CSUtVRmdTTTNTZWl2TVc1Z2p2WUplZ083cUc1MlpjdUFoWk5VRnZabDVsak02WjJDZXVCVW44OFFlZk5LRndIRmtNOXl4d3dZY2wzYXBzVXBPMlplRFVXc2dfOEJESm0zUHlOdlZFSlFFLTdmaldpSWtYNF9uU2MxZTNYRjZ3Znp6NU9pQW9JV0RfbUIzbVlPUXVXQlF2NjR5Rw?oc=5"
-    }
-   ],
-   "img_checked": true
-  },
-  {
    "id": "997a45c7f7a5",
    "lang": "en",
    "title": "Bulgaria Wants More Surveillance in the Black Sea from Allies, Turkey Is Cautious",
@@ -887,6 +854,18 @@
     {
      "source": "Informat.ro",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORVdFLWdHVWQ2UEJXdVVaN0VDUDZ5cEtqbGpXZzBPN0Q1ZjNySTVZa1V4MFg0UzFoZHVpNnNRSkZOYnJlbTNPbC1FSkl0SWVNaUpSeU5DVUpUeWR2aUlOM0N5OFFJSUUtM1ZlMGJIcXN5M2RYOGU1dGhaay1aNkcwSW5MZkJUcDc5NjlWbzdHYmFwWXNpMExFckRaM3JDaEs4?oc=5"
+    },
+    {
+     "source": "Ziare.com",
+     "url": "https://ziare.com/razboi-ucraina/container-dulciuri-figurine-craciun-esuat-plaja-neagra-2049787"
+    },
+    {
+     "source": "Realitatea.NET",
+     "url": "https://www.realitatea.net/stiri/extern/container-cu-decoratiuni-de-craciun-esuat-pe-o-plaja-la-marea-neagra-ar-proveni-de-pe-o-nava-atacata-cu-drone-3llyhv"
+    },
+    {
+     "source": "Realitatea.NET",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVnJEdHRseEVGVFV4c25sbWpuaENKX0toT2JYZHlNY191ZFMxLW1qcEhfQ2d6TkFNbU5QaWFySDEtcGVMNllHRVhfQ3gzVURLSG5CSUtVRmdTTTNTZWl2TVc1Z2p2WUplZ083cUc1MlpjdUFoWk5VRnZabDVsak02WjJDZXVCVW44OFFlZk5LRndIRmtNOXl4d3dZY2wzYXBzVXBPMlplRFVXc2dfOEJESm0zUHlOdlZFSlFFLTdmaldpSWtYNF9uU2MxZTNYRjZ3Znp6NU9pQW9JV0RfbUIzbVlPUXVXQlF2NjR5Rw?oc=5"
     }
    ],
    "img_tried": true,
@@ -921,7 +900,9 @@
    "lang": "en",
    "title": "Turkey is developing a mechanism for safe shipping in the Black Sea - logos-pres.md",
    "titles": {
-    "en": "Turkey is developing a mechanism for safe shipping in the Black Sea - logos-pres.md"
+    "en": "Turkey is developing a mechanism for safe shipping in the Black Sea - logos-pres.md",
+    "ro": "Turcia dezvoltă un mecanism pentru siguranța navigației în Marea Neagră - logos-pres.md",
+    "bg": "Турция разработва механизъм за безопасно корабоплаване в Черно море - logos-pres.md"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM09yM2Q0Q1Nrc2JxYWczZ1d2YUkwdk1UZGpVWG9KN1lHamZmX2FucnhWVmZUY1JzaWNXbXF6NUpPQlNMaWR0VHY4Yk5EemxadWkxYVo2R19zcnVsN1otUWVnN2dZUWhaZnhGakp0OVZreElvNGVheVVNaGtUeDBHTFJSZGVMWnJqLUZEUl90d2dNUGhYNG5vRmFqRkMwTFU?oc=5",
@@ -942,7 +923,9 @@
    "lang": "en",
    "title": "“Grain silos are full in Ukraine and Poland while people go hungry elsewhere”: UN calls for a Black Sea grain corridor to open",
    "titles": {
-    "en": "“Grain silos are full in Ukraine and Poland while people go hungry elsewhere”: UN calls for a Black Sea grain corridor to open"
+    "en": "“Grain silos are full in Ukraine and Poland while people go hungry elsewhere”: UN calls for a Black Sea grain corridor to open",
+    "ro": "„Silo-urile de cereale sunt pline în Ucraina și Polonia, în timp ce în alte părți oamenii suferă de foame”: ONU solicită deschiderea unui coridor pentru transportul cerealelor din Marea Neagră",
+    "bg": "„Зърнените силози в Украйна и Полша са пълни, докато на други места хората гладуват“: ООН призовава за откриването на зърнен коридор през Черно море"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbWtfdGR5a21EdXlMcFFHMkN2TVlGTDJKV2IwdWNRZFpnSnU0Y0hMT3dzalFrVlRVNlllMFlXSGVsTXBuQ2d2LU5IYVpvUUNGR3JxTVl3U3d1NkpBMUNlV25wX253NTNLQ29xY1NRWkh4Rk55UVJ0TGF3TF9aMi1HWjBmRWV1VEZrSUxoRTJzYlhycmVkZEhTUEMwUHFEOXlXSHhyZk1DeVlHelhDd05yWHF2YlJBM09yWHMtWi1TaGRRNUlMdnE3RnFyVVhTZWFNb05LTEk1ejA5WWo4NVNFcWVnTDNoaTRsN1FEaW1NSlVyQ2sxWUFhOGl1R05FdHJKTElBS3pwVUtHcm8zR3VkR1NHS3LSAZwCQVVfeXFMTUFfaWIxV200M0xPaUZQM0VmYllTdUhQY1lDQjVsS2NXYUhkZ1NHUlZJOFhXMEZHZXAyNUF3ME5SUjNGWHRNdG5rV3hHd2VKc1F1ajRWSmZIbk5xbW1aWTdBaUkzb0hsUUUxNGxzMXZlck1VcjNEMnd6NWZaWDVBdmhiS2prNnBLSjJfX2pINW1FYUQ5VEdOMTJZSFVDUGFBT2NZYmh5Yy1mUUo2cVJ5dkY0MXlKTlFXR05Bc3pSU2tCVkxwbmhPbzZfQ1B1MGZYZWFGR1AwN1RVYlRZV0RlWmZMTmI5UXB4QVBsNmlFRWNSTmlWMlF3N2V4TUJ3NTFvdzloT3c5dkZ3cXNmbDJyM3dDeTllSV83YWg5azg?oc=5",
@@ -2342,6 +2325,30 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "179afcd4b8d8",
+   "lang": "ro",
+   "title": "Forțele Navale Române, mobilizate în Marea Neagră și pe Dunăre! Misiuni pentru identificarea minelor și fragmentelor de drone",
+   "titles": {
+    "ro": "Forțele Navale Române, mobilizate în Marea Neagră și pe Dunăre! Misiuni pentru identificarea minelor și fragmentelor de drone"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUUZlVk1tOVZMRVgySFZZMFZEUDZ0U2xtYmthTFFWN0RDWGk0cERoSWJXZm53bVNNdkNRaWktSVF2ZGd3b1lLMlpZcm5ubDQxN1NSX0hyazBKQU1haVU3X3p2Sy1DdkM1ZVhobGhWeG93cjZMbF92ZklON0VRUktMRlZLSFl4eHg2SGY3Y3gtZE5qZHNfNnJTM19GajNnaDh0SzJpamEtaDdOUUx4VzltUExhanMxQlhzVUNkRXdZNWlVTlZ0ZS0wYm03VHVXOTJ3aHVlcDRNRm1fNm0yWU5ON0U2dGhfSkVkOGNaaVBlZDRsbXNVS2RwaFpsSjU?oc=5",
+   "source": "CugetLiber.ro",
+   "published": "2026-11-23T18:03:56Z",
+   "fetched": "2026-11-26T08:35:30Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [
+    "danube"
+   ],
+   "also": [],
+   "img_checked": true
   },
   {
    "id": "2547ad230a96",
