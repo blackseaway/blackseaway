@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:23:45Z",
+ "updated": "2026-11-26T08:31:53Z",
  "items": [
   {
    "id": "f7d4edc1927d",
@@ -450,6 +450,10 @@
     {
      "source": "Shoreline Media Group",
      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNNWQ2NWFPa3J1SXNzdkI1djNmc1ptRVNTaDZucWlnc1BocHpubEN3c296bGhQeFBldVVyY2xnUjFoenl0M1lNWXdScVVLdGFFMEdrcGQwUVZMelZCN2xsYXFaRnd3d3JmZmxpQi1BdjdYQlhNQUthcXhNX2ZFVkpNOERha2kyakFUSFlUVUlGTW1WeHRISzZtLXJabkppRFp4UmJTMEY0MDFycENPSFZCS1dVcEs3bWV2T3JEZ0hpdmhKclJrbWJhS2ZCRFZjMVh4eUdUU3U5SWJQVVdDTGRpMzh0el9rSFV1LVJ6QlpkekpKdWdpTS1JRjZMcVpHbkY1WmRQMWYwTWREY004a2hvdUp5U3U2bk9lWWRWM3Nn?oc=5"
+    },
+    {
+     "source": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNmJnMFNaU0hxRl9mRjdxUEFtdEZSTGhkb2pKSkhFeWtuTHl0Qk1KMi1jb2c5dmNCS25tb3pLdERwLUZobnY0bXc2S21ZRGJRbHNtY2dSem1lcENDMGl0WmNvS0hkY1NkM2pLdWQ5clg2ZDdCTzBYZ0I3cDVnZ1BEb05rY2NBTmYtcXd5VGIybDRiWWJVUUhtUnJOV19IYUZPM3V2OHlHNS1zWkNJdzREcUFqd2tyS2NLTi04YlU2TDdGUzU0NERpcVVHb0FqRXM2WlNScUZPbzVhS0kt?oc=5"
     }
    ],
    "img_checked": true
@@ -777,7 +781,9 @@
    "lang": "en",
    "title": "Ukraine’s naval war on Russia spills out of Black Sea with new attacks off coasts of Finland, Libya",
    "titles": {
-    "en": "Ukraine’s naval war on Russia spills out of Black Sea with new attacks off coasts of Finland, Libya"
+    "en": "Ukraine’s naval war on Russia spills out of Black Sea with new attacks off coasts of Finland, Libya",
+    "ro": "Războiul naval al Ucrainei împotriva Rusiei se extinde dincolo de Marea Neagră, cu noi atacuri în largul coastelor Finlandei și Libiei",
+    "bg": "Военноморската война на Украйна срещу Русия излиза извън пределите на Черно море с нови атаки край бреговете на Финландия и Либия"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSVRCc1I1b2hRTTJhZk9oOENCR3RteFR2cDQwNnQxUVBvZllGTDRqNFJPUTZBNldXTXJESF9VaUhTVnBFTGp0NksxQTFiYUhYd0xXc1loc2JvRzVNSW1uMXNUb29vcDFGSUhWVWUtS2RxOHBzT2t3TjJyTU5nYlE2aFBtUHEtX3FJREpXeWhRc3lqanZqQmVqTUh3MV9IQW1PdlZhaHcyWE9rRmFPd25GRUE2ZEpqVUd4RXlZ?oc=5",
@@ -857,7 +863,9 @@
    "lang": "ro",
    "title": "VIDEO Moș Crăciuni și urși polari, eșuați din drumul spre România pe o plajă din Bulgaria după un atac cu drone. Figurinele au căzut dintr-o navă scufundată",
    "titles": {
-    "ro": "VIDEO Moș Crăciuni și urși polari, eșuați din drumul spre România pe o plajă din Bulgaria după un atac cu drone. Figurinele au căzut dintr-o navă scufundată"
+    "ro": "VIDEO Moș Crăciuni și urși polari, eșuați din drumul spre România pe o plajă din Bulgaria după un atac cu drone. Figurinele au căzut dintr-o navă scufundată",
+    "en": "VIDEO: Father Christmases and polar bears, stranded on a beach in Bulgaria whilst en route to Romania following a drone attack. The figurines fell from a sunken ship",
+    "bg": "ВИДЕО: Дядо Коледа и полярни мечки, които са се озовали на плаж в България по пътя си към Румъния след атака с дронове. Фигурките са паднали от потънал кораб"
    },
    "summary": "Decorațiuni cu Moș Crăciun și urși polari au ieșit dintr-un container eșuat pe o plajă din Bulgaria. Decorațiunile aparțin unei firme din România și provin de pe o navă scufundată în Marea Neagră după ...",
    "url": "https://www.profit.ro/stiri/life/video-mos-craciuni-si-ursi-polari-esuati-din-drumul-spre-romania-pe-o-plaja-din-bulgaria-dupa-un-atac-cu-drone-figurinele-au-cazut-dintr-o-nava-scufundata-23008883",
@@ -2336,38 +2344,6 @@
    "also": []
   },
   {
-   "id": "2af772f1141d",
-   "lang": "ro",
-   "title": "MApN: Forţele Navale Române desfăşoară misiuni pentru creşterea siguranţei navigaţiei pe Dunăre şi în Marea Neagră",
-   "titles": {
-    "ro": "MApN: Forţele Navale Române desfăşoară misiuni pentru creşterea siguranţei navigaţiei pe Dunăre şi în Marea Neagră"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbV9WRU5VbFQ3XzZVRDJRVWdualRjWEZmc01hSVZHaV9NUXcyQXd2endyMHFoRWVFdm53MU1KVENWMi1qVGxjYXZVS3VDSWVfd2J4ODgyRTdkLXF0ZVJSd2FwemQ4N2g4UklxNnRzSGtxLXRfeTdBOHZyZ0pnZ0oyMlp6MDhLVFZPSkx6RUVRbWxtTGptVnJXLUFZWno1YUxTcnhNejZWS0l0UEFFMDc5Mm5menI0RXNfajZ2WFZFZ1NJWWVCOXFMcHAzVDk3dzlQdDBtRUxqUFV0bDQ?oc=5",
-   "source": "Ziarul Bursa",
-   "published": "2026-11-23T17:23:00Z",
-   "fetched": "2026-11-26T07:20:39Z",
-   "image": "",
-   "fallback_image": "",
-   "topics": [
-    "shipping"
-   ],
-   "places": [
-    "danube"
-   ],
-   "also": [
-    {
-     "source": "Newsweek România",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTJDWC1HczZrS2JtUTZ1RFBJV2xTNm1ENFRyOVZldHEwR1ktbndSeGxJTDA1Z0RMWURVWVkyQmx0dTVOSGg4TWUzX3NlSlJuMk40NmhZQkkyU3NhNFhLeHpnTmVVTmE0SC1YajlQVWdlaEtvOXRkenNDVlBSRlhRaTU4YmNwN0FKdFRDVFdjVkVZVHdadDBwdkZKekJ2VFFJOVRyS3BB?oc=5"
-    },
-    {
-     "source": "CAPITAL",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUklmTVFLVFB5YUpNVDBUZkZFbEt2cHZGVTZsM1p4eUYwckE3MFFLTEFYcUQ5NXpybmRObkFOQkNuc1RqQVpDd2pOSEJoNEVhNjhZd2lzeXlTblN2VXN6STAzdHdlVnFLTUYwMWktWW5tMEhJTmd5d20tVnZ1ZTdubTFnV2VfU3JnaTF5UjUzY2VkdzRfeDZUN2l4MVNlaHNrSXJRbmJHcjFfNkxvYWoyOW80MUFqMzV4Wk5hWDE1aUtEZVROdWU3ZVJCMldNT0hlYk4zQS1ORQ?oc=5"
-    }
-   ],
-   "img_checked": true
-  },
-  {
    "id": "2547ad230a96",
    "lang": "en",
    "title": "Drone attacks and Black Sea storms delay Russian tanker loadings",
@@ -2955,6 +2931,44 @@
      "url": "https://filternews.bg/sasth-rusiya-udari-korabite-v-cherno-more/"
     }
    ]
+  },
+  {
+   "id": "d093c8093f06",
+   "lang": "ro",
+   "title": "MApN mobilizează navele militare în Marea Neagră și pe Dunăre. Măsurile, luate pentru creșterea siguranței navigației",
+   "titles": {
+    "ro": "MApN mobilizează navele militare în Marea Neagră și pe Dunăre. Măsurile, luate pentru creșterea siguranței navigației"
+   },
+   "summary": "Ministerul Apărării anunță, luni seară, 23 noiembrie, că Forțele Navale Române iau măsuri pentru creșterea siguranței navigației pe Dunăre și în Marea Neagră, fiind programate misiuni în această săptă ...",
+   "url": "https://ziare.com/fortele-navale-romane/mapn-mobilizeaza-nave-militare-marea-neagra-dunare-2049494",
+   "source": "Ziare.com",
+   "published": "2026-11-23T12:34:00Z",
+   "fetched": "2026-11-26T08:29:20Z",
+   "image": "https://s2.ziareromania.ro/?mmid=eb02e56b3c6185a67d",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.3eeP8GLnDKB1rrF15Mst3g&pid=News",
+   "topics": [
+    "policy",
+    "shipping"
+   ],
+   "places": [
+    "danube"
+   ],
+   "also": [
+    {
+     "source": "Ziarul Bursa",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbV9WRU5VbFQ3XzZVRDJRVWdualRjWEZmc01hSVZHaV9NUXcyQXd2endyMHFoRWVFdm53MU1KVENWMi1qVGxjYXZVS3VDSWVfd2J4ODgyRTdkLXF0ZVJSd2FwemQ4N2g4UklxNnRzSGtxLXRfeTdBOHZyZ0pnZ0oyMlp6MDhLVFZPSkx6RUVRbWxtTGptVnJXLUFZWno1YUxTcnhNejZWS0l0UEFFMDc5Mm5menI0RXNfajZ2WFZFZ1NJWWVCOXFMcHAzVDk3dzlQdDBtRUxqUFV0bDQ?oc=5"
+    },
+    {
+     "source": "Newsweek România",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTJDWC1HczZrS2JtUTZ1RFBJV2xTNm1ENFRyOVZldHEwR1ktbndSeGxJTDA1Z0RMWURVWVkyQmx0dTVOSGg4TWUzX3NlSlJuMk40NmhZQkkyU3NhNFhLeHpnTmVVTmE0SC1YajlQVWdlaEtvOXRkenNDVlBSRlhRaTU4YmNwN0FKdFRDVFdjVkVZVHdadDBwdkZKekJ2VFFJOVRyS3BB?oc=5"
+    },
+    {
+     "source": "CAPITAL",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUklmTVFLVFB5YUpNVDBUZkZFbEt2cHZGVTZsM1p4eUYwckE3MFFLTEFYcUQ5NXpybmRObkFOQkNuc1RqQVpDd2pOSEJoNEVhNjhZd2lzeXlTblN2VXN6STAzdHdlVnFLTUYwMWktWW5tMEhJTmd5d20tVnZ1ZTdubTFnV2VfU3JnaTF5UjUzY2VkdzRfeDZUN2l4MVNlaHNrSXJRbmJHcjFfNkxvYWoyOW80MUFqMzV4Wk5hWDE1aUtEZVROdWU3ZVJCMldNT0hlYk4zQS1ORQ?oc=5"
+    }
+   ],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "54ca5f934e4d",
@@ -3675,7 +3689,12 @@
     "attacks"
    ],
    "places": [],
-   "also": [],
+   "also": [
+    {
+     "source": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbHJlbWxKeWwzaEtzQUxSeElCVVdCamdESXF1cUU5NzVNVTlVRXhfNFluQjV6dHltVWQ5a2d4MVROcFQ3WjdXLVpRSEU1REl0SDY5dk93OVpnNWR5bVhHVGY3VWJxZnhxNnBvbi1vVDdqc09VRC1DTm96X09uX2lyVnpjVGdXQzhKWWpHMHlVMEh1MjE4d04wVlZmUkZkRUdCQzZmXzVfZlRwdU41V0xGZlFrMUtqXzRoTU02Vm5ObHE1OWNLMXh1Snln?oc=5"
+    }
+   ],
    "img_tried": true,
    "img_checked": true
   },
@@ -4748,7 +4767,12 @@
    "places": [],
    "img_tried": true,
    "img_checked": true,
-   "also": []
+   "also": [
+    {
+     "source": "Fakti.bg",
+     "url": "https://fakti.bg/en/bulgaria/1102953-dimitar-stoyanov-and-the-austrian-ambassador-discuss-security-in-the-black-sea-and-the-region"
+    }
+   ]
   },
   {
    "id": "15afe3da0f2b",
@@ -7319,6 +7343,30 @@
    "also": []
   },
   {
+   "id": "eb5d69acd71b",
+   "lang": "en",
+   "title": "Turkey joins Black Sea security talks after drone strikes",
+   "titles": {
+    "en": "Turkey joins Black Sea security talks after drone strikes"
+   },
+   "summary": "Turkish Foreign Minister Hakan Fidan is taking part in talks on Black Sea security and regional economic links in Brussels on Monday, following drone strikes on three commercial vessels near Romania’s ...",
+   "url": "https://www.turkishminute.com/2026/11/16/turkey-joins-black-sea-security-talks-after-drone-strikes/",
+   "source": "Turkish Minute",
+   "published": "2026-11-16T08:29:00Z",
+   "fetched": "2026-11-26T08:29:20Z",
+   "image": "https://www.turkishminute.com/wp-content/uploads/2026/08/turkish-ship-drone-attack-e1787922974729.jpg",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "510819185cf6",
    "lang": "ro",
    "title": "Incident grav în Marea Neagră. Un cargou cu cereale plecat din România se scufundă după ce ar fi fost lovit de drone. Ce s-a întâmplat cu marinarii de la bord UPDATE",
@@ -7878,6 +7926,10 @@
     {
      "source": "Associated Press News",
      "url": "https://apnews.com/article/bulgaria-romania-black-sea-cargo-ship-betul-9dd38253281fb1889e39ec7a9a57f9e5"
+    },
+    {
+     "source": "WRAL",
+     "url": "https://www.wral.com/news/ap/9dd38-cargo-ship-sinks-off-bulgarias-black-sea-coast/"
     }
    ],
    "img_checked": true
