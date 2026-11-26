@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:06:58Z",
+ "updated": "2026-11-26T01:29:08Z",
  "items": [
   {
    "id": "445c727214e6",
@@ -1342,7 +1342,9 @@
    "lang": "en",
    "title": "Escalating Black Sea shipping attacks fuel global food insecurity: UN officials",
    "titles": {
-    "en": "Escalating Black Sea shipping attacks fuel global food insecurity: UN officials"
+    "en": "Escalating Black Sea shipping attacks fuel global food insecurity: UN officials",
+    "ro": "Intensificarea atacurilor asupra transportului maritim din Marea Neagră agravează insecuritatea alimentară la nivel mondial: oficiali ai ONU",
+    "bg": "Засилващите се нападения срещу кораби в Черно море подхранват глобалната продоволствена несигурност: представители на ООН"
    },
    "summary": "\"Grain silos in Ukraine and Poland are full, while families in Somalia, Sudan, and South Sudan suffer catastrophic hunger,\" says the World Food Program.",
    "url": "https://www.trtworld.com/article/2ab74ee58592",
@@ -1376,7 +1378,9 @@
    "lang": "ro",
    "title": "Ucraina extinde atacurile asupra navelor rusești în Mediterana și Baltica – Zelenski confirmă scufundarea corvetei ruse Merkury",
    "titles": {
-    "ro": "Ucraina extinde atacurile asupra navelor rusești în Mediterana și Baltica – Zelenski confirmă scufundarea corvetei ruse Merkury"
+    "ro": "Ucraina extinde atacurile asupra navelor rusești în Mediterana și Baltica – Zelenski confirmă scufundarea corvetei ruse Merkury",
+    "en": "Ukraine steps up attacks on Russian ships in the Mediterranean and the Baltic – Zelensky confirms the sinking of the Russian corvette Merkury",
+    "bg": "Украйна разширява атаките си срещу руски кораби в Средиземно море и Балтийско море – Зеленски потвърждава потъването на руската корвета „Меркурий“"
    },
    "summary": "Ucraina și-a intensificat în ultimele zile campania de atacuri asupra navelor militare și comerciale utilizate de Rusia, extinzând operațiunile cu drone maritime din Marea Neagră spre Marea Baltică și ...",
    "url": "https://cursdeguvernare.ro/ucraina-extinde-atacurile-asupra-navelor-rusesti-in-mediterana-si-baltica-zelenski-confirma-scufundarea-corvetei-ruse-merkury.html",
@@ -1398,7 +1402,9 @@
    "lang": "en",
    "title": "‘A ship graveyard’ — Azerbaijani sailors on the growing dangers of the Black Sea",
    "titles": {
-    "en": "‘A ship graveyard’ — Azerbaijani sailors on the growing dangers of the Black Sea"
+    "en": "‘A ship graveyard’ — Azerbaijani sailors on the growing dangers of the Black Sea",
+    "ro": "„Un cimitir de nave” — marinarii azeri vorbesc despre pericolele tot mai mari din Marea Neagră",
+    "bg": "„Гробище на кораби“ — азербайджански моряци за нарастващите опасности в Черно море"
    },
    "summary": "Since June, eight Azerbaijani sailors have been killed in drone strikes on merchant ships operating on the Black Sea.",
    "url": "https://oc-media.org/a-ship-graveyard-azerbaijani-sailors-on-the-growing-dangers-of-the-black-sea/",
@@ -1420,7 +1426,9 @@
    "lang": "bg",
    "title": "САЩ и България обсъдиха сигурността в Черно море и ускоряването на оръжейните доставки",
    "titles": {
-    "bg": "САЩ и България обсъдиха сигурността в Черно море и ускоряването на оръжейните доставки"
+    "bg": "САЩ и България обсъдиха сигурността в Черно море и ускоряването на оръжейните доставки",
+    "en": "The US and Bulgaria discussed security in the Black Sea and the acceleration of arms deliveries",
+    "ro": "SUA și Bulgaria au discutat despre securitatea în Marea Neagră și accelerarea livrărilor de arme"
    },
    "summary": "Министъ Стоянов подчерта, че България трябва да ускори придобиването на способности за въздушно разузнаване, които са необходими за откриването и наблюдението на морски дронове ...",
    "url": "https://taralej.bg/politika/sasht-i-balgariq-obsadiha-sigurnostta-v-cherno-more-i-uskorqvaneto-na-orajeynite-dostavki",
@@ -1441,7 +1449,9 @@
    "lang": "bg",
    "title": "Гръцките медии бият тревога: Кораби потъват един след друг в Черно море край България",
    "titles": {
-    "bg": "Гръцките медии бият тревога: Кораби потъват един след друг в Черно море край България"
+    "bg": "Гръцките медии бият тревога: Кораби потъват един след друг в Черно море край България",
+    "en": "Greek media are sounding the alarm: Ships are sinking one after another in the Black Sea off the coast of Bulgaria",
+    "ro": "Presa greacă trage un semnal de alarmă: nave se scufundă una după alta în Marea Neagră, în largul Bulgariei"
    },
    "summary": "Гръцките медии бият тревога: Кораби потъват един след друг в Черно море край България ✔️ Вижте подробности на Offnews.bg от автор OFFNews ...",
    "url": "https://offnews.bg/sviat/gratckite-medii-biat-trevoga-korabi-potavat-edin-sled-drug-v-cherno-m-879037.html",
@@ -1462,7 +1472,9 @@
    "lang": "ro",
    "title": "Atacurile din Marea Neagră testează limitele NATO",
    "titles": {
-    "ro": "Atacurile din Marea Neagră testează limitele NATO"
+    "ro": "Atacurile din Marea Neagră testează limitele NATO",
+    "en": "The attacks in the Black Sea are testing NATO’s limits",
+    "bg": "Атаките в Черно море поставят на изпитание границите на НАТО"
    },
    "summary": "Analiză a publicației Capital (Grecia), via Rador: Escaladarea atacurilor asupra navelor comerciale din Marea Neagră capătă proporții îngrijorătoare, ...",
    "url": "https://www.g4media.ro/atacurile-din-marea-neagra-testeaza-limitele-nato.html",
@@ -3211,7 +3223,13 @@
    ],
    "places": [],
    "img_tried": true,
-   "img_checked": true
+   "img_checked": true,
+   "also": [
+    {
+     "source": "Yahoo",
+     "url": "https://www.yahoo.com/news/world/articles/cargo-ship-sinks-bulgarias-black-190257562.html"
+    }
+   ]
   },
   {
    "id": "03c4fd725563",
@@ -3696,30 +3714,6 @@
    "img_checked": true
   },
   {
-   "id": "d37e124582ff",
-   "lang": "ro",
-   "title": "A treia navă comercială lovită de o dronă în apropiere de Sulina. Anterior, același vas a fost avariat de o mină, tot la gurile Dunării",
-   "titles": {
-    "ro": "A treia navă comercială lovită de o dronă în apropiere de Sulina. Anterior, același vas a fost avariat de o mină, tot la gurile Dunării"
-   },
-   "summary": "O a treia navă comercială a fost lovită de o dronă, în noaptea de sâmbătă spre duminică, în apropierea gurilor Dunării, incendiul declanșat la bord fiind stins de echipaj fără a se înregistra victime, ...",
-   "url": "https://ziare.com/nava-comerciala/trei-lovita-sulina-incendiu-2047804",
-   "source": "Ziare.com",
-   "published": "2026-11-15T05:07:00Z",
-   "fetched": "2026-11-25T13:53:52Z",
-   "image": "https://s2.ziareromania.ro/?mmid=52eae56b35b08d3a72",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.lhp1XEOUyUW3EGr5EbEDag&pid=News",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [
-    "danube"
-   ],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
    "id": "d1bad2c73dc1",
    "lang": "bg",
    "title": "Черно море под обстрел: Три кораба ударени в Румъния за два дни",
@@ -3768,7 +3762,13 @@
     "danube"
    ],
    "img_tried": true,
-   "img_checked": true
+   "img_checked": true,
+   "also": [
+    {
+     "source": "Observator News",
+     "url": "https://observatornews.ro/eveniment/doua-nave-comerciale-au-fost-lovite-de-drone-langa-sulina-mesaj-roalert-emis-in-jud-tulcea-672372.html"
+    }
+   ]
   },
   {
    "id": "57f06ebba4fa",
@@ -3921,35 +3921,6 @@
    "img_checked": true
   },
   {
-   "id": "592a8818c3a4",
-   "lang": "ro",
-   "title": "Alertă în Marea Neagră: O navă a fost lovită de o dronă în apropierea României. Anunțul ministrului Apărării",
-   "titles": {
-    "ro": "Alertă în Marea Neagră: O navă a fost lovită de o dronă în apropierea României. Anunțul ministrului Apărării"
-   },
-   "summary": "Ministrul Apărării, Radu Oprea, anunță că o navă a fost lovită, în noaptea de vineri spre sâmbătă, de o dronă, în Marea Neagră.",
-   "url": "https://www.profit.ro/stiri/politic/alerta-in-marea-neagra-o-nava-a-fost-lovita-de-o-drona-in-apropierea-romaniei-anuntul-ministrului-apararii-22987648",
-   "source": "PROFIT.ro",
-   "published": "2026-11-14T08:28:00Z",
-   "fetched": "2026-11-25T13:53:52Z",
-   "image": "https://www.bing.com/th?id=ONUT.ALuxxjmJJfj3JvbX9fEzJg&pid=News",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.ALuxxjmJJfj3JvbX9fEzJg&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": [
-    {
-     "source": "Libertatea",
-     "url": "https://www.libertatea.ro/stiri/o-nava-a-fost-lovita-de-o-drona-in-marea-neagra-anunta-radu-oprea-pilotii-romani-cu-cele-sase-drone-doborate-pana-astazi-sunt-eroi-zrsmvz9"
-    }
-   ]
-  },
-  {
    "id": "861d2a009df9",
    "lang": "bg",
    "title": "Нова атака с дрон в Черно море. Ударен е товарен кораб",
@@ -3972,19 +3943,19 @@
    "img_checked": true
   },
   {
-   "id": "668ab4071447",
+   "id": "9139edd61f92",
    "lang": "ro",
-   "title": "Continuă atacurile din Marea Neagră! O navă comercială a fost lovită de o dronă lângă Sfântu Gheorghe",
+   "title": "Alertă în Marea Neagră! O navă comercială, lovită de o dronă în apropiere de Sfântu Gheorghe",
    "titles": {
-    "ro": "Continuă atacurile din Marea Neagră! O navă comercială a fost lovită de o dronă lângă Sfântu Gheorghe"
+    "ro": "Alertă în Marea Neagră! O navă comercială, lovită de o dronă în apropiere de Sfântu Gheorghe"
    },
-   "summary": "Continuă atacurile asupra navelor care circulă în Marea Neagră! A fost alertă în noaptea de vineri spre sâmbătă, după ce un ...",
-   "url": "https://www.romaniatv.net/continua-atacurile-din-marea-neagra-o-nava-comerciala-a-fost-lovita-de-o-drona-langa-sfantu-gheorghe_9918421.html",
-   "source": "Romania TV",
-   "published": "2026-11-14T02:17:00Z",
-   "fetched": "2026-11-25T14:01:16Z",
+   "summary": "Incident în Marea Neagră, lângă litoralul românesc. O dronă a lovit o navă comercială în apropiere de Sfântu Gheorghe.",
+   "url": "https://www.realitatea.net/stiri/social/alerta-in-marea-neagra-o-nava-comerciala-lovita-de-o-drona-in-apropiere-de-sfantu-gheorghe-jcsblw",
+   "source": "Realitatea.NET",
+   "published": "2026-11-14T02:12:00Z",
+   "fetched": "2026-11-26T01:26:54Z",
    "image": "https://psnews.ro/wp-content/uploads/2026/10/nava-mariam-m-in-marea-neagra-1024x576-1-1024x576-1.webp",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.eWo1ho5CCvepHqgECxn2JA&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.5odYUKvWFUxAt6cVW5ZuIA&pid=News",
    "topics": [
     "attacks",
     "shipping"
@@ -3992,8 +3963,24 @@
    "places": [],
    "also": [
     {
+     "source": "Romania TV",
+     "url": "https://www.romaniatv.net/continua-atacurile-din-marea-neagra-o-nava-comerciala-a-fost-lovita-de-o-drona-langa-sfantu-gheorghe_9918421.html"
+    },
+    {
      "source": "PS News",
      "url": "https://psnews.ro/continua-atacurile-din-marea-neagra-o-nava-comerciala-a-fost-lovita-de-o-drona-langa-sfantu-gheorghe/"
+    },
+    {
+     "source": "PROFIT.ro",
+     "url": "https://www.profit.ro/stiri/politic/alerta-in-marea-neagra-o-nava-a-fost-lovita-de-o-drona-in-apropierea-romaniei-anuntul-ministrului-apararii-22987648"
+    },
+    {
+     "source": "Libertatea",
+     "url": "https://www.libertatea.ro/stiri/o-nava-a-fost-lovita-de-o-drona-in-marea-neagra-anunta-radu-oprea-pilotii-romani-cu-cele-sase-drone-doborate-pana-astazi-sunt-eroi-zrsmvz9"
+    },
+    {
+     "source": "Ziare.com",
+     "url": "https://ziare.com/nava-comerciala/trei-lovita-sulina-incendiu-2047804"
     }
    ],
    "img_checked": true
