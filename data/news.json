@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T06:26:49Z",
+ "updated": "2026-11-26T06:33:26Z",
  "items": [
   {
    "id": "445c727214e6",
@@ -1395,7 +1395,13 @@
     "danube"
    ],
    "img_tried": true,
-   "img_checked": true
+   "img_checked": true,
+   "also": [
+    {
+     "source": "Știrile PRO TV",
+     "url": "https://stirileprotv.ro/stiri/actualitate/fortele-navale-romane-in-alerta-sporita-pe-marea-neagra-si-dunare-fregate-corvete-si-elicoptere-mobilizate-zilnic.html"
+    }
+   ]
   },
   {
    "id": "a7adbc4aa545",
@@ -2059,7 +2065,9 @@
    "lang": "ro",
    "title": "Șase persoane, cercetate într-un dosar de furt de motorină din Portul Constanța. Peste 2.180 de litri de carburant ar fi fost preluați de pe o navă sub pavilion străin",
    "titles": {
-    "ro": "Șase persoane, cercetate într-un dosar de furt de motorină din Portul Constanța. Peste 2.180 de litri de carburant ar fi fost preluați de pe o navă sub pavilion străin"
+    "ro": "Șase persoane, cercetate într-un dosar de furt de motorină din Portul Constanța. Peste 2.180 de litri de carburant ar fi fost preluați de pe o navă sub pavilion străin",
+    "en": "Six people are under investigation in connection with a case of diesel theft at the Port of Constanța. Over 2,180 litres of fuel are alleged to have been taken from a ship flying a foreign flag",
+    "bg": "Шест лица са обект на разследване по дело за кражба на дизелово гориво в пристанището на Констанца. Повече от 2 180 литра гориво са били откраднати от кораб под чужд флаг"
    },
    "summary": "La data de 20.11.2026 procurorul de caz din cadrul Parchetului de pe langa Judecatoria Constanta a dispus luarea masurii controlului judiciar pe o perioada de 60 de zile, incepand cu data de ...",
    "url": "https://www.ziuaconstanta.ro/stiri/justitie/sase-persoane-cercetate-intr-un-dosar-de-furt-de-motorina-din-portul-constanta-peste-2-180-de-litri-de-carburant-ar-fi-fost-preluati-de-pe-o-nava-sub-pavilion-961279.html",
@@ -2083,7 +2091,9 @@
    "lang": "ro",
    "title": "Flagrant ca-n filme în Portul Constanța. Cum scoteau suspecții sute de litri de motorină din port",
    "titles": {
-    "ro": "Flagrant ca-n filme în Portul Constanța. Cum scoteau suspecții sute de litri de motorină din port"
+    "ro": "Flagrant ca-n filme în Portul Constanța. Cum scoteau suspecții sute de litri de motorină din port",
+    "en": "A scene straight out of a film at the Port of Constanța. How the suspects were smuggling hundreds of litres of diesel out of the port",
+    "bg": "Сцена като от филм в пристанището на Констанца. Как заподозрените изнасяха стотици литра дизелово гориво от пристанището"
    },
    "summary": "Contrabandă cu motorină în Portul Constanța, descoperită de polițiști. Cinci bărbați au fost reținuți după șase percheziții.",
    "url": "https://www.b1tv.ro/eveniment/contrabanda-cu-motorina-in-portul-constanta-1751960.html",
@@ -2106,7 +2116,9 @@
    "lang": "ro",
    "title": "Contrabandă în Portul Constanța: sute de litri de motorină, transferate dintr-o șalupă într-o dubă",
    "titles": {
-    "ro": "Contrabandă în Portul Constanța: sute de litri de motorină, transferate dintr-o șalupă într-o dubă"
+    "ro": "Contrabandă în Portul Constanța: sute de litri de motorină, transferate dintr-o șalupă într-o dubă",
+    "en": "Smuggling at the Port of Constanța: hundreds of litres of diesel transferred from a motorboat to a van",
+    "bg": "Контрабанда в пристанището на Констанца: стотици литра дизелово гориво, прехвърлени от моторна лодка в микробус"
    },
    "summary": "Contrabandă cu motorină descoperită în Portul Constanța. Cinci bărbați au fost reținuți, după ce polițiștii au făcut șase percheziții în Constanța, Năvodari și Cumpăna. În urma ...",
    "url": "https://observatornews.ro/eveniment/contrabanda-in-portul-constanta-sute-de-litri-de-motorina-transferate-dintro-salupa-intro-duba-672911.html",
@@ -2129,7 +2141,9 @@
    "lang": "en",
    "title": "Black Sea Drone Attacks: Romania and Turkey Intensify Security Efforts as Bulgaria Holds Back",
    "titles": {
-    "en": "Black Sea Drone Attacks: Romania and Turkey Intensify Security Efforts as Bulgaria Holds Back"
+    "en": "Black Sea Drone Attacks: Romania and Turkey Intensify Security Efforts as Bulgaria Holds Back",
+    "ro": "Atacuri cu drone în Marea Neagră: România și Turcia își intensifică măsurile de securitate, în timp ce Bulgaria adoptă o atitudine rezervată",
+    "bg": "Атаки с дронове в Черно море: Румъния и Турция засилват мерките за сигурност, докато България се въздържа"
    },
    "summary": "Romania and Turkey have held seven meetings of their national security councils over the past six months to address the Russia-Ukraine war, airspace violations, threats to commercial shipping and the ...",
    "url": "https://www.novinite.com/articles/241711/Black+Sea+Drone+Attacks%3A+Romania+and+Turkey+Intensify+Security+Efforts+as+Bulgaria+Holds+Back",
@@ -2151,7 +2165,9 @@
    "lang": "bg",
    "title": "Заради ескалацията в Черно море: Румъния и Турция активизираха съветите си за сигурност",
    "titles": {
-    "bg": "Заради ескалацията в Черно море: Румъния и Турция активизираха съветите си за сигурност"
+    "bg": "Заради ескалацията в Черно море: Румъния и Турция активизираха съветите си за сигурност",
+    "en": "Following the escalation in the Black Sea: Romania and Turkey have convened their security councils",
+    "ro": "Din cauza escaladării tensiunilor în Marea Neagră: România și Turcia și-au mobilizat consiliile de securitate"
    },
    "summary": "Румъния и Турция проведоха седем заседания на съветите си за сигурност за шест месеца. Сред основните теми бяха дроновете, корабоплаването и защитата на Черно море.",
    "url": "https://novavarna.net/2026/11/20/%D0%B7%D0%B0%D1%80%D0%B0%D0%B4%D0%B8-%D0%B5%D1%81%D0%BA%D0%B0%D0%BB%D0%B0%D1%86%D0%B8%D1%8F%D1%82%D0%B0-%D0%B2-%D1%87%D0%B5%D1%80%D0%BD%D0%BE-%D0%BC%D0%BE%D1%80%D0%B5-%D1%80%D1%83%D0%BC%D1%8A%D0%BD/",
@@ -2173,7 +2189,9 @@
    "lang": "ro",
    "title": "Premierul Bulgariei admite că țara sa nu poate doborî dronele din Marea Neagră: „Mulți politicieni din Bulgaria cred că Pământul este plat”",
    "titles": {
-    "ro": "Premierul Bulgariei admite că țara sa nu poate doborî dronele din Marea Neagră: „Mulți politicieni din Bulgaria cred că Pământul este plat”"
+    "ro": "Premierul Bulgariei admite că țara sa nu poate doborî dronele din Marea Neagră: „Mulți politicieni din Bulgaria cred că Pământul este plat”",
+    "en": "The Bulgarian Prime Minister admits that his country cannot shoot down drones over the Black Sea: “Many politicians in Bulgaria believe the Earth is flat”",
+    "bg": "Премиерът на България признава, че страната му не може да сваля дроновете в Черно море: „Много политици в България вярват, че Земята е плоска“"
    },
    "summary": "Bulgaria nu are în prezent capacitatea tehnică și militară de a doborî dronele care amenință zona Mării Negre, a declarat joi premierul Rumen Radev, la o conferință organizată la Sofia. Premierul Bulg ...",
    "url": "https://www.mediafax.ro/externe/premierul-bulgariei-admite-ca-tara-sa-nu-poate-dobori-dronele-din-marea-neagra-multi-politicieni-din-bulgaria-cred-ca-pamantul-este-plat-23846327",
@@ -3364,6 +3382,28 @@
    "img_checked": true
   },
   {
+   "id": "d30b6536f0fa",
+   "lang": "ro",
+   "title": "Misiune ARSVOM în Marea Neagră, după ce o navă atacată de drone rusești a eșuat în apropiere de Vadu | AUDIO",
+   "titles": {
+    "ro": "Misiune ARSVOM în Marea Neagră, după ce o navă atacată de drone rusești a eșuat în apropiere de Vadu | AUDIO"
+   },
+   "summary": "Cargoul Mariam M, atacat de drone rusești în apele ucrainene și aflat de două luni în derivă, a eșuat în apropiere de Vadu. ARSVOM intervine pentru salvare.",
+   "url": "https://www.europafm.ro/misiune-arsvom-in-marea-neagra-dupa-ce-o-nava-atacata-de-drone-rusesti-a-esuat-in-apropiere-de-vadu/",
+   "source": "Europa FM",
+   "published": "2026-11-16T07:31:00Z",
+   "fetched": "2026-11-26T06:31:06Z",
+   "image": "https://www.europafm.ro/wp-content/uploads/2026/11/nava-foto-ARSVOM.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.xOD1w6Y2c0M92Gi3SmQczQ&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "3b1a565e2b3f",
    "lang": "bg",
    "title": "Още един кораб бе ударен с дронове в българската зона на Черно море (ВИДЕО)",
@@ -3891,6 +3931,29 @@
      "url": "https://ziare.com/marea-neagra/pericol-securitate-luca-niculescu-2047820"
     }
    ],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "bfe596ee77bf",
+   "lang": "en",
+   "title": "Romania slams ‘unacceptable’ drone strikes on Black Sea ships",
+   "titles": {
+    "en": "Romania slams ‘unacceptable’ drone strikes on Black Sea ships"
+   },
+   "summary": "Three commercial vessels were hit near Romania’s coast, prompting fighter jet deployments and fresh calls for NATO support to strengthen Black Sea security.",
+   "url": "https://www.politico.eu/article/romanian-pm-condemns-unacceptable-drone-strikes-black-sea-ships/",
+   "source": "Politico Europe",
+   "published": "2026-11-15T05:16:00Z",
+   "fetched": "2026-11-26T06:31:06Z",
+   "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/15/GettyImages-2300591131-scaled.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.aA5IBVSpovSxTaNBuimjIA&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
    "img_tried": true,
    "img_checked": true
   },
