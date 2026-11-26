@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:04:21Z",
+ "updated": "2026-11-26T15:08:41Z",
  "items": [
   {
    "id": "8d66ac089509",
@@ -324,7 +324,9 @@
    "lang": "ro",
    "title": "România are gazul, dar îl poate proteja? Avertisment privind riscurile care amenință comoara din Marea Neagră",
    "titles": {
-    "ro": "România are gazul, dar îl poate proteja? Avertisment privind riscurile care amenință comoara din Marea Neagră"
+    "ro": "România are gazul, dar îl poate proteja? Avertisment privind riscurile care amenință comoara din Marea Neagră",
+    "en": "Romania has the gas, but can it protect it? A warning about the risks threatening the Black Sea’s treasure",
+    "bg": "Румъния разполага с газ, но може ли да го защити? Предупреждение за рисковете, които заплашват съкровището от Черно море"
    },
    "summary": "Exploatarea gazelor din Marea Neagră ar putea transforma România într-un actor energetic important în Europa, însă războiul din Ucraina și riscurile de securitate din regiune ridică o problemă majoră: ...",
    "url": "https://www.money.ro/stiri/romania-are-gazul-dar-il-poate-proteja-avertisment-privind-riscurile-care-amenin-mwxmiwxz",
@@ -346,7 +348,9 @@
    "lang": "en",
    "title": "A Dramatic Change in the Black Sea: What Has Turned the Tide?",
    "titles": {
-    "en": "A Dramatic Change in the Black Sea: What Has Turned the Tide?"
+    "en": "A Dramatic Change in the Black Sea: What Has Turned the Tide?",
+    "ro": "O schimbare dramatică în Marea Neagră: Ce a determinat această schimbare?",
+    "bg": "Драматична промяна в Черно море: какво обърна хода на събитията?"
    },
    "summary": "Alexey Chadayev explains how Russian strikes on cargo ships heading to Ukrainian ports have sharply reduced Ukrainian naval drone attacks on Russia’s coast.",
    "url": "https://voennoedelo.com/en/posts/id22713-black-sea-drone-attacks-how-russia-changed-the-situation",
@@ -2861,30 +2865,6 @@
    "also": []
   },
   {
-   "id": "179afcd4b8d8",
-   "lang": "ro",
-   "title": "Forțele Navale Române, mobilizate în Marea Neagră și pe Dunăre! Misiuni pentru identificarea minelor și fragmentelor de drone",
-   "titles": {
-    "ro": "Forțele Navale Române, mobilizate în Marea Neagră și pe Dunăre! Misiuni pentru identificarea minelor și fragmentelor de drone"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUUZlVk1tOVZMRVgySFZZMFZEUDZ0U2xtYmthTFFWN0RDWGk0cERoSWJXZm53bVNNdkNRaWktSVF2ZGd3b1lLMlpZcm5ubDQxN1NSX0hyazBKQU1haVU3X3p2Sy1DdkM1ZVhobGhWeG93cjZMbF92ZklON0VRUktMRlZLSFl4eHg2SGY3Y3gtZE5qZHNfNnJTM19GajNnaDh0SzJpamEtaDdOUUx4VzltUExhanMxQlhzVUNkRXdZNWlVTlZ0ZS0wYm03VHVXOTJ3aHVlcDRNRm1fNm0yWU5ON0U2dGhfSkVkOGNaaVBlZDRsbXNVS2RwaFpsSjU?oc=5",
-   "source": "CugetLiber.ro",
-   "published": "2026-11-23T18:03:56Z",
-   "fetched": "2026-11-26T08:35:30Z",
-   "image": "",
-   "fallback_image": "",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [
-    "danube"
-   ],
-   "also": [],
-   "img_checked": true
-  },
-  {
    "id": "7eebcf0a7a9c",
    "lang": "en",
    "title": "Russia restricts ship-tracking data amid fears it is being used to target vessels",
@@ -3261,6 +3241,29 @@
    "also": []
   },
   {
+   "id": "eb2eed4c6ace",
+   "lang": "ro",
+   "title": "SUA: Atacurile rușilor din Marea Neagră sunt inacceptabile. E nevoie de cooperarea România-Bulgaria-Turcia",
+   "titles": {
+    "ro": "SUA: Atacurile rușilor din Marea Neagră sunt inacceptabile. E nevoie de cooperarea România-Bulgaria-Turcia"
+   },
+   "summary": "Marea Neagră devine o zonă de risc tot mai mare pentru Alianța Nord Atlantică. Avertismentul vine de la ambasadorul american la NATO, Matthew Whitaker, aflat în vizită la Sofia. Diplomatul a atras ate ...",
+   "url": "https://tvrinfo.ro/sua-atacurile-rusilor-din-marea-neagra-sunt-inacceptabile-e-nevoie-de-cooperarea-romania-bulgaria-turcia/",
+   "source": "TVR Info",
+   "published": "2026-11-23T15:19:00Z",
+   "fetched": "2026-11-26T15:05:51Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "attacks"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "636084f299fd",
    "lang": "en",
    "title": "Russia, Ukraine trade blames at UNSC over Black Sea, energy attacks",
@@ -3387,6 +3390,35 @@
     {
      "source": "Euronews România",
      "url": "https://www.euronews.ro/articole/premierul-luca-niculescu-prezinta-in-presa-franceza-prioritatile-romaniei-situati"
+    }
+   ],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "b918088785e3",
+   "lang": "ro",
+   "title": "MApN mobilizează nave militare în Marea Neagră și pe Dunăre. Forțele Navale intensifică misiunile de supraveghere",
+   "titles": {
+    "ro": "MApN mobilizează nave militare în Marea Neagră și pe Dunăre. Forțele Navale intensifică misiunile de supraveghere"
+   },
+   "summary": "Capital > Știri de ultimă oră > MApN mobilizează nave militare în Marea Neagră și pe Dunăre. Forțele Navale intensifică misiunile de supraveghere 13:30 Bursa de Valori București a deschis în creștere ...",
+   "url": "https://www.capital.ro/mapn-mobilizeaza-nave-militare-in-marea-neagra-si-pe-dunare-fortele-navale-intensifica-misiunile-de-supraveghere.html",
+   "source": "Capital",
+   "published": "2026-11-23T13:20:00Z",
+   "fetched": "2026-11-26T15:05:51Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "shipping"
+   ],
+   "places": [
+    "danube"
+   ],
+   "also": [
+    {
+     "source": "CugetLiber.ro",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUUZlVk1tOVZMRVgySFZZMFZEUDZ0U2xtYmthTFFWN0RDWGk0cERoSWJXZm53bVNNdkNRaWktSVF2ZGd3b1lLMlpZcm5ubDQxN1NSX0hyazBKQU1haVU3X3p2Sy1DdkM1ZVhobGhWeG93cjZMbF92ZklON0VRUktMRlZLSFl4eHg2SGY3Y3gtZE5qZHNfNnJTM19GajNnaDh0SzJpamEtaDdOUUx4VzltUExhanMxQlhzVUNkRXdZNWlVTlZ0ZS0wYm03VHVXOTJ3aHVlcDRNRm1fNm0yWU5ON0U2dGhfSkVkOGNaaVBlZDRsbXNVS2RwaFpsSjU?oc=5"
     }
    ],
    "img_tried": true,
@@ -3638,19 +3670,41 @@
    "img_checked": true
   },
   {
-   "id": "2534fc998267",
-   "lang": "ro",
-   "title": "MApN: Forţele Navale Române iau măsuri pentru creşterea siguranţei navigaţiei pe Dunăre şi în Marea Neagră",
+   "id": "792fb653a2e2",
+   "lang": "bg",
+   "title": "Според министър Абровски сигурността в Черно море трябва да е част от европейската визия за ...",
    "titles": {
-    "ro": "MApN: Forţele Navale Române iau măsuri pentru creşterea siguranţei navigaţiei pe Dunăre şi în Marea Neagră"
+    "bg": "Според министър Абровски сигурността в Черно море трябва да е част от европейската визия за ..."
    },
-   "summary": "Ministerul Apărării anunţă, luni seară, că Forţele Navale Române iau măsuri pentru creşterea siguranţei navigaţiei pe Dunăre şi în Marea Neagră, fiind programate misiuni în această săptămână. ”Forţele ...",
-   "url": "https://psnews.ro/mapn-fortele-navale-romane-iau-masuri-pentru-cresterea-sigurantei-navigatiei-pe-dunare-si-in-marea-neagra/",
-   "source": "PS News",
-   "published": "2026-11-23T11:37:00Z",
-   "fetched": "2026-11-26T09:27:09Z",
+   "summary": "Визията на Европейския съюз за рибарството до 2040 г. трябва да отчита геополитическата обстановка и рисковете за сигурността в Черно море, които пряко ...",
+   "url": "https://utroruse.com/article/1341677/",
+   "source": "Утро",
+   "published": "2026-11-23T11:07:00Z",
+   "fetched": "2026-11-26T06:42:36Z",
+   "image": "https://cc.utroruse.com/8WgR4NKivyBu2xlnSVxhJRzlvp9YMtT7U-kuR0iXp6k/rs:fill:1200:630:0/g:fp:0.5:0.37/q:82/plain/local:///1795453801692/7489dce2948cf48162aedee80eb92090.jpg@jpeg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.A1cNgqCKu28mvO2XWGg8vQ&pid=News",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "img_tried": true,
+   "img_checked": true,
+   "also": []
+  },
+  {
+   "id": "492c96aa60b3",
+   "lang": "ro",
+   "title": "Forțele Navale Române iau măsuri pentru creșterea siguranței navigației pe Dunăre și în Marea Neagră",
+   "titles": {
+    "ro": "Forțele Navale Române iau măsuri pentru creșterea siguranței navigației pe Dunăre și în Marea Neagră"
+   },
+   "summary": "Forțele Navale Române, în cooperare cu Garda de coastă și aliați din NATO, execută permanent activități și misiuni de monitorizare și supraveghere a zonelor de responsabilitate fluvială și maritimă, p ...",
+   "url": "https://www.ctnews.ro/fortele-navale-romane-iau-masuri-pentru-cresterea-sigurantei-navigatiei-pe-dunare-si-in-marea-neagra/",
+   "source": "ctnews",
+   "published": "2026-11-23T11:00:00Z",
+   "fetched": "2026-11-26T15:05:51Z",
    "image": "https://s2.ziareromania.ro/?mmid=eb02e56b3c6185a67d",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.uI-FWmpEGcTFAG0n7-SU7A&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.IAL-5WQss8G5sUUdL002tg&pid=News",
    "topics": [
     "policy",
     "shipping"
@@ -3659,6 +3713,10 @@
     "danube"
    ],
    "also": [
+    {
+     "source": "PS News",
+     "url": "https://psnews.ro/mapn-fortele-navale-romane-iau-masuri-pentru-cresterea-sigurantei-navigatiei-pe-dunare-si-in-marea-neagra/"
+    },
     {
      "source": "Ziare.com",
      "url": "https://ziare.com/fortele-navale-romane/mapn-mobilizeaza-nave-militare-marea-neagra-dunare-2049494"
@@ -3681,28 +3739,6 @@
     }
    ],
    "img_checked": true
-  },
-  {
-   "id": "792fb653a2e2",
-   "lang": "bg",
-   "title": "Според министър Абровски сигурността в Черно море трябва да е част от европейската визия за ...",
-   "titles": {
-    "bg": "Според министър Абровски сигурността в Черно море трябва да е част от европейската визия за ..."
-   },
-   "summary": "Визията на Европейския съюз за рибарството до 2040 г. трябва да отчита геополитическата обстановка и рисковете за сигурността в Черно море, които пряко ...",
-   "url": "https://utroruse.com/article/1341677/",
-   "source": "Утро",
-   "published": "2026-11-23T11:07:00Z",
-   "fetched": "2026-11-26T06:42:36Z",
-   "image": "https://cc.utroruse.com/8WgR4NKivyBu2xlnSVxhJRzlvp9YMtT7U-kuR0iXp6k/rs:fill:1200:630:0/g:fp:0.5:0.37/q:82/plain/local:///1795453801692/7489dce2948cf48162aedee80eb92090.jpg@jpeg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.A1cNgqCKu28mvO2XWGg8vQ&pid=News",
-   "topics": [
-    "policy"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
   },
   {
    "id": "416163993693",
@@ -4515,6 +4551,31 @@
    ],
    "places": [],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "e5c03eb6942e",
+   "lang": "en",
+   "title": "Russian Black Sea Warship Explodes in Libyan Naval Base",
+   "titles": {
+    "en": "Russian Black Sea Warship Explodes in Libyan Naval Base"
+   },
+   "summary": "Russian gas carrier Arktik Metagaz was struck by an explosion off the Libyan coast in March that Moscow blamed on Ukraine. Citing Libyan sources, RFI said the attack was carried out by an autonomous ...",
+   "url": "https://www.newsweek.com/russian-black-sea-warship-explodes-in-libyan-naval-base-12753977",
+   "source": "Newsweek",
+   "published": "2026-11-22T17:11:00Z",
+   "fetched": "2026-11-26T15:05:51Z",
+   "image": "https://assets.newsweek.com/wp-content/uploads/2026/11/AP26327310059538.jpg?w=1200&crop=1",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.EiYcb2Ws4-XYdW0yqIQmlQ&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping",
+    "energy"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -5825,47 +5886,25 @@
    "also": []
   },
   {
-   "id": "65750c82c76d",
-   "lang": "ro",
-   "title": "De ce Bulgaria nu doboară dronele care atacă și scufundă nave în Marea Neagră. Rumen Radev spune că \"nu e posibil, din motive tehnice\"",
+   "id": "c99d19d74be4",
+   "lang": "bg",
+   "title": "Москва с неочакван ход към Анкара: Русия предлага споразумение за сигурността в Черно море",
    "titles": {
-    "ro": "De ce Bulgaria nu doboară dronele care atacă și scufundă nave în Marea Neagră. Rumen Radev spune că \"nu e posibil, din motive tehnice\""
+    "bg": "Москва с неочакван ход към Анкара: Русия предлага споразумение за сигурността в Черно море"
    },
-   "summary": "Premierul bulgar Rumen Radev a declarat joi că, în acest moment, Bulgaria nu poate distruge dronele care atacă navele în Marea Neagră din cauza unor limitări de ordin militar și tehnic, scrie Novinite ...",
-   "url": "https://www.antena3.ro/externe/de-ce-bulgaria-nu-doboara-dronele-care-ataca-si-scufunda-nave-in-marea-neagra-rumen-radev-spune-ca-nu-e-posibil-din-motive-tehnice-811907.html",
-   "source": "Antena 3 CNN",
-   "published": "2026-11-20T01:40:00Z",
-   "fetched": "2026-11-26T15:01:28Z",
-   "image": "https://www.antena3.ro/thumbs/amp/2026/11/20/de-ce-bulgaria-nu-doboara-dronele-care-ataca-si-scufunda-nave-in-marea-neagra-rumen-radev-spune-ca-nu-e-posibil-din-motive-tehnice-1120863.webp",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.k4Td9iD43dHse41SbtLf8w&pid=News",
+   "summary": "Русия е готова да постигне споразумение с Турция и да предприеме съвместни стъпки за гарантиране на безопасното корабоплаване в Черно море. Това заяви руският посланик в Анкара Сергей Вершинин в ...",
+   "url": "https://fakti.bg/world/1102775-moskva-s-neochakvan-hod-kam-ankara-rusia-predlaga-sporazumenie-za-sigurnostta-v-cherno-more",
+   "source": "ФАКТИ.БГ",
+   "published": "2026-11-20T02:42:00Z",
+   "fetched": "2026-11-26T15:05:51Z",
+   "image": "https://cdn4.focus.bg/fakti/photos/fb/793/moskva-s-neochakvan-hod-kam-ankara-rusia-predlaga-sporazumenie-za-sigurnostta-v-cherno-more-2.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.Bvd82YX85KDkVI7rM4U1cw&pid=News",
    "topics": [
     "policy",
-    "attacks",
     "shipping"
    ],
    "places": [],
-   "also": [
-    {
-     "source": "News.ro",
-     "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNUkFpYjhfSU1YdEwwWUpENlF4VFp2WmFEY2xKaFpQQTRDQk1kTVBSZk1BOTNXejNGTFF4MkU5cjZsdnRZOU9XQnZkamlfbVJCNkluRDhYSGxlNEQ3VjVDaVNveW93QUdCVmc1ckgxbEFlNGJ2STBJaERzLXlJazlpdWpiXzZLMDVNaDB0cmtJY3JqWllDRlVlQldFMzd5MVh5TWdLdjhPSm9IQW04M1BodjhvbnNyd0xRWW5UbzZDUlFjQ05zaVBFbnNMQ1NQZXdjRDhwRjFUbHJEbXZVSDcxTnNqXzdSRlc3Y3pOYmVad2YyZERmaWxZbnlvT25OZFNRVkNJQkRvVmVTNTg2Rmhfa0tubERzMWdrYV9OdmJmdEZ0a3YxQlVuLWhxRnZ3bjhvNlFLZ2l5VVZBTUF4b25FR2I4cnZPR3NLZ1liNENROWlGbU84cnZvNnZlNm1FQVBlM1k4RzNR?oc=5"
-    },
-    {
-     "source": "Digi24",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNEM2VmlxQkRVZ0R0U0xZZUE3SnIzUE15RVRTN1RhRk1hd255cWFuYzVEeFRTcGpIVHdWMU5Sa3dDUGlZNGVEcGZMZkxnS082bzMyc1J1UFZ5ZVVrQjNYakdxMy1vT2kxR2xpTnVZRloxdHE5ak13X3Y3dC1DaUJIQXZaRW9hUk0tN1kzMnZQVndhNTdCSDVIZFRBOVRjTnhDdVA1LXhIWnJWXzZXVWpZLUNSbjZxMXNEU3Q2NFU1eU9pendvdG9WVkJ4NGJOajVsdzhKbk1EZm8weERFMmNFVVllMXlYQWRRWjFkZmRZUk1RUEZlZVBTN0xOUXhwckxUd1RxNmxKUdIBkgJBVV95cUxOQTdSWFpoNmFJdXN6UUhRMVZYQTBVaUdQeS12a2lpX2JaUFdlcFFSN2MwVzNxMDk5MFhCTTllbGNGUW0tZk5NS3dmRW9BT3FSc0ExUHRKNGJ5ZzFRLUZnUHAwY0NEVU9DNTJ1Q2FteUtwRXM4emVqVzZJV243dU85S2lJZVZ5ME9EWllHUG9oVFlHSTctYkZZamVFVjBKNGR4Qkg4cjJrOGV1RVBIVEw1R3AzT2d1a2N6b0NYS0xMTkdrTFRmNldMSWJnQ1FLaUZCYkFxQzY4MDJyWm1WVkNacmVQS1V5ZnpTQTBSLTNMVGlrQWxiLU10bjlHRjFxc005RGxhQU11VlMweFktQ2RQRklR?oc=5"
-    },
-    {
-     "source": "B1TV",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdEJzWTJSM0pITW1jQVBjNmQxd3FfTHB0dnZvbXduVDFsaWFHU1h4X3JOVVpBcU5LRjVQMVJhTWV4ay04ZF93Z1hXOEpTbDM0X3hMVHRnWmRpdDR3UGdoYUtuZ2lCMlY5UzVIZ0pFQllNc3ZSMTRjcFBPeXNsV3ljYnRsYTYxYjNBRkJvdnhVVzlNWndjMDRhRGZxaXVBbG9KWldfRzA0dnNDTTR5MmlyQXl1aHJmbExCUERtYkwyQzVEdTZTVTRyU1p1X1NRUUxGejFWQkFNcGxuazJxNVZiUmpPdTA5UEd1T2VEc1JBRjhaRE1k0gH6AUFVX3lxTE5rNmg0QU1wMFJDZTNBU0tFSV9Za2hZbkdlbk43dVBZcUFVMktOYjNKTXpmX3JHb0t5N0tEdlVCMkdxcFN1S2U5bUlxSDY0UWQ4ZXBFMUo0QXFIdTRDQnlWQVRpYTV3QlFJVE03RFVXT0I3ZGVsdEJCZzRfVUJrTXFfYnAxNWRrSXl6aWNsTHp4bklyaVBoM1E5N2Z5X0gxa3psOThWTjkyelRJRktWNlNQNFVsQmJyYzBmcE5QOXlCT0hJWnFGdFF5RF9XdUN3X3FvbEVXRHo4WnJoeUx2dVVWc09tOFE3bGszYmVpb3VQQzBsMC10aUh5bUE?oc=5"
-    },
-    {
-     "source": "ZiarulNational",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUFBVVXB0bFYweVp6cnpoekg3X0dmRjJybVlxV2RmbUYydlpzREFubVFUMnJwejZockFkX2NVYm1HQVE2Q2ZZUmhCVnZQZ2Y2TTBOeDNMU1JKOFdpblN1bFExeDdROU1MRkV2MWVESUFkTEZ5SlI3UTYwcUtSbXV3Z3lXQ1hrdWwxOWlqOEU1MFg4cVBUbG42TnhBcHE0ckZCZk9TcnJNRWNNbVZ6SUhBQ2VZSGdJT0k?oc=5"
-    },
-    {
-     "source": "Antena 3",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQjQxNEV6Z0doOEVoYUh1S01hd2EwN2l3WTJhYkpPSXBTVW9XYzNFbS1fbVU0aE9FTGRCVmE0TmRqcFdWYk1TajhoU0tKRzZzMFNTNXkzYXZJNzBEWURjb2hOMlA1MU5ZdzFJVFRKZEJnN1FzNDR3Y1VpVzZTbERudVlIMlVndS02RHdhZi1SYXdZQWF3eUYtWDhiRHg2SjNKQ2EwYTd2b3V6d210VHJlamk2cDZDbllhbGRSTmlfSVc5V3hHY0ZIS190eGFrSGtQT0NYVDVjNGV6U1I2eUdoMktQZ016YWNaYkg5Q0VIbzFrQ21BLWFCSXZRZUVKNVpVZGtj0gH-AUFVX3lxTE55T1l3bFR2ZzZFeEpYRVRYalZHQWUtMVlQVHQ1X2s0bGlSakI3em95cHNNWlJSY2JTSkRfNW1Sd05DajdHbzdkUHAtYk5ZaUVUSFo5M3lldmdDeFRJZE1DWUVfZV9VU1lhLVpUZTNjdWhzbGNsZ3pHekpSSXA1M1B2QmIwR011M1VzY1BjY20tMkJLQ1pLUUxqd1lub2FDN19XMW00cFAwZFVmMGFQTFVJeVRLUWpsaFc3WHBzaUFfdTNaZzJyZmtMMUY0NXR2a240ZmUydUg4R1R3N2p0M1UzeTR4UmZwOEFMT1BTYjdNYl9tNUtybklTZ2Q5endn?oc=5"
-    }
-   ],
+   "also": [],
    "img_tried": true,
    "img_checked": true
   },
@@ -5945,6 +5984,53 @@
    ],
    "also": [],
    "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "1b74ed4dca8f",
+   "lang": "ro",
+   "title": "Premierul Rumen Radev: Bulgaria nu poate doborî dronele din Marea Neagră, din motive tehnice/ Opoziţia a cerut convocarea Consiliului Consultativ pentru Securitate ...",
+   "titles": {
+    "ro": "Premierul Rumen Radev: Bulgaria nu poate doborî dronele din Marea Neagră, din motive tehnice/ Opoziţia a cerut convocarea Consiliului Consultativ pentru Securitate ..."
+   },
+   "summary": "Premierul Rumen Radev a declarat că Bulgaria nu este în prezent în măsură să distrugă dronele care operează în Marea Neagră, din cauza unor limitări tehnico-militare, adăugând că ţara sa colaborează c ...",
+   "url": "https://www.news.ro/externe/premierul-rumen-radev-bulgaria-dobori-dronele-marea-neagra-motive-tehnice-opozitia-cerut-convocarea-consiliului-consultativ-securitate-nationala-presedinta-iotova-considera-necesara-asemenea-1922401720002026110822999564",
+   "source": "News.ro",
+   "published": "2026-11-20T00:17:00Z",
+   "fetched": "2026-11-26T15:05:51Z",
+   "image": "https://www.antena3.ro/thumbs/amp/2026/11/20/de-ce-bulgaria-nu-doboara-dronele-care-ataca-si-scufunda-nave-in-marea-neagra-rumen-radev-spune-ca-nu-e-posibil-din-motive-tehnice-1120863.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.WRuXqS3Ul7g2dYT6M55paA&pid=News",
+   "topics": [
+    "policy",
+    "attacks"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "Antena 3 CNN",
+     "url": "https://www.antena3.ro/externe/de-ce-bulgaria-nu-doboara-dronele-care-ataca-si-scufunda-nave-in-marea-neagra-rumen-radev-spune-ca-nu-e-posibil-din-motive-tehnice-811907.html"
+    },
+    {
+     "source": "News.ro",
+     "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNUkFpYjhfSU1YdEwwWUpENlF4VFp2WmFEY2xKaFpQQTRDQk1kTVBSZk1BOTNXejNGTFF4MkU5cjZsdnRZOU9XQnZkamlfbVJCNkluRDhYSGxlNEQ3VjVDaVNveW93QUdCVmc1ckgxbEFlNGJ2STBJaERzLXlJazlpdWpiXzZLMDVNaDB0cmtJY3JqWllDRlVlQldFMzd5MVh5TWdLdjhPSm9IQW04M1BodjhvbnNyd0xRWW5UbzZDUlFjQ05zaVBFbnNMQ1NQZXdjRDhwRjFUbHJEbXZVSDcxTnNqXzdSRlc3Y3pOYmVad2YyZERmaWxZbnlvT25OZFNRVkNJQkRvVmVTNTg2Rmhfa0tubERzMWdrYV9OdmJmdEZ0a3YxQlVuLWhxRnZ3bjhvNlFLZ2l5VVZBTUF4b25FR2I4cnZPR3NLZ1liNENROWlGbU84cnZvNnZlNm1FQVBlM1k4RzNR?oc=5"
+    },
+    {
+     "source": "Digi24",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNEM2VmlxQkRVZ0R0U0xZZUE3SnIzUE15RVRTN1RhRk1hd255cWFuYzVEeFRTcGpIVHdWMU5Sa3dDUGlZNGVEcGZMZkxnS082bzMyc1J1UFZ5ZVVrQjNYakdxMy1vT2kxR2xpTnVZRloxdHE5ak13X3Y3dC1DaUJIQXZaRW9hUk0tN1kzMnZQVndhNTdCSDVIZFRBOVRjTnhDdVA1LXhIWnJWXzZXVWpZLUNSbjZxMXNEU3Q2NFU1eU9pendvdG9WVkJ4NGJOajVsdzhKbk1EZm8weERFMmNFVVllMXlYQWRRWjFkZmRZUk1RUEZlZVBTN0xOUXhwckxUd1RxNmxKUdIBkgJBVV95cUxOQTdSWFpoNmFJdXN6UUhRMVZYQTBVaUdQeS12a2lpX2JaUFdlcFFSN2MwVzNxMDk5MFhCTTllbGNGUW0tZk5NS3dmRW9BT3FSc0ExUHRKNGJ5ZzFRLUZnUHAwY0NEVU9DNTJ1Q2FteUtwRXM4emVqVzZJV243dU85S2lJZVZ5ME9EWllHUG9oVFlHSTctYkZZamVFVjBKNGR4Qkg4cjJrOGV1RVBIVEw1R3AzT2d1a2N6b0NYS0xMTkdrTFRmNldMSWJnQ1FLaUZCYkFxQzY4MDJyWm1WVkNacmVQS1V5ZnpTQTBSLTNMVGlrQWxiLU10bjlHRjFxc005RGxhQU11VlMweFktQ2RQRklR?oc=5"
+    },
+    {
+     "source": "B1TV",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdEJzWTJSM0pITW1jQVBjNmQxd3FfTHB0dnZvbXduVDFsaWFHU1h4X3JOVVpBcU5LRjVQMVJhTWV4ay04ZF93Z1hXOEpTbDM0X3hMVHRnWmRpdDR3UGdoYUtuZ2lCMlY5UzVIZ0pFQllNc3ZSMTRjcFBPeXNsV3ljYnRsYTYxYjNBRkJvdnhVVzlNWndjMDRhRGZxaXVBbG9KWldfRzA0dnNDTTR5MmlyQXl1aHJmbExCUERtYkwyQzVEdTZTVTRyU1p1X1NRUUxGejFWQkFNcGxuazJxNVZiUmpPdTA5UEd1T2VEc1JBRjhaRE1k0gH6AUFVX3lxTE5rNmg0QU1wMFJDZTNBU0tFSV9Za2hZbkdlbk43dVBZcUFVMktOYjNKTXpmX3JHb0t5N0tEdlVCMkdxcFN1S2U5bUlxSDY0UWQ4ZXBFMUo0QXFIdTRDQnlWQVRpYTV3QlFJVE03RFVXT0I3ZGVsdEJCZzRfVUJrTXFfYnAxNWRrSXl6aWNsTHp4bklyaVBoM1E5N2Z5X0gxa3psOThWTjkyelRJRktWNlNQNFVsQmJyYzBmcE5QOXlCT0hJWnFGdFF5RF9XdUN3X3FvbEVXRHo4WnJoeUx2dVVWc09tOFE3bGszYmVpb3VQQzBsMC10aUh5bUE?oc=5"
+    },
+    {
+     "source": "ZiarulNational",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUFBVVXB0bFYweVp6cnpoekg3X0dmRjJybVlxV2RmbUYydlpzREFubVFUMnJwejZockFkX2NVYm1HQVE2Q2ZZUmhCVnZQZ2Y2TTBOeDNMU1JKOFdpblN1bFExeDdROU1MRkV2MWVESUFkTEZ5SlI3UTYwcUtSbXV3Z3lXQ1hrdWwxOWlqOEU1MFg4cVBUbG42TnhBcHE0ckZCZk9TcnJNRWNNbVZ6SUhBQ2VZSGdJT0k?oc=5"
+    },
+    {
+     "source": "Antena 3",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQjQxNEV6Z0doOEVoYUh1S01hd2EwN2l3WTJhYkpPSXBTVW9XYzNFbS1fbVU0aE9FTGRCVmE0TmRqcFdWYk1TajhoU0tKRzZzMFNTNXkzYXZJNzBEWURjb2hOMlA1MU5ZdzFJVFRKZEJnN1FzNDR3Y1VpVzZTbERudVlIMlVndS02RHdhZi1SYXdZQWF3eUYtWDhiRHg2SjNKQ2EwYTd2b3V6d210VHJlamk2cDZDbllhbGRSTmlfSVc5V3hHY0ZIS190eGFrSGtQT0NYVDVjNGV6U1I2eUdoMktQZ016YWNaYkg5Q0VIbzFrQ21BLWFCSXZRZUVKNVpVZGtj0gH-AUFVX3lxTE55T1l3bFR2ZzZFeEpYRVRYalZHQWUtMVlQVHQ1X2s0bGlSakI3em95cHNNWlJSY2JTSkRfNW1Sd05DajdHbzdkUHAtYk5ZaUVUSFo5M3lldmdDeFRJZE1DWUVfZV9VU1lhLVpUZTNjdWhzbGNsZ3pHekpSSXA1M1B2QmIwR011M1VzY1BjY20tMkJLQ1pLUUxqd1lub2FDN19XMW00cFAwZFVmMGFQTFVJeVRLUWpsaFc3WHBzaUFfdTNaZzJyZmtMMUY0NXR2a240ZmUydUg4R1R3N2p0M1UzeTR4UmZwOEFMT1BTYjdNYl9tNUtybklTZ2Q5endn?oc=5"
+    }
+   ],
    "img_checked": true
   },
   {
@@ -8808,7 +8894,12 @@
     "shipping"
    ],
    "places": [],
-   "also": [],
+   "also": [
+    {
+     "source": "Wall-Street.ro",
+     "url": "https://www.wall-street.ro/articol/international/cargou-cu-cereale-din-romania-in-pericol-in-marea-neagra.html"
+    }
+   ],
    "img_tried": true,
    "img_checked": true
   },
@@ -9280,6 +9371,14 @@
     {
      "source": "militarnyi",
      "url": "https://militarnyi.com/en/news/drones-strike-three-civilian-vessels-off-romania-s-coast/"
+    },
+    {
+     "source": "MarineLink",
+     "url": "https://www.marinelink.com/news/three-commercial-ships-hit-drones-black-544363"
+    },
+    {
+     "source": "Marine Insight",
+     "url": "https://www.marineinsight.com/3-ships-struck-by-drones-in-black-sea-near-romanias-sulina-canal/"
     }
    ],
    "img_tried": true,
@@ -9452,6 +9551,29 @@
    "also": []
   },
   {
+   "id": "d474d7b511e0",
+   "lang": "ro",
+   "title": "Cum protejează România navigatorii din Marea Neagră. Explicațiile ministrului Apărării",
+   "titles": {
+    "ro": "Cum protejează România navigatorii din Marea Neagră. Explicațiile ministrului Apărării"
+   },
+   "summary": "Ministrul Apărării, Radu Oprea, a vorbit despre măsurile luate pentru asigurarea siguranței navigatorilor români în Marea Neagră, în contextul schimbărilor din arhitectura de securitate din regiune.",
+   "url": "https://tvrinfo.ro/cum-protejeaza-romania-navigatorii-din-marea-neagra-explicatiile-ministrului-apararii/",
+   "source": "TVR Info",
+   "published": "2026-11-14T03:09:00Z",
+   "fetched": "2026-11-26T15:05:51Z",
+   "image": "https://www.bing.com/th?id=ONUT.Lou-RZ4H91Z64Lq4Dc4xyg&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.Lou-RZ4H91Z64Lq4Dc4xyg&pid=News",
+   "topics": [
+    "policy",
+    "insurance"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "9139edd61f92",
    "lang": "ro",
    "title": "Alertă în Marea Neagră! O navă comercială, lovită de o dronă în apropiere de Sfântu Gheorghe",
@@ -9519,6 +9641,10 @@
     {
      "source": "ФАКТИ.БГ",
      "url": "https://fakti.bg/krimi/1100927-proveriha-korab-v-burgas-po-signal-za-kontrabanda-na-gorivo"
+    },
+    {
+     "source": "Нова телевизия",
+     "url": "https://nova.bg/news/view/2026/11/14/559253/%D0%B0%D0%BA%D1%86%D0%B8%D1%8F-%D0%B2-%D0%B1%D1%83%D1%80%D0%B3%D0%B0%D1%81-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D1%85%D0%B0-%D0%BA%D0%BE%D1%80%D0%B0%D0%B1-%D0%BF%D0%BE-%D1%80%D0%B0%D0%B7%D1%81%D0%BB%D0%B5%D0%B4%D0%B2%D0%B0%D0%BD%D0%B5-%D0%B7%D0%B0-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%B1%D0%B0%D0%BD%D0%B4%D0%B0-%D0%BD%D0%B0-%D0%B3%D0%BE%D1%80%D0%B8%D0%B2%D0%BE/"
     }
    ],
    "img_tried": true,
