@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T12:11:42Z",
+ "updated": "2026-11-26T13:30:50Z",
  "items": [
   {
    "id": "8d66ac089509",
@@ -20,6 +20,30 @@
    "topics": [
     "insurance",
     "grain"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "c620e4c133ae",
+   "lang": "en",
+   "title": "China Urges Safety For Black Sea Shipping As EU Calls It The World's Deadliest Maritime Route",
+   "titles": {
+    "en": "China Urges Safety For Black Sea Shipping As EU Calls It The World's Deadliest Maritime Route",
+    "ro": "China solicită măsuri de siguranță pentru transportul maritim pe Marea Neagră, în timp ce UE o califică drept cea mai periculoasă rută maritimă din lume",
+    "bg": "Китай призовава за безопасност на корабоплаването в Черно море, докато ЕС го определя като най-смъртоносния морски маршрут в света"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aTzlFY29GZEV1bVVuNlpqa1JEZTJ1OWFmZjcwSlV6WDFzeEFfaFZKTmFiek5iMUp6NFhaUjgzSEhFSFFhUlE1LTI5UEx1c3J4SjFqLXVnakF3T3VFcTdjSG8zd1FqT19IWGV4cnpOVUM4bi15?oc=5",
+   "source": "Marine Insight",
+   "published": "2026-11-26T11:30:14Z",
+   "fetched": "2026-11-26T13:28:33Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "shipping"
    ],
    "places": [],
    "also": [],
@@ -55,7 +79,9 @@
    "lang": "ro",
    "title": "Rusia respinge armistițiul energetic şi maritim în Ucraina, cerut de Ursula Von der Leyen: Trebuie să apărăm interesele naționale",
    "titles": {
-    "ro": "Rusia respinge armistițiul energetic şi maritim în Ucraina, cerut de Ursula Von der Leyen: Trebuie să apărăm interesele naționale"
+    "ro": "Rusia respinge armistițiul energetic şi maritim în Ucraina, cerut de Ursula Von der Leyen: Trebuie să apărăm interesele naționale",
+    "en": "Russia rejects the energy and maritime ceasefire in Ukraine called for by Ursula von der Leyen: ‘We must defend our national interests’",
+    "bg": "Русия отхвърля предложеното от Урсула фон дер Лайен енергийно и морско примирие в Украйна: Трябва да защитим националните интереси"
    },
    "summary": "Kremlinul a respins joi armistiţiul de iarnă, atât în ce priveşte atacurile asupra infrastructurilor energice, cât şi cele care ţintesc exporturile de cereale prin Marea Neagră, cerut în ziua precedentă de preşedinta Comisiei Europene, Ursula von der Leyen, solicitare descrisă de preşedinţia rusă…",
    "url": "https://www.digi24.ro/stiri/externe/rusia-respinge-armistitiul-energetic-si-maritim-in-ucraina-cerut-de-ursula-von-der-leyen-trebuie-sa-aparam-interesele-nationale-4053795",
@@ -123,6 +149,32 @@
    "img_checked": true
   },
   {
+   "id": "bca5e826e35e",
+   "lang": "en",
+   "title": "“The situation in the Black Sea near Sulina is becoming critical,” says Yugekotop co-founder Kozyr",
+   "titles": {
+    "en": "“The situation in the Black Sea near Sulina is becoming critical,” says Yugekotop co-founder Kozyr"
+   },
+   "summary": "The risks for civilian cargo ships in the Black Sea near the Sulina Canal are steadily increasing, and Ukrainian agricultural exports could lose yet another key corridor, said Borys Kozyr, co-founder ...",
+   "url": "https://nikvesti.com/en/news/business/326987-the-situation-in-the-black-sea-near-sulina-is-becoming-critical-says",
+   "source": "NikVesti",
+   "published": "2026-11-26T02:00:00Z",
+   "fetched": "2026-11-26T13:28:33Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "shipping",
+    "grain"
+   ],
+   "places": [
+    "danube"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "70a89e4c478b",
    "lang": "en",
    "title": "Insurers Hike Black Sea Shipping Premiums Over War Risk",
@@ -168,6 +220,30 @@
    ],
    "places": [],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "2ff2da9b0aff",
+   "lang": "en",
+   "title": "A Dramatic Change in the Black Sea: What Has Turned the Tide?",
+   "titles": {
+    "en": "A Dramatic Change in the Black Sea: What Has Turned the Tide?"
+   },
+   "summary": "Alexey Chadayev explains how Russian strikes on cargo ships heading to Ukrainian ports have sharply reduced Ukrainian naval drone attacks on Russia’s coast.",
+   "url": "https://voennoedelo.com/en/posts/id22713-black-sea-drone-attacks-how-russia-changed-the-situation",
+   "source": "Voennoe Delo",
+   "published": "2026-11-25T18:01:00Z",
+   "fetched": "2026-11-26T13:28:33Z",
+   "image": "https://voennoedelo.com/uploads/en_materials/big/YnJSoVsNutzYPHmWDa2S.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.SDRm0TLbdcV6ztbHnzCNzg&pid=News",
+   "topics": [
+    "attacks",
+    "shipping",
+    "ports"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -239,7 +315,12 @@
    "places": [
     "constanta"
    ],
-   "also": [],
+   "also": [
+    {
+     "source": "Știrile PRO TV",
+     "url": "https://stirileprotv.ro/stiri/actualitate/captura-de-2-5-milioane-de-lei-intr-un-container-sosit-din-india-in-portul-constan-a-ce-au-descoperit-poli-istii-foto.html"
+    }
+   ],
    "img_tried": true,
    "img_checked": true
   },
@@ -6970,7 +7051,12 @@
     "energy"
    ],
    "places": [],
-   "also": [],
+   "also": [
+    {
+     "source": "Wall-Street.ro",
+     "url": "https://www.wall-street.ro/articol/international/nava-gpl-lovita-de-proiectile-in-marea-neagra.html"
+    }
+   ],
    "img_tried": true,
    "img_checked": true
   },
@@ -7579,6 +7665,28 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "adb33b7fe24e",
+   "lang": "en",
+   "title": "EU, Black Sea, South Caucasus and Central Asia advance cooperation on cross-regional security and connectivity",
+   "titles": {
+    "en": "EU, Black Sea, South Caucasus and Central Asia advance cooperation on cross-regional security and connectivity"
+   },
+   "summary": "On 16 November, EU High Representative Kaja Kallas, European Commissioner for Enlargement Marta Kos, and Commissioner for International Partnerships Jozef Síkela hosted in Brussels representatives ...",
+   "url": "https://euneighbourseast.eu/news/latest-news/eu-black-sea-south-caucasus-and-central-asia-advance-cooperation-on-cross-regional-security-and-connectivity/",
+   "source": "EU NEIGHBOURS east",
+   "published": "2026-11-17T02:25:00Z",
+   "fetched": "2026-11-26T13:28:33Z",
+   "image": "https://euneighbourseast.eu/wp-content/uploads/2026/11/p-045988_00-06_01-original-351008-scaled-e1794910662930.jpeg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.AgPqjaCwEcH74vU7C3ks5w&pid=News",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "06222ab586b1",
@@ -8478,6 +8586,29 @@
    "also": []
   },
   {
+   "id": "74b3ad93be9d",
+   "lang": "ro",
+   "title": "O navă cargo se scufundă în Marea Neagră, în largul Bulgariei, anunță Ministerul Transporturilor",
+   "titles": {
+    "ro": "O navă cargo se scufundă în Marea Neagră, în largul Bulgariei, anunță Ministerul Transporturilor"
+   },
+   "summary": "Bulgaria a primit luni un semnal de ajutor de la o navă cargo care se scufunda în zona sa economică exclusivă din Marea Neagră, a anunțat Ministerul Transporturilor. Nava, sub pavilion somalez, avea l ...",
+   "url": "https://www.rador.ro/2026/11/16/o-nava-cargo-se-scufunda-in-marea-neagra-in-largul-bulgariei-anunta-ministerul-transporturilor/",
+   "source": "Agenția de presă Rador",
+   "published": "2026-11-16T00:03:00Z",
+   "fetched": "2026-11-26T13:28:33Z",
+   "image": "https://www.rador.ro/wp-content/uploads/2026/10/Marea-Neagra.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.Tdw1P6L8XEtYySOXExpveQ&pid=News",
+   "topics": [
+    "policy",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "eace8f06f08c",
    "lang": "en",
    "title": "Black Sea Security Brings Ministers Together in Brussels",
@@ -9180,7 +9311,12 @@
    "places": [
     "burgas"
    ],
-   "also": [],
+   "also": [
+    {
+     "source": "ФАКТИ.БГ",
+     "url": "https://fakti.bg/krimi/1100927-proveriha-korab-v-burgas-po-signal-za-kontrabanda-na-gorivo"
+    }
+   ],
    "img_tried": true,
    "img_checked": true
   },
