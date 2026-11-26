@@ -6,40 +6,39 @@
 [fetch]   0/ 30 kept  Ukrinform
 [fetch]   0/ 29 kept  Euromaidan Press
 [fetch]   0/  0 kept  Novinite.com
-[fetch]   1/275 kept  Digi24
+[fetch]   1/280 kept  Digi24
 [fetch] FAIL https://www.bta.bg/bg/rss/free: HTTP Error 429: Too Many Requests
 [fetch]   0/ 30 kept  Дневник
-[fetch]   9/ 12 kept  Bing News en
+[fetch]   8/ 12 kept  Bing News en
 [fetch]   6/ 11 kept  Bing News en
 [fetch]   4/ 10 kept  Bing News en
-[fetch]   0/  4 kept  Bing News en
-[fetch]   8/ 12 kept  Bing News en
+[fetch]   1/  9 kept  Bing News en
+[fetch]   9/ 12 kept  Bing News en
 [fetch]   8/ 12 kept  Bing News ro
-[fetch]   7/ 11 kept  Bing News ro
+[fetch]   9/ 12 kept  Bing News ro
 [fetch]  12/ 12 kept  Bing News bg
-[fetch]   2/ 10 kept  Bing News en
-[fetch]   6/ 12 kept  Bing News en
-[fetch]   5/ 12 kept  Bing News en
+[fetch]   3/ 10 kept  Bing News en
+[fetch]   7/ 12 kept  Bing News en
+[fetch]   4/ 12 kept  Bing News en
 [fetch]   8/ 12 kept  Bing News en
 [fetch]   9/ 12 kept  Bing News ro
-[fetch]   5/ 11 kept  Bing News ro
-[fetch]  10/ 11 kept  Bing News ro
+[fetch]   4/ 10 kept  Bing News ro
+[fetch]   8/ 10 kept  Bing News ro
 [fetch]   6/ 10 kept  Bing News ro
 [fetch]  10/ 11 kept  Bing News bg
-[fetch]   8/ 11 kept  Bing News bg
-[fetch]   1/  1 kept  Bing News bg
+[fetch]   9/ 11 kept  Bing News bg
+[fetch]   1/  2 kept  Bing News bg
 [fetch]   0/  1 kept  Bing News en
 [fetch]   3/ 11 kept  Bing News en
-[fetch]   5/ 11 kept  Bing News en
+[fetch]   4/ 11 kept  Bing News en
 [fetch]   2/ 11 kept  Bing News en
 [fetch]   2/ 10 kept  Bing News en
-[fetch]   6/  9 kept  Bing News ro
-[fetch]  10/ 12 kept  Bing News ro
-[fetch]  12/ 12 kept  Bing News bg
-[fetch]   6/ 10 kept  Bing News bg
+[fetch]   7/ 11 kept  Bing News ro
+[fetch]   9/ 12 kept  Bing News ro
+[fetch]  11/ 12 kept  Bing News bg
+[fetch]   7/ 10 kept  Bing News bg
 [fetch]   2/ 75 kept  GDELT en
-[images] Associated Press News: HTTP Error 403: Forbidden
 [images] 2/3 pictures found
-[images] verified 3: 3 usable on the site
-[deepl] translated 12 headlines, used this month ≈ 43622 chars
-[news] +3 new, 170 total
+[images] verified 4: 3 usable on the site
+[deepl] translated 12 headlines, used this month ≈ 44392 chars
+[news] +4 new, 173 total
