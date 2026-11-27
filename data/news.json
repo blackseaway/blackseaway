@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T07:30:52Z",
+ "updated": "2026-11-27T09:22:20Z",
  "items": [
   {
    "id": "699fe4de424a",
@@ -248,7 +248,9 @@
    "lang": "bg",
    "title": "Нови атаки срещу търговски кораби в Черно море",
    "titles": {
-    "bg": "Нови атаки срещу търговски кораби в Черно море"
+    "bg": "Нови атаки срещу търговски кораби в Черно море",
+    "en": "New attacks on merchant ships in the Black Sea",
+    "ro": "Noi atacuri împotriva navelor comerciale în Marea Neagră"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPTU41S2cyQUw0ZC1Mai05a09uMmxGR3A0SFJ1UnF6OUVwcUpFelJpZHRRTmVDbk9yRjlleFRwcTc0M1pvSnBkdzMwQW5sN09jb3Y4dmFJNmhkaE5mUFdCbGtqSjBPOEswemRMLTJzUVQ3Q3VYQTh1Nlo0ZjJLN1BmNE5rcmxBci1KYU9XQ2hsaWd4eF96WWF0WERCZ3prMWZQdy1RYUw0dEI5SlprMXRpY3JzSjhYa0RPVkY3bVJHUVJUZVN2UnRHM3RvTGdSNGNRUUprLUR0aE10VkdyMGRib2p5aWZYckZWbDdnU3ZNeW5JdFZVY0tfZE1LUjhTZzVtVUU0cGYzM01PYy1VNUNEYXZEbFZ4Tkw3M0lTOFZGYjBOVEVrMmtwYXJPekhHZUItblpSVjU1WWgwTWhYTF92ZEVXSi1ic2MtVl9qTVRhWHlfclFOcUR5dXJlTTRZLVgzdXBiV3piYkNiRTd6QTNhaFdZUlltQW93SkRjYVd4aUt0VzRPZEpuMjNPZUF5cjV4V1hFbFZfR29KZw?oc=5",
@@ -285,6 +287,89 @@
    ],
    "places": [],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "708d4cc4527a",
+   "lang": "ro",
+   "title": "Ministrul Transporturilor: O mare parte din echipamentele pentru alimentarea electrică a navelor au ajuns în Portul Constanța",
+   "titles": {
+    "ro": "Ministrul Transporturilor: O mare parte din echipamentele pentru alimentarea electrică a navelor au ajuns în Portul Constanța",
+    "en": "Minister for Transport: A large proportion of the equipment for supplying electricity to ships has arrived at the Port of Constanța",
+    "bg": "Министърът на транспорта: Голяма част от оборудването за електрозахранване на корабите е пристигнало в пристанището на Констанца"
+   },
+   "summary": "O mare parte dintre echipamentele sistemului E-COLD, care permite alimentarea cu energie electrică a navelor de la țărm, au ajuns în Portul Constanța, a anunțat ministrul Transporturilor. Investiția d ...",
+   "url": "https://stirileprotv.ro/stiri/actualitate/ministrul-transporturilor-o-mare-parte-din-echipamentele-pentru-alimentarea-electrica-a-navelor-au-ajuns-in-portul-constanta.html",
+   "source": "Știrile PRO TV",
+   "published": "2026-11-26T13:01:00Z",
+   "fetched": "2026-11-27T09:16:38Z",
+   "image": "https://stirileprotv.ro/img/2026/09/16/140904/portul-constanta-nave-inquam-photos-daniel-stoenciu.jpg?fm=jpg&q=80&fit=crop&crop=6016%2C3389%2C0%2C628&watermark=og&w=1280",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.O3lSwzsqjYcAV5NgQxVr5A&pid=News",
+   "topics": [
+    "policy",
+    "shipping",
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "58752846df82",
+   "lang": "ro",
+   "title": "Portul Constanța face un pas spre reducerea poluării. Navele vor putea fi alimentate cu energie electrică direct de la țărm",
+   "titles": {
+    "ro": "Portul Constanța face un pas spre reducerea poluării. Navele vor putea fi alimentate cu energie electrică direct de la țărm"
+   },
+   "summary": "Ministrul Transporturilor, Ștefan Ovidiu Popa, a anunțat că echipamentele sistemului E-COLD au ajuns în mare parte în Portul Constanța. Investiția de 29,6 milioane de euro va permite alimentarea navel ...",
+   "url": "https://www.mediafax.ro/energie/portul-constanta-face-un-pas-spre-reducerea-poluarii-navele-vor-putea-fi-alimentate-cu-energie-electrica-direct-de-la-tarm-23850532",
+   "source": "Mediafax",
+   "published": "2026-11-26T12:44:00Z",
+   "fetched": "2026-11-27T09:16:38Z",
+   "image": "https://www.mediafax.ro/wp-content/uploads/2026/07/portul-constanta-01.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.DQIztnojt-De3hunLee-tQ&pid=News",
+   "topics": [
+    "policy",
+    "shipping",
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "also": [
+    {
+     "source": "Economica.net",
+     "url": "https://www.economica.net/portul-constanta-6_999793.html"
+    }
+   ],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "da4a5723458b",
+   "lang": "ro",
+   "title": "CBS News: România, în prima linie a tensiunilor din Marea Neagră, riscuri tot mai mari pentru NATO şi SUA",
+   "titles": {
+    "ro": "CBS News: România, în prima linie a tensiunilor din Marea Neagră, riscuri tot mai mari pentru NATO şi SUA"
+   },
+   "summary": "Incidentele maritime din Marea Neagră s-au înmulţit semnificativ de la începutul anului, iar riscurile generate de drone, mine şi nave comerciale afectate de războiul dintre Rusia şi Ucraina se extind ...",
+   "url": "https://www.bursa.ro/cbs-news-romania-in-prima-linie-a-tensiunilor-din-marea-neagra-riscuri-tot-mai-mari-pentru-nato-si-sua-22791166",
+   "source": "BURSA",
+   "published": "2026-11-26T11:46:00Z",
+   "fetched": "2026-11-27T09:16:38Z",
+   "image": "https://www.bursa.ro/_img/articole/mare/611972.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.9IS4f7yZeB-MT2budsBUfw&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -436,7 +521,12 @@
     "shipping"
    ],
    "places": [],
-   "also": [],
+   "also": [
+    {
+     "source": "Jurnalul",
+     "url": "https://jurnalul.ro/stiri/observator/cbs-news-romania-razboi-marea-neagra-atragere-nato-conflictul-ruso-ucrainean-1050639.html"
+    }
+   ],
    "img_tried": true,
    "img_checked": true
   },
@@ -10388,76 +10478,6 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
-  },
-  {
-   "id": "861d2a009df9",
-   "lang": "bg",
-   "title": "Нова атака с дрон в Черно море. Ударен е товарен кораб",
-   "titles": {
-    "bg": "Нова атака с дрон в Черно море. Ударен е товарен кораб"
-   },
-   "summary": "Търговски кораб, плаващ под флага на Палау, е бил поразен от безпилотен летателен апарат в териториалните води ...",
-   "url": "https://novavarna.net/2026/11/14/%D0%BD%D0%BE%D0%B2%D0%B0-%D0%B0%D1%82%D0%B0%D0%BA%D0%B0-%D1%81-%D0%B4%D1%80%D0%BE%D0%BD-%D0%B2-%D1%87%D0%B5%D1%80%D0%BD%D0%BE-%D0%BC%D0%BE%D1%80%D0%B5-%D1%83%D0%B4%D0%B0%D1%80%D0%B5%D0%BD-%D0%B5/",
-   "source": "Нова Варна",
-   "published": "2026-11-14T07:20:00Z",
-   "fetched": "2026-11-25T13:53:52Z",
-   "image": "https://novavarna.net/wp-content/uploads/2026/10/korab-konteinerovoz-Copy.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.n5Apvk9UPQtSDi5PLm_e2Q&pid=News",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "fe3c54f09dd3",
-   "lang": "bg",
-   "title": "Дрон удари товарен кораб в румънски води! Вдигнаха изтребители F-16 над Черно море",
-   "titles": {
-    "bg": "Дрон удари товарен кораб в румънски води! Вдигнаха изтребители F-16 над Черно море"
-   },
-   "summary": "Корабът LARISSA 1, плаващ под флага на Палау, е поразен край делтата на Дунав на път за Украйна. Повреден е товарен кран, но няма ранени моряци. Румънските власти изпратиха две предупреждения до насел ...",
-   "url": "https://www.flagman.bg/article/394176",
-   "source": "Флагман.Бг",
-   "published": "2026-11-14T06:29:00Z",
-   "fetched": "2026-11-26T06:42:36Z",
-   "image": "https://www.bing.com/th?id=ONUT.PH8thkJxzshGpfmeTsJlcQ&pid=News",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.PH8thkJxzshGpfmeTsJlcQ&pid=News",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [
-    "danube"
-   ],
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "d474d7b511e0",
-   "lang": "ro",
-   "title": "Cum protejează România navigatorii din Marea Neagră. Explicațiile ministrului Apărării",
-   "titles": {
-    "ro": "Cum protejează România navigatorii din Marea Neagră. Explicațiile ministrului Apărării"
-   },
-   "summary": "Ministrul Apărării, Radu Oprea, a vorbit despre măsurile luate pentru asigurarea siguranței navigatorilor români în Marea Neagră, în contextul schimbărilor din arhitectura de securitate din regiune.",
-   "url": "https://tvrinfo.ro/cum-protejeaza-romania-navigatorii-din-marea-neagra-explicatiile-ministrului-apararii/",
-   "source": "TVR Info",
-   "published": "2026-11-14T03:09:00Z",
-   "fetched": "2026-11-26T15:05:51Z",
-   "image": "https://www.bing.com/th?id=ONUT.Lou-RZ4H91Z64Lq4Dc4xyg&pid=News",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.Lou-RZ4H91Z64Lq4Dc4xyg&pid=News",
-   "topics": [
-    "policy",
-    "insurance"
-   ],
-   "places": [],
-   "also": [],
-   "img_tried": true,
-   "img_checked": true
   }
  ]
 }
