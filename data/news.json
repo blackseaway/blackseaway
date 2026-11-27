@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-27T21:06:53Z",
+ "updated": "2026-11-27T22:05:58Z",
  "items": [
+  {
+   "id": "93afaf6c9ff9",
+   "lang": "en",
+   "title": "Russia attacks grain ships near Odesa, clouding Ukraine corridor recovery",
+   "titles": {
+    "en": "Russia attacks grain ships near Odesa, clouding Ukraine corridor recovery",
+    "ro": "Rusia atacă nave cu cereale în apropierea orașului Odesa, punând în pericol redeschiderea coridorului ucrainean",
+    "bg": "Русия напада кораби с зърно край Одеса, което затруднява възстановяването на коридора за Украйна"
+   },
+   "summary": "Ukraine’s Prime Minister Sergii Koretskyi confirmed Nov. 26 Russian attacks on two foreign civilian vessels carrying more than 100,000 metric tons of grain overnight near the Black Sea port of Odesa. Market sources said both bulk carriers had loaded at Pivdennyi and were heading out via Ukraine’s…",
+   "url": "https://www.hellenicshippingnews.com/russia-attacks-grain-ships-near-odesa-clouding-ukraine-corridor-recovery/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-11-27T22:00:49Z",
+   "fetched": "2026-11-27T22:03:05Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping",
+    "grain",
+    "ports"
+   ],
+   "places": [
+    "odesa",
+    "pivdennyi"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
   {
    "id": "50d0c2f538aa",
    "lang": "en",
@@ -15,14 +46,15 @@
    "source": "fakti.bg",
    "published": "2026-11-27T20:30:00Z",
    "fetched": "2026-11-27T21:04:02Z",
-   "image": "",
+   "image": "https://cdn4.focus.bg/fakti/photos/fb/1b4/rusia-iska-da-vkluchi-petrola-v-primirieto-v-cherno-more-1.jpg",
    "fallback_image": "",
    "topics": [
     "energy"
    ],
    "places": [],
    "also": [],
-   "img_checked": true
+   "img_checked": true,
+   "img_tried": true
   },
   {
    "id": "36527d339a16",
@@ -149,7 +181,9 @@
    "lang": "ro",
    "title": "CBS: Frontul din Marea Neagră riscă să atragă SUA în conflict. României i-a fost atacat teritoriul pentru prima dată după Al Doilea Război Mondial, când nave au fost lovite în apele teritoriale",
    "titles": {
-    "ro": "CBS: Frontul din Marea Neagră riscă să atragă SUA în conflict. României i-a fost atacat teritoriul pentru prima dată după Al Doilea Război Mondial, când nave au fost lovite în apele teritoriale"
+    "ro": "CBS: Frontul din Marea Neagră riscă să atragă SUA în conflict. României i-a fost atacat teritoriul pentru prima dată după Al Doilea Război Mondial, când nave au fost lovite în apele teritoriale",
+    "en": "CBS: The Black Sea front risks drawing the US into the conflict. Romania’s territory has been attacked for the first time since the Second World War, when ships were struck in its territorial waters",
+    "bg": "CBS: Фронтът в Черно море рискува да въвлече САЩ в конфликта. За първи път след Втората световна война територията на Румъния беше атакувана, когато кораби бяха ударени в териториалните води"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPWkdzemI5Z2RIQlRZSHpab1U4RXFjZUxyZkNQc1gyY3BFRnBvdDNuN2tiSmd2VFJxMVZLTnV6RG5iNURzUkphXzIybTB0VXA5cWxUXzhoaHZoU1cyQ2tER2RYX29kODA4NmJYLXNEMENUVktVYVNORzhOVmNNWDNaWGxzOVZFQXlSRGJrbERuQkh3X2FLOGVJSk5sS001SVdqV2FMYjdrYjZEeHNaS2pnbTJmSV9jQkcwYXdoaVc1LTlDY0NDMHpnYTg3Z1d0WFNGOUFUOXRJRlNRNVJwRmJxRG1VQXloSW5BR3A5eGZodk9GY2k5WGxOVm1NdjJaSzFrMEdhYjhMci1xMHhOM3Y4SlF1NGY3VUM5MERkUVF6dW5SYmtMLTZEZlUtWmY0WTNpa0ZIaFBnLXBnRWt0bUptSdIBxgJBVV95cUxQVUpBdGdMQWhGcHF2OEV3SjVYc0d1NlMyOERrVjB4cUlyd21HeUwxUVVCcDZibDFkTEpZT3Izbm1xZjE1SUFYQlZQZ1pDcDlJOTlva1JVN0dYUFdtTnROR2J4a0NUWlVoMnhsSTNpcm1odkRWVjdXSjFUV3owZDNLeXN3ZmJOVXVBNXlVS09aQVQzcm5jUnVoT1JHNXRZRWZDY09kb0dtb3dYZktsckVtdEtFMlpObGMzQnoxdHEyS0htd3MzQTdBV196dXlBTS11QXgwYnBSallSdTY1ZGZwbWFaZFpUWUFici1RcmtfYVAya2RnUlMwS3lCdmI3S1dOTUlkZldheUpWN19DTjJpWC1zc00wVUtSaENrOW91QjNZU0xQS0FBa1FFSXBULW55ajNpNEdid0Y3QWstUGlWejlHcklmUQ?oc=5",
@@ -236,7 +270,12 @@
     "grain"
    ],
    "places": [],
-   "also": [],
+   "also": [
+    {
+     "source": "europesays",
+     "url": "https://www.europesays.com/3405404/"
+    }
+   ],
    "img_tried": true,
    "img_checked": true
   },
@@ -1073,6 +1112,10 @@
     {
      "source": "Stirile ProTV",
      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbVRWY01nMXBqZ2FZdUZVTzREU0FNdFFCRkVWRnk4TkVVRlhxS3dVWXlZMUdrNk1WRnVHenh5WGZaWkw1cVNVSFFLajg1S2NmQ1FTUGdob2xBSzVQNVBXX1N5bUJCSm8tbUxLT3c0cFlCUWpUNF9VMThUWHZNSlYyclhGOEplLTZFeFZ4ZENxOURVbFRxT3hXTHhXcmpXaUNaM0lsTkd1STIyNllUeFltSXFDeERESEZCbUQtNlYwNzBPWThrak5JNTNWRVI5VDZ6TkJKbjhLWXVBV0dyQ1VkRTZzSmRLU2VNeWlXeDMyeTFDYVRmUDZvNVU2RGVIelFS?oc=5"
+    },
+    {
+     "source": "ctnews",
+     "url": "https://www.ctnews.ro/ministrul-transporturilor-a-anuntat-ca-echipamentele-sistemului-e-cold-au-ajuns-in-portul-constanta-navele-vor-putea-fi-alimentate-cu-energie-electrica-de-la-tarm/"
     }
    ],
    "img_checked": true
@@ -1299,6 +1342,31 @@
      "url": "https://www.libertatea.ro/stiri/frontul-de-la-marea-neagra-ameninta-sa-atraga-sua-si-nato-in-razboiul-din-ucraina-reportaj-cbs-in-romania-zfeb5x1"
     }
    ],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "b3ed1b766411",
+   "lang": "ro",
+   "title": "Mii de parfumuri susceptibile a fi contrafăcute, în valoare de peste 2,5 milioane de lei, găsite într-un container sosit în Portul Constanţa/ Marfa provenea din India şi ...",
+   "titles": {
+    "ro": "Mii de parfumuri susceptibile a fi contrafăcute, în valoare de peste 2,5 milioane de lei, găsite într-un container sosit în Portul Constanţa/ Marfa provenea din India şi ..."
+   },
+   "summary": "Poliţiştii de frontieră au descoperit mii de parfumuri susceptibile a fi contrafăcute într-un container sosit din India în Portul Constanţa. Valoarea acestora depăşeşte 2,5 milioane de lei. Bunurile e ...",
+   "url": "https://www.news.ro/eveniment/mii-parfumuri-susceptibile-contrafacute-valoare-peste-2-5-milioane-lei-gasite-intr-container-sosit-portul-constanta-marfa-provenea-india-era-destinata-unei-firme-republica-moldova-1922404526122026111423012375",
+   "source": "News.ro",
+   "published": "2026-11-26T06:45:00Z",
+   "fetched": "2026-11-27T22:03:05Z",
+   "image": "https://i0.1616.ro/media/2/2701/33631/23012375/1/parfumuri-26-nov.jpg?width=640",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.V443FFY9KMSS0enSh_QaIQ&pid=News",
+   "topics": [
+    "shipping",
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "also": [],
    "img_tried": true,
    "img_checked": true
   },
@@ -10414,68 +10482,6 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
-  },
-  {
-   "id": "2fa834896b0d",
-   "lang": "en",
-   "title": "Turkish, Azerbaijani crew rescued after Black Sea ship sinks",
-   "titles": {
-    "en": "Turkish, Azerbaijani crew rescued after Black Sea ship sinks"
-   },
-   "summary": "Twelve crew members, including eight Turkish and four Azerbaijani nationals, have been rescued after a Somali-flagged cargo ship sank following ...",
-   "url": "https://www.dailysabah.com/turkiye/turkish-azerbaijani-crew-rescued-after-black-sea-ship-sinks/news",
-   "source": "Daily Sabah",
-   "published": "2026-11-16T07:23:00Z",
-   "fetched": "2026-11-25T16:18:55Z",
-   "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/11/16/thumbs/1200x675/470655.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.dRiGNpPcIem2zXND-orKmA&pid=News",
-   "topics": [
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": [
-    {
-     "source": "Yahoo",
-     "url": "https://www.yahoo.com/news/world/articles/cargo-ship-sinks-bulgarias-black-190257562.html"
-    },
-    {
-     "source": "The Kyiv Independent",
-     "url": "https://kyivindependent.com/cargo-ship-sinks-in-bulgarias-black-sea-after-reported-drone-attack-all-12-crew-rescued/"
-    }
-   ]
-  },
-  {
-   "id": "03c4fd725563",
-   "lang": "en",
-   "title": "Bulgaria Rescues 12 Crew as Attacked Cargo Ship Capsizes",
-   "titles": {
-    "en": "Bulgaria Rescues 12 Crew as Attacked Cargo Ship Capsizes"
-   },
-   "summary": "Strikes on commercial shipping in the Black Sea east of Bulgaria and Romania have resumed, with the latest incident coming Monday morning, November ...",
-   "url": "https://maritime-executive.com/article/bulgaria-rescues-12-crew-as-attacked-cargo-ship-capsizes",
-   "source": "The Maritime Executive",
-   "published": "2026-11-16T07:22:00Z",
-   "fetched": "2026-11-25T14:01:16Z",
-   "image": "https://www.bing.com/th?id=ONUT.e1qPJq4EzHMbEdNjyKdz7Q&pid=News",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.mJBPdnDf_tOPYstjMk7eGQ&pid=News",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "also": [
-    {
-     "source": "The Kyiv Independent on MSN",
-     "url": "https://www.msn.com/en-us/news/other/cargo-ship-sinks-in-bulgarias-black-sea-after-reported-drone-attack-all-12-crew-rescued/ar-AA2hz4GB"
-    },
-    {
-     "source": "Ships & Ports",
-     "url": "https://shipsandports.com.ng/12-crew-rescued-after-somali-flagged-cargo-ship-capsizes-in-black-sea/"
-    }
-   ],
-   "img_checked": true
   }
  ]
 }
