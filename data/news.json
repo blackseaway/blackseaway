@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:08:10Z",
+ "updated": "2026-11-27T10:25:00Z",
  "items": [
   {
    "id": "40ecb92fd34a",
@@ -29,36 +29,13 @@
    "img_checked": true
   },
   {
-   "id": "42ad0c9490a9",
-   "lang": "bg",
-   "title": "Радев и фон дер Лайен събират във Варна лидери за Средния коридор - Maritime.bg",
-   "titles": {
-    "bg": "Радев и фон дер Лайен събират във Варна лидери за Средния коридор - Maritime.bg",
-    "en": "Radev and von der Leyen bring together leaders for the Middle Corridor in Varna - Maritime.bg",
-    "ro": "Radev și von der Leyen reunesc la Varna liderii implicați în Coridorul Central - Maritime.bg"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE16bDcyR0FBMnM5dlRWcS1NTFRwMUg4QXBQd3hQMXJNek1xUXQ1RmRzMWVhdnFhUmJ5UUhYYzJ1LU4wRGFIUlE?oc=5",
-   "source": "Maritime.bg - Морският портал",
-   "published": "2026-11-27T09:25:56Z",
-   "fetched": "2026-11-27T10:05:23Z",
-   "image": "",
-   "fallback_image": "",
-   "topics": [
-    "shipping"
-   ],
-   "places": [
-    "varna"
-   ],
-   "also": [],
-   "img_checked": true
-  },
-  {
    "id": "37a7c1555c48",
    "lang": "en",
    "title": "SPECIAL Informat.ro / Romania in the European press: Top stories from the past two weeks. Drone attacks in the Black Sea dominate the agenda, while Alice Weidel once again targets Romanians",
    "titles": {
-    "en": "SPECIAL Informat.ro / Romania in the European press: Top stories from the past two weeks. Drone attacks in the Black Sea dominate the agenda, while Alice Weidel once again targets Romanians"
+    "en": "SPECIAL Informat.ro / Romania in the European press: Top stories from the past two weeks. Drone attacks in the Black Sea dominate the agenda, while Alice Weidel once again targets Romanians",
+    "ro": "SPECIAL Informat.ro / România în presa europeană: Cele mai importante știri din ultimele două săptămâni. Atacurile cu drone în Marea Neagră domină agenda, în timp ce Alice Weidel îi vizează din nou pe români",
+    "bg": "СПЕЦИАЛНО Informat.ro / Румъния в европейската преса: Най-важните новини от последните две седмици. Атаките с дронове в Черно море доминират в дневния ред, а Алис Вайдел отново напада румънците"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWgzYXRTSDg4ZW41UTlOS0hHUXl5QzJsQVo5VFJLRjVGS1N2NnlTakw3VlpYSmRpbW5VOGRIQUtrcGVtVkRoNlBGNDhsU3E1VkFyZ2RGU2N6dUdDcEVhYUo3dGFJM3V2NEJvQTB2c2JaTFFNdkFCRU1FeldoWGdHSW9PVVhQLVM3MThFSU1DSGY?oc=5",
@@ -80,7 +57,9 @@
    "lang": "ro",
    "title": "Reportaj CBS News realizat în România: Războiul ruso-ucrainean din Marea Neagră suprasolicită Forțele Navale Române și riscă să tragă NATO în conflict",
    "titles": {
-    "ro": "Reportaj CBS News realizat în România: Războiul ruso-ucrainean din Marea Neagră suprasolicită Forțele Navale Române și riscă să tragă NATO în conflict"
+    "ro": "Reportaj CBS News realizat în România: Războiul ruso-ucrainean din Marea Neagră suprasolicită Forțele Navale Române și riscă să tragă NATO în conflict",
+    "en": "CBS News report filmed in Romania: The Russian-Ukrainian war in the Black Sea is straining the Romanian Navy and risks dragging NATO into the conflict",
+    "bg": "Репортаж на CBS News, заснети в Румъния: Руско-украинската война в Черно море претоварва румънските военноморски сили и рискува да въвлече НАТО в конфликта"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR0FFWlAyaUdOSFZPWUo0TzZwX25OeXRBYjJySEw0Qm9IR0txUjVOQlhBdEVuTzBDT1ZNWWIxQ29pN2hDNzUtOXJQVWRUWXV6a1lMUEQwMUJJY2ozbjU5SG8zVDZrNGpzakZzS01rS2dXRmU1Q0pNdzI2V0ROSkdPMGRnYV9TVVFV?oc=5",
@@ -881,6 +860,10 @@
     {
      "source": "Newspoint on MSN",
      "url": "https://www.msn.com/en-in/news/other/russia-hits-two-grain-ships-carrying-100-000-tonnes-near-odesa/ar-AA2ikDHa"
+    },
+    {
+     "source": "Newspoint on MSN",
+     "url": "https://www.msn.com/en-in/money/investment/russia-hits-two-grain-ships-carrying-100-000-tonnes-near-odesa/ar-AA2ikDHa"
     }
    ],
    "img_checked": true
@@ -1229,7 +1212,12 @@
     "grain"
    ],
    "places": [],
-   "also": [],
+   "also": [
+    {
+     "source": "Maritime.bg - Морският портал",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE16bDcyR0FBMnM5dlRWcS1NTFRwMUg4QXBQd3hQMXJNek1xUXQ1RmRzMWVhdnFhUmJ5UUhYYzJ1LU4wRGFIUlE?oc=5"
+    }
+   ],
    "img_checked": true
   },
   {
@@ -10193,6 +10181,29 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "74f800fb0fd5",
+   "lang": "en",
+   "title": "Drones Strike Three Civilian Vessels Off Romania’s Coast",
+   "titles": {
+    "en": "Drones Strike Three Civilian Vessels Off Romania’s Coast"
+   },
+   "summary": "Unidentified drones struck three civilian vessels in the Black Sea off Romania’s coast. Fires broke out aboard the vessels, but their crews managed to ...",
+   "url": "https://militarnyi.com/en/news/drones-strike-three-civilian-vessels-off-romania-s-coast/",
+   "source": "militarnyi",
+   "published": "2026-11-15T14:24:00Z",
+   "fetched": "2026-11-27T10:22:19Z",
+   "image": "https://militarnyi.com/wp-content/uploads/2026/11/Obgorila-paluba-tankera-Ali-Najafov-Rumuniya-e1794772299588-1.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.iPzTupKSD6OWN2__raqmcQ&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "492207b77f6d",
