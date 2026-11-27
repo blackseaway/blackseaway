@@ -1,6 +1,32 @@
 {
- "updated": "2026-11-27T13:27:08Z",
+ "updated": "2026-11-27T15:07:09Z",
  "items": [
+  {
+   "id": "4a0343c6229f",
+   "lang": "ro",
+   "title": "Tribunalul Constanța a deschis procedura generală a insolvenței împotriva HGM Port Logistics SRL, la cererea Euro River Transport SRL și Exim Banca Românească",
+   "titles": {
+    "ro": "Tribunalul Constanța a deschis procedura generală a insolvenței împotriva HGM Port Logistics SRL, la cererea Euro River Transport SRL și Exim Banca Românească",
+    "en": "The Constanța Court has opened general insolvency proceedings against HGM Port Logistics SRL, at the request of Euro River Transport SRL and Exim Banca Românească",
+    "bg": "Съдът в Констанца започна обща процедура по несъстоятелност срещу „HGM Port Logistics SRL“ по искане на „Euro River Transport SRL“ и „Exim Banca Românească“"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNc2NBNURSQ3JHRVhfNXJoS0pTVzZodm5Vd2ZOMWpnenhXVmo3ejVKREtTblA5dTM0YUFxQ0tKeXZaYThucXR4MmtHVERCVk1mWm5KVjBPblE4cm5mU2ZoaUhoaEgta0FMUFZZV2d6aExhZVptZXdSOGxBQkpkN21ZcEdvRFRmWFJXWG1ESmdrZnNDcU1tTldxOTI3bTNVbVlGOTlmaWpta1h6czlkVDFoZ2FnSzFfS1NzaVpqX0l3akp5MThGZDQ5czBPS2ZDVTRXZkE2MHJGNlROeTNwZWE3UmRRTEhLQmRRYlZMWGp6ZlEtdHQ0VWlyNFdlMGJ3cWg1ckVsNjhoSTlfNGZJVW5iT0tEN2tsdWJMRUNoeHl5WmZ6U0dVbV82ME4tSDhKb1hMVWdkREwwR3k?oc=5",
+   "source": "ZIUA de Constanta",
+   "published": "2026-11-27T14:17:00Z",
+   "fetched": "2026-11-27T15:04:17Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "also": [],
+   "img_checked": true
+  },
   {
    "id": "db80c714e976",
    "lang": "en",
@@ -226,6 +252,10 @@
     {
      "source": "TradeWinds News",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONnlXR3JhdEVBdzNOTWNtamxCaHhwRFNWcFk1X1NrenVpWV9BQnlwWDFadnpxMW9BZkt2YWw3ZHZrdlVvWS1GUHY1WVZCYl85OUxGYnFJZk5NVHdiandlTkxicWpydzEwSjNiQVlFWXNBbnh1bXNlalJMSVRPc01ubUxEWnhQQUJTS1VCRzZQYUNBSjE1d0pRMkxDUTdCMVIwV3I4SnVOX1RxbmRfODhvMXJrYU8zVElmYmttRXFYQjBHREE?oc=5"
+    },
+    {
+     "source": "TradeWinds News",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSTVqNlFsUjlkUjJFZHdIa0ZPbG5wMWZHT21jeml3VGtMOXEzdGdFUUZyaEVadWxaOFI3S2FwVVYwUktrVTlDYm9ZRjFfU0ZoLUo3M0p5elB2bmRvTDZYQ0RtVVBuSHcwa0M0WFY0c2FTdWlOcjkzbGt5ZVA4eXVMUjNwUHdHUWJzempzMWFpeG9tNFI0M1RSRmoxTWJSRWtpM2c4SjB5dENvYmJXeFRxNGlDUGdkUm95YjhzUmh4VzNvZWNN?oc=5"
     }
    ],
    "img_tried": true,
@@ -236,7 +266,9 @@
    "lang": "ro",
    "title": "CBS: Frontul din Marea Neagră riscă să atragă SUA în conflict. României i-a fost atacat teritoriul pentru prima dată după Al Doilea Război Mondial, când nave au fost ...",
    "titles": {
-    "ro": "CBS: Frontul din Marea Neagră riscă să atragă SUA în conflict. României i-a fost atacat teritoriul pentru prima dată după Al Doilea Război Mondial, când nave au fost ..."
+    "ro": "CBS: Frontul din Marea Neagră riscă să atragă SUA în conflict. României i-a fost atacat teritoriul pentru prima dată după Al Doilea Război Mondial, când nave au fost ...",
+    "en": "CBS: The Black Sea front risks drawing the US into the conflict. Romania’s territory has been attacked for the first time since the Second World War, when ships were …",
+    "bg": "CBS: Фронтът в Черно море рискува да въвлече САЩ в конфликта. За първи път след Втората световна война територията на Румъния беше атакувана, когато кораби бяха..."
    },
    "summary": "Este un front al războiului dintre Rusia şi Ucraina pe care majoritatea oamenilor îl văd rareori. Acesta ajunge chiar la pragul NATO şi, uneori, pătrunde în apele Alianţei — riscând să atragă NATO, şi ...",
    "url": "https://monitorulapararii.ro/cbs-frontul-din-marea-neagra-risca-sa-atraga-sua-in-conflict-romaniei-i-a-fost-atacat-teritoriul-pentru-prima-data-dupa-al-doilea-razboi-mondial-cand-1-63418",
@@ -379,6 +411,30 @@
    ],
    "places": [],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "5f7b0c74f05f",
+   "lang": "en",
+   "title": "EU wheat extends gains on Black Sea disruption",
+   "titles": {
+    "en": "EU wheat extends gains on Black Sea disruption"
+   },
+   "summary": "PARIS: Euronext wheat prices climbed to one-month highs on Friday as ongoing war disruption to Black Sea trade maintained expectations of strong demand for European Union supplies. Gains on broader ...",
+   "url": "https://www.arabnews.com/world/eu-wheat-extends-gains-on-black-sea-disruption-3014261",
+   "source": "Arab News",
+   "published": "2026-11-26T18:38:00Z",
+   "fetched": "2026-11-27T15:04:17Z",
+   "image": "https://www.bing.com/th?id=ONUT.UVk4ya0-bU5VSkoZufFUYg&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.UVk4ya0-bU5VSkoZufFUYg&pid=News",
+   "topics": [
+    "policy",
+    "grain",
+    "prices"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -552,6 +608,10 @@
     {
      "source": "Știrile PRO TV",
      "url": "https://stirileprotv.ro/stiri/actualitate/ministrul-transporturilor-o-mare-parte-din-echipamentele-pentru-alimentarea-electrica-a-navelor-au-ajuns-in-portul-constanta.html"
+    },
+    {
+     "source": "radioconstanta",
+     "url": "https://www.radioconstanta.ro/2026/11/27/portul-constanta-au-sosit-echipamentele-sistemului-e-cold-prin-care-navele-se-vor-alimenta-electric-de-la-tarm/"
     }
    ],
    "img_checked": true
@@ -764,6 +824,10 @@
     {
      "source": "Jurnalul",
      "url": "https://jurnalul.ro/stiri/observator/cbs-news-romania-razboi-marea-neagra-atragere-nato-conflictul-ruso-ucrainean-1050639.html"
+    },
+    {
+     "source": "Știrile PRO TV",
+     "url": "https://stirileprotv.ro/stiri/international/reportaj-cbs-in-romania-cum-risca-razboiul-din-marea-neagra-sa-implice-sua-in-conflictul-ruso-ucrainean.html"
     }
    ],
    "img_tried": true,
@@ -4976,6 +5040,10 @@
     {
      "source": "Newsweek Romania",
      "url": "https://newsweek.ro/international/fortele-navale-romane-misiuni-siguranta-navigatie-dunare-marea-neagra"
+    },
+    {
+     "source": "ZIUA de Constanta",
+     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNVjlyY2N5NDFMbjNDRFo0QU4yTEg0U0NCSW5aT2tDVjc5MXNxZ21YcXJ2YVYtQTRDcGJ6RENNUnJ3aTFCYmRiaklqU0JNakN3SHRfd2JHcVE3UEFTc1RvVkNqbW12bFBoR3owRVJCNnROa1RIXzRxSW9Pd2xGMHRqWS00MHhmSjhtaEI1QVhWZUQwV3NVRWZRU2ZYR2VSSTNibTI1ZmRPdG82WjZneDByVVBIWlFidExjLXVXVGRsLXRhVVpUby1rSlJ4M3NyRVJ1Wm9sclRKaDhDS2Zjd2RoeTBsSURXcFlTellMS012U3FZcl9MWmxDcW9ObGVmSm5rcjAzcXBNVnQ2ejR5NWI1RHR5RVBIbjFYZk1JODlCaVVjQQ?oc=5"
     }
    ]
   },
@@ -5982,6 +6050,10 @@
     {
      "source": "DUNAVMOST",
      "url": "https://www.dunavmost.com/novini/boiko-borisov-rumen-radev-ne-vyarva-na-putin-za-korabite-v-cherno-more"
+    },
+    {
+     "source": "Fakti.bg",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTmtjTmpTbjJUTFNZc2hGdlZoUWh1ZXlRdjFXX2plQ0JjWG5yRHYwY0FFbkF4OHhtb2ppY0RWekF0SzNESXpDSVAwQVQwM1RZUHdtMzF1NTN1RUsySHF4MHE1MC1KQ29RZzZBUDEzZjNkRTFBSVhic3NNV05UbjN4a1BLM1VzZkc5SU42SGFpNTBNUTJ3RFE?oc=5"
     }
    ],
    "img_checked": true
@@ -6388,6 +6460,33 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "06f1b01f3387",
+   "lang": "en",
+   "title": "Ukraine, latest news. Moscow: ‘A cargo ship used by Kyiv for military purposes has been struck in the Black Sea’",
+   "titles": {
+    "en": "Ukraine, latest news. Moscow: ‘A cargo ship used by Kyiv for military purposes has been struck in the Black Sea’"
+   },
+   "summary": "Ukrainian President Volodymyr Zelensky stated, in an interview with NBC, that the Kerch Bridge in Crimea is an entirely legitimate target, as Ukraine is merely responding to Russian aggression ...",
+   "url": "https://en.ilsole24ore.com/art/war-latest-news-ukraine-russian-attacks-kryvyi-rih-2-dead-and-47-injured-AJQtyEOC",
+   "source": "en.ilsole24ore",
+   "published": "2026-11-20T23:57:00Z",
+   "fetched": "2026-11-27T15:04:17Z",
+   "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/22/Immagini/Ritagli/2026-11-21T105031Z_1482969147_RC2ASOA84NFV_RTRMADP_5_UKRAINE-CRISIS-ATTACK-KYIV-U76424723231WFD-1440x752@IlSole24Ore-Web.JPG?r=1170x507",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.-UJbLelykrbiNzKBHlIYXw&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [
+    "kerch",
+    "crimea"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "a0d3c992e41d",
@@ -8980,6 +9079,32 @@
    "also": []
   },
   {
+   "id": "b4abc5e13d6d",
+   "lang": "bg",
+   "title": "Капитанът на GAS HUSKY: Корабът е ударен четири пъти СНИМКИ",
+   "titles": {
+    "bg": "Капитанът на GAS HUSKY: Корабът е ударен четири пъти СНИМКИ"
+   },
+   "summary": "Поразени са машинното отделение и мостикът, твърди капитанът. Всички 19 филипински моряци са евакуирани край Варна, а двама са откарани в болница ...",
+   "url": "https://fakti.bg/bulgaria/1101881-kapitanat-na-gas-husky-korabat-e-udaren-chetiri-pati-snimki",
+   "source": "ФАКТИ.БГ",
+   "published": "2026-11-17T08:06:00Z",
+   "fetched": "2026-11-27T15:04:17Z",
+   "image": "https://www.bing.com/th?id=ONUT.Mge6F5-Xz2kHfa-gah1iGQ&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.Mge6F5-Xz2kHfa-gah1iGQ&pid=News",
+   "topics": [
+    "attacks",
+    "shipping",
+    "energy"
+   ],
+   "places": [
+    "varna"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "e8818783a289",
    "lang": "bg",
    "title": "Нова атака в Черно море. Още един кораб е поразен с дронове - на 50 мили от Бяла",
@@ -10368,105 +10493,6 @@
    "fetched": "2026-11-27T10:22:19Z",
    "image": "https://militarnyi.com/wp-content/uploads/2026/11/Obgorila-paluba-tankera-Ali-Najafov-Rumuniya-e1794772299588-1.jpg",
    "fallback_image": "http://www.bing.com/th?id=ONUT.iPzTupKSD6OWN2__raqmcQ&pid=News",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "also": [],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
-   "id": "492207b77f6d",
-   "lang": "en",
-   "title": "Bucharest seeks NATO help to ensure Black Sea security",
-   "titles": {
-    "en": "Bucharest seeks NATO help to ensure Black Sea security"
-   },
-   "summary": "Attacks on commercial vessels near the Danube Delta are emerging as a serious challenge to Black Sea security. Following reports that a third vessel had been hit by a drone off the Romanian coast, ...",
-   "url": "https://www.bgnes.com/politics/bucharest-seeks-nato-help-to-ensure-black-sea-security",
-   "source": "bgnes",
-   "published": "2026-11-15T14:01:00Z",
-   "fetched": "2026-11-25T15:04:00Z",
-   "image": "https://www.bgnes.com/static/images/news/2026/11/16/24919/22887.webp",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.x_bjqkF6uXfTrwnc3g8J9A&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping"
-   ],
-   "places": [
-    "danube"
-   ],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "e298de16e014",
-   "lang": "en",
-   "title": "NATO’s Black Sea Dilemma: How Far Can The Ukraine War Spill Over?",
-   "titles": {
-    "en": "NATO’s Black Sea Dilemma: How Far Can The Ukraine War Spill Over?"
-   },
-   "summary": "Repeated drone attacks on commercial ships near Romania and Bulgaria are raising security concerns for NATO as the Russia-Ukraine maritime conflict spreads across the Black Sea.",
-   "url": "https://www.outlookindia.com/international/ukraine-war-black-sea-drone-strikes-nato-romania-bulgaria-shipping",
-   "source": "Outlook India",
-   "published": "2026-11-15T13:14:00Z",
-   "fetched": "2026-11-25T14:08:21Z",
-   "image": "https://www.bing.com/th?id=ONUT.wnSDC-H1deIL34idgIHdiw&pid=News",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.wnSDC-H1deIL34idgIHdiw&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "04f252d9b367",
-   "lang": "en",
-   "title": "Russian Ministry of Defense reported strikes on military vessels. But the tankers attacked in the Black Sea were bound for Moldova for sunflower oil",
-   "titles": {
-    "en": "Russian Ministry of Defense reported strikes on military vessels. But the tankers attacked in the Black Sea were bound for Moldova for sunflower oil"
-   },
-   "summary": "Another drone attack in the Black Sea basin resulted in damage to several commercial vessels at once off the European coast. Despite official claims about the destruction of military transports, the ...",
-   "url": "https://nashaniva.com/en/409303",
-   "source": "Nasha Niva",
-   "published": "2026-11-15T11:44:00Z",
-   "fetched": "2026-11-26T07:20:39Z",
-   "image": "https://nashaniva.com/photos/generated/fb409303.png",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.hXcjU6WButqhprizOR7VNQ&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping",
-    "grain",
-    "energy"
-   ],
-   "places": [],
-   "also": [],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
-   "id": "6d94ad383499",
-   "lang": "ro",
-   "title": "Alertă în Marea Neagră: Comandanții sunt avertizați să evite zona unde trei vase au fost lovite de drone. „Riscul este ridicat”",
-   "titles": {
-    "ro": "Alertă în Marea Neagră: Comandanții sunt avertizați să evite zona unde trei vase au fost lovite de drone. „Riscul este ridicat”"
-   },
-   "summary": "„Direcţia Hidrografică Maritimă a emis astăzi avizul radio pentru navigatori nr. 172/2026. Prin acesta se recomandă comandanţilor navelor comerciale să îşi planifice rutele astfel încât să evite zona ...",
-   "url": "https://www.antena3.ro/actualitate/alerta-in-marea-neagra-comandantii-sunt-avertizati-sa-evite-zona-unde-trei-vase-au-fost-lovite-de-drone-riscul-este-ridicat-811229.html",
-   "source": "Antena 3 CNN",
-   "published": "2026-11-15T11:05:00Z",
-   "fetched": "2026-11-26T20:12:34Z",
-   "image": "https://www.antena3.ro/thumbs/amp/2026/11/15/alerta-in-marea-neagra-comandantii-sunt-avertizati-sa-evite-zona-unde-trei-vase-au-fost-lovite-de-drone-riscul-este-ridicat-1119398.webp",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.EjHW2ne5NkcoRc4yXhEzcQ&pid=News",
    "topics": [
     "attacks",
     "shipping"
