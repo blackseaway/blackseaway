@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T00:05:30Z",
+ "updated": "2026-11-27T01:29:47Z",
  "items": [
   {
    "id": "2bb2c4f8fe6b",
@@ -194,6 +194,35 @@
     "danube"
    ],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "597c5131a68f",
+   "lang": "en",
+   "title": "GRAIN SHIPS HIT: Ukraine Says Russia Attacked Two Foreign Cargo Vessels Overnight",
+   "titles": {
+    "en": "GRAIN SHIPS HIT: Ukraine Says Russia Attacked Two Foreign Cargo Vessels Overnight",
+    "ro": "NAVE DE TRANSPORT DE CEREALE ATACATE: Ucraina afirmă că Rusia a atacat două nave de marfă străine în timpul nopții",
+    "bg": "УДАР ПО ЗЪРНЕНИ КОРАБИ: Украйна твърди, че Русия е атакувала два чуждестранни товарни кораба през нощта"
+   },
+   "summary": "Ukraine said Thursday that Russian forces attacked two foreign cargo ships carrying more than 100,000 metric tons of grain overnight near Odesa. The announcement raised fresh concerns over the safety ...",
+   "url": "https://www.theyeshivaworld.com/news/general/2628837/grain-ships-hit-ukraine-says-russia-attacked-two-foreign-cargo-vessels-overnight.html",
+   "source": "The Yeshiva World",
+   "published": "2026-11-26T11:00:00Z",
+   "fetched": "2026-11-27T01:27:09Z",
+   "image": "https://www.theyeshivaworld.com/wp-content/uploads/2026/11/57YR4LSLTNLZHCNSMFH6POATQA.avif",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping",
+    "grain"
+   ],
+   "places": [
+    "odesa"
+   ],
+   "also": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -1127,7 +1156,12 @@
    "places": [],
    "img_tried": true,
    "img_checked": true,
-   "also": []
+   "also": [
+    {
+     "source": "UA.NEWS",
+     "url": "https://ua.news/en/world/bolgariia-rozpochala-masshtabni-navchannia-aviatsiyi-ta-flotu-na-tli-rosiiskikh-atak"
+    }
+   ]
   },
   {
    "id": "9461620ad31a",
@@ -1505,7 +1539,9 @@
    "lang": "en",
    "title": "Fewer Ships, Same Weather: Black Sea Shipping Heads Into Winter",
    "titles": {
-    "en": "Fewer Ships, Same Weather: Black Sea Shipping Heads Into Winter"
+    "en": "Fewer Ships, Same Weather: Black Sea Shipping Heads Into Winter",
+    "ro": "Mai puține nave, aceeași vreme: transportul maritim pe Marea Neagră se îndreaptă spre iarnă",
+    "bg": "По-малко кораби, същите метеорологични условия: корабоплаването в Черно море навлиза в зимата"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KWUlIS2ZQZ2VNbElERVBZRzVfNGF1eXVONm5ZWnhxRzJtQ1dpb3N1ZDQ5dGliQnJXb2sxRlZnQWt6MEh4VFcxdXA3bEJDY2Z5ZzI0aFlKb2x1SVFo?oc=5",
@@ -10403,29 +10439,6 @@
    "fallback_image": "http://www.bing.com/th?id=ONUT.FBlZPEOu66O-QAoj1AJvnQ&pid=News",
    "topics": [
     "policy"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "4604ba0bda5a",
-   "lang": "bg",
-   "title": "Забелязаха дрейфаща морска мина край Маслен нос",
-   "titles": {
-    "bg": "Забелязаха дрейфаща морска мина край Маслен нос"
-   },
-   "summary": "Плаваща морска мина и 20-футов контейнер създават сериозна опасност за корабоплаването в Черно море източно от Маслен нос тази сряда, съобщават от Хидрографската служба на Военноморските сили и специа ...",
-   "url": "https://www.dunavmost.com/novini/zabelyazaha-dreifashta-morska-mina-krai-maslen-nos",
-   "source": "DUNAVMOST",
-   "published": "2026-11-11T14:35:00Z",
-   "fetched": "2026-11-25T13:53:52Z",
-   "image": "https://www.dunavmost.com/snimka/202611/Original/f39f1d05c4514aa18940e9ca4e5d95bb.webp",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.eVxVsQugwr6ATTjtDRfvkw&pid=News",
-   "topics": [
-    "shipping",
-    "mines"
    ],
    "places": [],
    "img_tried": true,
