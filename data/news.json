@@ -1,30 +1,28 @@
 {
- "updated": "2026-11-27T10:25:00Z",
+ "updated": "2026-11-27T12:06:55Z",
  "items": [
   {
-   "id": "40ecb92fd34a",
+   "id": "db80c714e976",
    "lang": "en",
-   "title": "Russia strikes two Greek grain ships running blockade of Ukraine's ports",
+   "title": "Wheat Prices Black Sea, 27 Nov 2026: Risk Premium Returns — CMB News",
    "titles": {
-    "en": "Russia strikes two Greek grain ships running blockade of Ukraine's ports",
-    "ro": "Rusia atacă două nave grecești de transport al cerealelor care încalcă blocada porturilor din Ucraina",
-    "bg": "Русия нанася удари по два гръцки кораба за превоз на зърно, които нарушават блокадата на украинските пристанища"
+    "en": "Wheat Prices Black Sea, 27 Nov 2026: Risk Premium Returns — CMB News",
+    "ro": "Prețurile grâului în regiunea Mării Negre, 27 noiembrie 2026: Revenirea primei de risc — CMB News",
+    "bg": "Цени на пшеницата в Черноморието, 27 ноември 2026 г.: Връщане на рисковата премия — CMB News"
    },
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONnlXR3JhdEVBdzNOTWNtamxCaHhwRFNWcFk1X1NrenVpWV9BQnlwWDFadnpxMW9BZkt2YWw3ZHZrdlVvWS1GUHY1WVZCYl85OUxGYnFJZk5NVHdiandlTkxicWpydzEwSjNiQVlFWXNBbnh1bXNlalJMSVRPc01ubUxEWnhQQUJTS1VCRzZQYUNBSjE1d0pRMkxDUTdCMVIwV3I4SnVOX1RxbmRfODhvMXJrYU8zVElmYmttRXFYQjBHREE?oc=5",
-   "source": "TradeWinds News",
-   "published": "2026-11-27T09:32:20Z",
-   "fetched": "2026-11-27T10:05:23Z",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZU5ZSlZjMjdUQnZPSlkyNGk1eERQVFRicm1KeVIyYk9kTDdadlQ4amNIYU5ZY081dkRWSVZ3MDRTZVVhQ09nTVczTTdPMW1xZDdka3QyMHhpUGNMRndZUUhlanN5dFROWVFxbTBmcjJCVlY1Y3A3WHpCZV9MVm8wNS1hSGo3U21XNVNZYTZHV2hxLV82ZTg4?oc=5",
+   "source": "CMB News",
+   "published": "2026-11-27T11:13:55Z",
+   "fetched": "2026-11-27T12:04:00Z",
    "image": "",
    "fallback_image": "",
    "topics": [
-    "attacks",
-    "shipping",
+    "insurance",
     "grain",
-    "ports"
+    "prices"
    ],
    "places": [],
-   "trusted": true,
    "also": [],
    "img_checked": true
   },
@@ -125,6 +123,30 @@
    "img_checked": true
   },
   {
+   "id": "24bc3bee0087",
+   "lang": "en",
+   "title": "China calls for protection of commercial shipping in Black Sea",
+   "titles": {
+    "en": "China calls for protection of commercial shipping in Black Sea",
+    "ro": "China solicită protejarea navigației comerciale în Marea Neagră",
+    "bg": "Китай призовава за защита на търговското корабоплаване в Черно море"
+   },
+   "summary": "China has called for the protection of civilian vessels and maritime infrastructure in the Black Sea amid growing threats to global food and energy supplies.",
+   "url": "https://safety4sea.com/china-calls-for-protection-of-commercial-shipping-in-black-sea/",
+   "source": "SAFETY4SEA",
+   "published": "2026-11-27T02:29:00Z",
+   "fetched": "2026-11-27T12:04:00Z",
+   "image": "https://safety4sea.com/wp-content/uploads/2026/11/Screenshot-2026-11-27-122421-e1795775134888.png",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.wlCdTxAJ-a_Tsy-Cox4ucQ&pid=News",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "f6544f29959f",
    "lang": "bg",
    "title": "Черно море носи нарастващи рискове за НАТО и корабоплаването",
@@ -148,6 +170,37 @@
    "img_checked": true
   },
   {
+   "id": "4f47f53e2600",
+   "lang": "en",
+   "title": "Russia strikes two Greek grain ships running blockade of Ukraine’s ports",
+   "titles": {
+    "en": "Russia strikes two Greek grain ships running blockade of Ukraine’s ports"
+   },
+   "summary": "When you click on “Accept all”, you consent to ads on this site being customized to a personal profile we or our advertising partners may have about you. Choose “Customize or Reject all” if you want ...",
+   "url": "https://www.tradewindsnews.com/casualties/russia-strikes-two-greek-grain-ships-running-blockade-of-ukraine-s-ports/2-1-2080549",
+   "source": "TradeWinds",
+   "published": "2026-11-27T01:22:00Z",
+   "fetched": "2026-11-27T12:04:00Z",
+   "image": "https://image.dngroup.com/global/nhst/binary/447475d6c745ef8d57c6bb34ae5c8360?crop=1280%2C640%2Cx0%2Cy107%2Csafe&width=1200&format=webp&quality=80",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.kKAzXpSViuNT36JH2Vi-AQ&pid=News",
+   "topics": [
+    "attacks",
+    "shipping",
+    "grain",
+    "ports"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [
+    {
+     "source": "TradeWinds News",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONnlXR3JhdEVBdzNOTWNtamxCaHhwRFNWcFk1X1NrenVpWV9BQnlwWDFadnpxMW9BZkt2YWw3ZHZrdlVvWS1GUHY1WVZCYl85OUxGYnFJZk5NVHdiandlTkxicWpydzEwSjNiQVlFWXNBbnh1bXNlalJMSVRPc01ubUxEWnhQQUJTS1VCRzZQYUNBSjE1d0pRMkxDUTdCMVIwV3I4SnVOX1RxbmRfODhvMXJrYU8zVElmYmttRXFYQjBHREE?oc=5"
+    }
+   ],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "6dcf52840fbf",
    "lang": "ro",
    "title": "CBS: Frontul din Marea Neagră riscă să atragă SUA în conflict. României i-a fost atacat teritoriul pentru prima dată după Al Doilea Război Mondial, când nave au fost ...",
@@ -167,7 +220,12 @@
     "shipping"
    ],
    "places": [],
-   "also": [],
+   "also": [
+    {
+     "source": "Libertatea",
+     "url": "https://www.libertatea.ro/stiri/frontul-de-la-marea-neagra-ameninta-sa-atraga-sua-si-nato-in-razboiul-din-ucraina-reportaj-cbs-in-romania-zfeb5x1"
+    }
+   ],
    "img_tried": true,
    "img_checked": true
   },
@@ -338,6 +396,31 @@
     "attacks"
    ],
    "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "3573f753b8f6",
+   "lang": "ro",
+   "title": "Compania Națională Administrația Porturilor Maritime SA Constanța oferă spre închiriere în Portul Constanța un spațiu administrativ",
+   "titles": {
+    "ro": "Compania Națională Administrația Porturilor Maritime SA Constanța oferă spre închiriere în Portul Constanța un spațiu administrativ"
+   },
+   "summary": "Compania Nationala Administratia Porturilor Maritime SA Constanta, adresa postala Incinta Port Constanta, Gara Maritima, Cod postal 900900, Romania, RC J1998002308138 EUID ...",
+   "url": "https://www.ziuaconstanta.ro/informatii/anunturi-speciale/compania-nationala-administratia-porturilor-maritime-sa-constanta-ofera-spre-inchiriere-in-portul-constanta-un-spatiu-administrativ-961970.html",
+   "source": "Ziua de Constanța",
+   "published": "2026-11-26T16:00:00Z",
+   "fetched": "2026-11-27T12:04:00Z",
+   "image": "https://www.bing.com/th?id=ONUT.5e1fQA99tzf3xPz9RjQ2bA&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.5e1fQA99tzf3xPz9RjQ2bA&pid=News",
+   "topics": [
+    "policy",
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
    "also": [],
    "img_tried": true,
    "img_checked": true
@@ -680,6 +763,28 @@
    "img_checked": true
   },
   {
+   "id": "e801d84721d5",
+   "lang": "ro",
+   "title": "Neptun Deep, între resursa strategică și riscurile din Marea Neagră: UE alocă 50 de milioane de euro",
+   "titles": {
+    "ro": "Neptun Deep, între resursa strategică și riscurile din Marea Neagră: UE alocă 50 de milioane de euro"
+   },
+   "summary": "Securitatea Neptun Deep devine o prioritate europeană, pe fondul riscurilor din Marea Neagră și al finanțării de 50 de milioane de euro.",
+   "url": "https://www.sfin.ro/securitatea-neptun-deep/",
+   "source": "sfin.ro",
+   "published": "2026-11-26T05:52:00Z",
+   "fetched": "2026-11-27T12:04:00Z",
+   "image": "https://www.sfin.ro/wp-content/uploads/2026/11/1795701803997-kqf56i9soxm.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.By7gIf77MdAicjfbgz9fRQ&pid=News",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "8b46b040dfff",
    "lang": "en",
    "title": "China Urges Safety For Black Sea Shipping As EU Calls It The World’s Deadliest Maritime Route",
@@ -864,6 +969,14 @@
     {
      "source": "Newspoint on MSN",
      "url": "https://www.msn.com/en-in/money/investment/russia-hits-two-grain-ships-carrying-100-000-tonnes-near-odesa/ar-AA2ikDHa"
+    },
+    {
+     "source": "Newspoint on MSN",
+     "url": "https://www.msn.com/en-in/news/other/russia-hits-two-grain-ships-carrying-100000-tonnes-near-odesa/ar-AA2ikDHa"
+    },
+    {
+     "source": "Lloyd's List",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmR3dEFiYWY1Zm1la0JSbHdqX09vNklXME90NzN1akVKTEUtYjJmeHlVam0tSFh3SDc0dnhOSngwcmhuUjZIeV85YmVNME5YLXRHR1dkV3JrRWIyaDI4TUpnZlFzQVBOVDhkZG1CaHVsdHRWRENFbnB6WVFicHJSdm0xeF82eWlXSHJhZDdQbWhjNFFhUE41Rw?oc=5"
     }
    ],
    "img_checked": true
@@ -4027,6 +4140,29 @@
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdG92VnRrNHo0Y2cxSVNjNmJrcEpBeUktdVhEd1pueWFUV2ZOOUZOSjI1OXZ1bmxIVnpoekwtSk5pY3kzVmZvZ3hnRUdhbzlCNllUWGNCdk1YY0gtT3p1aWc0MjM2RFNGRFVCckZTRHRKRFQ3UUNROXhYSWFNQmd3bWZFamdMSkxuem5DWUZSeVluYnhwd1hmcTdLS2M3dHpjNWVKQl9UVlhhQnFPeDJHN21GVnE3bFI4UVhXamUzTEpZRG8yNnRqSQ?oc=5"
     }
    ],
+   "img_checked": true
+  },
+  {
+   "id": "95a712d33560",
+   "lang": "ro",
+   "title": "VIDEO. Navă comercială avariată de o dronă în Ucraina, eșuată în apropiere de plaja Vadu / O altă navă de transport de gaze naturale, scufundată în Marea Neagră",
+   "titles": {
+    "ro": "VIDEO. Navă comercială avariată de o dronă în Ucraina, eșuată în apropiere de plaja Vadu / O altă navă de transport de gaze naturale, scufundată în Marea Neagră"
+   },
+   "summary": "Cargoul „Mariam M” a ajuns în derivă după ruperea ancorei și a fost purtat de curenții marini spre coasta României, potrivit informațiilor transmise de ...",
+   "url": "https://newmoney.ro/nava-comerciala-avariata-de-o-drona-in-ucraina-esuata-in-apropiere-de-plaja-vadu-o-alta-nava-de-transport-de-gaze-naturale-scufundata-la-marea-neagra/",
+   "source": "newmoney",
+   "published": "2026-11-23T16:00:00Z",
+   "fetched": "2026-11-27T12:04:00Z",
+   "image": "https://cdn.newmoney.ro/uploads/2026/11/17142301/nava-miriam.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.IKaHswjKRNsdTYV1mhTufA&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -9738,7 +9874,12 @@
     "grain"
    ],
    "places": [],
-   "also": [],
+   "also": [
+    {
+     "source": "Southeast Missourian",
+     "url": "https://www.semissourian.com/business/cargo-ship-sinks-off-bulgarias-black-sea-coast-08c2def8"
+    }
+   ],
    "img_tried": true,
    "img_checked": true
   },
@@ -10322,136 +10463,6 @@
     "policy",
     "attacks",
     "shipping"
-   ],
-   "places": [
-    "danube"
-   ],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "586c9b1e3357",
-   "lang": "ro",
-   "title": "„Inacceptabil”. Luca Niculescu condamnă atacurile cu drone asupra navelor din Marea Neagră, iar ministrul Apărării cere sprijin aliaților",
-   "titles": {
-    "ro": "„Inacceptabil”. Luca Niculescu condamnă atacurile cu drone asupra navelor din Marea Neagră, iar ministrul Apărării cere sprijin aliaților"
-   },
-   "summary": "Premierul Luca Niculescu a condamnat, duminică, atacurile cu drone asupra navelor comerciale din Marea Neagră și le califică drept o încălcare a dreptului internațional. România va cere aliaților spri ...",
-   "url": "https://adevarul.ro/stiri-interne/evenimente/inacceptabil-luca-niculescu-condamna-atacurile-2571648.html",
-   "source": "Adevărul",
-   "published": "2026-11-15T07:40:00Z",
-   "fetched": "2026-11-25T14:08:21Z",
-   "image": "https://cdn.adh.reperio.news/image-8/8f19b44e-1f1a-4d85-be91-22e5a2eeea8e/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.YeRC5h37znhNaCeoXvB03g&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "e6883ffffb65",
-   "lang": "ro",
-   "title": "Niculescu, după ce încă trei nave au fost atacate în Marea Neagră: „Securitatea maritimă a fost amenințată”/ „O încălcare a dreptului internațional”",
-   "titles": {
-    "ro": "Niculescu, după ce încă trei nave au fost atacate în Marea Neagră: „Securitatea maritimă a fost amenințată”/ „O încălcare a dreptului internațional”"
-   },
-   "summary": "Luca Niculescu, premierul României, a reacționat duminică într-o postare pe X, după ce trei nave comerciale au fost lovite de drone în largul localității Sulina, sâmbătă seara. Acesta a declarat că „î ...",
-   "url": "https://www.cotidianul.ro/niculescu-dupa-ce-inca-trei-nave-au-fost-atacte-in-marea-neagra-securitatea-maritima-a-fost-amenintata-o-incalcare-a-dreptului-international/",
-   "source": "Cotidianul",
-   "published": "2026-11-15T06:37:00Z",
-   "fetched": "2026-11-26T06:42:36Z",
-   "image": "https://www.bing.com/th?id=ONUT.l6pjgUHjl8thR046EHjkwg&pid=News",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.l6pjgUHjl8thR046EHjkwg&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping"
-   ],
-   "places": [
-    "danube"
-   ],
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "9813bdb1acf3",
-   "lang": "ro",
-   "title": "Luca Niculescu, după atacul cu drone în apele teritoriale ale României: Încă o dată, securitatea maritimă în Marea Neagră a fost pusă în pericol",
-   "titles": {
-    "ro": "Luca Niculescu, după atacul cu drone în apele teritoriale ale României: Încă o dată, securitatea maritimă în Marea Neagră a fost pusă în pericol"
-   },
-   "summary": "Premierul Luca Niculescu afirmă că securitatea maritimă în Marea Neagră a fost pusă în pericol încă o dată, după ce trei nave comerciale au fost lovite de drone, în largul localităţii Sulina.",
-   "url": "https://www.rfi.fr/ro/rom%C3%A2nia/20261115-luca-niculescu-dup%C4%83-atacul-cu-drone-%C3%AEn-apele-teritoriale-ale-rom%C3%A2niei-%C3%AEnc%C4%83-o-dat%C4%83-securitatea-maritim%C4%83-%C3%AEn-marea-neagr%C4%83-a-fost-pus%C4%83-%C3%AEn-pericol",
-   "source": "Radio France Internationale",
-   "published": "2026-11-15T05:26:00Z",
-   "fetched": "2026-11-25T14:58:21Z",
-   "image": "https://s.rfi.fr/media/display/778b190c-d686-11f1-9db0-d18c5759e759/w:1280/p:16x9/luca-2.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.2WsUKPKCwfNVehtgikBwaA&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping"
-   ],
-   "places": [
-    "danube"
-   ],
-   "also": [
-    {
-     "source": "Ziare.com",
-     "url": "https://ziare.com/marea-neagra/pericol-securitate-luca-niculescu-2047820"
-    }
-   ],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
-   "id": "bfe596ee77bf",
-   "lang": "en",
-   "title": "Romania slams ‘unacceptable’ drone strikes on Black Sea ships",
-   "titles": {
-    "en": "Romania slams ‘unacceptable’ drone strikes on Black Sea ships"
-   },
-   "summary": "Three commercial vessels were hit near Romania’s coast, prompting fighter jet deployments and fresh calls for NATO support to strengthen Black Sea security.",
-   "url": "https://www.politico.eu/article/romanian-pm-condemns-unacceptable-drone-strikes-black-sea-ships/",
-   "source": "Politico Europe",
-   "published": "2026-11-15T05:16:00Z",
-   "fetched": "2026-11-26T06:31:06Z",
-   "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/15/GettyImages-2300591131-scaled.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.aA5IBVSpovSxTaNBuimjIA&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "d1bad2c73dc1",
-   "lang": "bg",
-   "title": "Черно море под обстрел: Три кораба ударени в Румъния за два дни",
-   "titles": {
-    "bg": "Черно море под обстрел: Три кораба ударени в Румъния за два дни"
-   },
-   "summary": "Министерството на отбраната в Букурещ съобщи за нападения срещу петролен танкер и товарен кораб близо до Сулина, докато румънски изтребители F-16 бяха вдигнати ...",
-   "url": "https://eurocom.bg/2026/11/15/cherno-more-pod-obstrel-tri-koraba-udareni-v-rumaniya-za-dva-dni/",
-   "source": "eurocom",
-   "published": "2026-11-15T03:33:00Z",
-   "fetched": "2026-11-25T22:04:37Z",
-   "image": "https://eurocom.bg/wp-content/uploads/2026/10/bgnes-12968443.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.537BGAKpovPbAZDp0B-o8w&pid=News",
-   "topics": [
-    "attacks",
-    "shipping",
-    "energy"
    ],
    "places": [
     "danube"
