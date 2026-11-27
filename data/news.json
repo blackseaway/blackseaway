@@ -1,6 +1,31 @@
 {
- "updated": "2026-11-27T18:06:50Z",
+ "updated": "2026-11-27T19:08:24Z",
  "items": [
+  {
+   "id": "36527d339a16",
+   "lang": "ro",
+   "title": "Transportul maritim de pasageri, la nivel record în UE în 2025. România lipsește din statistici, deși are terminal la Constanța",
+   "titles": {
+    "ro": "Transportul maritim de pasageri, la nivel record în UE în 2025. România lipsește din statistici, deși are terminal la Constanța",
+    "en": "Passenger shipping set to reach record levels in the EU in 2025. Romania is missing from the statistics, despite having a terminal in Constanța",
+    "bg": "Морският пътнически транспорт ще достигне рекордно ниво в ЕС през 2025 г. Румъния не фигурира в статистиката, въпреки че разполага с терминал в Констанца"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGw2b3U0MUN2Rl9fRTNqMUVZbndjVGdXVS03WTFGSlcwOHpiVlVJNkNIRi1BcjJicnZvTkpBUmtValpLbVcwQWJVQi1EVzdMZ2dxcExqRnNUWTlrQzRJcDhCOEtWb0NwTER3VTZLVlpqRVpuZ3EyYmVZTlZBSzZGT3pGaHZlNC1DYktUM0pETzhYRDQ?oc=5",
+   "source": "Adevarul.ro",
+   "published": "2026-11-27T18:40:33Z",
+   "fetched": "2026-11-27T19:05:28Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "also": [],
+   "img_checked": true
+  },
   {
    "id": "f4244d0979f0",
    "lang": "ro",
@@ -383,6 +408,31 @@
    "img_checked": true
   },
   {
+   "id": "7b80f6d30a88",
+   "lang": "en",
+   "title": "Romania Calls on NATO to Jointly Counter Russian Hybrid Attacks in the Black Sea",
+   "titles": {
+    "en": "Romania Calls on NATO to Jointly Counter Russian Hybrid Attacks in the Black Sea",
+    "ro": "România solicită NATO să combată împreună atacurile hibride rusești din Marea Neagră",
+    "bg": "Румъния призовава НАТО да се противопостави съвместно на руските хибридни атаки в Черно море"
+   },
+   "summary": "Romania urges NATO to unite against Russian hybrid attacks, citing cyber threats and disinformation campaigns in the Black Sea region.",
+   "url": "https://united24media.com/world/romania-calls-on-nato-to-jointly-counter-russian-hybrid-attacks-in-the-black-sea-24788",
+   "source": "UNITED24 Media",
+   "published": "2026-11-26T22:46:00Z",
+   "fetched": "2026-11-27T19:05:28Z",
+   "image": "https://storage.united24media.com/og/3/ce/05f88be0bd4dca8be32e182ad38b0ce3.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.K8xyUK_AqnWZyldbToACcA&pid=News",
+   "topics": [
+    "policy",
+    "attacks"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "ae1ac655e231",
    "lang": "en",
    "title": "NATO Faces Disputes Over Article 4 and Black Sea Security",
@@ -403,6 +453,28 @@
    ],
    "places": [],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "3759b5d34525",
+   "lang": "ro",
+   "title": "România cere NATO să monitorizeze Neptun Deep. Dan Neculăescu: „Rusia încearcă să își revendice Marea Neagră”",
+   "titles": {
+    "ro": "România cere NATO să monitorizeze Neptun Deep. Dan Neculăescu: „Rusia încearcă să își revendice Marea Neagră”"
+   },
+   "summary": "România cere NATO să monitorizeze instalațiile Neptun Deep din Marea Neagră, unde incidentele de securitate sunt tot mai frecvente.",
+   "url": "https://www.mediafax.ro/aparare/romania-cere-nato-sa-monitorizeze-neptun-deep-dan-neculaescu-rusia-incearca-sa-isi-revendice-marea-neagra-23850909",
+   "source": "Mediafax",
+   "published": "2026-11-26T22:05:00Z",
+   "fetched": "2026-11-27T19:05:28Z",
+   "image": "https://www.mediafax.ro/wp-content/uploads/2026/11/neptun-deep.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.IZD-YomswgZVjj4Jv6aTwg&pid=News",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -793,6 +865,10 @@
     {
      "source": "radioconstanta",
      "url": "https://www.radioconstanta.ro/2026/11/27/portul-constanta-au-sosit-echipamentele-sistemului-e-cold-prin-care-navele-se-vor-alimenta-electric-de-la-tarm/"
+    },
+    {
+     "source": "Stirile ProTV",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbVRWY01nMXBqZ2FZdUZVTzREU0FNdFFCRkVWRnk4TkVVRlhxS3dVWXlZMUdrNk1WRnVHenh5WGZaWkw1cVNVSFFLajg1S2NmQ1FTUGdob2xBSzVQNVBXX1N5bUJCSm8tbUxLT3c0cFlCUWpUNF9VMThUWHZNSlYyclhGOEplLTZFeFZ4ZENxOURVbFRxT3hXTHhXcmpXaUNaM0lsTkd1STIyNllUeFltSXFDeERESEZCbUQtNlYwNzBPWThrak5JNTNWRVI5VDZ6TkJKbjhLWXVBV0dyQ1VkRTZzSmRLU2VNeWlXeDMyeTFDYVRmUDZvNVU2RGVIelFS?oc=5"
     }
    ],
    "img_checked": true
@@ -10227,6 +10303,10 @@
     {
      "source": "WRAL",
      "url": "https://www.wral.com/news/ap/9dd38-cargo-ship-sinks-off-bulgarias-black-sea-coast/"
+    },
+    {
+     "source": "Associated Press News",
+     "url": "https://apnews.com/article/bulgaria-romania-black-sea-cargo-ship-betul-9dd38253281fb1889e39ec7a9a57f9e5"
     }
    ],
    "img_tried": true,
@@ -10399,81 +10479,6 @@
     "grain"
    ],
    "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "dd371b53d330",
-   "lang": "en",
-   "title": "Romania advises ships to avoid Black Sea area after four vessels hit by drones",
-   "titles": {
-    "en": "Romania advises ships to avoid Black Sea area after four vessels hit by drones"
-   },
-   "summary": "Romania has advised commercial shipping operators to avoid a section of the Black Sea off the Danube Delta after four vessels were struck by drones in separate incidents on Friday and Saturday, in the ...",
-   "url": "https://seenews.com/news/romania-advises-ships-to-avoid-black-sea-area-after-four-vessels-hit-by-drones-1304972",
-   "source": "SeeNews",
-   "published": "2026-11-16T02:46:00Z",
-   "fetched": "2026-11-25T13:53:52Z",
-   "image": "https://www.bing.com/th?id=ONUT.-yj2g8K2O-D7OjehB8vEdw&pid=News",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.-yj2g8K2O-D7OjehB8vEdw&pid=News",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [
-    "danube"
-   ],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "a7290a024556",
-   "lang": "ro",
-   "title": "UPDATE Scafandri militari, trimiși în Marea Neagră după ce două drone au fost găsite în derivă lângă Sfântu Gheorghe și Mangalia",
-   "titles": {
-    "ro": "UPDATE Scafandri militari, trimiși în Marea Neagră după ce două drone au fost găsite în derivă lângă Sfântu Gheorghe și Mangalia"
-   },
-   "summary": "Două echipe de scafandri militari ai Forțelor Navale Române, specializați în neutralizarea dispozitivelor explozive, intervin luni, în Marea Neagră, după ce un avion al marinei franceze a semnalat dou ...",
-   "url": "https://www.antena3.ro/actualitate/scafandri-militari-trimisi-in-marea-neagra-dupa-ce-doua-drone-au-fost-gasite-in-deriva-langa-sfantu-gheorghe-si-mangalia-811280.html",
-   "source": "Antena 3 CNN",
-   "published": "2026-11-16T01:18:00Z",
-   "fetched": "2026-11-25T14:08:21Z",
-   "image": "https://www.antena3.ro/thumbs/amp/2026/11/16/scafandri-militari-trimisi-in-marea-neagra-dupa-ce-doua-drone-au-fost-gasite-in-deriva-langa-sfantu-gheorghe-si-mangalia-1119483.webp",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.oGJzbI4u-077gq9gjgrdZw&pid=News",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [
-    "mangalia"
-   ],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "3fa7232ea78d",
-   "lang": "ro",
-   "title": "Securitatea la Marea Neagră, discutată la Bruxelles, după incidentele cu drone în urma cărora sectorul maritim Sulina – Sfântu Gheorghe a fost declarat periculos pentru ...",
-   "titles": {
-    "ro": "Securitatea la Marea Neagră, discutată la Bruxelles, după incidentele cu drone în urma cărora sectorul maritim Sulina – Sfântu Gheorghe a fost declarat periculos pentru ..."
-   },
-   "summary": "Din cauza atacurilor repetate asupra transportului comercial în Marea Neagră, de care suspectată este Rusia, ministrul Apărării, Ștefan-Radu Oprea va solicita, la Bruxelles, garantarea libertăţii de n ...",
-   "url": "https://www.radioconstanta.ro/2026/11/16/securitatea-la-marea-neagra-discutata-la-bruxelles-dupa-incidentele-cu-drone-in-urma-carora-sectorul-maritim-sulina-sfantu-gheorghe-a-fost-declarat-periculos-pentru-navigatie/",
-   "source": "radioconstanta",
-   "published": "2026-11-16T00:41:00Z",
-   "fetched": "2026-11-25T14:58:21Z",
-   "image": "https://www.radioconstanta.ro/wp-content/uploads/2026/11/FOTO-PE-FUNDAL-52-2.png",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.odYaeikXaJE6YsQ7lEwNZA&pid=News",
-   "topics": [
-    "policy",
-    "attacks"
-   ],
-   "places": [
-    "danube"
-   ],
    "img_tried": true,
    "img_checked": true,
    "also": []
