@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-27T04:15:24Z",
+ "updated": "2026-11-27T05:23:26Z",
  "items": [
+  {
+   "id": "722b2f2d2d6a",
+   "lang": "ro",
+   "title": "Rusia pierde avantajul pe un front neașteptat. Ucraina își demonstrează forța cu drone care lovesc de la Marea Neagră până la Marea Baltică",
+   "titles": {
+    "ro": "Rusia pierde avantajul pe un front neașteptat. Ucraina își demonstrează forța cu drone care lovesc de la Marea Neagră până la Marea Baltică",
+    "en": "Russia is losing ground on an unexpected front. Ukraine is demonstrating its strength with drones striking from the Black Sea to the Baltic Sea",
+    "bg": "Русия губи предимството си на неочакван фронт. Украйна демонстрира силата си с дронове, които нанасят удари от Черно море до Балтийско море"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMUtBeGR6U0haSlNQUmFiYkhBTkwySzdHU1ZsUVpNRldidFgxWlJjNnpBR1hMbkN5MFozUVBWSHFJcXZ6TlY5TmpHQUtTc3ZxN3h0dV9nZ1pBNVRtcFMyTWxlVDM2VGVUVmx5NF8tR3l0V25MMVFXU0E1Zm5JNXpSNHNQeHhZT3pHbVdFbk5VblFad25YVThBczVTOXBDM01F?oc=5",
+   "source": "Adevarul.ro",
+   "published": "2026-11-27T04:20:25Z",
+   "fetched": "2026-11-27T05:20:41Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "attacks"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
   {
    "id": "f6544f29959f",
    "lang": "bg",
@@ -322,6 +345,31 @@
    "img_checked": true
   },
   {
+   "id": "b1b9fac7f72a",
+   "lang": "ro",
+   "title": "Reportaj CBS în România: Cum riscă războiul din Marea Neagră să atragă Statele Unite în conflictul dintre Rusia și Ucraina",
+   "titles": {
+    "ro": "Reportaj CBS în România: Cum riscă războiul din Marea Neagră să atragă Statele Unite în conflictul dintre Rusia și Ucraina",
+    "en": "CBS report from Romania: How the war in the Black Sea risks drawing the United States into the conflict between Russia and Ukraine",
+    "bg": "Репортаж на CBS от Румъния: Как войната в Черно море рискува да въвлече Съединените щати в конфликта между Русия и Украйна"
+   },
+   "summary": "Incidentele cu drone, mine și nave comerciale din Marea Neagră au crescut de aproape zece ori în 2026, ajungând la 400-500 de la începutul anului, față de ...",
+   "url": "https://spotmedia.ro/stiri/opinii-si-analize/reportaj-cbs-in-romania-cum-risca-razboiul-din-marea-neagra-sa-atraga-statele-unite-in-conflictul-dintre-rusia-si-ucraina",
+   "source": "spotmedia.ro",
+   "published": "2026-11-26T08:34:00Z",
+   "fetched": "2026-11-27T05:20:41Z",
+   "image": "https://spotmedia.ro/wp-content/uploads/2026/11/nave-Marea-Neagra.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.URVt8WPhMiO8JXA_Wveg-A&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "f7d4edc1927d",
    "lang": "ro",
    "title": "Rusia anunță că forțele sale au lovit facilităţi militar-industriale din Kiev și o navă în Marea Neagră (Interfax)",
@@ -574,39 +622,6 @@
     "constanta"
    ],
    "also": [],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
-   "id": "74d7e8c8e857",
-   "lang": "bg",
-   "title": "Нови атаки срещу търговски кораби в Черно море",
-   "titles": {
-    "bg": "Нови атаки срещу търговски кораби в Черно море",
-    "en": "New attacks on merchant ships in the Black Sea",
-    "ro": "Noi atacuri împotriva navelor comerciale în Marea Neagră"
-   },
-   "summary": "Два чуждестранни товарни кораба, превозващи общо над 100 000 тона зърно, са били атакувани от руските сили през изминалата нощ в Черно море край украинското пристанище Одеса. Това съобщи украинският ...",
-   "url": "https://nova.bg/news/view/2026/11/26/560730/%D0%BD%D0%BE%D0%B2%D0%B8-%D0%B0%D1%82%D0%B0%D0%BA%D0%B8-%D1%81%D1%80%D0%B5%D1%89%D1%83-%D1%82%D1%8A%D1%80%D0%B3%D0%BE%D0%B2%D1%81%D0%BA%D0%B8-%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%B8-%D0%B2-%D1%87%D0%B5%D1%80%D0%BD%D0%BE-%D0%BC%D0%BE%D1%80%D0%B5/",
-   "source": "Нова телевизия",
-   "published": "2026-11-25T18:59:00Z",
-   "fetched": "2026-11-26T15:01:28Z",
-   "image": "https://nstatic.nova.bg/public/pics/nova/article/980x551_1795268437.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.Ly2vesMx7XKr3X9RfQ9mdQ&pid=News",
-   "topics": [
-    "shipping",
-    "grain",
-    "ports"
-   ],
-   "places": [
-    "odesa"
-   ],
-   "also": [
-    {
-     "source": "Днес България",
-     "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQLUktS3lqR0V0bTc0QXI1dzYzLWtMRVJDcUtIN05zQTJZcjcwd0hETGxqUHZvY2pSS1ZfWEQzN2h1cWJxQlpEOWtOWE05X1paRXVfeE5XWFg3UlBwNjRYZ1pkSlIxYXR2M2F5Y21lTFB2QTdHcFkzZ29ZNjI4RUV2d2F3ejJoMV9ia0Y5NW5zY1BCRi16X1FQRncyb24yd3dJdjhGTXBDM2FEQmZFWFlEbmlHSzBuc0pRTUFZQnJIbnI5NmZiaERwMzl5b1gxdl95S28zeEhiOXdoUnU1LTNDeEJ4TnVnWEI4YlJ2bndkc3dlNnk2QlUzNnZPV0tGM0NtSVlKZjB6cEswakdYSFB0eVJrcGRvN25MTWxZdTVmY2ZhWUF5QU91dGVqdXo3TkZJMTM3WGpBbFJBUU1zcWxMNkw0czZQYzg?oc=5"
-    }
-   ],
    "img_tried": true,
    "img_checked": true
   },
@@ -2083,25 +2098,39 @@
   {
    "id": "1cfdbaf9e03c",
    "lang": "bg",
-   "title": "България и Турция обсъдиха как да спрат атаките срещу търговски кораби в Черно море - Maritime.bg",
+   "title": "Нови атаки срещу търговски кораби в Черно море",
    "titles": {
-    "bg": "България и Турция обсъдиха как да спрат атаките срещу търговски кораби в Черно море - Maritime.bg",
-    "en": "Bulgaria and Turkey discussed how to stop attacks on merchant ships in the Black Sea - Maritime.bg",
-    "ro": "Bulgaria și Turcia au discutat despre modalitățile de a pune capăt atacurilor împotriva navelor comerciale din Marea Neagră - Maritime.bg"
+    "bg": "Нови атаки срещу търговски кораби в Черно море",
+    "en": "New attacks on merchant ships in the Black Sea",
+    "ro": "Noi atacuri împotriva navelor comerciale în Marea Neagră"
    },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1nMXE5TFZaTWpELW9BcldnQUhOTVFUUDBiYlQ5OU1CWTZZRW0tSlk4djNRUzQ5LUtVTjRlNHBzdUxqYXh3T1E?oc=5",
-   "source": "Maritime.bg - Морският портал",
+   "summary": "Два чуждестранни товарни кораба, превозващи общо над 100 000 тона зърно, са били атакувани от руските сили през изминалата нощ в Черно море край украинското пристанище Одеса. Това съобщи украинският ...",
+   "url": "https://nova.bg/news/view/2026/11/26/560730/%D0%BD%D0%BE%D0%B2%D0%B8-%D0%B0%D1%82%D0%B0%D0%BA%D0%B8-%D1%81%D1%80%D0%B5%D1%89%D1%83-%D1%82%D1%8A%D1%80%D0%B3%D0%BE%D0%B2%D1%81%D0%BA%D0%B8-%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%B8-%D0%B2-%D1%87%D0%B5%D1%80%D0%BD%D0%BE-%D0%BC%D0%BE%D1%80%D0%B5/",
+   "source": "Нова телевизия",
    "published": "2026-11-24T13:28:03Z",
    "fetched": "2026-11-26T07:20:39Z",
-   "image": "",
-   "fallback_image": "",
+   "image": "https://nstatic.nova.bg/public/pics/nova/article/980x551_1795268437.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.Ly2vesMx7XKr3X9RfQ9mdQ&pid=News",
    "topics": [
-    "shipping"
+    "shipping",
+    "grain",
+    "ports"
    ],
-   "places": [],
-   "also": [],
-   "img_checked": true
+   "places": [
+    "odesa"
+   ],
+   "also": [
+    {
+     "source": "Maritime.bg - Морският портал",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1nMXE5TFZaTWpELW9BcldnQUhOTVFUUDBiYlQ5OU1CWTZZRW0tSlk4djNRUzQ5LUtVTjRlNHBzdUxqYXh3T1E?oc=5"
+    },
+    {
+     "source": "Днес България",
+     "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQLUktS3lqR0V0bTc0QXI1dzYzLWtMRVJDcUtIN05zQTJZcjcwd0hETGxqUHZvY2pSS1ZfWEQzN2h1cWJxQlpEOWtOWE05X1paRXVfeE5XWFg3UlBwNjRYZ1pkSlIxYXR2M2F5Y21lTFB2QTdHcFkzZ29ZNjI4RUV2d2F3ejJoMV9ia0Y5NW5zY1BCRi16X1FQRncyb24yd3dJdjhGTXBDM2FEQmZFWFlEbmlHSzBuc0pRTUFZQnJIbnI5NmZiaERwMzl5b1gxdl95S28zeEhiOXdoUnU1LTNDeEJ4TnVnWEI4YlJ2bndkc3dlNnk2QlUzNnZPV0tGM0NtSVlKZjB6cEswakdYSFB0eVJrcGRvN25MTWxZdTVmY2ZhWUF5QU91dGVqdXo3TkZJMTM3WGpBbFJBUU1zcWxMNkw0czZQYzg?oc=5"
+    }
+   ],
+   "img_checked": true,
+   "img_tried": true
   },
   {
    "id": "5db900391309",
@@ -9645,38 +9674,6 @@
    "also": []
   },
   {
-   "id": "74b3ad93be9d",
-   "lang": "ro",
-   "title": "O navă cargo se scufundă în Marea Neagră, în largul Bulgariei, anunță Ministerul Transporturilor",
-   "titles": {
-    "ro": "O navă cargo se scufundă în Marea Neagră, în largul Bulgariei, anunță Ministerul Transporturilor"
-   },
-   "summary": "Bulgaria a primit luni un semnal de ajutor de la o navă cargo care se scufunda în zona sa economică exclusivă din Marea Neagră, a anunțat Ministerul Transporturilor. Nava, sub pavilion somalez, avea l ...",
-   "url": "https://www.rador.ro/2026/11/16/o-nava-cargo-se-scufunda-in-marea-neagra-in-largul-bulgariei-anunta-ministerul-transporturilor/",
-   "source": "Agenția de presă Rador",
-   "published": "2026-11-16T00:03:00Z",
-   "fetched": "2026-11-26T13:28:33Z",
-   "image": "https://www.rador.ro/wp-content/uploads/2026/10/Marea-Neagra.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.Tdw1P6L8XEtYySOXExpveQ&pid=News",
-   "topics": [
-    "policy",
-    "shipping"
-   ],
-   "places": [],
-   "also": [
-    {
-     "source": "Wall-Street.ro",
-     "url": "https://www.wall-street.ro/articol/international/cargou-cu-cereale-din-romania-in-pericol-in-marea-neagra.html"
-    },
-    {
-     "source": "Forbes România",
-     "url": "https://www.forbes.ro/o-nava-cu-peste-3-400-de-tone-de-propan-s-a-scufundat-in-marea-neagra-in-largul-bulgariei-532112"
-    }
-   ],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
    "id": "eace8f06f08c",
    "lang": "en",
    "title": "Black Sea Security Brings Ministers Together in Brussels",
@@ -9724,47 +9721,6 @@
    "also": []
   },
   {
-   "id": "0153b65f3b42",
-   "lang": "en",
-   "title": "Drone Strike Behind Sinking of Cargo Ship off Bulgaria's Coast, Maritime Security Sources Say",
-   "titles": {
-    "en": "Drone Strike Behind Sinking of Cargo Ship off Bulgaria's Coast, Maritime Security Sources Say"
-   },
-   "summary": "Bulgaria ⁠received a distress ⁠signal from a sinking ​cargo ship in its exclusive economic ‌zone in the ‌Black Sea on ⁠Monday, ⁠its transport ministry said. The Somali-flagged ship, with 12 ​crew ...",
-   "url": "https://www.usnews.com/news/world/articles/2026-11-16/cargo-ship-sinking-in-black-sea-off-bulgaria-says-transport-ministry",
-   "source": "U.S. News & World Report",
-   "published": "2026-11-15T21:13:00Z",
-   "fetched": "2026-11-25T14:08:21Z",
-   "image": "",
-   "fallback_image": "",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "also": [
-    {
-     "source": "The Kansas City Star",
-     "url": "https://www.kansascity.com/news/nation-world/world/article318113727.html"
-    },
-    {
-     "source": "WTOP",
-     "url": "https://wtop.com/world/2026/11/cargo-ship-sinks-off-bulgarias-black-sea-coast/"
-    },
-    {
-     "source": "Associated Press News",
-     "url": "https://apnews.com/article/bulgaria-romania-black-sea-cargo-ship-betul-9dd38253281fb1889e39ec7a9a57f9e5"
-    },
-    {
-     "source": "WRAL",
-     "url": "https://www.wral.com/news/ap/9dd38-cargo-ship-sinks-off-bulgarias-black-sea-coast/"
-    }
-   ],
-   "img_checked": true
-  },
-  {
    "id": "c6629455dbf2",
    "lang": "bg",
    "title": "Атака с морски дронове преобърна кораб в Черно море, целият екипаж е спасен",
@@ -9786,6 +9742,61 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "b6354a76fe2f",
+   "lang": "en",
+   "title": "Cargo ship sinking in Black Sea off Bulgaria, says transport ministry",
+   "titles": {
+    "en": "Cargo ship sinking in Black Sea off Bulgaria, says transport ministry"
+   },
+   "summary": "Bulgaria received a distress signal from a sinking cargo ship in its exclusive economic zone in the Black Sea on Monday, its transport ministry said.",
+   "url": "https://www.thenewstribune.com/news/nation-world/world/article318097496.html",
+   "source": "The News Tribune",
+   "published": "2026-11-15T18:43:00Z",
+   "fetched": "2026-11-27T05:20:41Z",
+   "image": "https://www.rador.ro/wp-content/uploads/2026/10/Marea-Neagra.jpg",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "shipping"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "U.S. News & World Report",
+     "url": "https://www.usnews.com/news/world/articles/2026-11-16/cargo-ship-sinking-in-black-sea-off-bulgaria-says-transport-ministry"
+    },
+    {
+     "source": "The Kansas City Star",
+     "url": "https://www.kansascity.com/news/nation-world/world/article318113727.html"
+    },
+    {
+     "source": "WTOP",
+     "url": "https://wtop.com/world/2026/11/cargo-ship-sinks-off-bulgarias-black-sea-coast/"
+    },
+    {
+     "source": "Associated Press News",
+     "url": "https://apnews.com/article/bulgaria-romania-black-sea-cargo-ship-betul-9dd38253281fb1889e39ec7a9a57f9e5"
+    },
+    {
+     "source": "WRAL",
+     "url": "https://www.wral.com/news/ap/9dd38-cargo-ship-sinks-off-bulgarias-black-sea-coast/"
+    },
+    {
+     "source": "Agenția de presă Rador",
+     "url": "https://www.rador.ro/2026/11/16/o-nava-cargo-se-scufunda-in-marea-neagra-in-largul-bulgariei-anunta-ministerul-transporturilor/"
+    },
+    {
+     "source": "Wall-Street.ro",
+     "url": "https://www.wall-street.ro/articol/international/cargou-cu-cereale-din-romania-in-pericol-in-marea-neagra.html"
+    },
+    {
+     "source": "Forbes România",
+     "url": "https://www.forbes.ro/o-nava-cu-peste-3-400-de-tone-de-propan-s-a-scufundat-in-marea-neagra-in-largul-bulgariei-532112"
+    }
+   ],
+   "img_checked": true
   },
   {
    "id": "121c120bb445",
