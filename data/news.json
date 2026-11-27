@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-27T22:05:58Z",
+ "updated": "2026-11-27T23:06:17Z",
  "items": [
+  {
+   "id": "d86488825024",
+   "lang": "en",
+   "title": "На фона на атаките срещу кораби край България : Украйна и Гърция обсъдиха сигурността в Черно море",
+   "titles": {
+    "en": "На фона на атаките срещу кораби край България : Украйна и Гърция обсъдиха сигурността в Черно море",
+    "ro": "Pe fondul atacurilor asupra navelor din largul Bulgariei: Ucraina și Grecia au discutat despre securitatea în Marea Neagră",
+    "bg": "На фона на атаките срещу кораби край България: Украйна и Гърция обсъдиха сигурността в Черно море"
+   },
+   "summary": "",
+   "url": "https://www.blagoevgrad24.bg/novini/mejdunarodni/Na-fona-na-atakite-sreshtu-korabi-krai-Bulgariya-Ukraina-i-Gurciya-obsudiha-sigurnostta-v-Cherno-more-3063198",
+   "source": "blagoevgrad24.bg",
+   "published": "2026-11-27T22:30:00Z",
+   "fetched": "2026-11-27T23:04:07Z",
+   "image": "https://i.id24.bg/i/3063198.webp",
+   "fallback_image": "",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
   {
    "id": "93afaf6c9ff9",
    "lang": "en",
@@ -177,30 +200,6 @@
    "img_checked": true
   },
   {
-   "id": "6dcf52840fbf",
-   "lang": "ro",
-   "title": "CBS: Frontul din Marea Neagră riscă să atragă SUA în conflict. României i-a fost atacat teritoriul pentru prima dată după Al Doilea Război Mondial, când nave au fost lovite în apele teritoriale",
-   "titles": {
-    "ro": "CBS: Frontul din Marea Neagră riscă să atragă SUA în conflict. României i-a fost atacat teritoriul pentru prima dată după Al Doilea Război Mondial, când nave au fost lovite în apele teritoriale",
-    "en": "CBS: The Black Sea front risks drawing the US into the conflict. Romania’s territory has been attacked for the first time since the Second World War, when ships were struck in its territorial waters",
-    "bg": "CBS: Фронтът в Черно море рискува да въвлече САЩ в конфликта. За първи път след Втората световна война територията на Румъния беше атакувана, когато кораби бяха ударени в териториалните води"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPWkdzemI5Z2RIQlRZSHpab1U4RXFjZUxyZkNQc1gyY3BFRnBvdDNuN2tiSmd2VFJxMVZLTnV6RG5iNURzUkphXzIybTB0VXA5cWxUXzhoaHZoU1cyQ2tER2RYX29kODA4NmJYLXNEMENUVktVYVNORzhOVmNNWDNaWGxzOVZFQXlSRGJrbERuQkh3X2FLOGVJSk5sS001SVdqV2FMYjdrYjZEeHNaS2pnbTJmSV9jQkcwYXdoaVc1LTlDY0NDMHpnYTg3Z1d0WFNGOUFUOXRJRlNRNVJwRmJxRG1VQXloSW5BR3A5eGZodk9GY2k5WGxOVm1NdjJaSzFrMEdhYjhMci1xMHhOM3Y4SlF1NGY3VUM5MERkUVF6dW5SYmtMLTZEZlUtWmY0WTNpa0ZIaFBnLXBnRWt0bUptSdIBxgJBVV95cUxQVUpBdGdMQWhGcHF2OEV3SjVYc0d1NlMyOERrVjB4cUlyd21HeUwxUVVCcDZibDFkTEpZT3Izbm1xZjE1SUFYQlZQZ1pDcDlJOTlva1JVN0dYUFdtTnROR2J4a0NUWlVoMnhsSTNpcm1odkRWVjdXSjFUV3owZDNLeXN3ZmJOVXVBNXlVS09aQVQzcm5jUnVoT1JHNXRZRWZDY09kb0dtb3dYZktsckVtdEtFMlpObGMzQnoxdHEyS0htd3MzQTdBV196dXlBTS11QXgwYnBSallSdTY1ZGZwbWFaZFpUWUFici1RcmtfYVAya2RnUlMwS3lCdmI3S1dOTUlkZldheUpWN19DTjJpWC1zc00wVUtSaENrOW91QjNZU0xQS0FBa1FFSXBULW55ajNpNEdid0Y3QWstUGlWejlHcklmUQ?oc=5",
-   "source": "Aleph News",
-   "published": "2026-11-27T14:31:00Z",
-   "fetched": "2026-11-27T21:04:02Z",
-   "image": "",
-   "fallback_image": "",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "also": [],
-   "img_checked": true
-  },
-  {
    "id": "4a0343c6229f",
    "lang": "ro",
    "title": "Tribunalul Constanța a deschis procedura generală a insolvenței împotriva HGM Port Logistics SRL, la cererea Euro River Transport SRL și Exim Banca Românească",
@@ -256,7 +255,9 @@
    "lang": "en",
    "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
    "titles": {
-    "en": "Kyiv offers Black Sea ceasefire to protect grain exports"
+    "en": "Kyiv offers Black Sea ceasefire to protect grain exports",
+    "ro": "Kievul propune un armistițiu în regiunea Mării Negre pentru a proteja exporturile de cereale",
+    "bg": "Киев предлага примирие в Черно море, за да защити износа на зърно"
    },
    "summary": "Ukraine awaits Moscow’s response to Black Sea ceasefire proposal as Zelenskyy criticises Trump’s Putin ‘friendship’ ...",
    "url": "https://www.yahoo.com/news/world/articles/kyiv-offers-black-sea-ceasefire-174433191.html",
@@ -656,7 +657,12 @@
     "attacks"
    ],
    "places": [],
-   "also": [],
+   "also": [
+    {
+     "source": "europesays",
+     "url": "https://www.europesays.com/3405229/"
+    }
+   ],
    "img_tried": true,
    "img_checked": true
   },
@@ -899,6 +905,28 @@
    "source": "bsinews.id",
    "published": "2026-11-26T19:23:00Z",
    "fetched": "2026-11-26T22:02:07Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "attacks"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "84e9f64e6f97",
+   "lang": "en",
+   "title": "Germany condemns drone attacks and calls on Russia to take concrete steps toward a Black Sea ceasefire",
+   "titles": {
+    "en": "Germany condemns drone attacks and calls on Russia to take concrete steps toward a Black Sea ceasefire"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMlVlbGx1eExOSXFCUW5QSEY2WTlDZVNUR1JDOFpub2pkcm01NHYtOVRsM2FSZk9iR2JDelRxSUhHRWNYUWo2VnlRazV6S2RzVzV0MER2dk1SVXU1V2h0WlNMdUJjaXNsczlZenNuSExIa0x1VFJsbnRiYlFvc3ljemNVbHFQMnFyUmZScVg0WXc3aTEzNXJRVVhCc0l3OE1xTXBneGJJdDNVV2Zvdk5td0RR?oc=5",
+   "source": "Informat.ro",
+   "published": "2026-11-26T18:48:04Z",
+   "fetched": "2026-11-27T23:04:07Z",
    "image": "",
    "fallback_image": "",
    "topics": [
@@ -1340,6 +1368,10 @@
     {
      "source": "Libertatea",
      "url": "https://www.libertatea.ro/stiri/frontul-de-la-marea-neagra-ameninta-sa-atraga-sua-si-nato-in-razboiul-din-ucraina-reportaj-cbs-in-romania-zfeb5x1"
+    },
+    {
+     "source": "Aleph News",
+     "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPWkdzemI5Z2RIQlRZSHpab1U4RXFjZUxyZkNQc1gyY3BFRnBvdDNuN2tiSmd2VFJxMVZLTnV6RG5iNURzUkphXzIybTB0VXA5cWxUXzhoaHZoU1cyQ2tER2RYX29kODA4NmJYLXNEMENUVktVYVNORzhOVmNNWDNaWGxzOVZFQXlSRGJrbERuQkh3X2FLOGVJSk5sS001SVdqV2FMYjdrYjZEeHNaS2pnbTJmSV9jQkcwYXdoaVc1LTlDY0NDMHpnYTg3Z1d0WFNGOUFUOXRJRlNRNVJwRmJxRG1VQXloSW5BR3A5eGZodk9GY2k5WGxOVm1NdjJaSzFrMEdhYjhMci1xMHhOM3Y4SlF1NGY3VUM5MERkUVF6dW5SYmtMLTZEZlUtWmY0WTNpa0ZIaFBnLXBnRWt0bUptSdIBxgJBVV95cUxQVUpBdGdMQWhGcHF2OEV3SjVYc0d1NlMyOERrVjB4cUlyd21HeUwxUVVCcDZibDFkTEpZT3Izbm1xZjE1SUFYQlZQZ1pDcDlJOTlva1JVN0dYUFdtTnROR2J4a0NUWlVoMnhsSTNpcm1odkRWVjdXSjFUV3owZDNLeXN3ZmJOVXVBNXlVS09aQVQzcm5jUnVoT1JHNXRZRWZDY09kb0dtb3dYZktsckVtdEtFMlpObGMzQnoxdHEyS0htd3MzQTdBV196dXlBTS11QXgwYnBSallSdTY1ZGZwbWFaZFpUWUFici1RcmtfYVAya2RnUlMwS3lCdmI3S1dOTUlkZldheUpWN19DTjJpWC1zc00wVUtSaENrOW91QjNZU0xQS0FBa1FFSXBULW55ajNpNEdid0Y3QWstUGlWejlHcklmUQ?oc=5"
     }
    ],
    "img_tried": true,
@@ -10451,29 +10483,6 @@
    "fetched": "2026-11-26T06:31:06Z",
    "image": "https://www.europafm.ro/wp-content/uploads/2026/11/nava-foto-ARSVOM.jpg",
    "fallback_image": "http://www.bing.com/th?id=ONUT.xOD1w6Y2c0M92Gi3SmQczQ&pid=News",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "3b1a565e2b3f",
-   "lang": "bg",
-   "title": "Още един кораб бе ударен с дронове в българската зона на Черно море (ВИДЕО)",
-   "titles": {
-    "bg": "Още един кораб бе ударен с дронове в българската зона на Черно море (ВИДЕО)"
-   },
-   "summary": "Плавателният съд е под сомалийски флаг, на борда му има 12 души. В спасителната операция участват България, Румъния и Турция ...",
-   "url": "https://clubz.bg/181903",
-   "source": "Клуб 'Z'",
-   "published": "2026-11-16T07:28:00Z",
-   "fetched": "2026-11-25T19:01:54Z",
-   "image": "https://clubz.bg/media/147/dron-4.og.jpeg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.X3P1V2sMq4Jh7Eax-7ZVlA&pid=News",
    "topics": [
     "attacks",
     "shipping"
