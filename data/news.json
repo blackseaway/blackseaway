@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T16:14:35Z",
+ "updated": "2026-11-27T17:18:48Z",
  "items": [
   {
    "id": "7b31c89985d9",
@@ -280,7 +280,9 @@
    "lang": "en",
    "title": "Zelenskyy Warns Black Sea Export Disruptions Threaten Food Supplies for 'Hundreds of Millions'",
    "titles": {
-    "en": "Zelenskyy Warns Black Sea Export Disruptions Threaten Food Supplies for 'Hundreds of Millions'"
+    "en": "Zelenskyy Warns Black Sea Export Disruptions Threaten Food Supplies for 'Hundreds of Millions'",
+    "ro": "Zelenskyy avertizează că întreruperile exporturilor din Marea Neagră pun în pericol aprovizionarea cu alimente pentru „sute de milioane” de oameni",
+    "bg": "Зеленски предупреждава, че прекъсванията в износа през Черно море застрашават снабдяването с храни за „стотици милиони“"
    },
    "summary": "Zelenskyy warned Black Sea export disruptions could threaten food supplies for hundreds of millions, raise prices and put pressure on Ukraine's farmers.",
    "url": "https://www.ibtimes.sg/zelenskyy-warns-black-sea-export-disruptions-threaten-food-supplies-hundreds-millions-96761",
@@ -377,6 +379,52 @@
     "attacks",
     "shipping",
     "energy"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "01b0d2f559ef",
+   "lang": "bg",
+   "title": "Украйна предложи примирие в Черно море и чака отговор от Русия",
+   "titles": {
+    "bg": "Украйна предложи примирие в Черно море и чака отговор от Русия",
+    "en": "Ukraine has proposed a ceasefire in the Black Sea and is awaiting a response from Russia",
+    "ro": "Ucraina a propus un armistițiu în Marea Neagră și așteaptă un răspuns din partea Rusiei"
+   },
+   "summary": "Киев обвързва евентуалното спиране на атаките с безопасността на корабоплаването и износа на селскостопанска продукция ...",
+   "url": "https://fakti.bg/world/1105258-ukraina-predloji-primirie-v-cherno-more-i-chaka-otgovor-ot-rusia",
+   "source": "ФАКТИ.БГ",
+   "published": "2026-11-26T20:33:00Z",
+   "fetched": "2026-11-27T17:16:38Z",
+   "image": "https://cdn4.focus.bg/fakti/photos/fb/8a8/ukraina-predloji-primirie-v-cherno-more-i-chaka-otgovor-ot-rusia-1.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.kG2SS-IqLDClGXJinEQgCg&pid=News",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "700fe2148a92",
+   "lang": "ro",
+   "title": "Gabriel Oprea cere un scut de securitate la Marea Neagră. NATO a înregistrat până la 500 de incidente în 2026",
+   "titles": {
+    "ro": "Gabriel Oprea cere un scut de securitate la Marea Neagră. NATO a înregistrat până la 500 de incidente în 2026"
+   },
+   "summary": "Gabriel Oprea cere un scut de securitate la Marea Neagră, după ce numărul incidentelor ar fi ajuns la 500 în 2026. UMPMV propune șapte măsuri pentru apărarea României.",
+   "url": "https://www.realitatea.net/stiri/politica/gabriel-oprea-cere-un-scut-de-securitate-la-marea-neagra-nato-a-inregistrat-pana-la-500-de-incidente-in-2026-e4xx60",
+   "source": "Realitatea.NET",
+   "published": "2026-11-26T20:13:00Z",
+   "fetched": "2026-11-27T17:16:38Z",
+   "image": "https://www.realitatea.net/storage/media/7/2026/09/gabriel-oprea-rJnyem.webp",
+   "fallback_image": "",
+   "topics": [
+    "policy"
    ],
    "places": [],
    "also": [],
@@ -10107,6 +10155,10 @@
     {
      "source": "Southeast Missourian",
      "url": "https://www.semissourian.com/business/cargo-ship-sinks-off-bulgarias-black-sea-coast-08c2def8"
+    },
+    {
+     "source": "WRAL",
+     "url": "https://www.wral.com/news/ap/9dd38-cargo-ship-sinks-off-bulgarias-black-sea-coast/"
     }
    ],
    "img_tried": true,
@@ -10424,62 +10476,6 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
-  },
-  {
-   "id": "33ff162c33b1",
-   "lang": "bg",
-   "title": "Ново нападение в Черно море: Дрон атакува товарен кораб край Калиакра",
-   "titles": {
-    "bg": "Ново нападение в Черно море: Дрон атакува товарен кораб край Калиакра"
-   },
-   "summary": "В Морския спасителен координационен център - Варна в 9:15 ч. е получен сигнал за бедствие от екипажа на товарния кораб BETUL 8 в българската изключителна икономическа зона на Черно море, на около 40 ...",
-   "url": "https://news.bg/regions/novo-napadenie-v-cherno-more-dron-atakuva-tovaren-korab-kray-kaliakra.html",
-   "source": "News.bg",
-   "published": "2026-11-15T22:53:00Z",
-   "fetched": "2026-11-25T13:57:52Z",
-   "image": "https://webnews.bg/uploads/images/00/2800/782800/1200x675.jpg?_=1792138774",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.6OvXZtP6pgFLQ_XtPaPH8g&pid=News",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [
-    "varna"
-   ],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "b55b6f63d8c3",
-   "lang": "en",
-   "title": "Three Commercial Ships Hit by Drones in Black Sea Near Romania",
-   "titles": {
-    "en": "Three Commercial Ships Hit by Drones in Black Sea Near Romania"
-   },
-   "summary": "Drones have struck three commercial ships in the Black Sea near Romania's Sulina canal, Prime Minister Luca Niculescu said on ...",
-   "url": "https://www.marinelink.com/news/three-commercial-ships-hit-drones-black-544363",
-   "source": "MarineLink",
-   "published": "2026-11-15T22:01:00Z",
-   "fetched": "2026-11-27T16:11:47Z",
-   "image": "https://images.marinelink.com/images/maritime/w800/urbans78-adobe-175063.jpeg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.mYsmttiS89tCfV91pL4PHg&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping"
-   ],
-   "places": [
-    "danube"
-   ],
-   "also": [
-    {
-     "source": "Seatrade Maritime",
-     "url": "https://www.seatrade-maritime.com/security/black-sea-drone-strikes-hit-four-ships-near-romanian-coast"
-    }
-   ],
-   "img_tried": true,
-   "img_checked": true
   }
  ]
 }
