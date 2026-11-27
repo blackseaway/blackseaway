@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T23:07:28Z",
+ "updated": "2026-11-27T00:05:30Z",
  "items": [
   {
    "id": "2bb2c4f8fe6b",
@@ -1014,7 +1014,9 @@
    "lang": "bg",
    "title": "МТС обяви конкурс за член на борда на „Пристанище Варна“ - Maritime.bg",
    "titles": {
-    "bg": "МТС обяви конкурс за член на борда на „Пристанище Варна“ - Maritime.bg"
+    "bg": "МТС обяви конкурс за член на борда на „Пристанище Варна“ - Maritime.bg",
+    "en": "MTS has announced a competition for a board member at ‘Port of Varna’ - Maritime.bg",
+    "ro": "MTS a anunțat un concurs pentru ocuparea unui post de membru în consiliul de administrație al „Portului Varna” - Maritime.bg"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBFbnpWcmM4VTZ4MkdDM3piaWI4TVJTd09FYVlwVjlhOFhkbXQzQzZEbmdhQjZ2QW9DTUF3b21GcjFXS0lIZXc?oc=5",
@@ -1207,7 +1209,9 @@
    "lang": "bg",
    "title": "Путин призна: Русия нанася ответни удари по кораби в Черно море",
    "titles": {
-    "bg": "Путин призна: Русия нанася ответни удари по кораби в Черно море"
+    "bg": "Путин призна: Русия нанася ответни удари по кораби в Черно море",
+    "en": "Putin admits: Russia is carrying out retaliatory strikes against ships in the Black Sea",
+    "ro": "Putin a recunoscut: Rusia lansează atacuri de ripostă asupra navelor din Marea Neagră"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmNYQllnNUpCbUp6R1B3andzVmtGWHBVYnpOc3NyQWJfa1U4MUtobF8xLUdXZzdzMVdEblRVbUp5TVY5XzN1QWxjeE5MaDFfck1vOTBpbUEyWVpFQmRPd0k5N1ZtZTF4eW9XU3BTbDFxa3htRkVaQTgwekxoQklSLW4wal9aSEZ0Rk9rQ2pTQl9PbmpOelg4bFFpajJrZlJ2SDRpdVBfUS0?oc=5",
@@ -4641,38 +4645,6 @@
    "also": []
   },
   {
-   "id": "e13c93ff5d77",
-   "lang": "bg",
-   "title": "Главният механик на танкер почина след медицинска евакуация във Варна",
-   "titles": {
-    "bg": "Главният механик на танкер почина след медицинска евакуация във Варна"
-   },
-   "summary": "Главният механик на танкера LISBON почина след медицинска евакуация във Варна. Морякът е бил транспортиран до района на Морска гара със спасителния катер „СПАСИТЕЛ 1“ на Изпълнителна агенция „Морска а ...",
-   "url": "https://nova.bg/news/view/2026/11/23/560247/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B8%D1%8F%D1%82-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA-%D0%BD%D0%B0-%D1%82%D0%B0%D0%BD%D0%BA%D0%B5%D1%80-%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B0-%D1%81%D0%BB%D0%B5%D0%B4-%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%B0-%D0%B5%D0%B2%D0%B0%D0%BA%D1%83%D0%B0%D1%86%D0%B8%D1%8F-%D0%B2%D1%8A%D0%B2-%D0%B2%D0%B0%D1%80%D0%BD%D0%B0/",
-   "source": "Нова телевизия",
-   "published": "2026-11-23T04:49:00Z",
-   "fetched": "2026-11-26T07:20:39Z",
-   "image": "https://cdn4.focus.bg/fakti/photos/fb/600/glavniat-mehanik-na-tanker-pochina-sled-evakuacia-vav-varna-1.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.F-pHYi6g_kLfS2K4Q_p5fA&pid=News",
-   "topics": [
-    "energy"
-   ],
-   "places": [
-    "varna"
-   ],
-   "also": [
-    {
-     "source": "ФАКТИ.БГ",
-     "url": "https://fakti.bg/bulgaria/1103865-glavniat-mehanik-na-tankera-lisbon-pochina-sled-medicinska-evakuacia-krai-varna"
-    },
-    {
-     "source": "Maritime.bg - Морският портал",
-     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hR1B6bVAta254TXlYaWNBb29Cc2tQS1F1Y3JQSjJXUERsQUFrSkpGdEtMN2x0R1hKY1A3T0J4RkxqZ2lnWmc?oc=5"
-    }
-   ],
-   "img_checked": true
-  },
-  {
    "id": "70e1b2bccf1e",
    "lang": "en",
    "title": "Former Bulgarian and Romanian defence ministers call for EU naval mission in the Black Sea",
@@ -4933,6 +4905,42 @@
     {
      "source": "The New Voice of Ukraine",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSjk5Rm5DU3VwTE5BRHRmLWNzd1RvMDQxcEZEV1p0MEtXR0JfNXRoenBnWjZMMERraEo1U2p3WUpGQzZPRFJLQjEyNFVsOUhqakk0TzVyQnpJM1lpSUZuREM4NHRkek1uQzl5bjJBQUlncFN5cTROR2h0ZEZmQUhMSnhibHhBY0NhYzJJZ2NaQzZyMUl1ZFpsd3RjY1ladzE5QjdNa0xSV1J5SE1TWHV4bnVwMHYzN0xiTVRIck1vNGFHYnFVZzd2RHJhN203UdIBygFBVV95cUxPQXFISHViQ1BMcEU5Z0lsaEVxWGt0blZuUjBlSzdGYU5WQjdIYXRubWFyY09XcFRjc1RMMVZtRWFvbVpMRGxzMXp3dVVrNkt6ZWtOOFlRYTFncVFQN1psWmlWWldHR25ST29XN3NRem1YZ0FsaTZWT21YaHlSTV90WTJjOVVhaUpzeU5qMjEwUHNCSWppc1lfZHlHaHdlMGdqcC1lUlRlcnVVSXR5aWhNbXFVSVYwNFZhbDJjY2o2OXQ3YktsZHpKMGFB?oc=5"
+    }
+   ],
+   "img_checked": true
+  },
+  {
+   "id": "96897a56513c",
+   "lang": "bg",
+   "title": "Главният механик на танкера LISBON издъхна след медицинска евакуация във Варна",
+   "titles": {
+    "bg": "Главният механик на танкера LISBON издъхна след медицинска евакуация във Варна"
+   },
+   "summary": "Мъжът е бил транспортиран до района на Морска гара със спасителния катер \"СПАСИТЕЛ 1\" на Изпълнителна агенция \"Морска администрация\" ...",
+   "url": "https://dnes.dir.bg/intsidenti/glavniyat-mehanik-na-tankera-lisbon-izdahna-sled-meditsinska-evakuatsiya-vav-varna",
+   "source": "Dnes.dir.bg",
+   "published": "2026-11-22T21:17:00Z",
+   "fetched": "2026-11-27T00:02:28Z",
+   "image": "https://cdn4.focus.bg/fakti/photos/fb/600/glavniat-mehanik-na-tanker-pochina-sled-evakuacia-vav-varna-1.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.s8HvQVUnLfASz8Ldu_Agvg&pid=News",
+   "topics": [
+    "energy"
+   ],
+   "places": [
+    "varna"
+   ],
+   "also": [
+    {
+     "source": "Нова телевизия",
+     "url": "https://nova.bg/news/view/2026/11/23/560247/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B8%D1%8F%D1%82-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA-%D0%BD%D0%B0-%D1%82%D0%B0%D0%BD%D0%BA%D0%B5%D1%80-%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B0-%D1%81%D0%BB%D0%B5%D0%B4-%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%B0-%D0%B5%D0%B2%D0%B0%D0%BA%D1%83%D0%B0%D1%86%D0%B8%D1%8F-%D0%B2%D1%8A%D0%B2-%D0%B2%D0%B0%D1%80%D0%BD%D0%B0/"
+    },
+    {
+     "source": "ФАКТИ.БГ",
+     "url": "https://fakti.bg/bulgaria/1103865-glavniat-mehanik-na-tankera-lisbon-pochina-sled-medicinska-evakuacia-krai-varna"
+    },
+    {
+     "source": "Maritime.bg - Морският портал",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hR1B6bVAta254TXlYaWNBb29Cc2tQS1F1Y3JQSjJXUERsQUFrSkpGdEtMN2x0R1hKY1A3T0J4RkxqZ2lnWmc?oc=5"
     }
    ],
    "img_checked": true
@@ -6078,28 +6086,6 @@
    "also": []
   },
   {
-   "id": "d02e683de877",
-   "lang": "ro",
-   "title": "Dispută politică în Bulgaria, pe tema securității maritime în Marea Neagră. Premierul invocă limitări tehnico-militare în combaterea dronelor: „Pirații își fac de cap!”",
-   "titles": {
-    "ro": "Dispută politică în Bulgaria, pe tema securității maritime în Marea Neagră. Premierul invocă limitări tehnico-militare în combaterea dronelor: „Pirații își fac de cap!”"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOeVZHQkpNRy1FclhzLVhiS1BialZNZjF3MDBjX3E3U0E2MndrQjdqaXZJN2xIbVVlbDhjbjJNX25NT2lBZEhLZEpzZlJocTNuVWhpZEV1bjQwcmZVdzBsUUJIMmVNM0NOU21HUTJyZmdQN09UTVNPM2ZDZTdiUTZqWFE4NTdyWlpubmYtcGpHN2c1QXpXUUNpZFd4emZDOHotNmFVY1hLWGRBVjk4SzIzUTNWdUxldFp4VW94eGJPdlVCdXdpN3JJMTJ5YTgyRFVyVFlHTlEtQ25kMTNrQmNoZmF0RE5xY3VmRldoRlNhOEFTTlZVTlVlaTV1clc0VTg4MUNBZkVpXzBlbGRPWVhiT2tn0gGaAkFVX3lxTE1peTNNVUtRanZURGlMOFBBVWpmODhncnlnbEJGSTNZa0dTSzNNQUN1cjdSN0xwU2s4d0NGWWFuMWFvVFhLWFNCYzQySnBhZjhTeDlJRnA5eHY4QzhZc2RISWYyRXVNN3dsY3FRdVg5LTFXX3RmOHZvZENHRDIwc1JSV1JaS2ZVTXJwaGM1Z1VfS1dOdVR5RVRSRFRRQUxmOG00SEJmY0ZIUEJ1MXZ1dzUyLU1MdHBFWlZiZm1Fbzc1NzhiM01fdmNCQWJ1c0pIVHA1T1dtdEV4TW1jQlNDY0RwRmZ6Vm1oRWF2RVliMmZjUEM2cUhOdVR2ZW4zb1hNUDlra3g5YlZycEdYeXZIazNrQi1faGI0bXZHdw?oc=5",
-   "source": "tomis news",
-   "published": "2026-11-20T10:26:46Z",
-   "fetched": "2026-11-26T19:06:45Z",
-   "image": "",
-   "fallback_image": "",
-   "topics": [
-    "policy",
-    "attacks"
-   ],
-   "places": [],
-   "also": [],
-   "img_checked": true
-  },
-  {
    "id": "8665dc42d36e",
    "lang": "en",
    "title": "Black Sea danger zone expanded as seafarer war risk protections widened",
@@ -6497,6 +6483,34 @@
     "constanta"
    ],
    "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "f6f71f78504a",
+   "lang": "ro",
+   "title": "Premierul Bulgariei a explicat de ce țara sa nu este în prezent în măsură să distrugă dronele din Marea Neagră. „Pirații își fac de cap”",
+   "titles": {
+    "ro": "Premierul Bulgariei a explicat de ce țara sa nu este în prezent în măsură să distrugă dronele din Marea Neagră. „Pirații își fac de cap”"
+   },
+   "summary": "Premierul Rumen Radev a declarat că Bulgaria nu este în prezent în măsură să distrugă dronele care operează în Marea Neagră, din cauza unor limitări tehnico-militare, adăugând că țara sa colaborează c ...",
+   "url": "https://ziare.com/bulgaria/drone-distruse-marea-neagra-2048839",
+   "source": "Ziare.com",
+   "published": "2026-11-20T00:37:00Z",
+   "fetched": "2026-11-27T00:02:28Z",
+   "image": "https://s1.ziareromania.ro/?mmid=a88c956b36d180b890",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.ao9vnB6zVxvobqJ85_QUbg&pid=News",
+   "topics": [
+    "policy",
+    "attacks"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "tomis news",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOeVZHQkpNRy1FclhzLVhiS1BialZNZjF3MDBjX3E3U0E2MndrQjdqaXZJN2xIbVVlbDhjbjJNX25NT2lBZEhLZEpzZlJocTNuVWhpZEV1bjQwcmZVdzBsUUJIMmVNM0NOU21HUTJyZmdQN09UTVNPM2ZDZTdiUTZqWFE4NTdyWlpubmYtcGpHN2c1QXpXUUNpZFd4emZDOHotNmFVY1hLWGRBVjk4SzIzUTNWdUxldFp4VW94eGJPdlVCdXdpN3JJMTJ5YTgyRFVyVFlHTlEtQ25kMTNrQmNoZmF0RE5xY3VmRldoRlNhOEFTTlZVTlVlaTV1clc0VTg4MUNBZkVpXzBlbGRPWVhiT2tn0gGaAkFVX3lxTE1peTNNVUtRanZURGlMOFBBVWpmODhncnlnbEJGSTNZa0dTSzNNQUN1cjdSN0xwU2s4d0NGWWFuMWFvVFhLWFNCYzQySnBhZjhTeDlJRnA5eHY4QzhZc2RISWYyRXVNN3dsY3FRdVg5LTFXX3RmOHZvZENHRDIwc1JSV1JaS2ZVTXJwaGM1Z1VfS1dOdVR5RVRSRFRRQUxmOG00SEJmY0ZIUEJ1MXZ1dzUyLU1MdHBFWlZiZm1Fbzc1NzhiM01fdmNCQWJ1c0pIVHA1T1dtdEV4TW1jQlNDY0RwRmZ6Vm1oRWF2RVliMmZjUEM2cUhOdVR2ZW4zb1hNUDlra3g5YlZycEdYeXZIazNrQi1faGI0bXZHdw?oc=5"
+    }
+   ],
    "img_tried": true,
    "img_checked": true
   },
@@ -9278,7 +9292,12 @@
    "places": [],
    "img_tried": true,
    "img_checked": true,
-   "also": []
+   "also": [
+    {
+     "source": "Aleph News",
+     "url": "https://alephnews.ro/guvern/nava-care-se-indrepta-spre-romania-scufundata-in-marea-neagra-operatiune-de-salvare-pentru-19-marinari/"
+    }
+   ]
   },
   {
    "id": "9fee900c0835",
