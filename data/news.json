@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-27T15:07:09Z",
+ "updated": "2026-11-27T16:14:35Z",
  "items": [
+  {
+   "id": "7b31c89985d9",
+   "lang": "en",
+   "title": "Russia seeks to bring oil shipments under proposed Black Sea ceasefire",
+   "titles": {
+    "en": "Russia seeks to bring oil shipments under proposed Black Sea ceasefire",
+    "ro": "Rusia urmărește să includă transporturile de petrol în cadrul armistițiului propus pentru Marea Neagră",
+    "bg": "Русия се стреми да включи доставките на петрол в предложеното примирие в Черно море"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSmNOTGg4LWZRVmtLZDNkVmFwXzd6aUNMbGJ2RlJpWEpJbk92WnNGRnhTdEFiV2JtR3FYR3hxTlIzcHZrbzEzT3RPOTZ0Rml1elpHZmhjWHNLNG43aVEyV3FrVHlCazdNSm5hVHlMZnU0N3lqTFFOXzZVMUxlUFU0SGJvWG5OUkhoY28wcjIweHRwRHZLamdHd3Y1NGRhNElkWWNzNi1aak1rSkV4TFpRanJxTU9qTFMzcm40b2l1cmRzdw?oc=5",
+   "source": "Business Upturn",
+   "published": "2026-11-27T16:02:46Z",
+   "fetched": "2026-11-27T16:11:47Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "shipping",
+    "energy"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
   {
    "id": "4a0343c6229f",
    "lang": "ro",
@@ -98,6 +122,33 @@
    ],
    "places": [],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "38c520e7e44e",
+   "lang": "en",
+   "title": "‘It’s ecocide’: Ukraine’s Black Sea wildlife is being devastated by the Russian invasion",
+   "titles": {
+    "en": "‘It’s ecocide’: Ukraine’s Black Sea wildlife is being devastated by the Russian invasion",
+    "ro": "„Este un ecocid”: fauna din zona Mării Negre a Ucrainei este devastată de invazia rusă",
+    "bg": "„Това е екоцид“: дивата природа на Украйна в Черноморския регион бива опустошена от руската инвазия"
+   },
+   "summary": "Balinskyi is still seeing plumes of oil released from two Russian tankers that sank during storms in 2024 in the Kerch Strait near Crimea, some 600km east of the Tuzly lagoons, and the full impact of ...",
+   "url": "https://www.irishtimes.com/world/europe/2026/11/27/its-ecocide-ukraines-black-sea-wildlife-is-being-devastated-by-the-russian-invasion/",
+   "source": "The Irish Times",
+   "published": "2026-11-27T08:00:00Z",
+   "fetched": "2026-11-27T16:11:47Z",
+   "image": "https://www.irishtimes.com/resizer/v2/KM5NH7A737YEJKN43G67GUYILY.jpg?smart=true&auth=190d99b2ccdad960807a890122c1c4129e9fe5786eeff28f8cd4eb7966253d13&width=1200&height=630",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.-MnG0Flf9gHLQw0TNb6TbQ&pid=News",
+   "topics": [
+    "energy"
+   ],
+   "places": [
+    "kerch",
+    "crimea"
+   ],
+   "also": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -225,6 +276,28 @@
    "img_checked": true
   },
   {
+   "id": "c34eef557db9",
+   "lang": "en",
+   "title": "Zelenskyy Warns Black Sea Export Disruptions Threaten Food Supplies for 'Hundreds of Millions'",
+   "titles": {
+    "en": "Zelenskyy Warns Black Sea Export Disruptions Threaten Food Supplies for 'Hundreds of Millions'"
+   },
+   "summary": "Zelenskyy warned Black Sea export disruptions could threaten food supplies for hundreds of millions, raise prices and put pressure on Ukraine's farmers.",
+   "url": "https://www.ibtimes.sg/zelenskyy-warns-black-sea-export-disruptions-threaten-food-supplies-hundreds-millions-96761",
+   "source": "International Business Times Singapore",
+   "published": "2026-11-27T01:43:00Z",
+   "fetched": "2026-11-27T16:11:47Z",
+   "image": "https://cdn.data.ibtimes.sg/en/full/100280/zelenskyy-visits-odesa-port-black-sea-grain-export-disruptions-threaten-food-supplies.jpg?w=1200&h=630?q=60",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.wZY2Fqqkl21HwA3_BluoSg&pid=News",
+   "topics": [
+    "prices"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "4f47f53e2600",
    "lang": "en",
    "title": "Russia strikes two Greek grain ships running blockade of Ukraine’s ports",
@@ -256,37 +329,6 @@
     {
      "source": "TradeWinds News",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSTVqNlFsUjlkUjJFZHdIa0ZPbG5wMWZHT21jeml3VGtMOXEzdGdFUUZyaEVadWxaOFI3S2FwVVYwUktrVTlDYm9ZRjFfU0ZoLUo3M0p5elB2bmRvTDZYQ0RtVVBuSHcwa0M0WFY0c2FTdWlOcjkzbGt5ZVA4eXVMUjNwUHdHUWJzempzMWFpeG9tNFI0M1RSRmoxTWJSRWtpM2c4SjB5dENvYmJXeFRxNGlDUGdkUm95YjhzUmh4VzNvZWNN?oc=5"
-    }
-   ],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
-   "id": "6dcf52840fbf",
-   "lang": "ro",
-   "title": "CBS: Frontul din Marea Neagră riscă să atragă SUA în conflict. României i-a fost atacat teritoriul pentru prima dată după Al Doilea Război Mondial, când nave au fost ...",
-   "titles": {
-    "ro": "CBS: Frontul din Marea Neagră riscă să atragă SUA în conflict. României i-a fost atacat teritoriul pentru prima dată după Al Doilea Război Mondial, când nave au fost ...",
-    "en": "CBS: The Black Sea front risks drawing the US into the conflict. Romania’s territory has been attacked for the first time since the Second World War, when ships were …",
-    "bg": "CBS: Фронтът в Черно море рискува да въвлече САЩ в конфликта. За първи път след Втората световна война територията на Румъния беше атакувана, когато кораби бяха..."
-   },
-   "summary": "Este un front al războiului dintre Rusia şi Ucraina pe care majoritatea oamenilor îl văd rareori. Acesta ajunge chiar la pragul NATO şi, uneori, pătrunde în apele Alianţei — riscând să atragă NATO, şi ...",
-   "url": "https://monitorulapararii.ro/cbs-frontul-din-marea-neagra-risca-sa-atraga-sua-in-conflict-romaniei-i-a-fost-atacat-teritoriul-pentru-prima-data-dupa-al-doilea-razboi-mondial-cand-1-63418",
-   "source": "monitorulapararii",
-   "published": "2026-11-27T01:08:00Z",
-   "fetched": "2026-11-27T10:05:23Z",
-   "image": "https://storage0.dms.mpinteractiv.ro/media/2/2921/35768/23290917/1/hvkrlbixuaa1igi.jpg?width=620",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.zDDkTMIcxGjLn77pHOc6gg&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "also": [
-    {
-     "source": "Libertatea",
-     "url": "https://www.libertatea.ro/stiri/frontul-de-la-marea-neagra-ameninta-sa-atraga-sua-si-nato-in-razboiul-din-ucraina-reportaj-cbs-in-romania-zfeb5x1"
     }
    ],
    "img_tried": true,
@@ -335,6 +377,29 @@
     "attacks",
     "shipping",
     "energy"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "51e51aab98d6",
+   "lang": "en",
+   "title": "The Black Sea Has Become the World's Most Dangerous Maritime Route — UN",
+   "titles": {
+    "en": "The Black Sea Has Become the World's Most Dangerous Maritime Route — UN"
+   },
+   "summary": "In 2026, more than 300 attacks were recorded in the Black Sea, resulting in the deaths of at least 40 people. Threats to shipping are hampering Ukrainian food exports, which also affects global food ...",
+   "url": "https://ua.news/en/war-vs-rf/chorne-more-stalo-nainebezpechnishim-morskim-marshrutom-u-sviti-oon",
+   "source": "UA.NEWS",
+   "published": "2026-11-26T19:50:00Z",
+   "fetched": "2026-11-27T16:11:47Z",
+   "image": "https://cdn-cabinet.ua.news/uploads/images/680288a77a105/630_360_1795787375_620.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.AIsIJBdnt6eR6sympMIYeg&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
    ],
    "places": [],
    "also": [],
@@ -828,6 +893,14 @@
     {
      "source": "Știrile PRO TV",
      "url": "https://stirileprotv.ro/stiri/international/reportaj-cbs-in-romania-cum-risca-razboiul-din-marea-neagra-sa-implice-sua-in-conflictul-ruso-ucrainean.html"
+    },
+    {
+     "source": "monitorulapararii",
+     "url": "https://monitorulapararii.ro/cbs-frontul-din-marea-neagra-risca-sa-atraga-sua-in-conflict-romaniei-i-a-fost-atacat-teritoriul-pentru-prima-data-dupa-al-doilea-razboi-mondial-cand-1-63418"
+    },
+    {
+     "source": "Libertatea",
+     "url": "https://www.libertatea.ro/stiri/frontul-de-la-marea-neagra-ameninta-sa-atraga-sua-si-nato-in-razboiul-din-ucraina-reportaj-cbs-in-romania-zfeb5x1"
     }
    ],
    "img_tried": true,
@@ -10378,127 +10451,33 @@
    "also": []
   },
   {
-   "id": "c6629455dbf2",
-   "lang": "bg",
-   "title": "Атака с морски дронове преобърна кораб в Черно море, целият екипаж е спасен",
+   "id": "b55b6f63d8c3",
+   "lang": "en",
+   "title": "Three Commercial Ships Hit by Drones in Black Sea Near Romania",
    "titles": {
-    "bg": "Атака с морски дронове преобърна кораб в Черно море, целият екипаж е спасен"
+    "en": "Three Commercial Ships Hit by Drones in Black Sea Near Romania"
    },
-   "summary": "Нова атака с дронове на търговски кораб в изключителната икономическа зона на България. В 9.15 ч. тази сутрин плавателният съд BETUL 8 е подал ...",
-   "url": "https://bntnews.bg/news/ataka-s-morski-dronove-preobarna-korab-v-cherno-more-celiyat-ekipazh-e-spasen-1422533news.html",
-   "source": "БНТ Новини",
-   "published": "2026-11-15T19:37:00Z",
-   "fetched": "2026-11-25T13:50:37Z",
-   "image": "https://bntnews.bg/f/news/b/1422/3fd3439a90cf17b36ae52ee2595d1c2d.png",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.w9xSp_H3WAIX67bJzqqMdg&pid=News",
+   "summary": "Drones have struck three commercial ships in the Black Sea near Romania's Sulina canal, Prime Minister Luca Niculescu said on ...",
+   "url": "https://www.marinelink.com/news/three-commercial-ships-hit-drones-black-544363",
+   "source": "MarineLink",
+   "published": "2026-11-15T22:01:00Z",
+   "fetched": "2026-11-27T16:11:47Z",
+   "image": "https://images.marinelink.com/images/maritime/w800/urbans78-adobe-175063.jpeg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.mYsmttiS89tCfV91pL4PHg&pid=News",
    "topics": [
+    "policy",
     "attacks",
     "shipping"
    ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "b6354a76fe2f",
-   "lang": "en",
-   "title": "Cargo ship sinking in Black Sea off Bulgaria, says transport ministry",
-   "titles": {
-    "en": "Cargo ship sinking in Black Sea off Bulgaria, says transport ministry"
-   },
-   "summary": "Bulgaria received a distress signal from a sinking cargo ship in its exclusive economic zone in the Black Sea on Monday, its transport ministry said.",
-   "url": "https://www.thenewstribune.com/news/nation-world/world/article318097496.html",
-   "source": "The News Tribune",
-   "published": "2026-11-15T18:43:00Z",
-   "fetched": "2026-11-27T05:20:41Z",
-   "image": "https://www.rador.ro/wp-content/uploads/2026/10/Marea-Neagra.jpg",
-   "fallback_image": "",
-   "topics": [
-    "policy",
-    "shipping"
+   "places": [
+    "danube"
    ],
-   "places": [],
    "also": [
     {
-     "source": "U.S. News & World Report",
-     "url": "https://www.usnews.com/news/world/articles/2026-11-16/cargo-ship-sinking-in-black-sea-off-bulgaria-says-transport-ministry"
-    },
-    {
-     "source": "The Kansas City Star",
-     "url": "https://www.kansascity.com/news/nation-world/world/article318113727.html"
-    },
-    {
-     "source": "WTOP",
-     "url": "https://wtop.com/world/2026/11/cargo-ship-sinks-off-bulgarias-black-sea-coast/"
-    },
-    {
-     "source": "Associated Press News",
-     "url": "https://apnews.com/article/bulgaria-romania-black-sea-cargo-ship-betul-9dd38253281fb1889e39ec7a9a57f9e5"
-    },
-    {
-     "source": "WRAL",
-     "url": "https://www.wral.com/news/ap/9dd38-cargo-ship-sinks-off-bulgarias-black-sea-coast/"
-    },
-    {
-     "source": "Agenția de presă Rador",
-     "url": "https://www.rador.ro/2026/11/16/o-nava-cargo-se-scufunda-in-marea-neagra-in-largul-bulgariei-anunta-ministerul-transporturilor/"
-    },
-    {
-     "source": "Wall-Street.ro",
-     "url": "https://www.wall-street.ro/articol/international/cargou-cu-cereale-din-romania-in-pericol-in-marea-neagra.html"
-    },
-    {
-     "source": "Forbes România",
-     "url": "https://www.forbes.ro/o-nava-cu-peste-3-400-de-tone-de-propan-s-a-scufundat-in-marea-neagra-in-largul-bulgariei-532112"
+     "source": "Seatrade Maritime",
+     "url": "https://www.seatrade-maritime.com/security/black-sea-drone-strikes-hit-four-ships-near-romanian-coast"
     }
    ],
-   "img_checked": true
-  },
-  {
-   "id": "121c120bb445",
-   "lang": "ro",
-   "title": "EURONEWS: Marea Neagră: trei nave comerciale au fost lovite de drone în largul coastelor României",
-   "titles": {
-    "ro": "EURONEWS: Marea Neagră: trei nave comerciale au fost lovite de drone în largul coastelor României"
-   },
-   "summary": "„În lipsa unui acord scris cu RADOR, puteţi prelua maxim 500 de caractere dintr-un text, fără a depăşi jumătate din articolul sau ştirea respectivă. În acest caz, obligatoriu, trebuie citată sursa ...",
-   "url": "https://www.rador.ro/2026/11/16/euronews-marea-neagra-trei-nave-comerciale-au-fost-lovite-de-drone-in-largul-coastelor-romaniei/",
-   "source": "Agenția de presă Rador",
-   "published": "2026-11-15T17:43:00Z",
-   "fetched": "2026-11-25T14:58:21Z",
-   "image": "https://www.rador.ro/wp-content/uploads/2025/09/fortele-navale-salupa-militara-marea-neagra-agerpres_18518939.jpeg",
-   "fallback_image": "",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "74f800fb0fd5",
-   "lang": "en",
-   "title": "Drones Strike Three Civilian Vessels Off Romania’s Coast",
-   "titles": {
-    "en": "Drones Strike Three Civilian Vessels Off Romania’s Coast"
-   },
-   "summary": "Unidentified drones struck three civilian vessels in the Black Sea off Romania’s coast. Fires broke out aboard the vessels, but their crews managed to ...",
-   "url": "https://militarnyi.com/en/news/drones-strike-three-civilian-vessels-off-romania-s-coast/",
-   "source": "militarnyi",
-   "published": "2026-11-15T14:24:00Z",
-   "fetched": "2026-11-27T10:22:19Z",
-   "image": "https://militarnyi.com/wp-content/uploads/2026/11/Obgorila-paluba-tankera-Ali-Najafov-Rumuniya-e1794772299588-1.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.iPzTupKSD6OWN2__raqmcQ&pid=News",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "also": [],
    "img_tried": true,
    "img_checked": true
   }
