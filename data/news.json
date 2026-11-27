@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-27T20:09:02Z",
+ "updated": "2026-11-27T21:06:53Z",
  "items": [
+  {
+   "id": "50d0c2f538aa",
+   "lang": "en",
+   "title": "Русия иска петрола в примирието в Черно море",
+   "titles": {
+    "en": "Русия иска петрола в примирието в Черно море",
+    "ro": "Rusia dorește petrolul în cadrul armistițiului din Marea Neagră",
+    "bg": "Русия иска петрола като част от примирието в Черно море"
+   },
+   "summary": "",
+   "url": "https://fakti.bg/world/1105269-rusia-iska-da-vkluchi-petrola-v-primirieto-v-cherno-more",
+   "source": "fakti.bg",
+   "published": "2026-11-27T20:30:00Z",
+   "fetched": "2026-11-27T21:04:02Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "energy"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
   {
    "id": "36527d339a16",
    "lang": "ro",
@@ -50,6 +73,31 @@
    "img_checked": true
   },
   {
+   "id": "d772a6a55416",
+   "lang": "en",
+   "title": "Shipping disruptions in Black Sea push European wheat to one-month high",
+   "titles": {
+    "en": "Shipping disruptions in Black Sea push European wheat to one-month high",
+    "ro": "Perturbările din transportul maritim pe Marea Neagră determină creșterea prețului grâului european la cel mai ridicat nivel din ultima lună",
+    "bg": "Смущенията в морските превози в Черно море изтласкват цените на европейската пшеница до едномесечен връх"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmX19qc2V5cTNEb2lneUpPOW1jMkZ2WFpNVFQ1UUM5U2ozNUpBUnFTS3dVYTVfLXRvMW9OQmc5alpLR1BNTnNEcDI3ZkpwN2c5VDBtZUdaNGI?oc=5",
+   "source": "وكالة سبأ",
+   "published": "2026-11-27T16:30:34Z",
+   "fetched": "2026-11-27T21:04:02Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "shipping",
+    "grain"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
+  {
    "id": "5ce464a77363",
    "lang": "en",
    "title": "Ukraine Warns of a Black Sea ‘Hormuz’ as Attacks Threaten Food Aid to 3 Countries at Risk of Famine",
@@ -91,6 +139,28 @@
    "topics": [
     "shipping",
     "energy"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "6dcf52840fbf",
+   "lang": "ro",
+   "title": "CBS: Frontul din Marea Neagră riscă să atragă SUA în conflict. României i-a fost atacat teritoriul pentru prima dată după Al Doilea Război Mondial, când nave au fost lovite în apele teritoriale",
+   "titles": {
+    "ro": "CBS: Frontul din Marea Neagră riscă să atragă SUA în conflict. României i-a fost atacat teritoriul pentru prima dată după Al Doilea Război Mondial, când nave au fost lovite în apele teritoriale"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPWkdzemI5Z2RIQlRZSHpab1U4RXFjZUxyZkNQc1gyY3BFRnBvdDNuN2tiSmd2VFJxMVZLTnV6RG5iNURzUkphXzIybTB0VXA5cWxUXzhoaHZoU1cyQ2tER2RYX29kODA4NmJYLXNEMENUVktVYVNORzhOVmNNWDNaWGxzOVZFQXlSRGJrbERuQkh3X2FLOGVJSk5sS001SVdqV2FMYjdrYjZEeHNaS2pnbTJmSV9jQkcwYXdoaVc1LTlDY0NDMHpnYTg3Z1d0WFNGOUFUOXRJRlNRNVJwRmJxRG1VQXloSW5BR3A5eGZodk9GY2k5WGxOVm1NdjJaSzFrMEdhYjhMci1xMHhOM3Y4SlF1NGY3VUM5MERkUVF6dW5SYmtMLTZEZlUtWmY0WTNpa0ZIaFBnLXBnRWt0bUptSdIBxgJBVV95cUxQVUpBdGdMQWhGcHF2OEV3SjVYc0d1NlMyOERrVjB4cUlyd21HeUwxUVVCcDZibDFkTEpZT3Izbm1xZjE1SUFYQlZQZ1pDcDlJOTlva1JVN0dYUFdtTnROR2J4a0NUWlVoMnhsSTNpcm1odkRWVjdXSjFUV3owZDNLeXN3ZmJOVXVBNXlVS09aQVQzcm5jUnVoT1JHNXRZRWZDY09kb0dtb3dYZktsckVtdEtFMlpObGMzQnoxdHEyS0htd3MzQTdBV196dXlBTS11QXgwYnBSallSdTY1ZGZwbWFaZFpUWUFici1RcmtfYVAya2RnUlMwS3lCdmI3S1dOTUlkZldheUpWN19DTjJpWC1zc00wVUtSaENrOW91QjNZU0xQS0FBa1FFSXBULW55ajNpNEdid0Y3QWstUGlWejlHcklmUQ?oc=5",
+   "source": "Aleph News",
+   "published": "2026-11-27T14:31:00Z",
+   "fetched": "2026-11-27T21:04:02Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "attacks",
+    "shipping"
    ],
    "places": [],
    "also": [],
@@ -145,6 +215,29 @@
    ],
    "places": [],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "ec3d82147422",
+   "lang": "en",
+   "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
+   "titles": {
+    "en": "Kyiv offers Black Sea ceasefire to protect grain exports"
+   },
+   "summary": "Ukraine awaits Moscow’s response to Black Sea ceasefire proposal as Zelenskyy criticises Trump’s Putin ‘friendship’ ...",
+   "url": "https://www.yahoo.com/news/world/articles/kyiv-offers-black-sea-ceasefire-174433191.html",
+   "source": "Yahoo",
+   "published": "2026-11-27T09:44:00Z",
+   "fetched": "2026-11-27T21:04:02Z",
+   "image": "https://s.yimg.com/lo/mysterio/api/8c14fc454d847e4b316ccdc70ab0e699d34d3baecdaae5241dbc42e0004a1a16/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F919f870ef28fdcc809b761b14d3e3f50.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.78jm6zKCnDLONaHvCvG6yg&pid=News",
+   "topics": [
+    "policy",
+    "grain"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -248,6 +341,33 @@
    "img_checked": true
   },
   {
+   "id": "57392ce3c033",
+   "lang": "en",
+   "title": "“The Port Shutdown Has Put All Agricultural Exports at Risk,”- Says Orexim Co-Owner Artem Malynovskyi",
+   "titles": {
+    "en": "“The Port Shutdown Has Put All Agricultural Exports at Risk,”- Says Orexim Co-Owner Artem Malynovskyi"
+   },
+   "summary": "Because of constant enemy attacks, vessel calls at the ports of Greater Odesa have dropped almost to zero, effectively bringing operations to a halt. Strikes on ...",
+   "url": "https://agronews.ua/en/news/the-port-shutdown-has-put-all-agricultural-exports-at-risk-says-orexim-co-owner-artem-malynovskyi/",
+   "source": "agronews",
+   "published": "2026-11-27T04:29:00Z",
+   "fetched": "2026-11-27T21:04:02Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "attacks",
+    "shipping",
+    "grain",
+    "ports"
+   ],
+   "places": [
+    "odesa"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "722b2f2d2d6a",
    "lang": "ro",
    "title": "Rusia pierde avantajul pe un front neașteptat. Ucraina își demonstrează forța cu drone care lovesc de la Marea Neagră până la Marea Baltică",
@@ -321,6 +441,27 @@
    "places": [],
    "also": [],
    "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "c24e056b9c29",
+   "lang": "en",
+   "title": "Black Sea Maritime Escalation Puts NATO and the U.S. on a Collision Course",
+   "titles": {
+    "en": "Black Sea Maritime Escalation Puts NATO and the U.S. on a Collision Course"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rTkhrR1J1cUttQndRLV80QzdobE4tNFZweW5RRDlLU2xxVXZ5MW5Qa200Mkc2WjFMVGVyOTBvbGxacDR4d0pfYjBtQ0NkZVdSVXR1WUJrMWJ5S0tHMXpKRGVFMlAxMDFENHR1cnEyZ2tfb3Rh?oc=5",
+   "source": "azat.tv",
+   "published": "2026-11-27T02:15:00Z",
+   "fetched": "2026-11-27T21:04:02Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "also": [],
    "img_checked": true
   },
   {
@@ -404,6 +545,29 @@
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSTVqNlFsUjlkUjJFZHdIa0ZPbG5wMWZHT21jeml3VGtMOXEzdGdFUUZyaEVadWxaOFI3S2FwVVYwUktrVTlDYm9ZRjFfU0ZoLUo3M0p5elB2bmRvTDZYQ0RtVVBuSHcwa0M0WFY0c2FTdWlOcjkzbGt5ZVA4eXVMUjNwUHdHUWJzempzMWFpeG9tNFI0M1RSRmoxTWJSRWtpM2c4SjB5dENvYmJXeFRxNGlDUGdkUm95YjhzUmh4VzNvZWNN?oc=5"
     }
    ],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "44c2138c1351",
+   "lang": "en",
+   "title": "Russia Wants Oil Included in Black Sea Ceasefire",
+   "titles": {
+    "en": "Russia Wants Oil Included in Black Sea Ceasefire"
+   },
+   "summary": "Ukraine insists that the arrangements be limited to the safety of shipping and the export of agricultural products ...",
+   "url": "https://fakti.bg/en/world/1105269-russia-wants-oil-included-in-black-sea-ceasefire",
+   "source": "Fakti.bg",
+   "published": "2026-11-27T00:05:00Z",
+   "fetched": "2026-11-27T21:04:02Z",
+   "image": "https://www.bing.com/th?id=ONUT.f6ZL0Y33a98xAorbldyXtA&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.f6ZL0Y33a98xAorbldyXtA&pid=News",
+   "topics": [
+    "shipping",
+    "energy"
+   ],
+   "places": [],
+   "also": [],
    "img_tried": true,
    "img_checked": true
   },
@@ -508,6 +672,10 @@
     {
      "source": "newsweek",
      "url": "https://newsweek.ro/international/romania-cerere-nato-monitorizezare-neptun-deep-dan-neculaescu-rusia-revendicare-marea-neagra"
+    },
+    {
+     "source": "Aleph News",
+     "url": "https://alephnews.ro/guvern/neculaescu-sustinem-monitorizarea-instalatiilor-neptun-deep-de-catre-nato-rusia-incearca-sa-isi-revendice-marea-neagra/"
     }
    ],
    "img_tried": true,
@@ -10308,194 +10476,6 @@
     }
    ],
    "img_checked": true
-  },
-  {
-   "id": "eea5b1e25f1f",
-   "lang": "en",
-   "title": "Black Sea war risk premiums surge",
-   "titles": {
-    "en": "Black Sea war risk premiums surge"
-   },
-   "summary": "War risk insurance premiums for selected merchant vessels calling at the Caspian Pipeline Consortium terminal in the Black Sea port of Novorossiysk have surged to as much as 20% of a ship’s ...",
-   "url": "https://www.businessinsurance.com/black-sea-war-risk-premiums-surge/",
-   "source": "Business Insurance",
-   "published": "2026-11-16T06:20:00Z",
-   "fetched": "2026-11-25T13:50:37Z",
-   "image": "https://www.businessinsurance.com/wp-content/uploads/2023/03/cropped-BI-square-blue.png",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.6EHgvBRVcJ35T9ee_QfxlA&pid=News",
-   "topics": [
-    "shipping",
-    "insurance",
-    "energy",
-    "ports"
-   ],
-   "places": [
-    "novorossiysk"
-   ],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "0f68013edb0a",
-   "lang": "en",
-   "title": "Cargo Ship Offshore Bulgaria Sinks After Drone Strike",
-   "titles": {
-    "en": "Cargo Ship Offshore Bulgaria Sinks After Drone Strike"
-   },
-   "summary": "A cargo ship carrying wheat sank off Bulgaria's Black Sea coast on Monday after being hit by a sea drone and abandoned by its ...",
-   "url": "https://www.marinelink.com/news/cargo-ship-offshore-bulgaria-sinks-drone-544387",
-   "source": "MarineLink",
-   "published": "2026-11-16T05:54:00Z",
-   "fetched": "2026-11-27T10:05:23Z",
-   "image": "https://images.marinelink.com/images/maritime/w800/adobe-stockpeter-175086.jpeg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT._t8Tmy0TUSh-sxYmndYiNQ&pid=News",
-   "topics": [
-    "attacks",
-    "shipping",
-    "grain"
-   ],
-   "places": [],
-   "also": [
-    {
-     "source": "Southeast Missourian",
-     "url": "https://www.semissourian.com/business/cargo-ship-sinks-off-bulgarias-black-sea-coast-08c2def8"
-    },
-    {
-     "source": "WRAL",
-     "url": "https://www.wral.com/news/ap/9dd38-cargo-ship-sinks-off-bulgarias-black-sea-coast/"
-    },
-    {
-     "source": "Associated Press News",
-     "url": "https://apnews.com/article/bulgaria-romania-black-sea-cargo-ship-betul-9dd38253281fb1889e39ec7a9a57f9e5"
-    }
-   ],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
-   "id": "bec9d2a363bd",
-   "lang": "en",
-   "title": "Turkish Navy plans new Black Sea base in Rize, officials say",
-   "titles": {
-    "en": "Turkish Navy plans new Black Sea base in Rize, officials say"
-   },
-   "summary": "Turkey plans to establish a major naval base at Rize Port on the Black Sea, including shipyard facilities for submarines and ...",
-   "url": "https://ssbulten.com.tr/en/gundem/detay/turkish-navy-plans-new-black-sea-base-in-rize-officials-say--29728",
-   "source": "ssbulten",
-   "published": "2026-11-16T05:44:00Z",
-   "fetched": "2026-11-26T09:22:37Z",
-   "image": "https://www.bing.com/th?id=ONUT.4LB6JJhGz55eyauuSRynQw&pid=News",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.4LB6JJhGz55eyauuSRynQw&pid=News",
-   "topics": [
-    "policy",
-    "shipping",
-    "ports"
-   ],
-   "places": [],
-   "also": [],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
-   "id": "5d6ccf799272",
-   "lang": "ro",
-   "title": "Ministrul Apărării: România discută escortarea navelor comerciale în Marea Neagră și măsuri comune cu NATO",
-   "titles": {
-    "ro": "Ministrul Apărării: România discută escortarea navelor comerciale în Marea Neagră și măsuri comune cu NATO"
-   },
-   "summary": "O nouă operațiune de salvare a avut loc luni în Marea Neagră, după ce o navă comercială sub pavilion somalez a transmis că se scufundă.",
-   "url": "https://www.euronews.ro/articole/radu-oprea-despre-securitatea-navigatiei-in-marea-neagra-romania-discuta-escortar",
-   "source": "Euronews România",
-   "published": "2026-11-16T05:25:00Z",
-   "fetched": "2026-11-26T06:42:36Z",
-   "image": "https://www.datocms-assets.com/43475/1794226186-interviu-radu-oprea.png?auto=format&fit=max&w=1200",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.urwz6z7BYAcQB_4jv1Er0A&pid=News",
-   "topics": [
-    "policy",
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "b02b2f7b3fdd",
-   "lang": "ro",
-   "title": "Alertă în Marea Neagră. O navă cargo care plecase din Tulcea s-a...",
-   "titles": {
-    "ro": "Alertă în Marea Neagră. O navă cargo care plecase din Tulcea s-a..."
-   },
-   "summary": "O navă de marfă sub pavilion somalez, care plecase din Tulcea, a transmis un semnal de urgență în zona economică exclusivă bulgară a Mării Negre, după ce echipajul a raportat că nava se scufundă. Semn ...",
-   "url": "https://www.digi24.ro/stiri/actualitate/evenimente/alerta-in-marea-neagra-o-nava-cargo-care-plecase-din-tulcea-a-transmis-un-semnal-de-urgenta-in-zona-economica-exclusiva-bulgara-4038275",
-   "source": "Digi24",
-   "published": "2026-11-16T05:16:00Z",
-   "fetched": "2026-11-25T13:53:52Z",
-   "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjI1JTJGMzAyOTMxOF8zMDI5/MzE4X3Byb2ZpbWVkaWEtMDMxMzA1NzM5/Mi5qcGcmdz0xMjAwJmg9NjMwJnpjPTEm/aGFzaD00MTVhNDk3OTdiN2I0Mjk5YzEwNjNkNjBjODhmMDhhNw==.thumb.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.VN7D0hFiU2_yWPH4JPZo3A&pid=News",
-   "topics": [
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "also": [
-    {
-     "source": "B1TV.ro",
-     "url": "https://www.b1tv.ro/eveniment/operatiune-de-salvare-in-marea-neagra-ce-nava-s-a-scufundat-1750383.html"
-    }
-   ],
-   "img_checked": true
-  },
-  {
-   "id": "d8d1cffa7d61",
-   "lang": "en",
-   "title": "Incident involving a cargo ship in Bulgaria’s Black Sea exclusive economic zone",
-   "titles": {
-    "en": "Incident involving a cargo ship in Bulgaria’s Black Sea exclusive economic zone"
-   },
-   "summary": "The operation also involves two Cougar helicopters and an Su-25 aircraft of the Air Force, which will conduct surveillance and reconnaissance of the area ...",
-   "url": "https://fakti.bg/en/bulgaria/1101429-incident-involving-a-cargo-ship-in-bulgarias-black-sea-exclusive-economic-zone",
-   "source": "Fakti.bg",
-   "published": "2026-11-16T04:45:00Z",
-   "fetched": "2026-11-25T16:18:55Z",
-   "image": "https://www.bing.com/th?id=ONUT.WmgLzlFGltx-yJhRE5pz-g&pid=News",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.WmgLzlFGltx-yJhRE5pz-g&pid=News",
-   "topics": [
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "75462f51a6f2",
-   "lang": "ro",
-   "title": "UDPATE Operațiune de salvare în Marea Neagră. O navă comercială cu 12 marinari la bord ar fi fost lovită de două drone",
-   "titles": {
-    "ro": "UDPATE Operațiune de salvare în Marea Neagră. O navă comercială cu 12 marinari la bord ar fi fost lovită de două drone"
-   },
-   "summary": "O amplă operațiune de salvare este în desfășurare în Marea Neagră, după ce o navă comercială a transmis că se scufundă. La bordul vasului care navighează sub pavilion somalez, se află 12 marinari.",
-   "url": "https://www.euronews.ro/articole/operatiune-de-salvare-in-marea-neagra-o-nava-comerciala-cu-12-marinari-la-bord-se-scufunda",
-   "source": "Euronews România",
-   "published": "2026-11-16T04:07:00Z",
-   "fetched": "2026-11-26T06:42:36Z",
-   "image": "https://www.datocms-assets.com/43475/1784633643-operatiuni-de-salvare-dupa-atacul-asupra-navei-din-marea-neagra.jpeg?auto=format&fit=max&w=1200",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.24NO0ilQA5Ijx0Jkvq9mAQ&pid=News",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": [
-    {
-     "source": "Aleph News",
-     "url": "https://alephnews.ro/guvern/nava-care-se-indrepta-spre-romania-scufundata-in-marea-neagra-operatiune-de-salvare-pentru-19-marinari/"
-    }
-   ]
   }
  ]
 }
