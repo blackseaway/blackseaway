@@ -1,6 +1,52 @@
 {
- "updated": "2026-11-27T01:29:47Z",
+ "updated": "2026-11-27T03:07:11Z",
  "items": [
+  {
+   "id": "f6544f29959f",
+   "lang": "bg",
+   "title": "Черно море носи нарастващи рискове за НАТО и корабоплаването",
+   "titles": {
+    "bg": "Черно море носи нарастващи рискове за НАТО и корабоплаването",
+    "en": "The Black Sea poses growing risks to NATO and shipping",
+    "ro": "Marea Neagră prezintă riscuri tot mai mari pentru NATO și pentru navigație"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNTdpMUJRYkhDcDZWSWMxSXpocmg0ZU9DYndxWFF3MzNoNlRuTTQyakNfQ0dGSHRrcmJEWDVYMERobGZPWGw3ZnZYN2QyUTFrWTduczZXMEVHc1E4MnhrZWhqMTNlcm1INWc0Z3VDNF9vVERsTjBiX0dXYklNVC1SN2lFY2ZyZFAydWtObmhOeDBOdzF6RlBnMUs0OVo?oc=5",
+   "source": "Ruse news",
+   "published": "2026-11-27T02:03:41Z",
+   "fetched": "2026-11-27T03:04:24Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "ae1ac655e231",
+   "lang": "en",
+   "title": "NATO Faces Disputes Over Article 4 and Black Sea Security",
+   "titles": {
+    "en": "NATO Faces Disputes Over Article 4 and Black Sea Security",
+    "ro": "NATO se confruntă cu dispute privind articolul 4 și securitatea din Marea Neagră",
+    "bg": "НАТО е изправена пред спорове относно член 4 и сигурността в Черно море"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0UzVXJCc2NQS0NlZVNVaFV0NXZNdVpzT1lhUnJ2MDNQRVFadEltSllIQ0hWNFRqdVFpNEJENjZyNXVfZkp3MGtra1pwYllHaWRwZ3Y4aGJIVm9YVUp6NHBaU3NxQm1HS3J6S1Z1ODFlX2pnTTVlSkdkQ3NuRWJNSnEtaUdvVXU0c3QteW5pUndtalVuNjRMUHJxUm9Qb28?oc=5",
+   "source": "Военное дело",
+   "published": "2026-11-26T22:39:02Z",
+   "fetched": "2026-11-27T03:04:24Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
   {
    "id": "2bb2c4f8fe6b",
    "lang": "en",
@@ -5021,28 +5067,6 @@
    "img_checked": true
   },
   {
-   "id": "f7fd81dbbec4",
-   "lang": "en",
-   "title": "EU wheat exports surge 45% amid Black Sea disruption — CMB News",
-   "titles": {
-    "en": "EU wheat exports surge 45% amid Black Sea disruption — CMB News"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTER5cFJ0QmRoSjI4SXZLLThTMUNkeUJNbm5MLXlldFh5d2U5RUZhMGdiMTlQQ1JFT0E1OVJDYzZvLXYzalhVbEhWZTNCN214TEdaX0JrOFRIT1dOVENJdWxxTzFjNVA3eUNrZlc4ano4OFRyaDNkMm9TcXFKVkxhLUlmUmttbDA0a2NtbVZtd3JsNC0ySks4?oc=5",
-   "source": "CMB News",
-   "published": "2026-11-22T20:55:16Z",
-   "fetched": "2026-11-26T07:20:39Z",
-   "image": "",
-   "fallback_image": "",
-   "topics": [
-    "policy",
-    "grain"
-   ],
-   "places": [],
-   "also": [],
-   "img_checked": true
-  },
-  {
    "id": "e5c03eb6942e",
    "lang": "en",
    "title": "Russian Black Sea Warship Explodes in Libyan Naval Base",
@@ -5777,6 +5801,33 @@
    "also": []
   },
   {
+   "id": "3dba405b6890",
+   "lang": "en",
+   "title": "EU wheat exports jump 45% amid Black Sea supply disruptions",
+   "titles": {
+    "en": "EU wheat exports jump 45% amid Black Sea supply disruptions"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPclBVSTVKN3I3N3A3XzdFbHJWU1o3MFpKYzkwRG80WTBKUHhmR3VLUGxoN1AxNnhLc0llSEZBZERhNmFZMmhsZVBIZlplWC1CMFVXVkF6R0ltLUM5aF9iRnBXeTdUeUdudnpGaGtGUmZzSWEzMmk4bDFqbk1NYk5xanJZSUF5aHp4cjZXRmlyeHZBRl94MXFGV05B?oc=5",
+   "source": "УкрАгроКонсалт",
+   "published": "2026-11-21T06:05:03Z",
+   "fetched": "2026-11-27T03:04:24Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "grain"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "CMB News",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTER5cFJ0QmRoSjI4SXZLLThTMUNkeUJNbm5MLXlldFh5d2U5RUZhMGdiMTlQQ1JFT0E1OVJDYzZvLXYzalhVbEhWZTNCN214TEdaX0JrOFRIT1dOVENJdWxxTzFjNVA3eUNrZlc4ano4OFRyaDNkMm9TcXFKVkxhLUlmUmttbDA0a2NtbVZtd3JsNC0ySks4?oc=5"
+    }
+   ],
+   "img_checked": true
+  },
+  {
    "id": "a0a36535e1d2",
    "lang": "ro",
    "title": "Baza sportivă „Portul” renaște! Ce firme a contractat CN APM Constanța pentru refacerea terenului (DOCUMENT)",
@@ -5882,27 +5933,6 @@
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZHh1OEJqMUhqVEh4MURyWlQ4YWhtWm5DRHJJQ1o0NHlQX1d1WElULWdwVWZPYThpNkotMVpzVDVDODlxblpGa1o1OUs5Z3RiNTJNWFljUXNTSlBIVUxZdDMwTE1BQXN6ZG1IY3Q3MS1Ba0RUZWllZVB3QXJTVFVIX3JENFFnaEY4SjFxWlIySGJZZDhSdEZDS2hTcTY1aEphQWIxUDktWFEzQy1hb2dsazJqaEJlY01TbjFuQi1rbEJqd0RUbDE0TEd6SXc5TC1BNjFObQ?oc=5",
    "source": "БТА",
    "published": "2026-11-20T20:20:00Z",
-   "fetched": "2026-11-26T07:20:39Z",
-   "image": "",
-   "fallback_image": "",
-   "topics": [
-    "shipping"
-   ],
-   "places": [],
-   "also": [],
-   "img_checked": true
-  },
-  {
-   "id": "e628a3c437ca",
-   "lang": "ro",
-   "title": "Vânătorul de mine „Căpitan Constantin Dumitrescu”, misiune în Marea Neagră alături de nave din Bulgaria și Turcia",
-   "titles": {
-    "ro": "Vânătorul de mine „Căpitan Constantin Dumitrescu”, misiune în Marea Neagră alături de nave din Bulgaria și Turcia"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTUtZR0tDTlRCbmppbkNLcWswTEtwQzhobFhpN09XT2ZaekJRS1R2aUZzT3pqY1dIdUVsSV9SZzVUdmNsaVM1WE11WGNSN0I3ZVBGQTYtMnVkQjhGZnBWVFdEYm9UYjVONVZaNDE5a29JbTZRTm5iNmpuWkVtMmhqQmJnN0hIeGIzMDNKSHQ3RTU2TG9iYTc2LWRURC1SWFhYZFNNZkgwZGFxNFdHZE9FSGFnck9PSkZhM0h6MjNCNkxNMHllRkVRRElfaDlqRDBkZ3hyLXlCWEk0Qmt5T0ZNNlVHdw?oc=5",
-   "source": "Constanta TV",
-   "published": "2026-11-20T16:02:59Z",
    "fetched": "2026-11-26T07:20:39Z",
    "image": "",
    "fallback_image": "",
@@ -6191,27 +6221,6 @@
    "also": []
   },
   {
-   "id": "b29afc2aa4f9",
-   "lang": "ro",
-   "title": "Misiune încheiată pentru vânătorul de mine M 271! Forțele Navale Române, alături de aliații din Marea Neagră",
-   "titles": {
-    "ro": "Misiune încheiată pentru vânătorul de mine M 271! Forțele Navale Române, alături de aliații din Marea Neagră"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObUZ1dmxGY1BxWDV4bWlsOXBkZWhrdWJXVWd0OVZhU2hnb196Q1BHVU9CVWFOVm82T2FFelM2RElvWVNMX194OWdudTNzdUVHQjMydmpBQ0VRQjl2MGV4WUFwdEhQdElTTURuUE5PRFdiNXZicTQzZHBvWFd0YzdrOW5ZOWpjeTlfd3ZyMGtUTGxpS05VbzZyUmtXUTMxeDltVUVRRkE2U0RaSTZlcVNWS1lCLVZqZE15aVc2QXdGTTc5QWdOSGRpWTlkSGloQVZ5SHJfRTRyNWtKM2tPOUJFN2luc1g3UQ?oc=5",
-   "source": "CugetLiber.ro",
-   "published": "2026-11-20T08:03:29Z",
-   "fetched": "2026-11-26T07:55:24Z",
-   "image": "",
-   "fallback_image": "",
-   "topics": [
-    "shipping"
-   ],
-   "places": [],
-   "also": [],
-   "img_checked": true
-  },
-  {
    "id": "f9501b0d87fe",
    "lang": "en",
    "title": "Black Sea grain shipments: several countries consider roles as guarantors",
@@ -6252,6 +6261,39 @@
    ],
    "places": [],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "6dcc06101770",
+   "lang": "ro",
+   "title": "Vânătorul de mine M 271 a revenit în Portul Constanța după o misiune în Marea Neagră alături de nave din",
+   "titles": {
+    "ro": "Vânătorul de mine M 271 a revenit în Portul Constanța după o misiune în Marea Neagră alături de nave din"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZFRwc3MxZWpOYzVXUG9ZNW9jUk43R2xJbUhBcDJQQVFJcGJvWUdKS3pqMjFFTWQwMjFIUmsyTWh3Q3V2eldCMW95UmR0dFFyX1YwakVHa05ONFNteVFTUVpHOG1ON01kZkZZRVRsZ3ZoOWgwTDV3RWNyMDBpMnNjTE83NGlLQ2U2Nnc4bGdZNEVLSXI4OVd5clA3RTFRanZrMWhlRkhSSmx0Z0JBN21aYVVzYm8xNVB0eWxxdU9WcXEyVzBxbnVOdEczcVc1blpEWVFGa2ZzWUg4V21CMEsyc9IB5gFBVV95cUxPYjA3M1FCb3N3eXhMdEZXamhMUG5aM0kyY0tTeEQ0RC1leFlNMy05VG9XM2UtQUtOU1VqcTBpZ2huanRCS185NVE3VnNoY1c4eFBBbVVKS1FpcjFIVzdKTlpZQUJiSnBHcmk3V2Z1WEZiR1FHazFiVFI1TXRwLVUzTWxnWklCX2RSeHhzZFFLSFllRmxaMmJWM3dfUS16WVVxWW1zeE9PcGZiQzlCaVduOUF3RkcxdjI3T29IMHpBdkFsZW1uSDhNczhkeUpUMENRbDNBbkhIQnItUzAzNGFZNlU5OE5Xdw?oc=5",
+   "source": "Ordinea.RO",
+   "published": "2026-11-20T07:54:56Z",
+   "fetched": "2026-11-27T03:04:24Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "shipping",
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "also": [
+    {
+     "source": "CugetLiber.ro",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObUZ1dmxGY1BxWDV4bWlsOXBkZWhrdWJXVWd0OVZhU2hnb196Q1BHVU9CVWFOVm82T2FFelM2RElvWVNMX194OWdudTNzdUVHQjMydmpBQ0VRQjl2MGV4WUFwdEhQdElTTURuUE5PRFdiNXZicTQzZHBvWFd0YzdrOW5ZOWpjeTlfd3ZyMGtUTGxpS05VbzZyUmtXUTMxeDltVUVRRkE2U0RaSTZlcVNWS1lCLVZqZE15aVc2QXdGTTc5QWdOSGRpWTlkSGloQVZ5SHJfRTRyNWtKM2tPOUJFN2luc1g3UQ?oc=5"
+    },
+    {
+     "source": "Constanta TV",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTUtZR0tDTlRCbmppbkNLcWswTEtwQzhobFhpN09XT2ZaekJRS1R2aUZzT3pqY1dIdUVsSV9SZzVUdmNsaVM1WE11WGNSN0I3ZVBGQTYtMnVkQjhGZnBWVFdEYm9UYjVONVZaNDE5a29JbTZRTm5iNmpuWkVtMmhqQmJnN0hIeGIzMDNKSHQ3RTU2TG9iYTc2LWRURC1SWFhYZFNNZkgwZGFxNFdHZE9FSGFnck9PSkZhM0h6MjNCNkxNMHllRkVRRElfaDlqRDBkZ3hyLXlCWEk0Qmt5T0ZNNlVHdw?oc=5"
+    }
+   ],
    "img_checked": true
   },
   {
@@ -7322,6 +7364,28 @@
    ]
   },
   {
+   "id": "9244b39d9e08",
+   "lang": "ro",
+   "title": "Ministrul Apărării, Radu Oprea, avertizează că amenințările din Marea Neagră afectează economiile României, Bulgariei și Ucrainei",
+   "titles": {
+    "ro": "Ministrul Apărării, Radu Oprea, avertizează că amenințările din Marea Neagră afectează economiile României, Bulgariei și Ucrainei"
+   },
+   "summary": "Ministrul Apărării Naţionale, Radu Oprea, a declarat că securitatea în Marea Neagră este indisolubil legată de economie, logistică, transport, import şi ...",
+   "url": "https://trumedia.ro/politica/ministrul-radu-oprea-securitate-economie/",
+   "source": "trumedia.ro",
+   "published": "2026-11-19T07:19:00Z",
+   "fetched": "2026-11-27T03:04:24Z",
+   "image": "https://trumedia.ro/wp-content/uploads/2026/07/images.jpeg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.1tkas_2FkDeQXXqwa9ZO9A&pid=News",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "e6c43d7f3801",
    "lang": "ro",
    "title": "Libertatea Ştiri Știri România Nicușor Dan avertizează la Bucharest Forum 2026: „Europa este acum sub atac hibrid, iar Marea Neagră este sub un asalt puternic”",
@@ -7565,6 +7629,30 @@
    "img_checked": true
   },
   {
+   "id": "67c1a257e235",
+   "lang": "en",
+   "title": "Bulgaria Has Taken All Possible Measures With Regard to Black Sea Drone Attacks, Prime Minister Says 2026",
+   "titles": {
+    "en": "Bulgaria Has Taken All Possible Measures With Regard to Black Sea Drone Attacks, Prime Minister Says 2026"
+   },
+   "summary": "We have taken all possible measures,” Prime Minister Rumen Radev told journalists regarding drone strikes on ships... Bulgaria Has Taken All Possible Measures ...",
+   "url": "https://balgarianovinite.com/en/bulgaria-has-taken-all-possible-measures-with/",
+   "source": "balgarianovinite",
+   "published": "2026-11-18T23:53:00Z",
+   "fetched": "2026-11-27T03:04:24Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "7a4e25c0db5f",
    "lang": "ro",
    "title": "Vânt de dezgheț pe rutele cerealelor din Marea Neagră? Negocierile Turciei ar putea schimba jocul pentru România",
@@ -7611,6 +7699,29 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "caf0c61e3c33",
+   "lang": "en",
+   "title": "GERB Urges PM to Look at Romania’s Measures to Protect Black Sea Shipping 2026",
+   "titles": {
+    "en": "GERB Urges PM to Look at Romania’s Measures to Protect Black Sea Shipping 2026"
+   },
+   "summary": "GERB-UDF Thursday urged Prime Minister Rumen Radev to look at the measures Romania is taking to protect shipping in... GERB Urges PM to Look at Romania's Measur ...",
+   "url": "https://balgarianovinite.com/en/gerb-urges-look-romania-measures-protect-black/",
+   "source": "balgarianovinite",
+   "published": "2026-11-18T21:05:00Z",
+   "fetched": "2026-11-27T03:04:24Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "4ff9dc46354f",
@@ -8284,6 +8395,29 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "c0b011d912e0",
+   "lang": "ro",
+   "title": "NATO monitorizează mai atent Marea Neagră, dar nu a luat nicio decizie concretă pentru noi capabilităţi de apărare în România",
+   "titles": {
+    "ro": "NATO monitorizează mai atent Marea Neagră, dar nu a luat nicio decizie concretă pentru noi capabilităţi de apărare în România"
+   },
+   "summary": "O navă cisternă încărcată cu propan s-a scufundat la 50 de mile marine de ţărmul Bulgariei marţi, 17 noiembrie. Naufragiul a avut loc la aproximativ 14 mile marine de locul unde luni s-a scufundat car ...",
+   "url": "https://www.dcnews.ro/nato-monitorizeaza-mai-atent-marea-neagra-dar-nu-a-luat-nicio-decizie-concreta-pentru-noi-capabilitati-de-aparare-in-romania_1096881.html",
+   "source": "DCNews",
+   "published": "2026-11-17T09:17:00Z",
+   "fetched": "2026-11-27T03:04:24Z",
+   "image": "https://www.dcnews.ro/thumbs/amp/2026/11/17/nato-monitorizeaza-mai-atent-marea-neagra-dar-nu-a-luat-nicio-decizie-concreta-pentru-noi-capabilitati-de-aparare-in-romania-5468004.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.RG4tSwjvMMRFrXTYpVK8mA&pid=News",
+   "topics": [
+    "policy",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "d9708d0fc711",
@@ -10322,123 +10456,6 @@
     "policy",
     "attacks",
     "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "25786bb6a66d",
-   "lang": "en",
-   "title": "Black Sea shipping attacks kill seafarers, disrupt trade",
-   "titles": {
-    "en": "Black Sea shipping attacks kill seafarers, disrupt trade"
-   },
-   "summary": "Plus, a 126-year-old maker of air vents stumbles into the fast-moving, secretive AI data-center business.",
-   "url": "https://www.msn.com/en-us/news/news/black-sea-shipping-attacks-kill-seafarers-disrupt-trade/ar-AA2hirQ0",
-   "source": "The Wall Street Journal on MSN",
-   "published": "2026-11-12T03:55:00Z",
-   "fetched": "2026-11-25T13:50:37Z",
-   "image": "https://www.bing.com/th?id=ONUT.z0WM1nEwwkGoL1siqv6qKw&pid=News",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.z0WM1nEwwkGoL1siqv6qKw&pid=News",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "131c1eae5076",
-   "lang": "en",
-   "title": "Black Sea and Danube, the world's most dangerous maritime route",
-   "titles": {
-    "en": "Black Sea and Danube, the world's most dangerous maritime route"
-   },
-   "summary": "Moscow's forces have intensified attacks on merchant ships in the region and have extended their actions to Ukrainian ports along the river route. Captain Oleksiy Sydoruk belonged - as his wife ...",
-   "url": "https://www.msn.com/en-us/news/other/black-sea-and-danube-the-world-s-most-dangerous-maritime-route/ar-AA2hhK0G",
-   "source": "EL MUNDO on MSN",
-   "published": "2026-11-12T01:31:06Z",
-   "fetched": "2026-11-25T16:18:55Z",
-   "image": "https://www.bing.com/th?id=ONUT.3KmYCYE_w6DEhdQyEbpOzA&pid=News",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.3KmYCYE_w6DEhdQyEbpOzA&pid=News",
-   "topics": [
-    "attacks",
-    "shipping",
-    "ports"
-   ],
-   "places": [
-    "danube"
-   ],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "5b3f49a7d730",
-   "lang": "ro",
-   "title": "WSJ: Marea Neagră a devenit cea mai periculoasă rută maritimă din lume. Peste 300 de atacuri și zeci de marinari morți",
-   "titles": {
-    "ro": "WSJ: Marea Neagră a devenit cea mai periculoasă rută maritimă din lume. Peste 300 de atacuri și zeci de marinari morți"
-   },
-   "summary": "Marea Neagră a depășit Strâmtoarea Ormuz în privința numărului de victime provocate de atacurile asupra navelor comerciale. Peste 300 de atacuri ...",
-   "url": "https://alephnews.ro/guvern/wsj-marea-neagra-a-devenit-cea-mai-periculoasa-ruta-maritima-din-lume-peste-300-de-atacuri-si-zeci-de-marinari-morti/",
-   "source": "Aleph News",
-   "published": "2026-11-12T00:36:00Z",
-   "fetched": "2026-11-25T14:58:21Z",
-   "image": "https://media.alephnews.ro/2026/11/nava-m-neagra.png",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.avy4cwqHZPt0IhEjWRDitA&pid=News",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "2609bbfc4149",
-   "lang": "en",
-   "title": "MARITIME CRISIS: Over 300 Attacks and Dozens Killed as Black Sea Becomes World’s Deadliest Shipping Route",
-   "titles": {
-    "en": "MARITIME CRISIS: Over 300 Attacks and Dozens Killed as Black Sea Becomes World’s Deadliest Shipping Route"
-   },
-   "summary": "The Black Sea has become the world’s deadliest shipping zone, surpassing even the Strait of Hormuz, with more than 300 attacks on vessels and over 30 crew members killed since the beginning of 2026, ...",
-   "url": "https://www.theyeshivaworld.com/news/israel-news/2622343/maritime-crisis-over-300-attacks-and-dozens-killed-as-black-sea-becomes-worlds-deadliest-shipping-route.html",
-   "source": "The Yeshiva World",
-   "published": "2026-11-11T23:11:00Z",
-   "fetched": "2026-11-25T19:01:54Z",
-   "image": "https://www.theyeshivaworld.com/wp-content/uploads/2026/11/132936_autoOrient_i.jpg",
-   "fallback_image": "",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "0e75705416fa",
-   "lang": "en",
-   "title": "EU Pledges €50 Million to Accelerate Romania–Bulgaria Black Sea Security Hub",
-   "titles": {
-    "en": "EU Pledges €50 Million to Accelerate Romania–Bulgaria Black Sea Security Hub"
-   },
-   "summary": "The European Union has pledged up to €50 million to accelerate a Black Sea maritime security hub jointly developed by Romania and Bulgaria, adding new financing to a project intended to improve ...",
-   "url": "https://finchannel.com/eu-pledges-e50-million-to-accelerate-romania-bulgaria-black-sea-security-hub/141319/world-2/europe/2026/11/",
-   "source": "FINCHANNEL",
-   "published": "2026-11-11T22:48:00Z",
-   "fetched": "2026-11-25T14:08:21Z",
-   "image": "https://finchannel.com/wp-content/uploads/2019/03/emerging-europe.com_wp-content_uploads_2017_07_bigstock-European-Union-flags-in-front-91041542-990x556.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.FBlZPEOu66O-QAoj1AJvnQ&pid=News",
-   "topics": [
-    "policy"
    ],
    "places": [],
    "img_tried": true,
