@@ -11,7 +11,7 @@ title: About Black Sea Way
 
 ## Who we are
 
-Black Sea Way is an independent initiative of a group of journalists. Editor-in-chief: **Galiia Koshel**.
+Black Sea Way is an independent initiative of a group of journalists. Editor-in-chief: **Roman Bobeshto**.
 
 ## Principles
 

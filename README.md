@@ -43,7 +43,7 @@
 title: "Заголовок англійською"
 date: 2026-12-01
 summary: "Один-два речення для анонсу і соцмереж"
-author: Galiia Koshel
+author: Roman Bobeshto
 draft: false
 ---
 Текст статті у форматі Markdown. ## Підзаголовок, **жирний**, [посилання](https://...)

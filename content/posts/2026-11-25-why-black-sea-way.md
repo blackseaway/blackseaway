@@ -2,7 +2,7 @@
 title: "Why we started Black Sea Way"
 date: 2026-11-25
 summary: "The Black Sea has become a war zone, and a trade route at the same time. We want to show what that costs the people and companies who depend on it."
-author: Galiia Koshel
+author: Roman Bobeshto
 draft: false
 ---
 The Black Sea has become a war zone, and a trade route at the same time. Grain, steel, fuel and containers still move between Ukraine, Romania, Bulgaria, Türkiye and Georgia. But every voyage now carries risks that did not exist a few years ago: drones and missiles hitting ports, mines drifting into shipping lanes, insurance premiums that change with every attack.

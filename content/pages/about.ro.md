@@ -11,7 +11,7 @@ title: Despre Black Sea Way
 
 ## Cine suntem
 
-Black Sea Way este o inițiativă independentă a unui grup de jurnaliști. Redactor-șef: **Galiia Koshel**.
+Black Sea Way este o inițiativă independentă a unui grup de jurnaliști. Redactor-șef: **Roman Bobeshto**.
 
 ## Principii
 
