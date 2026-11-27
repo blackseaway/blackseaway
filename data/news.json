@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T19:08:24Z",
+ "updated": "2026-11-27T20:09:02Z",
  "items": [
   {
    "id": "36527d339a16",
@@ -408,6 +408,31 @@
    "img_checked": true
   },
   {
+   "id": "b9169c50d5c3",
+   "lang": "ro",
+   "title": "Ucraina a propus un armistițiu în Marea Neagră pentru deblocarea exporturilor de cereale. Ce condiții a impus Moscova",
+   "titles": {
+    "ro": "Ucraina a propus un armistițiu în Marea Neagră pentru deblocarea exporturilor de cereale. Ce condiții a impus Moscova",
+    "en": "Ukraine has proposed a ceasefire in the Black Sea to unblock grain exports. What conditions has Moscow set?",
+    "bg": "Украйна предложи примирие в Черно море, за да се възстановят износите на зърно. Какви условия постави Москва"
+   },
+   "summary": "Ucraina a prezentat o propunere pentru un posibil armistițiu la Marea Neagră, în contextul în care Kievul încearcă să-și protejeze exporturile de cereale.",
+   "url": "https://www.gandul.ro/international/armistitiu-marea-neagra-ucraina-cereale-21076210",
+   "source": "Gândul",
+   "published": "2026-11-26T23:12:00Z",
+   "fetched": "2026-11-27T20:06:13Z",
+   "image": "https://www.gandul.ro/wp-content/uploads/2026/11/ucraina-marea-neagra-1-scaled.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.XKePqNNOdY3zfssvJgIMVA&pid=News",
+   "topics": [
+    "policy",
+    "grain"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "7b80f6d30a88",
    "lang": "en",
    "title": "Romania Calls on NATO to Jointly Counter Russian Hybrid Attacks in the Black Sea",
@@ -460,7 +485,9 @@
    "lang": "ro",
    "title": "România cere NATO să monitorizeze Neptun Deep. Dan Neculăescu: „Rusia încearcă să își revendice Marea Neagră”",
    "titles": {
-    "ro": "România cere NATO să monitorizeze Neptun Deep. Dan Neculăescu: „Rusia încearcă să își revendice Marea Neagră”"
+    "ro": "România cere NATO să monitorizeze Neptun Deep. Dan Neculăescu: „Rusia încearcă să își revendice Marea Neagră”",
+    "en": "Romania calls on NATO to monitor Neptun Deep. Dan Neculăescu: “Russia is trying to lay claim to the Black Sea”",
+    "bg": "Румъния призовава НАТО да наблюдава „Нептун Дийп“. Дан Некулаеску: „Русия се опитва да претендира за Черно море“"
    },
    "summary": "România cere NATO să monitorizeze instalațiile Neptun Deep din Marea Neagră, unde incidentele de securitate sunt tot mai frecvente.",
    "url": "https://www.mediafax.ro/aparare/romania-cere-nato-sa-monitorizeze-neptun-deep-dan-neculaescu-rusia-incearca-sa-isi-revendice-marea-neagra-23850909",
@@ -473,7 +500,16 @@
     "policy"
    ],
    "places": [],
-   "also": [],
+   "also": [
+    {
+     "source": "Adevărul",
+     "url": "https://adevarul.ro/politica/ministrul-de-externe-avertisment-despre-planurile-2575103.html"
+    },
+    {
+     "source": "newsweek",
+     "url": "https://newsweek.ro/international/romania-cerere-nato-monitorizezare-neptun-deep-dan-neculaescu-rusia-revendicare-marea-neagra"
+    }
+   ],
    "img_tried": true,
    "img_checked": true
   },
@@ -8719,35 +8755,6 @@
    "also": []
   },
   {
-   "id": "9fb816520187",
-   "lang": "ro",
-   "title": "O navă-cisternă pentru GPL care s-a scufundat în largul Bulgariei a fost lovită de proiectile",
-   "titles": {
-    "ro": "O navă-cisternă pentru GPL care s-a scufundat în largul Bulgariei a fost lovită de proiectile"
-   },
-   "summary": "O navă-cisternă care transporta gaz petrolier lichefiat (GPL) s-a scufundat marți în Marea Neagră, în largul Bulgariei, după ce a fost lovită de proiectile, potrivit unor surse citate de AFP.",
-   "url": "https://stirileprotv.ro/stiri/international/o-nava-cisterna-pentru-gpl-care-s-a-scufundat-in-largul-bulgariei-a-fost-lovita-de-proiectile.html",
-   "source": "Știrile PRO TV",
-   "published": "2026-11-18T08:39:00Z",
-   "fetched": "2026-11-25T14:01:16Z",
-   "image": "https://stirileprotv.ro/img/2026/11/17/115725/nava-mariam-m-vadu.jpg?fm=jpg&q=80&fit=crop&crop=779%2C438%2C68%2C0&watermark=og&w=1280",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.XI_mvjdsRZ8qSuxpumEggQ&pid=News",
-   "topics": [
-    "attacks",
-    "shipping",
-    "energy"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": [
-    {
-     "source": "Ziua de Constanța",
-     "url": "https://www.ziuaconstanta.ro/stiri/externe/nava-gas-husky-care-s-a-scufundat-in-marea-neagra-a-fost-lovita-de-proiectile-960979.html"
-    }
-   ]
-  },
-  {
    "id": "53e390efdb77",
    "lang": "ro",
    "title": "Marea Neagră, în flăcări: 90 de nave blocate la Sulina, iar fermierul român ”plătește„ nota de plată",
@@ -9394,6 +9401,60 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "66f72ad8efb7",
+   "lang": "en",
+   "title": "How NATO states on the Black Sea are being drawn into Ukraine war escalation",
+   "titles": {
+    "en": "How NATO states on the Black Sea are being drawn into Ukraine war escalation"
+   },
+   "summary": "Attacks on cargo vessels off the coast of NATO alliance members Romania and Bulgaria have surged in recent weeks, the latest fallout from the escalating fighting between Russia and Ukraine in the ...",
+   "url": "https://www.reuters.com/world/europe/how-nato-states-black-sea-are-being-drawn-into-ukraine-war-escalation-2026-11-15/",
+   "source": "Reuters",
+   "published": "2026-11-17T07:51:00Z",
+   "fetched": "2026-11-27T20:06:13Z",
+   "image": "https://www.bing.com/th?id=ONUT.W9J-MF42YA9DxT3R_vmbxA&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.W9J-MF42YA9DxT3R_vmbxA&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "fa7a653beb83",
+   "lang": "ro",
+   "title": "O navă cu peste 3.400 de tone de propan s-a scufundat în Marea Neagră, în largul Bulgariei",
+   "titles": {
+    "ro": "O navă cu peste 3.400 de tone de propan s-a scufundat în Marea Neagră, în largul Bulgariei"
+   },
+   "summary": "Citeste despre ➜ O navă cu peste 3.400 de tone de propan s-a scufundat în Marea Neagră, în largul Bulgariei in Forbes Romania ✅ Afla cele mai noi informatii din sfera Actualitate ✅ Stiri si evenimente ...",
+   "url": "https://www.forbes.ro/o-nava-cu-peste-3-400-de-tone-de-propan-s-a-scufundat-in-marea-neagra-in-largul-bulgariei-532112",
+   "source": "Forbes România",
+   "published": "2026-11-17T06:50:00Z",
+   "fetched": "2026-11-27T20:06:13Z",
+   "image": "https://stirileprotv.ro/img/2026/11/17/115725/nava-mariam-m-vadu.jpg?fm=jpg&q=80&fit=crop&crop=779%2C438%2C68%2C0&watermark=og&w=1280",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.Lnd2YzqjUt1s42aHRhd_YA&pid=News",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "Știrile PRO TV",
+     "url": "https://stirileprotv.ro/stiri/international/o-nava-cisterna-pentru-gpl-care-s-a-scufundat-in-largul-bulgariei-a-fost-lovita-de-proiectile.html"
+    },
+    {
+     "source": "Ziua de Constanța",
+     "url": "https://www.ziuaconstanta.ro/stiri/externe/nava-gas-husky-care-s-a-scufundat-in-marea-neagra-a-fost-lovita-de-proiectile-960979.html"
+    }
+   ],
+   "img_checked": true
   },
   {
    "id": "3cd82a4b804b",
@@ -10435,53 +10496,6 @@
      "url": "https://alephnews.ro/guvern/nava-care-se-indrepta-spre-romania-scufundata-in-marea-neagra-operatiune-de-salvare-pentru-19-marinari/"
     }
    ]
-  },
-  {
-   "id": "9fee900c0835",
-   "lang": "bg",
-   "title": "Товарен кораб потъва в българската икономическа зона в Черно море",
-   "titles": {
-    "bg": "Товарен кораб потъва в българската икономическа зона в Черно море"
-   },
-   "summary": "В ход е мащабна спасителна операция по въздух и вода за 12-те моряци на борда на плаващия под сомалийски флаг съд ...",
-   "url": "https://www.bgonair.bg/a/2-bulgaria/436765-tovaren-korab-potava-v-balgarskata-ikonomicheska-zona-v-cherno-more",
-   "source": "Bulgaria ON AIR",
-   "published": "2026-11-16T04:06:00Z",
-   "fetched": "2026-11-25T13:57:52Z",
-   "image": "https://www.bing.com/th?id=ONUT.aGrKU5GOFPkr9gM9it97og&pid=News",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.aGrKU5GOFPkr9gM9it97og&pid=News",
-   "topics": [
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "632038ca9d1d",
-   "lang": "ro",
-   "title": "Incidente în lanț în Marea Neagră: Navă cu grâu scufundată, 12 marinari salvați și resturi de drone descoperite în larg",
-   "titles": {
-    "ro": "Incidente în lanț în Marea Neagră: Navă cu grâu scufundată, 12 marinari salvați și resturi de drone descoperite în larg"
-   },
-   "summary": "Ministrul Apărării, Radu Oprea, a anunţat că, astăzi, 16 noiembrie, vor avea loc două misiuni de intervenţie asupra unor drone aeriene care plutesc în Marea Neagră.",
-   "url": "https://stirileprotv.ro/stiri/actualitate/drone-aeriene-in-deriva-in-marea-neagra-for-ele-navale-romane-au-decis-sa-intervina.html",
-   "source": "Știrile PRO TV",
-   "published": "2026-11-16T03:27:00Z",
-   "fetched": "2026-11-25T14:01:16Z",
-   "image": "https://stirileprotv.ro/img/2026/02/27/055851/natomarea-neagra-afp.jpg?fm=jpg&q=80&fit=crop&crop=1920%2C1080%2C0%2C0&watermark=og&w=1280",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.2ybw8ObUnL6xJBoyF-ipDg&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping",
-    "grain"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
   }
  ]
 }
