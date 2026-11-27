@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T12:06:55Z",
+ "updated": "2026-11-27T13:27:08Z",
  "items": [
   {
    "id": "db80c714e976",
@@ -123,6 +123,35 @@
    "img_checked": true
   },
   {
+   "id": "8c7401ab1a58",
+   "lang": "en",
+   "title": "Russia blockaded Ukraine's Black Sea ports - Kyiv invested over $100 million in alternative Danube ports",
+   "titles": {
+    "en": "Russia blockaded Ukraine's Black Sea ports - Kyiv invested over $100 million in alternative Danube ports",
+    "ro": "Rusia a blocat porturile ucrainene de la Marea Neagră – Kievul a investit peste 100 de milioane de dolari în porturi alternative de pe Dunăre",
+    "bg": "Русия блокира украинските пристанища на Черно море – Киев инвестира над 100 милиона долара в алтернативни пристанища по Дунава"
+   },
+   "summary": "Russia's naval blockade severely disrupted Ukraine's agricultural exports, threatening global food supplies. Following Moscow's withdrawal from the Black Sea grain agreement in July 2023, Ukraine ...",
+   "url": "https://www.msn.com/en-us/news/other/russia-blockaded-ukraine-s-black-sea-ports-kyiv-invested-over-100-million-in-alternative-danube-ports/vi-AA2ilLMO",
+   "source": "RealLifeLore on MSN",
+   "published": "2026-11-27T04:18:52Z",
+   "fetched": "2026-11-27T13:24:19Z",
+   "image": "https://www.bing.com/th?id=ONUT.3e8HFm9E_atBhws7iD8S5w&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.3e8HFm9E_atBhws7iD8S5w&pid=News",
+   "topics": [
+    "policy",
+    "shipping",
+    "grain",
+    "ports"
+   ],
+   "places": [
+    "danube"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "24bc3bee0087",
    "lang": "en",
    "title": "China calls for protection of commercial shipping in Black Sea",
@@ -174,7 +203,9 @@
    "lang": "en",
    "title": "Russia strikes two Greek grain ships running blockade of Ukraine’s ports",
    "titles": {
-    "en": "Russia strikes two Greek grain ships running blockade of Ukraine’s ports"
+    "en": "Russia strikes two Greek grain ships running blockade of Ukraine’s ports",
+    "ro": "Rusia lovește două nave grecești de transport de cereale care încalcă blocada porturilor din Ucraina",
+    "bg": "Русия нанесе удари по два гръцки кораба за превоз на зърно, които нарушават блокадата на украинските пристанища"
    },
    "summary": "When you click on “Accept all”, you consent to ads on this site being customized to a personal profile we or our advertising partners may have about you. Choose “Customize or Reject all” if you want ...",
    "url": "https://www.tradewindsnews.com/casualties/russia-strikes-two-greek-grain-ships-running-blockade-of-ukraine-s-ports/2-1-2080549",
@@ -10444,32 +10475,6 @@
    "also": [],
    "img_tried": true,
    "img_checked": true
-  },
-  {
-   "id": "67e14bb89942",
-   "lang": "en",
-   "title": "Three ships struck by drones in Black Sea",
-   "titles": {
-    "en": "Three ships struck by drones in Black Sea"
-   },
-   "summary": "Drones have struck three commercial ships in the Black Sea near Romania’s Sulina canal, Prime Minister Luca Niculescu said on Sunday, adding that his armed forces had ...",
-   "url": "https://epaper.dawn.com/DetailImage.php?StoryImage=16_11_2026_011_007",
-   "source": "Dawn ePaper",
-   "published": "2026-11-15T11:00:00Z",
-   "fetched": "2026-11-26T06:42:36Z",
-   "image": "https://e.dawn.com/2026/11/16/stories/storyImages/16_11_2026_011_007_001.jpg",
-   "fallback_image": "",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping"
-   ],
-   "places": [
-    "danube"
-   ],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
   }
  ]
 }
