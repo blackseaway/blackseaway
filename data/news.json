@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T03:07:11Z",
+ "updated": "2026-11-27T04:15:24Z",
  "items": [
   {
    "id": "f6544f29959f",
@@ -2062,7 +2062,9 @@
    "lang": "ro",
    "title": "Un dispozitiv militar important, desfășurat în Marea Neagră. Ce urmăresc navele românești",
    "titles": {
-    "ro": "Un dispozitiv militar important, desfășurat în Marea Neagră. Ce urmăresc navele românești"
+    "ro": "Un dispozitiv militar important, desfășurat în Marea Neagră. Ce urmăresc navele românești",
+    "en": "A major military operation is underway in the Black Sea. What are the Romanian ships up to?",
+    "bg": "Важно военно присъствие, разположено в Черно море. Каква е целта на румънските кораби"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXJTUDFMbmx2Rnc5UC1IRHdRa0lLVG10VTFHRm9SVEFOUnNONG1saDh6VUhObGZTb0RETlBxb3VYcERGNWx3NFlYOXFYWnZjel82eElkWWZCSWZXTFJqN0xaWUdNenRhN290MVh3S20zaG50aVloV25DaUk4ZTdsQUFjTzY4QTJNaXRSQXhaOURLY0VuSjFPbWZsa2p1cmxHMGZ5MVBKcmlDV3hSMm9OX1R1SFJja1ZhUkE?oc=5",
@@ -2083,7 +2085,9 @@
    "lang": "bg",
    "title": "България и Турция обсъдиха как да спрат атаките срещу търговски кораби в Черно море - Maritime.bg",
    "titles": {
-    "bg": "България и Турция обсъдиха как да спрат атаките срещу търговски кораби в Черно море - Maritime.bg"
+    "bg": "България и Турция обсъдиха как да спрат атаките срещу търговски кораби в Черно море - Maritime.bg",
+    "en": "Bulgaria and Turkey discussed how to stop attacks on merchant ships in the Black Sea - Maritime.bg",
+    "ro": "Bulgaria și Turcia au discutat despre modalitățile de a pune capăt atacurilor împotriva navelor comerciale din Marea Neagră - Maritime.bg"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1nMXE5TFZaTWpELW9BcldnQUhOTVFUUDBiYlQ5OU1CWTZZRW0tSlk4djNRUzQ5LUtVTjRlNHBzdUxqYXh3T1E?oc=5",
@@ -8877,6 +8881,10 @@
     {
      "source": "Internazionale",
      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/18/lpg-tanker-that-sank-off-bulgaria-on-tuesday-was-hit-by-projectiles-official-says"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://www.reuters.com/world/lpg-tanker-sends-distress-signal-off-bulgarias-black-sea-coast-maritime-security-2026-11-17/"
     }
    ],
    "img_tried": true,
