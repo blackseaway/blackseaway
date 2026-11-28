@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T08:20:14Z",
+ "updated": "2026-11-28T08:29:17Z",
  "source": "Open-Meteo.com",
  "ports": {
   "odesa": {
@@ -33,7 +33,7 @@
    "wind_gusts": 29.5,
    "air_temp": 1.8,
    "gusts_max_24h": 33.0,
-   "updated": "2026-11-28T08:19:27Z"
+   "updated": "2026-11-28T08:28:30Z"
   },
   "danube": {
    "wave_height": 2.24,
@@ -66,7 +66,7 @@
    "wind_gusts": 40.0,
    "air_temp": 7.0,
    "gusts_max_24h": 44.5,
-   "updated": "2026-11-28T08:19:28Z"
+   "updated": "2026-11-28T08:28:32Z"
   },
   "constanta": {
    "wave_height": 2.28,
@@ -99,7 +99,7 @@
    "wind_gusts": 37.3,
    "air_temp": 9.9,
    "gusts_max_24h": 48.2,
-   "updated": "2026-11-28T08:19:30Z"
+   "updated": "2026-11-28T08:28:33Z"
   },
   "varna": {
    "wave_height": 1.18,
@@ -132,7 +132,7 @@
    "wind_gusts": 40.6,
    "air_temp": 8.6,
    "gusts_max_24h": 49.0,
-   "updated": "2026-11-28T08:19:32Z"
+   "updated": "2026-11-28T08:28:35Z"
   },
   "burgas": {
    "wave_height": 0.88,
@@ -165,7 +165,7 @@
    "wind_gusts": 17.3,
    "air_temp": 9.5,
    "gusts_max_24h": 37.5,
-   "updated": "2026-11-28T08:20:08Z"
+   "updated": "2026-11-28T08:28:36Z"
   },
   "bosphorus": {
    "wave_height": 0.56,
@@ -198,7 +198,7 @@
    "wind_gusts": 7.2,
    "air_temp": 14.8,
    "gusts_max_24h": 31.5,
-   "updated": "2026-11-28T08:20:10Z"
+   "updated": "2026-11-28T08:29:13Z"
   },
   "georgia": {
    "wave_height": 0.22,
@@ -231,7 +231,7 @@
    "wind_gusts": 2.9,
    "air_temp": 15.5,
    "gusts_max_24h": 9.7,
-   "updated": "2026-11-28T08:20:12Z"
+   "updated": "2026-11-28T08:29:14Z"
   },
   "russia": {
    "wave_height": 0.62,
@@ -264,7 +264,7 @@
    "wind_gusts": 21.2,
    "air_temp": 6.6,
    "gusts_max_24h": 40.8,
-   "updated": "2026-11-28T08:20:13Z"
+   "updated": "2026-11-28T08:29:16Z"
   }
  }
 }

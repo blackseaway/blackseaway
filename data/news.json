@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T08:19:26Z",
+ "updated": "2026-11-28T08:28:30Z",
  "items": [
   {
    "id": "b147cd890c45",
@@ -3545,31 +3545,6 @@
    "also": []
   },
   {
-   "id": "454b7f75fb94",
-   "lang": "bg",
-   "title": "МО засекрети учение в най-опасния от дронове район пред българския бряг на Черно море",
-   "titles": {
-    "bg": "МО засекрети учение в най-опасния от дронове район пред българския бряг на Черно море",
-    "en": "The Ministry of Defence has classified a military exercise in the area off the Bulgarian Black Sea coast where drones pose the greatest threat",
-    "ro": "Ministerul Apărării a clasificat ca secret un exercițiu militar desfășurat în cea mai periculoasă zonă din punct de vedere al dronelor, situată în largul coastei bulgare a Mării Negre"
-   },
-   "summary": "Министерството на отбраната отказа да оповести характера на съвместно учение на флота и авиацията, заради което голям район в открито море пред българския бряг е обявен за опасен за корабоплаване до к ...",
-   "url": "https://blitz.bg/obshtestvo/mo-zasekreti-uchenie-v-nay-opasniya-ot-dronove-rayon-pred-balgarskiya-bryag-na-cherno-more_news1183990.html",
-   "source": "Блиц",
-   "published": "2026-11-24T10:24:00Z",
-   "fetched": "2026-11-26T06:42:36Z",
-   "image": "https://www.bing.com/th?id=ONUT.iw9lxb1JKWnfDDL89bcl0A&pid=News",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.iw9lxb1JKWnfDDL89bcl0A&pid=News",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
    "id": "8baabe68689e",
    "lang": "en",
    "title": "Black Sea Attacks Threaten Ukraine Grain Exports and 2027 Crops",
@@ -3791,7 +3766,9 @@
    "lang": "ro",
    "title": "Cristian Pistol, despre lucrările pe Autostrada Moldovei: „Vreau ca până vara viitoare să se poată circula de la Pașcani la Portul Constanța, la Tigveni și la Craiova ...",
    "titles": {
-    "ro": "Cristian Pistol, despre lucrările pe Autostrada Moldovei: „Vreau ca până vara viitoare să se poată circula de la Pașcani la Portul Constanța, la Tigveni și la Craiova ..."
+    "ro": "Cristian Pistol, despre lucrările pe Autostrada Moldovei: „Vreau ca până vara viitoare să se poată circula de la Pașcani la Portul Constanța, la Tigveni și la Craiova ...",
+    "en": "Cristian Pistol, on the work on the Moldova Motorway: “I want it to be possible to travel from Pașcani to the Port of Constanța, to Tigveni and to Craiova by next summer ...",
+    "bg": "Кристиан Пистол за строителните работи по Молдовската магистрала: „Искам до следващото лято да може да се пътува от Пашкани до пристанището в Констанца, до Тигвени и до Крайова ..."
    },
    "summary": "Directorul general al Companiei Naționale de Administrare a Infrastructurii Rutiere (CNAIR), Cristian Pistol, anunță că lucrările pe șantierul Autostrăzii Bacău – Pașcani (A7) au ajuns, pe cele trei l ...",
    "url": "https://ziare.com/autostrada-moldovei/cristian-pistol-stadii-lucrari-a7-2049647",
@@ -3815,7 +3792,9 @@
    "lang": "bg",
    "title": "От Черно море до Либия: Къде са били атакувани руски кораби",
    "titles": {
-    "bg": "От Черно море до Либия: Къде са били атакувани руски кораби"
+    "bg": "От Черно море до Либия: Къде са били атакувани руски кораби",
+    "en": "From the Black Sea to Libya: Where were the Russian ships attacked?",
+    "ro": "De la Marea Neagră până în Libia: Unde au fost atacate navele rusești"
    },
    "summary": "Украйна потопи руската корвета Меркурий край либийския бряг. Къде другаде са били атакувани военни кораби и танкери от руския сенчест флот?",
    "url": "https://fakti.bg/world/1104184-ot-cherno-more-do-libia-kade-sa-bili-atakuvani-ruski-korabi",
@@ -3843,7 +3822,9 @@
    "lang": "ro",
    "title": "Carburanți de la Petromidia pentru Portul Constanța",
    "titles": {
-    "ro": "Carburanți de la Petromidia pentru Portul Constanța"
+    "ro": "Carburanți de la Petromidia pentru Portul Constanța",
+    "en": "Fuel from Petromidia for the Port of Constanța",
+    "bg": "Горива от „Петромидия“ за пристанището в Констанца"
    },
    "summary": "Rompetrol Downstream, compania de distribuție a carburanților din cadrul Grupului KMG International, va asigura alimentarea celor 116 autovehicule ale Companiei Naționale Administrația Porturilor Mari ...",
    "url": "https://atacdeconstanta.com/carburanti-de-la-petromidia-pentru-portul-constanta/",
@@ -3868,7 +3849,9 @@
    "lang": "bg",
    "title": "Български евродепутати настояха за общ европейски отговор на заплахите в Черно море",
    "titles": {
-    "bg": "Български евродепутати настояха за общ европейски отговор на заплахите в Черно море"
+    "bg": "Български евродепутати настояха за общ европейски отговор на заплахите в Черно море",
+    "en": "Bulgarian MEPs called for a common European response to the threats in the Black Sea",
+    "ro": "Europarlamentarii bulgari au insistat asupra unui răspuns european comun la amenințările din Marea Neagră"
    },
    "summary": "Български евродепутати настояха за общ европейски отговор на заплахите за сигурността в Черно море, включително засилена защита на корабоплаването и критичната инфраструктура, финансова подкрепа за за ...",
    "url": "https://petel.bg/Balgarski-evrodeputati-nastoyaha-za-obshh-evropeyski-otgovor-na-zaplahite-v-CHerno-more__679651",
@@ -6217,7 +6200,12 @@
     "attacks"
    ],
    "places": [],
-   "also": [],
+   "also": [
+    {
+     "source": "Блиц",
+     "url": "https://blitz.bg/obshtestvo/mo-zasekreti-uchenie-v-nay-opasniya-ot-dronove-rayon-pred-balgarskiya-bryag-na-cherno-more_news1183990.html"
+    }
+   ],
    "img_tried": true,
    "img_checked": true
   },
@@ -9931,34 +9919,6 @@
    "img_checked": true
   },
   {
-   "id": "da091e865170",
-   "lang": "ro",
-   "title": "O navă care transporta gaze naturale de la Alexandria către portul românesc Midia S-A SCUFUNDAT în Marea Neagră. CE S-A ÎNTÂMPLAT cu cei 19 membri ai echipajului?",
-   "titles": {
-    "ro": "O navă care transporta gaze naturale de la Alexandria către portul românesc Midia S-A SCUFUNDAT în Marea Neagră. CE S-A ÎNTÂMPLAT cu cei 19 membri ai echipajului?"
-   },
-   "summary": "Noi detalii despre nava scufundată în această dimineață în Marea Neagră. Iată anunțul făcut despre cei 19 membri ai echipajului ...",
-   "url": "https://www.radioimpuls.ro/o-nava-care-transporta-gaze-naturale-de-la-alexandria-catre-portul-romanesc-midia-s-a-scufundat-in-marea-neagra-ce-s-a-intamplat-cu-cei-19-membri-ai-echipajului-20550873",
-   "source": "Radio Impuls",
-   "published": "2026-11-17T07:07:00Z",
-   "fetched": "2026-11-28T07:43:08Z",
-   "image": "https://cdn.knd.ro/media/521/2942/1792/20550873/1/nava-scufundata-marea-neagra.jpg?width=1200&height=630",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.P-a9g1GcW1VRUTdGZgnOWw&pid=News",
-   "topics": [
-    "shipping",
-    "ports"
-   ],
-   "places": [],
-   "also": [
-    {
-     "source": "Evenimentul Zilei",
-     "url": "https://evz.ro/o-nava-cu-destinatia-midia-s-a-scufundat-in-marea-neagra-in-largul-bulgariei-autoritatile-cauta-19-membri-ai-echipajului.html"
-    }
-   ],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
    "id": "fa7a653beb83",
    "lang": "ro",
    "title": "O navă cu peste 3.400 de tone de propan s-a scufundat în Marea Neagră, în largul Bulgariei",
@@ -10557,6 +10517,63 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "26ef6a3caaba",
+   "lang": "ro",
+   "title": "O navă cu cereale plecată din România se scufundă în Marea Neagră, după un atac cu drone. Ce s-a întâmplat cu membrii echipajului",
+   "titles": {
+    "ro": "O navă cu cereale plecată din România se scufundă în Marea Neagră, după un atac cu drone. Ce s-a întâmplat cu membrii echipajului"
+   },
+   "summary": "Autorităţile bulgare au primit luni un semnal de urgenţă de la un cargou aflat în pericol de scufundare în zona economică exclusivă a Bulgariei din Marea Neagră, a anunţat Ministerul Transporturilor ş ...",
+   "url": "https://www.antena3.ro/externe/o-nava-cu-cereale-plecata-din-romania-se-scufunda-in-marea-neagra-din-cauze-inca-necunoscute-ce-s-a-intamplat-cu-membrii-echipajului-811319.html",
+   "source": "Antena 3 CNN",
+   "published": "2026-11-16T09:34:00Z",
+   "fetched": "2026-11-28T08:25:49Z",
+   "image": "https://cdn.knd.ro/media/521/2942/1792/20550873/1/nava-scufundata-marea-neagra.jpg?width=1200&height=630",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.jKbkSyOtyHDpcylPpQKksA&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping",
+    "grain"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "Radio Impuls",
+     "url": "https://www.radioimpuls.ro/o-nava-care-transporta-gaze-naturale-de-la-alexandria-catre-portul-romanesc-midia-s-a-scufundat-in-marea-neagra-ce-s-a-intamplat-cu-cei-19-membri-ai-echipajului-20550873"
+    },
+    {
+     "source": "Evenimentul Zilei",
+     "url": "https://evz.ro/o-nava-cu-destinatia-midia-s-a-scufundat-in-marea-neagra-in-largul-bulgariei-autoritatile-cauta-19-membri-ai-echipajului.html"
+    }
+   ],
+   "img_checked": true
+  },
+  {
+   "id": "02968412639e",
+   "lang": "en",
+   "title": "Fighter jets scrambled following Black Sea attacks",
+   "titles": {
+    "en": "Fighter jets scrambled following Black Sea attacks"
+   },
+   "summary": "Prime Minister Luca Niculescu called the attacks ‘unacceptable’ and a ‘violation of international law’ Thank you for your interest. Please complete the form below and a member of the team will be in ...",
+   "url": "https://www.lloydslist.com/LL1159028/Fighter-jets-scrambled-following-Black-Sea-attacks",
+   "source": "Lloyd's List",
+   "published": "2026-11-16T08:30:00Z",
+   "fetched": "2026-11-28T08:25:49Z",
+   "image": "https://www.lloydslist.com/-/media/lloyds-list/images/dry-bulk/2026-new-pictures/bulk-carrier-marsol-pictured-as-calypso.png?rev=a6bcdcabd69f4f31bf4e1fa3b93986fc",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.NQIL96jKl5PmboQkvzYT-A&pid=News",
+   "topics": [
+    "policy",
+    "attacks"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
   }
  ]
 }
