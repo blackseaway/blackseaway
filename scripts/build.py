@@ -178,12 +178,16 @@ SECTIONS = [("policy", ["policy"]), ("attacks", ["attacks", "mines"]), ("shippin
 def home_layout(items: list[dict]) -> dict:
     """Featured block (stories with pictures first), topic sections, then the rest."""
     now = now_utc()
-    fresh = [i for i in items if now - parse_iso(i["published"]) <= dt.timedelta(hours=48)] or items[:30]
+    # prefer the last 24 hours; widen only if there are too few stories with pictures
+    fresh = [i for i in items if now - parse_iso(i["published"]) <= dt.timedelta(hours=24)]
+    if sum(1 for i in fresh if i.get("image")) < 4:
+        fresh = [i for i in items if now - parse_iso(i["published"]) <= dt.timedelta(hours=48)] or items[:30]
 
     def score(i):
+        # recency matters most: a story loses one "priority point" every 3 hours
         age_h = (now - parse_iso(i["published"])).total_seconds() / 3600
         return (2 if i.get("image") else 0) + max([PRIORITY.get(t, 0) for t in i["topics"]] or [0]) \
-            + 0.5 * min(len(i.get("also", [])), 2) - age_h / 8
+            + 0.5 * min(len(i.get("also", [])), 2) - age_h / 3
     # featured block and topic sections: only stories with a picture (lead first);
     # stories without one (e.g. fresh Google News items) go to the "Latest news" column
     with_img = [i for i in sorted(fresh, key=score, reverse=True) if i.get("image")]

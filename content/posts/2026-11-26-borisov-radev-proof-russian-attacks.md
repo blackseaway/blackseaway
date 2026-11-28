@@ -5,7 +5,7 @@ summary: "The GERB leader says that once Vladimir Putin has admitted striking me
 author: Black Sea Way newsroom
 image: assets/uploads/2026-11-26-borisov.jpg
 kind: news
-pin_until: 2026-11-28
+pin_until: 2026-11-27
 draft: false
 ---
 Boyko Borisov, leader of Bulgaria's GERB party, has criticised Prime Minister Rumen Radev for continuing to demand proof of Russian attacks on commercial ships in the Black Sea, even after Vladimir Putin himself publicly acknowledged that Russia is striking such vessels in response to Ukrainian actions.
