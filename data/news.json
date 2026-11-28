@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T08:28:30Z",
+ "updated": "2026-11-28T08:39:20Z",
  "items": [
   {
    "id": "b147cd890c45",
@@ -351,6 +351,32 @@
    "fallback_image": "http://www.bing.com/th?id=ONUT.hdDmFaWIjtdGS4Z14MRvbw&pid=News",
    "topics": [
     "policy"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "e0bab48035ec",
+   "lang": "bg",
+   "title": "Министър: Дронове в Черно море ще има, но туристите напират да дойдат",
+   "titles": {
+    "bg": "Министър: Дронове в Черно море ще има, но туристите напират да дойдат",
+    "en": "Minister: There will be drones in the Black Sea, but tourists are keen to visit",
+    "ro": "Ministrul: Vor fi drone în Marea Neagră, dar turiștii se înghesuie să vină"
+   },
+   "summary": "Министърът на туризма Илин Димитров не вижда проблем и заплаха за бизнеса в зачестилите атаки с дронове по кораби край българското Черноморие.",
+   "url": "https://www.segabg.com/hot/category-economy/ministur-dronove-cherno-more-shte-ima-no-turistite-napirat-da-doydat",
+   "source": "СЕГА",
+   "published": "2026-11-27T12:23:00Z",
+   "fetched": "2026-11-28T08:36:37Z",
+   "image": "https://www.segabg.com/sites/default/files/_sega/styles/article_sega_bar/public/2023/01/snim_4.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.ypM8AeKaSnQh1bv1b84Teg&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
    ],
    "places": [],
    "also": [],
@@ -2725,32 +2751,6 @@
    "also": []
   },
   {
-   "id": "860f78876c7d",
-   "lang": "en",
-   "title": "MEPs Warn of Mounting Economic Threats to Bulgaria From Black Sea Attacks",
-   "titles": {
-    "en": "MEPs Warn of Mounting Economic Threats to Bulgaria From Black Sea Attacks",
-    "ro": "Deputații europeni avertizează asupra amenințărilor economice tot mai mari la adresa Bulgariei, generate de atacurile din Marea Neagră",
-    "bg": "Членовете на Европейския парламент предупреждават за нарастващите икономически заплахи за България вследствие на атаките в Черно море"
-   },
-   "summary": "Bulgarian members of the European Parliament called for stronger EU protection of Black Sea shipping and critical infrastructure, financial compensation for industries suffering losses because of the ...",
-   "url": "https://www.novinite.com/articles/241782/MEPs+Warn+of+Mounting+Economic+Threats+to+Bulgaria+From+Black+Sea+Attacks",
-   "source": "Novinite",
-   "published": "2026-11-25T02:02:00Z",
-   "fetched": "2026-11-25T16:18:55Z",
-   "image": "https://www.novinite.com/media/images/2026-11/photo_verybig_241782.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.ihVpq3q4tLVExDEkdMjH3g&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
    "id": "b6d215abe5ff",
    "lang": "en",
    "title": "Russia hides full shipping blockade between Azov and Black seas – expert",
@@ -3872,6 +3872,10 @@
     {
      "source": "Fakti.bg",
      "url": "https://fakti.bg/en/world/1104315-bulgarian-meps-call-for-a-joint-response-to-security-threats-in-the-black-sea"
+    },
+    {
+     "source": "Novinite",
+     "url": "https://www.novinite.com/articles/241782/MEPs+Warn+of+Mounting+Economic+Threats+to+Bulgaria+From+Black+Sea+Attacks"
     }
    ],
    "img_checked": true
@@ -3952,7 +3956,9 @@
    "lang": "bg",
    "title": "Радев и Уитакър обсъдиха сигурността в Черно море и армията",
    "titles": {
-    "bg": "Радев и Уитакър обсъдиха сигурността в Черно море и армията"
+    "bg": "Радев и Уитакър обсъдиха сигурността в Черно море и армията",
+    "en": "Radev and Whitaker discussed security in the Black Sea and the armed forces",
+    "ro": "Radev și Whitaker au discutat despre securitatea în Marea Neagră și despre armată"
    },
    "summary": "Премиерът Румен Радев и представителят на САЩ в НАТО Матю Уитакър обсъдиха сигурността в Черно море, корабоплаването и модернизацията на армията.",
    "url": "https://town.bg/radev-i-uitakar-obsadiha-sigurnostta-v-cherno-more-i-armiyata/",
@@ -4056,7 +4062,9 @@
    "lang": "ro",
    "title": "Planul Guvernului pentru facturi mai mici la gaze în 2027. Cum ar putea ajuta producția din Marea Neagră la reducerea costurilor",
    "titles": {
-    "ro": "Planul Guvernului pentru facturi mai mici la gaze în 2027. Cum ar putea ajuta producția din Marea Neagră la reducerea costurilor"
+    "ro": "Planul Guvernului pentru facturi mai mici la gaze în 2027. Cum ar putea ajuta producția din Marea Neagră la reducerea costurilor",
+    "en": "The Government’s plan for lower gas bills in 2027. How production in the Black Sea could help reduce costs",
+    "bg": "Планът на правителството за по-ниски сметки за газ през 2027 г. Как добивът от Черно море би могъл да допринесе за намаляване на разходите"
    },
    "summary": "Ministrul Energiei, Dumitru Chisăliță, a anunțat că intenționează să prelungească plafonarea prețului la gazele vândute de producători furnizorilor pentru consumul populației până la finalul anului 20 ...",
    "url": "https://adevarul.ro/economie/planul-guvernului-pentru-facturi-mai-mici-la-gaze-2573540.html",
@@ -4079,7 +4087,9 @@
    "lang": "bg",
    "title": "Ударите в Черно море няма да спрат, България има мъртва точка в наблюдението",
    "titles": {
-    "bg": "Ударите в Черно море няма да спрат, България има мъртва точка в наблюдението"
+    "bg": "Ударите в Черно море няма да спрат, България има мъртва точка в наблюдението",
+    "en": "The attacks in the Black Sea will not stop; Bulgaria has a blind spot in its surveillance",
+    "ro": "Atacurile din Marea Neagră nu se vor opri, iar Bulgaria se află într-un punct mort în ceea ce privește supravegherea"
    },
    "summary": "„Румъния е много по-активна във вземането на мерки, а България, която е една от основните черноморски държави, няма представа какво се случва на повече от 12 морски мили от брега. Съществува огромна ...",
    "url": "https://www.bloombergtv.bg/a/16-biznes-start/167328-udarite-v-cherno-more-nyama-da-sprat-balgariya-ima-martva-tochka-v-nablyudenieto",
