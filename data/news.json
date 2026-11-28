@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T08:11:49Z",
+ "updated": "2026-11-28T08:19:26Z",
  "items": [
   {
    "id": "b147cd890c45",
@@ -1570,33 +1570,6 @@
    "img_checked": true
   },
   {
-   "id": "b3ed1b766411",
-   "lang": "ro",
-   "title": "Mii de parfumuri susceptibile a fi contrafăcute, în valoare de peste 2,5 milioane de lei, găsite într-un container sosit în Portul Constanţa/ Marfa provenea din India şi ...",
-   "titles": {
-    "ro": "Mii de parfumuri susceptibile a fi contrafăcute, în valoare de peste 2,5 milioane de lei, găsite într-un container sosit în Portul Constanţa/ Marfa provenea din India şi ...",
-    "en": "Thousands of perfumes suspected of being counterfeit, worth over 2.5 million lei, were found in a container that arrived at the Port of Constanța/ The goods came from India and ...",
-    "bg": "Хиляди парфюми, за които се подозира, че са фалшиви, на стойност над 2,5 милиона леи, бяха открити в контейнер, пристигнал в пристанището на Констанца/ Стоката беше с произход от Индия и ..."
-   },
-   "summary": "Poliţiştii de frontieră au descoperit mii de parfumuri susceptibile a fi contrafăcute într-un container sosit din India în Portul Constanţa. Valoarea acestora depăşeşte 2,5 milioane de lei. Bunurile e ...",
-   "url": "https://www.news.ro/eveniment/mii-parfumuri-susceptibile-contrafacute-valoare-peste-2-5-milioane-lei-gasite-intr-container-sosit-portul-constanta-marfa-provenea-india-era-destinata-unei-firme-republica-moldova-1922404526122026111423012375",
-   "source": "News.ro",
-   "published": "2026-11-26T06:45:00Z",
-   "fetched": "2026-11-27T22:03:05Z",
-   "image": "https://i0.1616.ro/media/2/2701/33631/23012375/1/parfumuri-26-nov.jpg?width=640",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.V443FFY9KMSS0enSh_QaIQ&pid=News",
-   "topics": [
-    "shipping",
-    "ports"
-   ],
-   "places": [
-    "constanta"
-   ],
-   "also": [],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
    "id": "f7d4edc1927d",
    "lang": "ro",
    "title": "Rusia anunță că forțele sale au lovit facilităţi militar-industriale din Kiev și o navă în Marea Neagră (Interfax)",
@@ -1888,7 +1861,12 @@
    "places": [
     "constanta"
    ],
-   "also": [],
+   "also": [
+    {
+     "source": "News.ro",
+     "url": "https://www.news.ro/eveniment/mii-parfumuri-susceptibile-contrafacute-valoare-peste-2-5-milioane-lei-gasite-intr-container-sosit-portul-constanta-marfa-provenea-india-era-destinata-unei-firme-republica-moldova-1922404526122026111423012375"
+    }
+   ],
    "img_tried": true,
    "img_checked": true
   },
@@ -3523,7 +3501,9 @@
    "lang": "ro",
    "title": "ATENȚIE ȘOFERI: 15 transporturi agabaritice străbat județul Constanța în această noapte, cu plecare din Portul Agigea",
    "titles": {
-    "ro": "ATENȚIE ȘOFERI: 15 transporturi agabaritice străbat județul Constanța în această noapte, cu plecare din Portul Agigea"
+    "ro": "ATENȚIE ȘOFERI: 15 transporturi agabaritice străbat județul Constanța în această noapte, cu plecare din Portul Agigea",
+    "en": "ATTENTION DRIVERS: 15 oversized loads are travelling through Constanța County tonight, departing from the Port of Agigea",
+    "bg": "ВНИМАНИЕ, ШОФЬОРИ: Тази нощ през окръг Констанца ще преминат 15 превоза с извънгабаритни товари, които тръгват от пристанището в Агигеа"
    },
    "summary": "Centrul INFOTRAFIC din Inspectoratul General al Poliției Române informează că astăzi, 24 noiembrie, se deplasează 18 transporturi agabaritice pe următoarele ...",
    "url": "https://focuspress.ro/atentie-soferi-15-transporturi-agabaritice-strabat-judetul-constanta-in-aceasta-noapte-cu-plecare-din-portul-agigea-66c346517/",
@@ -3569,7 +3549,9 @@
    "lang": "bg",
    "title": "МО засекрети учение в най-опасния от дронове район пред българския бряг на Черно море",
    "titles": {
-    "bg": "МО засекрети учение в най-опасния от дронове район пред българския бряг на Черно море"
+    "bg": "МО засекрети учение в най-опасния от дронове район пред българския бряг на Черно море",
+    "en": "The Ministry of Defence has classified a military exercise in the area off the Bulgarian Black Sea coast where drones pose the greatest threat",
+    "ro": "Ministerul Apărării a clasificat ca secret un exercițiu militar desfășurat în cea mai periculoasă zonă din punct de vedere al dronelor, situată în largul coastei bulgare a Mării Negre"
    },
    "summary": "Министерството на отбраната отказа да оповести характера на съвместно учение на флота и авиацията, заради което голям район в открито море пред българския бряг е обявен за опасен за корабоплаване до к ...",
    "url": "https://blitz.bg/obshtestvo/mo-zasekreti-uchenie-v-nay-opasniya-ot-dronove-rayon-pred-balgarskiya-bryag-na-cherno-more_news1183990.html",
@@ -3614,7 +3596,9 @@
    "lang": "en",
    "title": "Türkiye plans new Black Sea security mechanism to protect shipping and grain exports",
    "titles": {
-    "en": "Türkiye plans new Black Sea security mechanism to protect shipping and grain exports"
+    "en": "Türkiye plans new Black Sea security mechanism to protect shipping and grain exports",
+    "ro": "Turcia intenționează să instituie un nou mecanism de securitate în Marea Neagră pentru a proteja transportul maritim și exporturile de cereale",
+    "bg": "Турция планира нов механизъм за сигурност в Черно море с цел защита на корабоплаването и износа на зърно"
    },
    "summary": "Türkiye is developing a new mechanism to safeguard commercial shipping and agricultural exports through the Black Sea, its UN ambassador said on Monday.",
    "url": "https://anewz.tv/region/central-asia/27177/ankara-floats-black-sea-security-scheme/news",
@@ -3668,7 +3652,9 @@
    "lang": "ro",
    "title": "Criza Neptun Deep. România, la un pas de o confruntare cu Rusia în Marea Neagră",
    "titles": {
-    "ro": "Criza Neptun Deep. România, la un pas de o confruntare cu Rusia în Marea Neagră"
+    "ro": "Criza Neptun Deep. România, la un pas de o confruntare cu Rusia în Marea Neagră",
+    "en": "The Neptun Deep crisis. Romania on the brink of a confrontation with Russia in the Black Sea",
+    "bg": "Кризата „Нептун Дийп“. Румъния – на крачка от конфликт с Русия в Черно море"
    },
    "summary": "Situația creată în jurul platformei a fost una extrem de tensionată. Neptun Deep se află la 160 de kilometri de Portul Constanța, efectiv în mijlocul Mării Negre. O navă de salvare avea nevoie de ...",
    "url": "https://psnews.ro/criza-neptun-deep-romania-la-un-pas-de-o-confruntare-cu-rusia-in-marea-neagra/",
@@ -3977,6 +3963,29 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "ec6587060df9",
+   "lang": "bg",
+   "title": "Радев и Уитакър обсъдиха сигурността в Черно море и армията",
+   "titles": {
+    "bg": "Радев и Уитакър обсъдиха сигурността в Черно море и армията"
+   },
+   "summary": "Премиерът Румен Радев и представителят на САЩ в НАТО Матю Уитакър обсъдиха сигурността в Черно море, корабоплаването и модернизацията на армията.",
+   "url": "https://town.bg/radev-i-uitakar-obsadiha-sigurnostta-v-cherno-more-i-armiyata/",
+   "source": "town",
+   "published": "2026-11-24T04:18:00Z",
+   "fetched": "2026-11-28T08:16:34Z",
+   "image": "https://town.bg/wp-content/uploads/2026/11/radev-i-uitakar-obsadiha-sigurnostta-v-cherno-more-i-armiyata.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.XSpyGpUpWCGh8-lIpJR-bw&pid=News",
+   "topics": [
+    "policy",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
   },
   {
    "id": "4866bf4712e7",
@@ -6966,6 +6975,29 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "3c6ce5b52778",
+   "lang": "en",
+   "title": "Corn Prices Steady but India Premium Widens as Black Sea Risks Linger",
+   "titles": {
+    "en": "Corn Prices Steady but India Premium Widens as Black Sea Risks Linger"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdVNRd3huNkctWkI4dTlIdVEtUjBDQV9pU1B4Q0F5VHcwZUYtTFJIZC1pZE9LeFF2T09TcFVKT2Q3N3BwbGhUd09mQ1Brd1cxZXoyMzZ4cmNfdzJweTA4eG1XX1ByZFNPV1hXTU1McklHbnFSenZ6cnlZNlNsbV9JVkdlVmF0dUdqUlVEU1ZsandYZTFLMk1nTXBmUFd3QQ?oc=5",
+   "source": "CMB News",
+   "published": "2026-11-22T02:00:08Z",
+   "fetched": "2026-11-28T08:16:34Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "insurance",
+    "grain",
+    "prices"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
   },
   {
    "id": "229921bdaec1",
@@ -10525,30 +10557,6 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
-  },
-  {
-   "id": "02968412639e",
-   "lang": "en",
-   "title": "Fighter jets scrambled following Black Sea attacks",
-   "titles": {
-    "en": "Fighter jets scrambled following Black Sea attacks"
-   },
-   "summary": "Prime Minister Luca Niculescu called the attacks ‘unacceptable’ and a ‘violation of international law’ Thank you for your interest. Please complete the form below and a member of the team will be in ...",
-   "url": "https://www.lloydslist.com/LL1159028/Fighter-jets-scrambled-following-Black-Sea-attacks",
-   "source": "Lloyd's List",
-   "published": "2026-11-16T08:30:00Z",
-   "fetched": "2026-11-28T08:08:53Z",
-   "image": "https://www.lloydslist.com/-/media/lloyds-list/images/dry-bulk/2026-new-pictures/bulk-carrier-marsol-pictured-as-calypso.png?rev=a6bcdcabd69f4f31bf4e1fa3b93986fc",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.NQIL96jKl5PmboQkvzYT-A&pid=News",
-   "topics": [
-    "policy",
-    "attacks"
-   ],
-   "places": [],
-   "trusted": true,
-   "also": [],
-   "img_tried": true,
-   "img_checked": true
   }
  ]
 }
