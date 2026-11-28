@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T08:45:00Z",
+ "updated": "2026-11-28T09:01:58Z",
  "items": [
   {
    "id": "b147cd890c45",
@@ -4182,32 +4182,6 @@
    "also": []
   },
   {
-   "id": "60012d7068ae",
-   "lang": "bg",
-   "title": "Два потопени кораба, без нито произведен изстрел: Защо България не може да направи това, което ...",
-   "titles": {
-    "bg": "Два потопени кораба, без нито произведен изстрел: Защо България не може да направи това, което ...",
-    "en": "Two sunken ships, without a single shot being fired: Why can’t Bulgaria do what …",
-    "ro": "Două nave scufundate, fără ca măcar un singur foc să fi fost tras: De ce Bulgaria nu poate face ceea ce..."
-   },
-   "summary": "През миналата седмица в рамките на 24 часа два търговски кораба потънаха край северното черноморско крайбрежие на България. Българските въоръжени сили ...",
-   "url": "https://www.kaldata.com/it-%d0%bd%d0%be%d0%b2%d0%b8%d0%bd%d0%b8/%d0%b4%d0%b2%d0%b0-%d0%bf%d0%be%d1%82%d0%be%d0%bf%d0%b5%d0%bd%d0%b8-%d0%ba%d0%be%d1%80%d0%b0%d0%b1%d0%b0-%d0%b1%d0%b5%d0%b7-%d0%bd%d0%b8%d1%82%d0%be-%d0%bf%d1%80%d0%be%d0%b8%d0%b7%d0%b2%d0%b5%d0%b4-731033.html",
-   "source": "Kaldata.com",
-   "published": "2026-11-24T01:49:00Z",
-   "fetched": "2026-11-26T06:42:36Z",
-   "image": "https://www.kaldata.com/wp-content/uploads/kaldata-og/731033.jpg?v=1795536706",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.umTa-FSK_Sy0kZjVGs7PVg&pid=News",
-   "topics": [
-    "shipping"
-   ],
-   "places": [
-    "chornomorsk"
-   ],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
    "id": "1034b781559a",
    "lang": "en",
    "title": "Türkiye draws up plan to secure Black Sea shipping",
@@ -4344,7 +4318,9 @@
    "lang": "en",
    "title": "Russia cuts fleet off from global tracking system to foil Ukrainian drone strikes",
    "titles": {
-    "en": "Russia cuts fleet off from global tracking system to foil Ukrainian drone strikes"
+    "en": "Russia cuts fleet off from global tracking system to foil Ukrainian drone strikes",
+    "ro": "Rusia deconectează flota de la sistemul global de urmărire pentru a contracara atacurile cu drone ale Ucrainei",
+    "bg": "Русия изключва флота си от глобалната система за проследяване, за да предотврати удари с украински дронове"
    },
    "summary": "Dozens of seafarers have been killed in attacks on commercial shipping by Russia and Ukraine TradeWinds depends on being able to display ads on our services in order to finance our journalism.",
    "url": "https://www.tradewindsnews.com/regulation/russia-cuts-fleet-off-from-global-tracking-system-to-foil-ukrainian-drone-strikes/2-1-2078567",
@@ -4368,7 +4344,9 @@
    "lang": "en",
    "title": "UN lays bare the cost of the Black Sea shipping crisis",
    "titles": {
-    "en": "UN lays bare the cost of the Black Sea shipping crisis"
+    "en": "UN lays bare the cost of the Black Sea shipping crisis",
+    "ro": "ONU dezvăluie costurile crizei transportului maritim din Marea Neagră",
+    "bg": "ООН разкрива цената на кризата в корабоплаването в Черно море"
    },
    "summary": "Brussels is seeking to ban tankers insured in Russia and the United Nations is pushing for a new humanitarian grain shipping arrangement in the Black Sea as the maritime dimension of the Ukraine war ...",
    "url": "https://splash247.com/un-lays-bare-the-cost-of-the-black-sea-shipping-crisis/",
@@ -4491,7 +4469,9 @@
    "lang": "ro",
    "title": "Rusia amenință Ucraina cu „consecințe dureroase” după atacurile asupra navelor rusești din Libia și Marea Baltică; conflictul maritim se extinde dincolo de Marea Neagră",
    "titles": {
-    "ro": "Rusia amenință Ucraina cu „consecințe dureroase” după atacurile asupra navelor rusești din Libia și Marea Baltică; conflictul maritim se extinde dincolo de Marea Neagră"
+    "ro": "Rusia amenință Ucraina cu „consecințe dureroase” după atacurile asupra navelor rusești din Libia și Marea Baltică; conflictul maritim se extinde dincolo de Marea Neagră",
+    "en": "Russia is threatening Ukraine with “painful consequences” following attacks on Russian ships in Libya and the Baltic Sea; the maritime conflict is spreading beyond the Black Sea",
+    "bg": "Русия заплашва Украйна с „болезнени последствия“ след атаките срещу руски кораби в Либия и Балтийско море; морският конфликт се разширява отвъд Черно море"
    },
    "summary": "Rusia amenință Ucraina cu „consecințe dureroase” după atacurile asupra navelor rusești din Libia și Marea Baltică; conflictul maritim se extinde dincolo de Marea Neagră ...",
    "url": "https://financialintelligence.ro/rusia-ameninta-ucraina-cu-consecinte-dureroase-dupa-atacurile-asupra-navelor-rusesti-din-libia-si-marea-baltica-conflictul-maritim-se-extinde-dincolo-de-marea-neagra/",
@@ -4978,7 +4958,9 @@
    "lang": "en",
    "title": "India calls for end to attacks on commercial shipping, safe navigation in Black Sea at UNSC amid Russia-Ukraine conflict",
    "titles": {
-    "en": "India calls for end to attacks on commercial shipping, safe navigation in Black Sea at UNSC amid Russia-Ukraine conflict"
+    "en": "India calls for end to attacks on commercial shipping, safe navigation in Black Sea at UNSC amid Russia-Ukraine conflict",
+    "ro": "India solicită, în cadrul Consiliului de Securitate al ONU, încetarea atacurilor asupra navelor comerciale și asigurarea navigației în condiții de siguranță în Marea Neagră, pe fondul conflictului dintre Rusia și Ucraina",
+    "bg": "В контекста на конфликта между Русия и Украйна Индия призовава пред Съвета за сигурност на ООН за прекратяване на атаките срещу търговското корабоплаване и за осигуряване на безопасно корабоплаване в Черно море"
    },
    "summary": "India has called for an immediate end to attacks on commercial shipping and seafarers in the Black Sea, stressing that safe navigation through international waterways must be restored at the earliest ...",
    "url": "https://www.jammulinksnews.com/india-calls-for-end-to-attacks-on-commercial-shipping-safe-navigation-in-black-sea-at-unsc-amid-russia-ukraine-conflict/",
@@ -6088,7 +6070,12 @@
    "places": [],
    "img_tried": true,
    "img_checked": true,
-   "also": []
+   "also": [
+    {
+     "source": "Kaldata.com",
+     "url": "https://www.kaldata.com/it-%d0%bd%d0%be%d0%b2%d0%b8%d0%bd%d0%b8/%d0%b4%d0%b2%d0%b0-%d0%bf%d0%be%d1%82%d0%be%d0%bf%d0%b5%d0%bd%d0%b8-%d0%ba%d0%be%d1%80%d0%b0%d0%b1%d0%b0-%d0%b1%d0%b5%d0%b7-%d0%bd%d0%b8%d1%82%d0%be-%d0%bf%d1%80%d0%be%d0%b8%d0%b7%d0%b2%d0%b5%d0%b4-731033.html"
+    }
+   ]
   },
   {
    "id": "70e1b2bccf1e",
@@ -10595,6 +10582,30 @@
      "url": "https://evz.ro/o-nava-cu-destinatia-midia-s-a-scufundat-in-marea-neagra-in-largul-bulgariei-autoritatile-cauta-19-membri-ai-echipajului.html"
     }
    ],
+   "img_checked": true
+  },
+  {
+   "id": "840aa1207022",
+   "lang": "ro",
+   "title": "România cere sprijin UE pentru a neutraliza amenințările Rusiei în Marea Neagră. Neculăescu: „Am avut 3 nave lovite. E inacceptabil”",
+   "titles": {
+    "ro": "România cere sprijin UE pentru a neutraliza amenințările Rusiei în Marea Neagră. Neculăescu: „Am avut 3 nave lovite. E inacceptabil”"
+   },
+   "summary": "România a solicitat luni, alături de Estonia și Suedia, un răspuns european unit la amenințările crescânde din partea Rusiei, de la atacuri cu drone în Marea Neagră până la presupuse acte de sabotaj, ...",
+   "url": "https://www.antena3.ro/actualitate/romania-cere-sprijin-ue-pentru-a-neutraliza-amenintarile-rusiei-in-marea-neagra-neculaescu-am-avut-3-nave-lovite-e-inacceptabil-811367.html",
+   "source": "Antena 3 CNN",
+   "published": "2026-11-16T07:32:00Z",
+   "fetched": "2026-11-28T08:58:54Z",
+   "image": "https://www.antena3.ro/thumbs/amp/2026/11/16/romania-cere-sprijin-ue-pentru-a-neutraliza-amenintarile-rusiei-in-marea-neagra-neculaescu-am-avut-3-nave-lovite-e-inacceptabil-1119678.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.Dvijbs8G0RLzjfDUAGvZ6A&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
    "img_checked": true
   }
  ]

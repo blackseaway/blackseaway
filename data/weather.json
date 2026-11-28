@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-28T08:48:42Z",
+ "updated": "2026-11-28T09:02:17Z",
  "source": "Open-Meteo.com",
  "ports": {
   "odesa": {
    "wave_height": 1.38,
-   "wave_direction": 61,
+   "wave_direction": 60,
    "wave_period": 4.6,
    "sea_temp": 11.1,
    "wave_max_24h": 1.5,
@@ -29,16 +29,16 @@
     }
    ],
    "wind_speed": 16.9,
-   "wind_direction": 34,
+   "wind_direction": 33,
    "wind_gusts": 29.5,
    "air_temp": 1.7,
    "gusts_max_24h": 33.0,
-   "updated": "2026-11-28T08:39:20Z"
+   "updated": "2026-11-28T09:01:59Z"
   },
   "danube": {
-   "wave_height": 2.24,
+   "wave_height": 2.28,
    "wave_direction": 62,
-   "wave_period": 5.75,
+   "wave_period": 5.8,
    "sea_temp": 13.3,
    "wave_max_24h": 2.6,
    "days": [
@@ -61,17 +61,17 @@
      "wind_max": 25.6
     }
    ],
-   "wind_speed": 27.7,
-   "wind_direction": 48,
+   "wind_speed": 28.1,
+   "wind_direction": 47,
    "wind_gusts": 40.0,
-   "air_temp": 7.0,
+   "air_temp": 6.9,
    "gusts_max_24h": 44.5,
-   "updated": "2026-11-28T08:39:22Z"
+   "updated": "2026-11-28T09:02:04Z"
   },
   "constanta": {
-   "wave_height": 2.36,
+   "wave_height": 2.4,
    "wave_direction": 51,
-   "wave_period": 5.85,
+   "wave_period": 5.9,
    "sea_temp": 12.3,
    "wave_max_24h": 3.4,
    "days": [
@@ -94,17 +94,17 @@
      "wind_max": 30.0
     }
    ],
-   "wind_speed": 26.2,
-   "wind_direction": 41,
+   "wind_speed": 26.6,
+   "wind_direction": 42,
    "wind_gusts": 37.3,
    "air_temp": 9.7,
    "gusts_max_24h": 48.2,
-   "updated": "2026-11-28T08:48:32Z"
+   "updated": "2026-11-28T09:02:06Z"
   },
   "varna": {
-   "wave_height": 1.28,
-   "wave_direction": 52,
-   "wave_period": 4.65,
+   "wave_height": 1.32,
+   "wave_direction": 53,
+   "wave_period": 4.75,
    "sea_temp": 12.1,
    "wave_max_24h": 2.9,
    "days": [
@@ -127,17 +127,17 @@
      "wind_max": 29.4
     }
    ],
-   "wind_speed": 28.0,
-   "wind_direction": 18,
+   "wind_speed": 28.3,
+   "wind_direction": 17,
    "wind_gusts": 40.6,
-   "air_temp": 8.6,
+   "air_temp": 8.5,
    "gusts_max_24h": 49.0,
-   "updated": "2026-11-28T08:48:34Z"
+   "updated": "2026-11-28T09:02:08Z"
   },
   "burgas": {
-   "wave_height": 0.96,
+   "wave_height": 1.0,
    "wave_direction": 50,
-   "wave_period": 4.1,
+   "wave_period": 4.15,
    "sea_temp": 13.7,
    "wave_max_24h": 2.8,
    "days": [
@@ -160,16 +160,16 @@
      "wind_max": 17.0
     }
    ],
-   "wind_speed": 8.9,
-   "wind_direction": 1,
+   "wind_speed": 9.5,
+   "wind_direction": 2,
    "wind_gusts": 17.3,
-   "air_temp": 9.5,
+   "air_temp": 9.6,
    "gusts_max_24h": 37.5,
-   "updated": "2026-11-28T08:48:36Z"
+   "updated": "2026-11-28T09:02:10Z"
   },
   "bosphorus": {
-   "wave_height": 0.62,
-   "wave_direction": 348,
+   "wave_height": 0.64,
+   "wave_direction": 346,
    "wave_period": 4.1,
    "sea_temp": 15.1,
    "wave_max_24h": 3.1,
@@ -193,12 +193,12 @@
      "wind_max": 21.1
     }
    ],
-   "wind_speed": 3.5,
-   "wind_direction": 333,
+   "wind_speed": 3.6,
+   "wind_direction": 338,
    "wind_gusts": 7.2,
-   "air_temp": 15.1,
+   "air_temp": 15.2,
    "gusts_max_24h": 31.5,
-   "updated": "2026-11-28T08:48:37Z"
+   "updated": "2026-11-28T09:02:12Z"
   },
   "georgia": {
    "wave_height": 0.22,
@@ -226,16 +226,16 @@
      "wind_max": 15.6
     }
    ],
-   "wind_speed": 1.6,
-   "wind_direction": 30,
+   "wind_speed": 2.1,
+   "wind_direction": 34,
    "wind_gusts": 2.9,
    "air_temp": 15.5,
    "gusts_max_24h": 9.7,
-   "updated": "2026-11-28T08:48:39Z"
+   "updated": "2026-11-28T09:02:14Z"
   },
   "russia": {
-   "wave_height": 0.64,
-   "wave_direction": 40,
+   "wave_height": 0.66,
+   "wave_direction": 29,
    "wave_period": 3.2,
    "sea_temp": 14.2,
    "wave_max_24h": 1.5,
@@ -259,12 +259,12 @@
      "wind_max": 27.4
     }
    ],
-   "wind_speed": 10.7,
-   "wind_direction": 42,
+   "wind_speed": 11.0,
+   "wind_direction": 44,
    "wind_gusts": 21.2,
-   "air_temp": 6.5,
+   "air_temp": 6.4,
    "gusts_max_24h": 40.8,
-   "updated": "2026-11-28T08:48:41Z"
+   "updated": "2026-11-28T09:02:16Z"
   }
  }
 }
