@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-28T14:59:58Z",
+ "updated": "2026-11-28T15:57:18Z",
  "items": [
+  {
+   "id": "a61ed5e55a2b",
+   "lang": "en",
+   "title": "Russia says it hit Black Sea cargo ship carrying military supplies for Ukraine",
+   "titles": {
+    "en": "Russia says it hit Black Sea cargo ship carrying military supplies for Ukraine"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT3kwUUstTU53eHUtZ2djMEdTVVQ3SG1wZExRNHh5VHdwSXR5RjhYZUNyeWl5LXA1THVjdExJcmhMLUM0RkdTX3dGZjBzZjNzMWxlWmlDWWtmdWIyV3czeHlpSlJUS1NPdTVZcDBTOU9JN0pBMnhLcjItdlFkUXNXVVdfY01lbTBVLVFtRjBRZ3h4bHFDbjZRbTRxcHRXUXMtd00ta1dNejRncVpobWJURlRSU2UyTVN6SGVGcUM0RFp2Q2I5T216R3hDMHRybGJvWkE?oc=5",
+   "source": "Business Upturn",
+   "published": "2026-11-28T15:01:00Z",
+   "fetched": "2026-11-28T15:54:37Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
   {
    "id": "113ea33a17e3",
    "lang": "en",
@@ -22,6 +43,31 @@
    ],
    "places": [],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "d2478acbc7d7",
+   "lang": "ro",
+   "title": "„Inclusiv Germania va importa gaz din Marea Neagră”. Un expert în securitate explică de ce e nevoie de NATO pentru a apăra Neptun Deep",
+   "titles": {
+    "ro": "„Inclusiv Germania va importa gaz din Marea Neagră”. Un expert în securitate explică de ce e nevoie de NATO pentru a apăra Neptun Deep",
+    "en": "“Even Germany will import gas from the Black Sea”. A security expert explains why NATO is needed to defend Neptun Deep",
+    "bg": "„Дори Германия ще внася газ от Черно море“. Експерт по сигурността обяснява защо е необходим НАТО за защитата на „Нептун Дийп“"
+   },
+   "summary": "Din 2027, România va deveni cel mai mare producător de gaze naturale, odată ce vom începe să exploatăm gazul din perimetrul Neptun Deep. Acest perimetru se află în zona economică exclusivă, la 160 de ...",
+   "url": "https://www.antena3.ro/aliat/inclusiv-germania-va-importa-gaz-din-marea-neagra-un-expert-in-securitate-explica-de-ce-e-nevoie-de-nato-pentru-a-apara-neptun-deep-812962.html",
+   "source": "Antena 3 CNN",
+   "published": "2026-11-28T07:41:00Z",
+   "fetched": "2026-11-28T15:54:37Z",
+   "image": "https://www.antena3.ro/thumbs/amp/2026/11/28/inclusiv-germania-va-importa-gaz-din-marea-neagra-un-expert-in-securitate-explica-de-ce-e-nevoie-de-nato-pentru-a-apara-neptun-deep-1123097.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.zZqAoWrdpksWfmUaGOdb8Q&pid=News",
+   "topics": [
+    "policy",
+    "energy"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -299,6 +345,30 @@
     "odesa",
     "pivdennyi"
    ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "321804209316",
+   "lang": "bg",
+   "title": "Николай Ненчев: Редица европейски държави назоваха чий са дроновете в Черно море",
+   "titles": {
+    "bg": "Николай Ненчев: Редица европейски държави назоваха чий са дроновете в Черно море",
+    "en": "Nikolay Nenchev: A number of European countries have identified who owns the drones in the Black Sea",
+    "ro": "Nikolay Nenchev: O serie de țări europene au precizat cui aparțin dronele din Marea Neagră"
+   },
+   "summary": "Напрежението само ще ескалира, както виждате то ескалира в Латвия, Литва, в Румъния, както и в Естония. Тя дори затвори своите граници. Това ще продължава и в акваторията на Черно море. Не би следвало ...",
+   "url": "https://www.24chasa.bg/bulgaria/article/24015494",
+   "source": "24 Часа",
+   "published": "2026-11-27T19:26:00Z",
+   "fetched": "2026-11-28T15:54:37Z",
+   "image": "https://cache1.24chasa.bg/Images/Cache/509/IMAGE_24015509_0_0.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.jU8PENpI40PeNtfSgUzlFw&pid=News",
+   "topics": [
+    "attacks"
+   ],
+   "places": [],
    "also": [],
    "img_tried": true,
    "img_checked": true
@@ -908,6 +978,29 @@
    ],
    "also": [],
    "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "22a7867c3b5f",
+   "lang": "bg",
+   "title": "Украинското зърно през Констанца се увеличи пет пъти - Maritime.bg",
+   "titles": {
+    "bg": "Украинското зърно през Констанца се увеличи пет пъти - Maritime.bg"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Dak9DLUZyRGY3NE1uRlpYVThUbFhDbFFubE1FYlM2WEpOSHFEVjVBVU1LZGNiNlFIQjhuVThmTjJnT05PeXc?oc=5",
+   "source": "Maritime.bg - Морският портал",
+   "published": "2026-11-27T07:35:22Z",
+   "fetched": "2026-11-28T15:54:37Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "grain"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "also": [],
    "img_checked": true
   },
   {
@@ -5918,35 +6011,6 @@
    "img_checked": true
   },
   {
-   "id": "792fb653a2e2",
-   "lang": "bg",
-   "title": "Според министър Абровски сигурността в Черно море трябва да е част от европейската визия за ...",
-   "titles": {
-    "bg": "Според министър Абровски сигурността в Черно море трябва да е част от европейската визия за ...",
-    "en": "According to Minister Abrovski, security in the Black Sea must be part of the European vision for ...",
-    "ro": "Potrivit ministrului Abrovski, securitatea în Marea Neagră trebuie să facă parte din viziunea europeană privind..."
-   },
-   "summary": "Визията на Европейския съюз за рибарството до 2040 г. трябва да отчита геополитическата обстановка и рисковете за сигурността в Черно море, които пряко ...",
-   "url": "https://utroruse.com/article/1341677/",
-   "source": "Утро",
-   "published": "2026-11-23T11:07:00Z",
-   "fetched": "2026-11-26T06:42:36Z",
-   "image": "https://cc.utroruse.com/8WgR4NKivyBu2xlnSVxhJRzlvp9YMtT7U-kuR0iXp6k/rs:fill:1200:630:0/g:fp:0.5:0.37/q:82/plain/local:///1795453801692/7489dce2948cf48162aedee80eb92090.jpg@jpeg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.A1cNgqCKu28mvO2XWGg8vQ&pid=News",
-   "topics": [
-    "policy"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": [
-    {
-     "source": "Maritime.bg - Морският портал",
-     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9haE9WWlRhQ0ZMQ1RidGtWdmlZa3BpbVB0QV9mMENSMHBKeVExeXpXbEVBd0xOME1JaklKNGRuT016MlVrWGc?oc=5"
-    }
-   ]
-  },
-  {
    "id": "492c96aa60b3",
    "lang": "ro",
    "title": "Forțele Navale Române iau măsuri pentru creșterea siguranței navigației pe Dunăre și în Marea Neagră",
@@ -6019,7 +6083,16 @@
    "places": [],
    "img_tried": true,
    "img_checked": true,
-   "also": []
+   "also": [
+    {
+     "source": "Утро",
+     "url": "https://utroruse.com/article/1341677/"
+    },
+    {
+     "source": "Maritime.bg - Морският портал",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9haE9WWlRhQ0ZMQ1RidGtWdmlZa3BpbVB0QV9mMENSMHBKeVExeXpXbEVBd0xOME1JaklKNGRuT016MlVrWGc?oc=5"
+    }
+   ]
   },
   {
    "id": "8222cacd8190",
@@ -6112,7 +6185,9 @@
    "lang": "bg",
    "title": "Президентът Йотова обсъди сигурността в Черно море с постоянния представител на САЩ в НАТО Матю ...",
    "titles": {
-    "bg": "Президентът Йотова обсъди сигурността в Черно море с постоянния представител на САЩ в НАТО Матю ..."
+    "bg": "Президентът Йотова обсъди сигурността в Черно море с постоянния представител на САЩ в НАТО Матю ...",
+    "en": "President Yotova discussed security in the Black Sea with the US Permanent Representative to NATO, Matthew ...",
+    "ro": "Președinta Yotova a discutat despre securitatea în Marea Neagră cu reprezentantul permanent al SUA la NATO, Matthew ..."
    },
    "summary": "Войната в Украйна вече е в Черно море, създава рискове и заплахи за националната сигурност, за гражданите, за икономиката на България и на страните в региона, както и за продоволствената сигурност изв ...",
    "url": "https://novini.bg/article/2026112316043050451",
@@ -6301,7 +6376,9 @@
    "lang": "bg",
    "title": "Руски подводници излязоха в Черно море за първи път от половин година: какво се случи?",
    "titles": {
-    "bg": "Руски подводници излязоха в Черно море за първи път от половин година: какво се случи?"
+    "bg": "Руски подводници излязоха в Черно море за първи път от половин година: какво се случи?",
+    "en": "Russian submarines have entered the Black Sea for the first time in half a year: what happened?",
+    "ro": "Submarinele ruse au ieșit în Marea Neagră pentru prima dată după jumătate de an: ce s-a întâmplat?"
    },
    "summary": "Подводниците са напуснали Новоросийск, за да изстрелят ракети „Калибър“ от подводно положение. При атаката по Украйна са използвани над 20 морски ракети ...",
    "url": "https://fakti.bg/world/1103895-ruski-podvodnici-izlazoha-v-cherno-more-za-parvi-pat-ot-polovin-godina-kakvo-se-sluchi",
@@ -9755,46 +9832,6 @@
    "also": []
   },
   {
-   "id": "c34c202b8b34",
-   "lang": "en",
-   "title": "LPG tanker that sank off Bulgaria was hit by projectiles: official",
-   "titles": {
-    "en": "LPG tanker that sank off Bulgaria was hit by projectiles: official"
-   },
-   "summary": "Gas Husky LPG tanker sank off Bulgaria after projectile hits; 19 crew rescued amid a spate of Black Sea drone attacks fueling security concerns.",
-   "url": "https://www.thehindu.com/news/international/lpg-tanker-that-sank-off-bulgaria-was-hit-by-projectiles-official/article71715541.ece",
-   "source": "The Hindu",
-   "published": "2026-11-18T03:12:00Z",
-   "fetched": "2026-11-28T14:57:11Z",
-   "image": "https://www.bing.com/th?id=ONUT.MLUZCxFg25WbeZ8VDluF3g&pid=News",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.VBEQRotYozrbb19KYFtHxA&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "energy"
-   ],
-   "places": [],
-   "also": [
-    {
-     "source": "Khaleej Times on MSN",
-     "url": "https://www.msn.com/en-ae/news/world/19-filipinos-safe-after-drone-attack-sinks-lpg-tanker-in-black-sea-off-bulgaria/ar-AA2hLgLc"
-    },
-    {
-     "source": "dzrh",
-     "url": "https://www.dzrh.com.ph/post/19-filipino-crew-members-safe-after-drone-attack-on-lpg-tanker-in-black-sea-dmw"
-    },
-    {
-     "source": "DZRH",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdG5WbWNOTm9oaXBDNUNQenRKMFdUb3Zka19OYjAyLWk0NEl5enpBeTN6bE5TS2Q5QVg3enRsMGpDUHc4YWxLUjZTVkpXTmlrZ0dndDZvX3J6enczc1UydldOVmRKbmtVWWRyUFNKUGJxWUZVdDR0NWE2bTZVSWVlSHVsdzloYTdNSjBOOVhkZkpVNkhBZXBvR2sxREM5NVNpS2RQTTdEU3U4OWxv?oc=5"
-    },
-    {
-     "source": "The Global Filipino Magazine",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcU5nOWdweV83bEtneV9hdm8wazc0TGRURWwwT3FrbXBheDJMUHpCbDN3UG1ZZXQzSnN0SjJST2ltUXBuTnZsWnBxOV8tVmhmN2docFctZlJld1lnUGljWFh2X1ZJVGRoSWREdjBIMWpWTVFaY0syZENnN25XWUktZ0VGanpMa1lTdlFGSDFFejh6a2ZudEliLV9vTWl3bG9QdTJKOWtZMFk2VklHSmdDRF9DTkVDZnA0Z2RUVnY2blRINHlxZTVN?oc=5"
-    }
-   ],
-   "img_checked": true
-  },
-  {
    "id": "330b0fa19a7a",
    "lang": "en",
    "title": "Previous Ukraine port calls could expose ships to drone attacks in Black Sea",
@@ -9816,6 +9853,54 @@
    "places": [],
    "also": [],
    "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "1782c8b88cd8",
+   "lang": "en",
+   "title": "LPG tanker that sank off Bulgaria on Tuesday was hit by projectiles, official says",
+   "titles": {
+    "en": "LPG tanker that sank off Bulgaria on Tuesday was hit by projectiles, official says"
+   },
+   "summary": "A liquefied petroleum gas tanker that sank off Bulgaria's Black Sea coast on Tuesday had been struck by projectiles, a regional governor and maritime security sources said, ...",
+   "url": "https://www.yahoo.com/news/articles/lpg-tanker-sank-off-bulgaria-103424292.html",
+   "source": "Yahoo",
+   "published": "2026-11-18T02:34:00Z",
+   "fetched": "2026-11-28T15:54:37Z",
+   "image": "https://www.bing.com/th?id=ONUT.MLUZCxFg25WbeZ8VDluF3g&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.-VpmeKAHiJ-sxDJxBOnW9A&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "energy"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "The Hindu",
+     "url": "https://www.thehindu.com/news/international/lpg-tanker-that-sank-off-bulgaria-was-hit-by-projectiles-official/article71715541.ece"
+    },
+    {
+     "source": "Khaleej Times on MSN",
+     "url": "https://www.msn.com/en-ae/news/world/19-filipinos-safe-after-drone-attack-sinks-lpg-tanker-in-black-sea-off-bulgaria/ar-AA2hLgLc"
+    },
+    {
+     "source": "dzrh",
+     "url": "https://www.dzrh.com.ph/post/19-filipino-crew-members-safe-after-drone-attack-on-lpg-tanker-in-black-sea-dmw"
+    },
+    {
+     "source": "DZRH",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdG5WbWNOTm9oaXBDNUNQenRKMFdUb3Zka19OYjAyLWk0NEl5enpBeTN6bE5TS2Q5QVg3enRsMGpDUHc4YWxLUjZTVkpXTmlrZ0dndDZvX3J6enczc1UydldOVmRKbmtVWWRyUFNKUGJxWUZVdDR0NWE2bTZVSWVlSHVsdzloYTdNSjBOOVhkZkpVNkhBZXBvR2sxREM5NVNpS2RQTTdEU3U4OWxv?oc=5"
+    },
+    {
+     "source": "The Global Filipino Magazine",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcU5nOWdweV83bEtneV9hdm8wazc0TGRURWwwT3FrbXBheDJMUHpCbDN3UG1ZZXQzSnN0SjJST2ltUXBuTnZsWnBxOV8tVmhmN2docFctZlJld1lnUGljWFh2X1ZJVGRoSWREdjBIMWpWTVFaY0syZENnN25XWUktZ0VGanpMa1lTdlFGSDFFejh6a2ZudEliLV9vTWl3bG9QdTJKOWtZMFk2VklHSmdDRF9DTkVDZnA0Z2RUVnY2blRINHlxZTVN?oc=5"
+    },
+    {
+     "source": "Khaleej Times",
+     "url": "https://www.khaleejtimes.com/world/asia/19-filipinos-safe-after-drone-attack-sinks-lpg-tanker-in-black-sea-off-bulgaria"
+    }
+   ],
    "img_checked": true
   },
   {
@@ -10318,28 +10403,6 @@
    "img_checked": true
   },
   {
-   "id": "c3c7ea5cc951",
-   "lang": "ro",
-   "title": "O navă cu destinația Midia s-a scufundat în Marea Neagră, în largul Bulgariei. Autoritățile caută 19 membri ai echipajului",
-   "titles": {
-    "ro": "O navă cu destinația Midia s-a scufundat în Marea Neagră, în largul Bulgariei. Autoritățile caută 19 membri ai echipajului"
-   },
-   "summary": "O navă cu destinația Midia s-a scufundat în Marea Neagră, în largul Bulgariei. Autoritățile caută 19 membri ai echipajului ...",
-   "url": "https://evz.ro/o-nava-cu-destinatia-midia-s-a-scufundat-in-marea-neagra-in-largul-bulgariei-autoritatile-cauta-19-membri-ai-echipajului.html",
-   "source": "Evenimentul Zilei",
-   "published": "2026-11-17T07:23:00Z",
-   "fetched": "2026-11-28T14:57:11Z",
-   "image": "https://www.bing.com/th?id=ONUT._OXbC2Sy0sEN5Ahr2NdpUg&pid=News",
-   "fallback_image": "http://www.bing.com/th?id=ONUT._OXbC2Sy0sEN5Ahr2NdpUg&pid=News",
-   "topics": [
-    "shipping"
-   ],
-   "places": [],
-   "also": [],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
    "id": "3cd82a4b804b",
    "lang": "en",
    "title": "Russia Deepens its Attacks on Black Sea Shipping",
@@ -10576,83 +10639,6 @@
    "places": [],
    "also": [],
    "img_tried": true,
-   "img_checked": true
-  },
-  {
-   "id": "06222ab586b1",
-   "lang": "ro",
-   "title": "Navă cu peste 3.400 de tone de gaz, destinată României, posibil atacată cu drone în Marea Neagră. 19 marinari la bord, informații contradictorii despre soarta vasului",
-   "titles": {
-    "ro": "Navă cu peste 3.400 de tone de gaz, destinată României, posibil atacată cu drone în Marea Neagră. 19 marinari la bord, informații contradictorii despre soarta vasului"
-   },
-   "summary": "Un nou incident naval grav a fost semnalat marți, 17 noiembrie, în Marea Neagră, în zona economică exclusivă a Bulgariei. Nava GAS HUSKY, sub pavilion liberian, care se îndrepta din Egipt către portul ...",
-   "url": "https://www.ziuaveche.ro/international/externe/nava-cu-peste-3-400-de-tone-de-gaz-destinata-romaniei-posibil-atacata-cu-drone-in-marea-neagra-19-marinari-la-bord-informatii-contradictorii-despre-soarta-vasului-353613.html/",
-   "source": "Ziua Veche",
-   "published": "2026-11-17T02:08:00Z",
-   "fetched": "2026-11-26T06:48:47Z",
-   "image": "https://www.ziuaveche.ro/wp-content/uploads/2026/11/GAS-HUSKY.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.QmanUQfQBFCvvWQU25jfQg&pid=News",
-   "topics": [
-    "attacks",
-    "shipping",
-    "energy",
-    "ports"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "8d67cae6279b",
-   "lang": "ro",
-   "title": "Un petrolier încărcat cu propan, care se îndrepta spre portul Midia, s-a scufundat în Marea Neagră. Avioane SU-25, trimise în zonă",
-   "titles": {
-    "ro": "Un petrolier încărcat cu propan, care se îndrepta spre portul Midia, s-a scufundat în Marea Neagră. Avioane SU-25, trimise în zonă"
-   },
-   "summary": "Nava implicată în incident este Gas Husky, un petrolier sub pavilion liberian, încărcat cu propan, care se îndrepta spre Portul Midia din România, venind din Egipt. Nava a suferit un grav incident pe ...",
-   "url": "https://www.antena3.ro/externe/un-petrolier-incarcat-cu-propan-care-se-indrepta-spre-portul-midia-s-a-scufundat-in-marea-neagra-avioane-su-25-trimise-in-zona-811466.html",
-   "source": "Antena 3 CNN",
-   "published": "2026-11-17T01:53:00Z",
-   "fetched": "2026-11-26T08:22:03Z",
-   "image": "https://www.radioconstanta.ro/wp-content/uploads/2026/09/Breaking-news-RC.png",
-   "fallback_image": "",
-   "topics": [
-    "shipping",
-    "energy",
-    "ports"
-   ],
-   "places": [],
-   "also": [
-    {
-     "source": "radioconstanta",
-     "url": "https://www.radioconstanta.ro/2026/11/17/un-nou-atac-pe-marea-neagra-o-nava-care-se-indrepta-spre-portul-midia-s-a-scufundat-in-zona-economica-a-bulgariei/"
-    },
-    {
-     "source": "Cotidianul",
-     "url": "https://www.cotidianul.ro/nava-care-se-indrepta-spre-portul-midia-scufundata-in-marea-neagra-bulgaria-a-trimis-avioane-su-25-pentru-salvarea-echipajului/"
-    },
-    {
-     "source": "Observator News",
-     "url": "https://observatornews.ro/eveniment/alerta-pe-marea-neagra-o-nava-incarcata-cu-propan-asteptata-in-portul-midia-ar-fi-fost-lovita-de-drona-672567.html"
-    },
-    {
-     "source": "Botosaneanul",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMFRLY3lwN0swN2VSVG9FbFJjZVI0SkJGYkRUeVF2SU0zUUN6aTBpWTZWQTVKV1B5VDY0QjNKZHoyUTBSVXpncVBFQUFEeS1DV1hyR3UwTGNvVlJ0bV81aWlQbEdoakVyQnowazZ1cHp3VkZOaXhYYVNHMThjOWVFZGt3Wmc1Q3RHOFQ0ak9uakRrQUxGa2FlVC1tODBLTGoyZEFWN1ZKa1BuTlhfWUxyUg?oc=5"
-    },
-    {
-     "source": "Economica.net",
-     "url": "https://www.economica.net/alerta-marea-neagra-o-nava-cisterna-incarcata-cu-propan-care-trebuia-sa-ajunga-in-portul-midia-din-romania-s-a-scufundat-langa-bulgaria_996196.html"
-    },
-    {
-     "source": "Newsweek Romania",
-     "url": "https://newsweek.ro/actualitate/alerta-pe-marea-neagra-o-nava-cu-propan-care-se-indrepta-spre-navodari-s-a-scufundat-dupa-un-atac-cu-drone"
-    },
-    {
-     "source": "Cuget Liber",
-     "url": "https://cugetliber.ro/stiri-eveniment-un-nou-atac-in-marea-neagra-petrolier-care-se-indrepta-spre-portul-midia-ar-fi-fost-lovit-de-drone-in-apropierea-bulgariei-570095"
-    }
-   ],
    "img_checked": true
   }
  ]
