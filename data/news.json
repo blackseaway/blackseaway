@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T17:55:18Z",
+ "updated": "2026-11-28T19:01:07Z",
  "items": [
   {
    "id": "2160b81672b4",
@@ -6775,7 +6775,9 @@
    "lang": "ro",
    "title": "Traian Băsescu, replică dură pentru Nicușor Dan: „Începi să vinzi Portul Constanța”. Avertisment despre datoria României",
    "titles": {
-    "ro": "Traian Băsescu, replică dură pentru Nicușor Dan: „Începi să vinzi Portul Constanța”. Avertisment despre datoria României"
+    "ro": "Traian Băsescu, replică dură pentru Nicușor Dan: „Începi să vinzi Portul Constanța”. Avertisment despre datoria României",
+    "en": "Traian Băsescu delivers a harsh rebuke to Nicușor Dan: “You’re starting to sell off the Port of Constanța.” Warning about Romania’s debt",
+    "bg": "Траян Басеску отправя остра критика към Никушор Дан: „Започваш да продаваш пристанището в Констанца“. Предупреждение относно дълга на Румъния"
    },
    "summary": "Traian Băsescu lansează un avertisment grav privind viitorul economic al României și îi transmite președintelui Nicușor Dan că problemele financiare ale Traian Băsescu îl critică pe Nicușor Dan după d ...",
    "url": "https://www.b1tv.ro/politica/traian-basescu-nicusor-dan-alegeri-2028-datorie-portul-constanta-1752825.html",
@@ -6804,7 +6806,9 @@
    "lang": "en",
    "title": "Aselsan Gokdeniz air defense system destroys drone threats in Black Sea test",
    "titles": {
-    "en": "Aselsan Gokdeniz air defense system destroys drone threats in Black Sea test"
+    "en": "Aselsan Gokdeniz air defense system destroys drone threats in Black Sea test",
+    "ro": "Sistemul de apărare aeriană Aselsan Gokdeniz neutralizează amenințările reprezentate de drone în cadrul unui test desfășurat în Marea Neagră",
+    "bg": "Системата за противовъздушна отбрана „Aselsan Gokdeniz“ унищожава заплахи от дронове по време на изпитания в Черно море"
    },
    "summary": "Aselsan's Gokdeniz close-in weapon system successfully detected and engaged multiple drone targets from different directions ...",
    "url": "https://ssbulten.com.tr/en/gundem/detay/aselsan-gokdeniz-air-defense-system-destroys-drone-threats-in-black-sea-test--30560",
@@ -6855,7 +6859,9 @@
    "lang": "ro",
    "title": "Atacurile cu drone, vremea rea și nivelul Dunării creează probleme importatorilor ucraineni. Tariful de transport motorină din Constanța în Sulina cu nave cisternă a ...",
    "titles": {
-    "ro": "Atacurile cu drone, vremea rea și nivelul Dunării creează probleme importatorilor ucraineni. Tariful de transport motorină din Constanța în Sulina cu nave cisternă a ..."
+    "ro": "Atacurile cu drone, vremea rea și nivelul Dunării creează probleme importatorilor ucraineni. Tariful de transport motorină din Constanța în Sulina cu nave cisternă a ...",
+    "en": "Drone attacks, bad weather and the level of the Danube are causing problems for Ukrainian importers. The cost of transporting diesel from Constanța to Sulina by tanker has …",
+    "bg": "Атаките с дронове, лошото време и нивото на река Дунав създават проблеми на украинските вносители. Тарифата за превоз на дизелово гориво от Констанца до Сулина с танкери е..."
    },
    "summary": "Atacurile cu drone asupra flotei civile de la Marea Neagră au majorat riscurile și, implicit, tarifele de transport din România către Ucraina, inclusiv pe cele ale navelor cisternă de transport motori ...",
    "url": "https://www.profit.ro/povesti-cu-profit/auto-transporturi/atacurile-cu-drone-vremea-rea-si-nivelul-dunarii-creeaza-probleme-importatorilor-ucraineni-tariful-de-transport-motorina-din-constanta-in-sulina-cu-nave-cisterna-a-crescut-cu-50-22944263",
@@ -6908,7 +6914,9 @@
    "lang": "bg",
    "title": "Главният механик на танкера LISBON издъхна след медицинска евакуация във Варна",
    "titles": {
-    "bg": "Главният механик на танкера LISBON издъхна след медицинска евакуация във Варна"
+    "bg": "Главният механик на танкера LISBON издъхна след медицинска евакуация във Варна",
+    "en": "The chief engineer of the tanker LISBON died following a medical evacuation to Varna",
+    "ro": "Mecanicul-șef al petrolierului LISBON a decedat după ce a fost evacuat din motive medicale la Varna"
    },
    "summary": "Мъжът е бил транспортиран до района на Морска гара със спасителния катер \"СПАСИТЕЛ 1\" на Изпълнителна агенция \"Морска администрация\" ...",
    "url": "https://dnes.dir.bg/intsidenti/glavniyat-mehanik-na-tankera-lisbon-izdahna-sled-meditsinska-evakuatsiya-vav-varna",
@@ -7158,6 +7166,30 @@
    ],
    "places": [],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "e10c1bc49686",
+   "lang": "bg",
+   "title": "Томас Алекса: 21/22 атаки в Черно море са дело на Русия",
+   "titles": {
+    "bg": "Томас Алекса: 21/22 атаки в Черно море са дело на Русия"
+   },
+   "summary": "Двадесет и една от общо 22 атаки срещу плавателни съдове в района на България, Румъния и пристанищата в делтата на Дунав са извършени от руски сили. Основната цел е да бъде ограничена търговията с Укр ...",
+   "url": "https://news.bg/bulgaria/tomas-aleksa-21-22-ataki-v-cherno-more-sa-delo-na-rusiya.html",
+   "source": "News.bg",
+   "published": "2026-11-22T12:02:00Z",
+   "fetched": "2026-11-28T18:58:41Z",
+   "image": "https://webnews.bg/uploads/images/57/2457/782457/1200x675.jpg?_=1795365830",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.fF_C5XfF5HsEh9RviPG9fA&pid=News",
+   "topics": [
+    "ports"
+   ],
+   "places": [
+    "danube"
+   ],
+   "also": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -10633,30 +10665,6 @@
      "url": "https://www.ocregister.com/2026/11/17/merchant-ship-sinks-black-sea-coast/"
     }
    ]
-  },
-  {
-   "id": "c98ab364bad3",
-   "lang": "bg",
-   "title": "Нова атака по кораб в Черно море: Поразен е танкер превозващ газ (ОБНОВЕНА)",
-   "titles": {
-    "bg": "Нова атака по кораб в Черно море: Поразен е танкер превозващ газ (ОБНОВЕНА)"
-   },
-   "summary": "Нова атака по кораб в Черно море. Поразен е танкер превозващ газ. Танкерът GAS HUSKY (плаващ под либерийски флаг, IMO: 9507764) е бил поразен от дронове ...",
-   "url": "https://tribune.bg/bg/obshtestvo/nova-ataka-po-korab-v-cherno-m/",
-   "source": "Tribune.bg",
-   "published": "2026-11-17T03:16:00Z",
-   "fetched": "2026-11-25T13:53:52Z",
-   "image": "https://www.bing.com/th?id=ONUT.oIlGgFl0iV29dcw7YcbBqw&pid=News",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.oIlGgFl0iV29dcw7YcbBqw&pid=News",
-   "topics": [
-    "attacks",
-    "shipping",
-    "energy"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
   }
  ]
 }
