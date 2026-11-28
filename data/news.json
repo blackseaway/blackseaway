@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T11:02:21Z",
+ "updated": "2026-11-28T11:57:47Z",
  "items": [
   {
    "id": "113ea33a17e3",
@@ -48,6 +48,33 @@
    "img_checked": true
   },
   {
+   "id": "8c6ee3bfe7db",
+   "lang": "ro",
+   "title": "Portul Constanța cumpără drone autonome pentru supravegherea infrastructurii",
+   "titles": {
+    "ro": "Portul Constanța cumpără drone autonome pentru supravegherea infrastructurii",
+    "en": "The Port of Constanța is purchasing autonomous drones to monitor its infrastructure",
+    "bg": "Пристанището в Констанца закупува автономни дронове за наблюдение на инфраструктурата"
+   },
+   "summary": "În contextul amenințărilor cu drone din ultima perioadă, Compania Națională „Administrația Porturilor Maritime” S.A. Constanța a demarat o procedură de ...",
+   "url": "https://focuspress.ro/portul-constanta-cumpara-drone-autonome-pentru-supravegherea-infrastructurii-cee7f0704/",
+   "source": "FocusPress",
+   "published": "2026-11-28T03:08:00Z",
+   "fetched": "2026-11-28T11:54:58Z",
+   "image": "https://focuspress.ro/wp-content/uploads/2026/05/drona-in-portul-constanta.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.NIyc7b1xrtOR6YLvXwOq6A&pid=News",
+   "topics": [
+    "attacks",
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "325ecd2372f6",
    "lang": "en",
    "title": "Turkey pushes for Black Sea shipping deal as UN warns global food crisis looms",
@@ -72,6 +99,10 @@
     {
      "source": "RFI",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPV2UydUpBWHhVZERJU0dlWi0tQnFyWHBjb1dwY2pnMUxtNHA4OEpINHE0SzZGSWFkWmJ4Z3I5b0V1Q3JBYlVXV0Iya2xncWN5R01YOVpTT0puM1VabFdkSEpUVUYydFhvYUdPb3phQm5CcmprU3FoWXN6QUNTN2JJR2NfN2otWXdqT3lBWTZQcmdELS1KV01tZDRDTWNsNS1iS3NpTExYSlV3dTlLUlBQTlZCRENIalVjLVhPQTl4U3NDNzFSNkY4aVMzWEdmX0laLUNyam03NWRtVTJQcHJjWVp4NDg?oc=5"
+    },
+    {
+     "source": "RFI",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMDh3dDRnREdkS0RmS3ZPbDg4X20zRmxYcDJ0d2dBWFMxTTZVZ1h4NFVsSUNqSVN6LS1nX0JoWGlYSndJTWpFYzlrR3F2eWpwbHNKMVlFZEt1cUhJdnF6bTNJSFlxdWRwd29pREJhVGxVY3M0NzNaOFpMNmNpQ1YyNlpSTXNKMU9MWGZQTEE0a1ZBM0ZienNZcWU1Mkc5QVdEZEtFRUVQc3VFTEltR2g1bV85MkZlWmlQWWYzcGFuTjl5Z2YxckZFLTBnNFU1TVFQVk1ZRUhR?oc=5"
     }
    ],
    "img_tried": true,
@@ -362,6 +393,58 @@
    "img_checked": true
   },
   {
+   "id": "ded62ee9d15e",
+   "lang": "bg",
+   "title": "Дронове в Черно море ще има, но туристите искат да почиват у нас: Илин Димитров очаква силен ...",
+   "titles": {
+    "bg": "Дронове в Черно море ще има, но туристите искат да почиват у нас: Илин Димитров очаква силен ...",
+    "en": "There will be drones in the Black Sea, but tourists want to holiday here: Ilin Dimitrov expects a strong ...",
+    "ro": "Vor fi drone în Marea Neagră, dar turiștii vor să-și petreacă vacanța la noi: Ilin Dimitrov se așteaptă la un sezon puternic..."
+   },
+   "summary": "Министърът на туризма не вижда основания за тревога, отчита между 30 и 40% очакван ръст на германския пазар и сериозно увеличение на полетите до Бургас и Варна ...",
+   "url": "https://www.flagman.bg/article/395099",
+   "source": "Флагман.Бг",
+   "published": "2026-11-27T15:30:00Z",
+   "fetched": "2026-11-28T11:54:58Z",
+   "image": "https://www.flagman.bg/news/2026/11/28/179586093355437.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.sDyQbRKfEvWrpOUg7dET_A&pid=News",
+   "topics": [
+    "policy",
+    "attacks"
+   ],
+   "places": [
+    "varna",
+    "burgas"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "98a68c44ab40",
+   "lang": "ro",
+   "title": "CBS: Marea Neagră riscă să atragă SUA într-un război cu Rusia. Incidentele maritime au crescut de zece ori",
+   "titles": {
+    "ro": "CBS: Marea Neagră riscă să atragă SUA într-un război cu Rusia. Incidentele maritime au crescut de zece ori",
+    "en": "CBS: The Black Sea risks dragging the US into a war with Russia. Maritime incidents have increased tenfold",
+    "bg": "CBS: Черно море рискува да въвлече САЩ във война с Русия. Морските инциденти са се увеличили десетократно"
+   },
+   "summary": "NATO a înregistrat între 400 și 500 de incidente în Marea Neagră în 2026, față de mai puțin de 50 în anul precedent. Cel puțin 40 de marinari au murit ...",
+   "url": "https://alephnews.ro/guvern/cbs-marea-neagra-risca-sa-atraga-sua-intr-un-razboi-cu-rusia-incidentele-maritime-au-crescut-de-zece-ori/",
+   "source": "Aleph News",
+   "published": "2026-11-27T15:06:00Z",
+   "fetched": "2026-11-28T11:54:58Z",
+   "image": "https://media.alephnews.ro/2026/11/nava-lovita-5.png",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.NBhb5GNnYDzz-W-DgpK-wg&pid=News",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "4d9c23d3bc00",
    "lang": "en",
    "title": "European wheat prices hit one-month high amid Black Sea shipping disruptions",
@@ -463,6 +546,32 @@
    "fallback_image": "http://www.bing.com/th?id=ONUT.hdDmFaWIjtdGS4Z14MRvbw&pid=News",
    "topics": [
     "policy"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "c34bce02bb3f",
+   "lang": "ro",
+   "title": "Ministrul de Externe, avertisment despre planurile Rusiei: „Încearcă să revendice Marea Neagră pentru sine”",
+   "titles": {
+    "ro": "Ministrul de Externe, avertisment despre planurile Rusiei: „Încearcă să revendice Marea Neagră pentru sine”",
+    "en": "Foreign Minister issues warning over Russia’s plans: “They are trying to lay claim to the Black Sea for themselves”",
+    "bg": "Министърът на външните работи отправи предупреждение относно плановете на Русия: „Тя се опитва да си присвои Черно море“"
+   },
+   "summary": "Rusia încearcă să își consolideze controlul asupra Mării Negre și să limiteze prezența celorlalte state din regiune, iar atacurile asupra navelor comerciale, dronele și minele marine reprezintă riscur ...",
+   "url": "https://psnews.ro/ministrul-de-externe-avertisment-despre-planurile-rusiei-incearca-sa-revendice-marea-neagra-pentru-sine/",
+   "source": "PS News",
+   "published": "2026-11-27T14:00:00Z",
+   "fetched": "2026-11-28T11:54:58Z",
+   "image": "https://psnews.ro/wp-content/uploads/2026/10/neculaescu-externe.jpeg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.6xS5FOMzSgV_Ahpc4mk-DQ&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
    ],
    "places": [],
    "also": [],
@@ -938,6 +1047,10 @@
     {
      "source": "Marine Insight",
      "url": "https://www.marineinsight.com/russia-strikes-grain-ships-near-odesa-gladiator-virtuous-striker-attack-odesa-gr/"
+    },
+    {
+     "source": "Marine Insight",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXlJejVJb1RQeHJSd204eGhQLURGandZWXNkSDNsV3ZRMGZIeTRBamdWVm5rMWtSaWNhUG40UWJiSjJsMkNrWGZLVlpDS0lOTkZxaWs3TUtvV19hSUU5cWNyaVlKVUNkQWk0aHRaVzVPd1otbDZ3RWZHVzZ5NzdTM2prM1dVSjBlUlhxYW9HS0F4a0NNRDNFbmtwWHVHS0NCY1ZaNl9URlV4cy1mVHB2Zw?oc=5"
     }
    ],
    "img_tried": true,
@@ -5473,32 +5586,6 @@
    ]
   },
   {
-   "id": "4823f1d6beeb",
-   "lang": "bg",
-   "title": "САЩ: Русия удари корабите в Черно море",
-   "titles": {
-    "bg": "САЩ: Русия удари корабите в Черно море",
-    "en": "US: Russia struck ships in the Black Sea",
-    "ro": "SUA: Rusia a atacat navele din Marea Neagră"
-   },
-   "summary": "За САЩ няма никакво съмнение, че Русия е ударила търговските кораби в Черно море. Това стана ясно от изявления на постоянния представител на САЩ в НАТО - посланик Матю Уитакър, който изненадващо се ...",
-   "url": "https://www.segabg.com/hot/category-bulgaria/sasht-rusiya-udari-korabite-cherno-more",
-   "source": "СЕГА",
-   "published": "2026-11-23T13:06:00Z",
-   "fetched": "2026-11-26T06:42:36Z",
-   "image": "https://www.segabg.com/sites/default/files/_sega/styles/article_sega_bar/public/2026/11/natodimiturstoyanov.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.PaadDzjvEDv8G47iumiE3Q&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
    "id": "8fa3cc162ebd",
    "lang": "en",
    "title": "India Urges UN to Protect Black Sea Grain Routes and Seafarers",
@@ -5551,6 +5638,10 @@
     {
      "source": "filternews",
      "url": "https://filternews.bg/sasth-rusiya-udari-korabite-v-cherno-more/"
+    },
+    {
+     "source": "СЕГА",
+     "url": "https://www.segabg.com/hot/category-bulgaria/sasht-rusiya-udari-korabite-cherno-more"
     }
    ]
   },
@@ -10556,80 +10647,6 @@
    ],
    "img_tried": true,
    "img_checked": true
-  },
-  {
-   "id": "8baf6d072249",
-   "lang": "en",
-   "title": "Black Sea shipping lane blocked as Ukraine attacks key Crimea bridge",
-   "titles": {
-    "en": "Black Sea shipping lane blocked as Ukraine attacks key Crimea bridge"
-   },
-   "summary": "Repeated strikes appear to have brought down span into shipping lane beneath Kerch Bridge TradeWinds depends on being able to display ads on our services in order to finance our journalism.",
-   "url": "https://www.tradewindsnews.com/tankers/black-sea-shipping-lane-blocked-as-ukraine-attacks-key-crimea-bridge/2-1-2075267",
-   "source": "TradeWinds",
-   "published": "2026-11-16T18:58:00Z",
-   "fetched": "2026-11-25T13:50:37Z",
-   "image": "https://image.dngroup.com/global/nhst/binary/6dd21d0497dd6eb76f61a4260b74d46c?crop=2400%2C1200%2Cx0%2Cy75%2Csafe&width=1200&format=webp&quality=80",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.7oUVmPDF479V_o4bfA9J8g&pid=News",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [
-    "kerch",
-    "crimea"
-   ],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "5fbd7042b64f",
-   "lang": "en",
-   "title": "EU accelerates cross-regional transport and defence as maritime risks surge",
-   "titles": {
-    "en": "EU accelerates cross-regional transport and defence as maritime risks surge"
-   },
-   "summary": "As Black Sea security deteriorates, the EU pledges €50m for a Maritime Security Hub. Drone attacks and hybrid threats dominate regional challenges.",
-   "url": "https://www.brusselstimes.com/eu-affairs/2410901/eu-accelerates-cross-regional-transport-and-defence-as-maritime-risks-surge/",
-   "source": "The Brussels Times",
-   "published": "2026-11-16T16:00:00Z",
-   "fetched": "2026-11-25T14:58:21Z",
-   "image": "https://api.brusselstimes.com/wp-content/uploads/2026/11/ead9995a-6omcvhppcuu-1024x681.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.Dbsnkl60qnICivaYnqQTJA&pid=News",
-   "topics": [
-    "policy",
-    "attacks"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "945935ef6818",
-   "lang": "ro",
-   "title": "Proces pe valorificarea potențialului Middle Corridor pentru Portul Constanța, intentat de acționarul minoritar. Judecătorii pregătesc VERDICTUL",
-   "titles": {
-    "ro": "Proces pe valorificarea potențialului Middle Corridor pentru Portul Constanța, intentat de acționarul minoritar. Judecătorii pregătesc VERDICTUL"
-   },
-   "summary": "Procesul cu miza potențialul Middle Corridor pentru Portul Constanța, prin transformarea acestuia într-un hub internațional, aproape de final.",
-   "url": "https://ziarulamprenta.ro/justitie/proces-pe-valorificarea-potentialului-middle-corridor-pentru-portul-constanta-intentat-de-actionarul-minoritar-judecatorii-pregatesc-verdictul/603325/",
-   "source": "ziarulamprenta",
-   "published": "2026-11-16T16:00:00Z",
-   "fetched": "2026-11-25T16:18:55Z",
-   "image": "https://ziarulamprenta.ro/wp-content/uploads/2025/02/portul-constanta-fb-cn-apm.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.Fggitp2bSdIMZHaivk5eOg&pid=News",
-   "topics": [
-    "shipping",
-    "ports"
-   ],
-   "places": [
-    "constanta"
-   ],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
   }
  ]
 }
