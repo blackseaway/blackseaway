@@ -17,7 +17,7 @@ CONFIG = ROOT / "config"
 DATA = ROOT / "data"
 CONTENT = ROOT / "content"
 
-USER_AGENT = "BlackSeaWayBot/1.0 (+https://blackseaway.github.io/blackseaway/)"
+USER_AGENT = "BlackSeaWayBot/1.0 (+https://blackseaway.github.io/)"
 
 
 def load_json(path: Path, default=None):

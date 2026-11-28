@@ -1,7 +1,7 @@
 {
   "name": "Black Sea Way",
-  "base_url": "https://blackseaway.github.io/blackseaway",
-  "base_path": "/blackseaway",
+  "base_url": "https://blackseaway.github.io",
+  "base_path": "",
   "languages": [
     "en",
     "ro",

@@ -328,7 +328,7 @@ def localize_images(items: list[dict]) -> None:
         if not path.exists() and not OFFLINE:
             try:
                 req = urllib.request.Request(src, headers={
-                    "User-Agent": "Mozilla/5.0 (compatible; BlackSeaWayBot/1.0; +https://blackseaway.github.io/blackseaway/)",
+                    "User-Agent": "Mozilla/5.0 (compatible; BlackSeaWayBot/1.0; +https://blackseaway.github.io/)",
                     "Referer": i.get("url", ""), "Accept": "image/avif,image/webp,image/*,*/*;q=0.8"})
                 with urllib.request.urlopen(req, timeout=15) as r:
                     raw = r.read(8_000_000)

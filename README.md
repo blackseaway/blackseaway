@@ -1,6 +1,6 @@
 # Black Sea Way
 
-Сайт: https://blackseaway.github.io/blackseaway/ (EN / RO / BG)
+Сайт: https://blackseaway.github.io/ (EN / RO / BG)
 
 Незалежний моніторинг обстрілів у Чорному морі, морської логістики, страхування та цін. Сайт сам збирає новини щогодини, перекладає заголовки через DeepL, рахує статистику (теми, гарячі точки, карта) і публікує пости у Facebook, Instagram і Threads.
 
@@ -73,6 +73,6 @@ draft: false
 pip install -r requirements.txt
 python scripts/fetch_news.py
 python scripts/build.py          # результат у _site/
-python -m http.server -d _site   # перегляд (шляхи розраховані на /blackseaway/)
+python -m http.server -d _site   # перегляд (сайт відкривається з кореня адреси)
 python scripts/social_post.py preview   # що піде в соцмережі
 ```

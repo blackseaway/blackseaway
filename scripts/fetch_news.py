@@ -390,7 +390,7 @@ def merge(existing: list[dict], fresh: list[dict]) -> tuple[list[dict], int]:
 
 
 # --- pictures: the publisher's own preview image (og:image), as social networks show it ----
-PAGE_UA = "Mozilla/5.0 (compatible; BlackSeaWayBot/1.0; +https://blackseaway.github.io/blackseaway/)"
+PAGE_UA = "Mozilla/5.0 (compatible; BlackSeaWayBot/1.0; +https://blackseaway.github.io/)"
 IMAGES_PER_RUN = 60
 META_RE = re.compile(r"<meta\s[^>]*>", re.I)
 ATTR_RE = re.compile(r'([a-zA-Z:_-]+)\s*=\s*(?:"([^"]*)"|\'([^\']*)\')')
