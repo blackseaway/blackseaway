@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T14:13:48Z",
+ "updated": "2026-11-28T14:59:58Z",
  "items": [
   {
    "id": "113ea33a17e3",
@@ -22,6 +22,32 @@
    ],
    "places": [],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "3783a4bf2184",
+   "lang": "en",
+   "title": "Strikes on Kerch Bridge have blocked transit between Sea of Azov and Black Sea, - British intelligence. SATELLITE IMAGES",
+   "titles": {
+    "en": "Strikes on Kerch Bridge have blocked transit between Sea of Azov and Black Sea, - British intelligence. SATELLITE IMAGES",
+    "ro": "Atacurile asupra Podului de la Kerci au blocat traficul între Marea Azov și Marea Neagră, potrivit serviciilor secrete britanice. IMAGINI SATELITARE",
+    "bg": "Ударите по Керченския мост са блокирали транзита между Азовско и Черно море, – британските разузнавателни служби. СПУТНИКОВИ СНИМКИ"
+   },
+   "summary": "November, the arch of the road section of the bridge collapsed, and the railway structures were damaged. Maritime transit between the two seas was put at risk.",
+   "url": "https://censor.net/en/news/4036057/strikes-on-kerch-bridge-have-blocked-transit-between-sea-of-azov-and-black-sea-british-intelligence",
+   "source": "Censor.NET",
+   "published": "2026-11-28T06:47:00Z",
+   "fetched": "2026-11-28T14:57:11Z",
+   "image": "https://images.cnscdn.com/7/d/b/2/7db22af0242e8e2b83c51e167ba9675f/1200x630.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.tPq6disvQBk_wtlZ9amn2g&pid=News",
+   "topics": [
+    "attacks"
+   ],
+   "places": [
+    "kerch"
+   ],
+   "also": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -5896,7 +5922,9 @@
    "lang": "bg",
    "title": "Според министър Абровски сигурността в Черно море трябва да е част от европейската визия за ...",
    "titles": {
-    "bg": "Според министър Абровски сигурността в Черно море трябва да е част от европейската визия за ..."
+    "bg": "Според министър Абровски сигурността в Черно море трябва да е част от европейската визия за ...",
+    "en": "According to Minister Abrovski, security in the Black Sea must be part of the European vision for ...",
+    "ro": "Potrivit ministrului Abrovski, securitatea în Marea Neagră trebuie să facă parte din viziunea europeană privind..."
    },
    "summary": "Визията на Европейския съюз за рибарството до 2040 г. трябва да отчита геополитическата обстановка и рисковете за сигурността в Черно море, които пряко ...",
    "url": "https://utroruse.com/article/1341677/",
@@ -5923,7 +5951,9 @@
    "lang": "ro",
    "title": "Forțele Navale Române iau măsuri pentru creșterea siguranței navigației pe Dunăre și în Marea Neagră",
    "titles": {
-    "ro": "Forțele Navale Române iau măsuri pentru creșterea siguranței navigației pe Dunăre și în Marea Neagră"
+    "ro": "Forțele Navale Române iau măsuri pentru creșterea siguranței navigației pe Dunăre și în Marea Neagră",
+    "en": "The Romanian Navy is taking measures to improve the safety of navigation on the Danube and in the Black Sea",
+    "bg": "Румънските военноморски сили предприемат мерки за повишаване на безопасността на корабоплаването по река Дунав и в Черно море"
    },
    "summary": "Forțele Navale Române, în cooperare cu Garda de coastă și aliați din NATO, execută permanent activități și misiuni de monitorizare și supraveghere a zonelor de responsabilitate fluvială și maritimă, p ...",
    "url": "https://www.ctnews.ro/fortele-navale-romane-iau-masuri-pentru-cresterea-sigurantei-navigatiei-pe-dunare-si-in-marea-neagra/",
@@ -6018,7 +6048,9 @@
    "lang": "bg",
    "title": "Бургаски водолази се спуснаха до потъналия кораб „Родина“ край Созопол, за да помогнат в ...",
    "titles": {
-    "bg": "Бургаски водолази се спуснаха до потъналия кораб „Родина“ край Созопол, за да помогнат в ..."
+    "bg": "Бургаски водолази се спуснаха до потъналия кораб „Родина“ край Созопол, за да помогнат в ...",
+    "en": "Divers from Burgas descended to the wreck of the ‘Rodina’ off Sozopol to help with ...",
+    "ro": "Scafandrii din Burgas s-au scufundat până la nava scufundată „Rodina”, în largul orașului Sozopol, pentru a ajuta la..."
    },
    "summary": "На близо 40 метра дълбочина екипът на „Приятели на морето“ подмени батериите на акустично устройство, което регистрира звуците на морските бозайници ...",
    "url": "https://www.flagman.bg/article/394778",
@@ -9320,42 +9352,6 @@
    "img_checked": true
   },
   {
-   "id": "0203778511bc",
-   "lang": "en",
-   "title": "19 Filipinos safe after drone attack sinks LPG tanker in Black Sea off Bulgaria",
-   "titles": {
-    "en": "19 Filipinos safe after drone attack sinks LPG tanker in Black Sea off Bulgaria"
-   },
-   "summary": "Nineteen Filipino seafarers rescued from an LPG tanker that sank following a drone attack in the Black Sea off Bulgaria on Tuesday are safe, but two sustained minor injuries, the Philippine Department ...",
-   "url": "https://www.msn.com/en-ae/news/world/19-filipinos-safe-after-drone-attack-sinks-lpg-tanker-in-black-sea-off-bulgaria/ar-AA2hLgLc",
-   "source": "Khaleej Times on MSN",
-   "published": "2026-11-19T02:25:47Z",
-   "fetched": "2026-11-25T14:58:21Z",
-   "image": "https://www.bing.com/th?id=ONUT.MLUZCxFg25WbeZ8VDluF3g&pid=News",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.MLUZCxFg25WbeZ8VDluF3g&pid=News",
-   "topics": [
-    "attacks",
-    "energy"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": [
-    {
-     "source": "dzrh",
-     "url": "https://www.dzrh.com.ph/post/19-filipino-crew-members-safe-after-drone-attack-on-lpg-tanker-in-black-sea-dmw"
-    },
-    {
-     "source": "DZRH",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdG5WbWNOTm9oaXBDNUNQenRKMFdUb3Zka19OYjAyLWk0NEl5enpBeTN6bE5TS2Q5QVg3enRsMGpDUHc4YWxLUjZTVkpXTmlrZ0dndDZvX3J6enczc1UydldOVmRKbmtVWWRyUFNKUGJxWUZVdDR0NWE2bTZVSWVlSHVsdzloYTdNSjBOOVhkZkpVNkhBZXBvR2sxREM5NVNpS2RQTTdEU3U4OWxv?oc=5"
-    },
-    {
-     "source": "The Global Filipino Magazine",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcU5nOWdweV83bEtneV9hdm8wazc0TGRURWwwT3FrbXBheDJMUHpCbDN3UG1ZZXQzSnN0SjJST2ltUXBuTnZsWnBxOV8tVmhmN2docFctZlJld1lnUGljWFh2X1ZJVGRoSWREdjBIMWpWTVFaY0syZENnN25XWUktZ0VGanpMa1lTdlFGSDFFejh6a2ZudEliLV9vTWl3bG9QdTJKOWtZMFk2VklHSmdDRF9DTkVDZnA0Z2RUVnY2blRINHlxZTVN?oc=5"
-    }
-   ]
-  },
-  {
    "id": "538dd9c5c442",
    "lang": "ro",
    "title": "VIDEO Imagini INCREDIBILE din Portul Constanța Sud - Agigea: Două camioane au luat FOC",
@@ -9757,6 +9753,46 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "c34c202b8b34",
+   "lang": "en",
+   "title": "LPG tanker that sank off Bulgaria was hit by projectiles: official",
+   "titles": {
+    "en": "LPG tanker that sank off Bulgaria was hit by projectiles: official"
+   },
+   "summary": "Gas Husky LPG tanker sank off Bulgaria after projectile hits; 19 crew rescued amid a spate of Black Sea drone attacks fueling security concerns.",
+   "url": "https://www.thehindu.com/news/international/lpg-tanker-that-sank-off-bulgaria-was-hit-by-projectiles-official/article71715541.ece",
+   "source": "The Hindu",
+   "published": "2026-11-18T03:12:00Z",
+   "fetched": "2026-11-28T14:57:11Z",
+   "image": "https://www.bing.com/th?id=ONUT.MLUZCxFg25WbeZ8VDluF3g&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.VBEQRotYozrbb19KYFtHxA&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "energy"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "Khaleej Times on MSN",
+     "url": "https://www.msn.com/en-ae/news/world/19-filipinos-safe-after-drone-attack-sinks-lpg-tanker-in-black-sea-off-bulgaria/ar-AA2hLgLc"
+    },
+    {
+     "source": "dzrh",
+     "url": "https://www.dzrh.com.ph/post/19-filipino-crew-members-safe-after-drone-attack-on-lpg-tanker-in-black-sea-dmw"
+    },
+    {
+     "source": "DZRH",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdG5WbWNOTm9oaXBDNUNQenRKMFdUb3Zka19OYjAyLWk0NEl5enpBeTN6bE5TS2Q5QVg3enRsMGpDUHc4YWxLUjZTVkpXTmlrZ0dndDZvX3J6enczc1UydldOVmRKbmtVWWRyUFNKUGJxWUZVdDR0NWE2bTZVSWVlSHVsdzloYTdNSjBOOVhkZkpVNkhBZXBvR2sxREM5NVNpS2RQTTdEU3U4OWxv?oc=5"
+    },
+    {
+     "source": "The Global Filipino Magazine",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcU5nOWdweV83bEtneV9hdm8wazc0TGRURWwwT3FrbXBheDJMUHpCbDN3UG1ZZXQzSnN0SjJST2ltUXBuTnZsWnBxOV8tVmhmN2docFctZlJld1lnUGljWFh2X1ZJVGRoSWREdjBIMWpWTVFaY0syZENnN25XWUktZ0VGanpMa1lTdlFGSDFFejh6a2ZudEliLV9vTWl3bG9QdTJKOWtZMFk2VklHSmdDRF9DTkVDZnA0Z2RUVnY2blRINHlxZTVN?oc=5"
+    }
+   ],
+   "img_checked": true
   },
   {
    "id": "330b0fa19a7a",
@@ -10282,6 +10318,28 @@
    "img_checked": true
   },
   {
+   "id": "c3c7ea5cc951",
+   "lang": "ro",
+   "title": "O navă cu destinația Midia s-a scufundat în Marea Neagră, în largul Bulgariei. Autoritățile caută 19 membri ai echipajului",
+   "titles": {
+    "ro": "O navă cu destinația Midia s-a scufundat în Marea Neagră, în largul Bulgariei. Autoritățile caută 19 membri ai echipajului"
+   },
+   "summary": "O navă cu destinația Midia s-a scufundat în Marea Neagră, în largul Bulgariei. Autoritățile caută 19 membri ai echipajului ...",
+   "url": "https://evz.ro/o-nava-cu-destinatia-midia-s-a-scufundat-in-marea-neagra-in-largul-bulgariei-autoritatile-cauta-19-membri-ai-echipajului.html",
+   "source": "Evenimentul Zilei",
+   "published": "2026-11-17T07:23:00Z",
+   "fetched": "2026-11-28T14:57:11Z",
+   "image": "https://www.bing.com/th?id=ONUT._OXbC2Sy0sEN5Ahr2NdpUg&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT._OXbC2Sy0sEN5Ahr2NdpUg&pid=News",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "3cd82a4b804b",
    "lang": "en",
    "title": "Russia Deepens its Attacks on Black Sea Shipping",
@@ -10596,55 +10654,6 @@
     }
    ],
    "img_checked": true
-  },
-  {
-   "id": "46fdc045436d",
-   "lang": "ro",
-   "title": "Navă lovită de drone rusești, eșuată pe plaja de la Vadu. România cere NATO un coridor de protecție în Marea Neagră. „Aici se atacă pur şi simplu...”",
-   "titles": {
-    "ro": "Navă lovită de drone rusești, eșuată pe plaja de la Vadu. România cere NATO un coridor de protecție în Marea Neagră. „Aici se atacă pur şi simplu...”"
-   },
-   "summary": "O navă comercială de aproximativ 100 de metri, avariată în urma unui atac cu dronă rusească în urmă cu două luni, a ajuns în derivă pe plaja de la Vadu. Incidentul readuce în atenție pericolele tot ma ...",
-   "url": "https://click.ro/actualitate/national/nava-lovita-de-drone-rusesti-esuata-pe-plaja-de-2572064.html",
-   "source": "Click!",
-   "published": "2026-11-17T00:58:00Z",
-   "fetched": "2026-11-28T14:11:36Z",
-   "image": "https://cdn.adh.reperio.news/image-b/b2f30cbd-6edd-43fe-8008-303c3c990817/index.png?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.P_n1sULlnOjETrLs4zMdGA&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "also": [],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
-   "id": "1d832c0707b8",
-   "lang": "en",
-   "title": "Ship insurance in the Black Sea reaches 10%",
-   "titles": {
-    "en": "Ship insurance in the Black Sea reaches 10%"
-   },
-   "summary": "Captain Dimitar Dimitrov warns that attacks on commercial vessels are intensifying and changing routes and transport costs ...",
-   "url": "https://fakti.bg/en/biznes/1101726-ship-insurance-in-the-black-sea-reaches-10",
-   "source": "Fakti.bg",
-   "published": "2026-11-17T00:38:00Z",
-   "fetched": "2026-11-25T13:50:37Z",
-   "image": "https://www.bing.com/th?id=ONUT.m8NkuS_8rpaCRId38NWXGg&pid=News",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.m8NkuS_8rpaCRId38NWXGg&pid=News",
-   "topics": [
-    "attacks",
-    "shipping",
-    "insurance",
-    "prices"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
   }
  ]
 }
