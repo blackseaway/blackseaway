@@ -175,9 +175,16 @@ SECTIONS = [("policy", ["policy"]), ("attacks", ["attacks", "mines"]), ("shippin
             ("insurance", ["insurance", "prices"]), ("grain", ["grain", "energy"])]
 
 
-def home_layout(items: list[dict]) -> dict:
-    """Featured block (stories with pictures first), topic sections, then the rest."""
+def home_layout(items: list[dict], lang: str | None = None) -> dict:
+    """Featured block (stories with pictures first), topic sections, then the rest.
+
+    With `lang`, the featured block and sections only use headlines available in that language."""
     now = now_utc()
+    if lang:
+        in_lang = [i for i in items if lang in i["titles"]]
+        if sum(1 for i in in_lang if i.get("image")) >= 8:
+            pics_other = [i for i in items if lang not in i["titles"] and not i.get("image")]
+            items = sorted(in_lang + pics_other, key=lambda i: i["published"], reverse=True)
     # prefer the last 24 hours; widen only if there are too few stories with pictures
     fresh = [i for i in items if now - parse_iso(i["published"]) <= dt.timedelta(hours=24)]
     if sum(1 for i in fresh if i.get("image")) < 4:
@@ -393,7 +400,7 @@ def build():
         nv = [news_view(i, lang) for i in items]
         common_ctx = dict(news_updated=news.get("updated"), place_names={p["id"]: p["names"][lang]
                                                                          for p in sources["places"]})
-        hl = home_layout(items)
+        hl = home_layout(items, lang)
         view = lambda lst: [news_view(i, lang) for i in lst]  # noqa: E731
         pinned = next((p for p in posts if p["pinned"] and p.get("image")), None)
         render("home.html", "index.html", lang, news=nv[:24], pinned=pinned, pin_ext=pin_ext,

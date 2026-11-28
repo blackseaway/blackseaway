@@ -157,6 +157,24 @@ def priority_ok(text: str, topics: list, sources: dict) -> bool:
         and not has_any(norm, sources["exclude"])
 
 
+RO_WORDS = {"si", "din", "pentru", "care", "cu", "este", "sunt", "dupa", "prin", "despre", "ale", "unei",
+            "unui", "catre", "noi", "nou", "pe", "lui", "fost", "va", "sa", "mai", "intr", "doua", "se", "cere"}
+
+
+def detect_lang(text: str, default: str) -> str:
+    """Headline language by script and common words (search markets also return other languages)."""
+    if re.search(r"[а-яА-Я]", text):
+        return "bg"
+    if re.search(r"[ăâîșşțţĂÂÎȘŞȚŢ]", text):
+        return "ro"
+    words = set(re.findall(r"[a-z]+", normalize(text)))
+    if len(words & RO_WORDS) >= 2:
+        return "ro"
+    if default == "ro" and not words & {"the", "and", "of", "to", "in", "on", "for", "with"}:
+        return "ro"
+    return "en" if default != "bg" else "en"
+
+
 def classify(text: str, sources: dict):
     norm = normalize(text)
     topics = [t for t, kws in sources["topics"].items() if has_any(norm, kws)]
@@ -271,11 +289,12 @@ def collect(sources: dict) -> list[dict]:
                 and priority_ok(f"{title} \x1f {summary}", topics, sources)
             if not ok and not trusted:
                 continue
+            tlang = detect_lang(f"{title} {summary}", lang)
             out.append({
                 "id": short_hash(normalize(title)[:90]),
-                "lang": lang,
+                "lang": tlang,
                 "title": title,
-                "titles": {lang: title},
+                "titles": {tlang: title},
                 "summary": summary[:300].rsplit(" ", 1)[0] + "…" if len(summary) > 300 else summary,
                 "url": e["url"],
                 "source": source[:80],
@@ -489,6 +508,10 @@ def main():
     else:
         items = dedupe(items)
     # re-tag old items when keyword lists change
+    for i in items:  # fix items whose language was taken from the search market, not the text
+        real = detect_lang(f"{i['title']} {i.get('summary', '')}", i["lang"])
+        if real != i["lang"]:
+            i["lang"], i["titles"] = real, {real: i["title"]}
     kept = []
     for i in items:
         ok, i["topics"], i["places"] = classify(f"{i['title']} \x1f {i.get('summary', '')}", sources)

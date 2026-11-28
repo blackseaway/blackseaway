@@ -27,7 +27,7 @@
   "news": {
     "max_items": 400,
     "max_age_days": 120,
-    "translate_per_run": 2,
+    "translate_per_run": 4,
     "deepl_monthly_limit": 450000,
     "deepl_stop_at_share": 0.85
   },
