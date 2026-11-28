@@ -1,24 +1,25 @@
 {
- "updated": "2026-11-28T00:00:45Z",
+ "updated": "2026-11-28T01:25:30Z",
  "items": [
   {
-   "id": "d86488825024",
+   "id": "c6d85ae610f9",
    "lang": "en",
-   "title": "На фона на атаките срещу кораби край България : Украйна и Гърция обсъдиха сигурността в Черно море",
+   "title": "Ukraine Proposes Black Sea Ceasefire, Sets Condition for Halting Attacks on Russian Oil",
    "titles": {
-    "en": "На фона на атаките срещу кораби край България : Украйна и Гърция обсъдиха сигурността в Черно море",
-    "ro": "Pe fondul atacurilor asupra navelor din largul Bulgariei: Ucraina și Grecia au discutat despre securitatea în Marea Neagră",
-    "bg": "На фона на атаките срещу кораби край България: Украйна и Гърция обсъдиха сигурността в Черно море"
+    "en": "Ukraine Proposes Black Sea Ceasefire, Sets Condition for Halting Attacks on Russian Oil",
+    "ro": "Ucraina propune un armistițiu în Marea Neagră și stabilește condiții pentru încetarea atacurilor asupra rezervelor petroliere rusești",
+    "bg": "Украйна предлага примирие в Черно море и поставя условие за прекратяване на атаките срещу руските нефтени обекти"
    },
    "summary": "",
-   "url": "https://www.blagoevgrad24.bg/novini/mejdunarodni/Na-fona-na-atakite-sreshtu-korabi-krai-Bulgariya-Ukraina-i-Gurciya-obsudiha-sigurnostta-v-Cherno-more-3063198",
-   "source": "blagoevgrad24.bg",
-   "published": "2026-11-27T22:30:00Z",
-   "fetched": "2026-11-27T23:04:07Z",
-   "image": "https://i.id24.bg/i/3063198.webp",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWFdQZG9ycW5BdUJlSGFFN19Ydk4ta2ZzeTFhRllVdzVQeTd0cTZGRkxWaXNPNXVUZFJyUENIX2kyV3VGMlNCMnZGR2xuaUtMMXNlMkJ2VlgxbXoxVllUcVpPNXpPVGUxbm44cHJJVnlqampZb01nVk1ILW5xR2pSRXdwQy16d0lCVTlKWjN4WHhvYWpWWk45T09ycXg2Y2JYYU9hTHF5MERLVnRBc0hRb2tvOEExVmNIZm1kcHVrTUwtZw?oc=5",
+   "source": "وردنا",
+   "published": "2026-11-27T22:29:45Z",
+   "fetched": "2026-11-28T01:22:46Z",
+   "image": "",
    "fallback_image": "",
    "topics": [
-    "shipping"
+    "attacks",
+    "energy"
    ],
    "places": [],
    "also": [],
@@ -128,6 +129,35 @@
    "img_checked": true
   },
   {
+   "id": "f06096d1af25",
+   "lang": "en",
+   "title": "На фона на атаките срещу кораби край България : Украйна и Гърция обсъдиха сигурността в Черно море",
+   "titles": {
+    "en": "На фона на атаките срещу кораби край България : Украйна и Гърция обсъдиха сигурността в Черно море",
+    "ro": "Pe fondul atacurilor asupra navelor din largul Bulgariei: Ucraina și Grecia au discutat despre securitatea în Marea Neagră",
+    "bg": "На фона на атаките срещу кораби край България: Украйна и Гърция обсъдиха сигурността в Черно море"
+   },
+   "summary": "",
+   "url": "https://www.blagoevgrad24.bg/novini/mejdunarodni/Na-fona-na-atakite-sreshtu-korabi-krai-Bulgariya-Ukraina-i-Gurciya-obsudiha-sigurnostta-v-Cherno-more-3063198",
+   "source": "blagoevgrad24.bg",
+   "published": "2026-11-27T16:52:29Z",
+   "fetched": "2026-11-28T01:22:46Z",
+   "image": "https://i.id24.bg/i/3063198.webp",
+   "fallback_image": "",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "ФОКУС",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOFBpbFZfRElGWVNqV2NzXzRMRzRQSTNuaG9JRThycjR1Wjh6MW9iUjYtbjJWd21zVTRqSWZOQVR2OWF4NzRXaVhoWG55TDk2am5BcGtuMVlmSG5nbHhScE4wYkYtU2ZzMFV3QWFnOWVZVzkzZUZSNTl0YXdRVWdiV3I5WmxSRTlMOU50NjZSa3k1X1NnUnRVTmh5SjZ5MkUxVmxFSGJQZEJsUHJNZ1BGallmVmRXZnlDTEs3NlMyTk1lMEYxSVh0a3JNbW5lZXYwczJhUXNmejdrNnYzQ243Y2ZJNmY0RFFfMHhXMA?oc=5"
+    }
+   ],
+   "img_tried": null,
+   "img_checked": true
+  },
+  {
    "id": "d772a6a55416",
    "lang": "en",
    "title": "Shipping disruptions in Black Sea push European wheat to one-month high",
@@ -200,6 +230,32 @@
    "img_checked": true
   },
   {
+   "id": "9af65b3e210f",
+   "lang": "ro",
+   "title": "COREMAR pierde un nou proces cu Portul Constanța",
+   "titles": {
+    "ro": "COREMAR pierde un nou proces cu Portul Constanța",
+    "en": "COREMAR loses yet another court case against the Port of Constanța",
+    "bg": "COREMAR губи поредно дело срещу пристанището в Констанца"
+   },
+   "summary": ". Tribunalul a respins cererea de rejudecare solicitată de compania de remorcare maritimă Litigiile dintre Compania de Remorcare Maritimă COREMAR SA și Compania Națională Administrația Porturilor Mari ...",
+   "url": "https://focuspress.ro/coremar-pierde-un-nou-proces-cu-portul-constanta-22af1fe7a/",
+   "source": "FocusPress",
+   "published": "2026-11-27T16:00:00Z",
+   "fetched": "2026-11-28T01:22:46Z",
+   "image": "https://www.bing.com/th?id=ONUT.3wU5vUv2PWjz_CfmPn_glw&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.3wU5vUv2PWjz_CfmPn_glw&pid=News",
+   "topics": [
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "4a0343c6229f",
    "lang": "ro",
    "title": "Tribunalul Constanța a deschis procedura generală a insolvenței împotriva HGM Port Logistics SRL, la cererea Euro River Transport SRL și Exim Banca Românească",
@@ -223,6 +279,28 @@
     "constanta"
    ],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "08afc20150cc",
+   "lang": "ro",
+   "title": "FOTO România cheamă Germania, de la Berlin, să se alăture Hub-ului de Securitate Maritimă la Marea Neagră, pe care îl va găzdui împreună cu Bulgaria. Discuție Dan ...",
+   "titles": {
+    "ro": "FOTO România cheamă Germania, de la Berlin, să se alăture Hub-ului de Securitate Maritimă la Marea Neagră, pe care îl va găzdui împreună cu Bulgaria. Discuție Dan ..."
+   },
+   "summary": "Ministrul român de Externe, Dan Neculăescu, s-a întâlnit, la Berlin, cu omologul său german, ministrul federal al Afacerilor Externe, Johann Wadephul, căruia i-a prezentat situația de securitate de la ...",
+   "url": "https://www.profit.ro/stiri/politic/foto-romania-cheama-germania-de-la-berlin-sa-se-alature-hub-ului-de-securitate-maritima-la-marea-neagra-pe-care-il-va-gazdui-impreuna-cu-bulgaria-discutie-dan-neculaescu-cu-omologul-sau-german-23015303",
+   "source": "PROFIT.ro",
+   "published": "2026-11-27T14:02:00Z",
+   "fetched": "2026-11-28T01:22:46Z",
+   "image": "https://www.bing.com/th?id=ONUT.hdDmFaWIjtdGS4Z14MRvbw&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.hdDmFaWIjtdGS4Z14MRvbw&pid=News",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -10426,75 +10504,6 @@
     }
    ],
    "img_checked": true
-  },
-  {
-   "id": "86f8c01774d9",
-   "lang": "ro",
-   "title": "O navă sub pavilion Tanzania, în derivă în Marea Neagră, în apropiere de Midia. ARSVOM intervine cu o ambarcațiune de salvare",
-   "titles": {
-    "ro": "O navă sub pavilion Tanzania, în derivă în Marea Neagră, în apropiere de Midia. ARSVOM intervine cu o ambarcațiune de salvare"
-   },
-   "summary": "O navă sub pavilion Tanzania, în derivă în Marea Neagră, în apropiere de Midia. ARSVOM intervine cu o ambarcațiune de salvare ...",
-   "url": "https://evz.ro/o-nava-sub-pavilion-tanzania-in-deriva-in-marea-neagra-in-apropiere-de-midia-arsvom-intervine-cu-o-ambarcatiune-de-salvare.html",
-   "source": "Evenimentul Zilei",
-   "published": "2026-11-16T08:02:00Z",
-   "fetched": "2026-11-26T06:42:36Z",
-   "image": "",
-   "fallback_image": "",
-   "topics": [
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "840aa1207022",
-   "lang": "ro",
-   "title": "România cere sprijin UE pentru a neutraliza amenințările Rusiei în Marea Neagră. Neculăescu: „Am avut 3 nave lovite. E inacceptabil”",
-   "titles": {
-    "ro": "România cere sprijin UE pentru a neutraliza amenințările Rusiei în Marea Neagră. Neculăescu: „Am avut 3 nave lovite. E inacceptabil”"
-   },
-   "summary": "România a solicitat luni, alături de Estonia și Suedia, un răspuns european unit la amenințările crescânde din partea Rusiei, de la atacuri cu drone în Marea Neagră până la presupuse acte de sabotaj, ...",
-   "url": "https://www.antena3.ro/actualitate/romania-cere-sprijin-ue-pentru-a-neutraliza-amenintarile-rusiei-in-marea-neagra-neculaescu-am-avut-3-nave-lovite-e-inacceptabil-811367.html",
-   "source": "Antena 3 CNN",
-   "published": "2026-11-16T07:32:00Z",
-   "fetched": "2026-11-25T14:08:21Z",
-   "image": "https://www.antena3.ro/thumbs/amp/2026/11/16/romania-cere-sprijin-ue-pentru-a-neutraliza-amenintarile-rusiei-in-marea-neagra-neculaescu-am-avut-3-nave-lovite-e-inacceptabil-1119678.webp",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.Dvijbs8G0RLzjfDUAGvZ6A&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "d30b6536f0fa",
-   "lang": "ro",
-   "title": "Misiune ARSVOM în Marea Neagră, după ce o navă atacată de drone rusești a eșuat în apropiere de Vadu | AUDIO",
-   "titles": {
-    "ro": "Misiune ARSVOM în Marea Neagră, după ce o navă atacată de drone rusești a eșuat în apropiere de Vadu | AUDIO"
-   },
-   "summary": "Cargoul Mariam M, atacat de drone rusești în apele ucrainene și aflat de două luni în derivă, a eșuat în apropiere de Vadu. ARSVOM intervine pentru salvare.",
-   "url": "https://www.europafm.ro/misiune-arsvom-in-marea-neagra-dupa-ce-o-nava-atacata-de-drone-rusesti-a-esuat-in-apropiere-de-vadu/",
-   "source": "Europa FM",
-   "published": "2026-11-16T07:31:00Z",
-   "fetched": "2026-11-26T06:31:06Z",
-   "image": "https://www.europafm.ro/wp-content/uploads/2026/11/nava-foto-ARSVOM.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.xOD1w6Y2c0M92Gi3SmQczQ&pid=News",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
   }
  ]
 }
