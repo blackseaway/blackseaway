@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T03:02:13Z",
+ "updated": "2026-11-28T04:05:18Z",
  "items": [
   {
    "id": "c6d85ae610f9",
@@ -79,6 +79,31 @@
    "also": [],
    "img_checked": true,
    "img_tried": true
+  },
+  {
+   "id": "56fe106a912b",
+   "lang": "en",
+   "title": "India condemns attacks on commercial ships in Black Sea, seeks immediate cessation",
+   "titles": {
+    "en": "India condemns attacks on commercial ships in Black Sea, seeks immediate cessation",
+    "ro": "India condamnă atacurile asupra navelor comerciale din Marea Neagră și solicită încetarea imediată a acestora",
+    "bg": "Индия осъжда нападенията срещу търговски кораби в Черно море и призовава за незабавно прекратяване на тези действия"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVVRYSkU5U0RtSWIyRDRVSkZyQklTVlNQUFdIeDJQTFJNVFdTQ0hrVzRXWjhQdm5pZFM4aFlmTmpFWjRYVlhETzBlOGtrNDJyMmMwRnplRGhiME1takotYjg1UElQdEJrajJtY1dySVdXYWhoNlFINTlJdmd4MENfenBRWXlNTGl3MDNzOVpmUlFQUDYzb1NUOWJfcXhJNmkzT1p5eUU1R19TVk0?oc=5",
+   "source": "DD News",
+   "published": "2026-11-27T18:41:10Z",
+   "fetched": "2026-11-28T04:02:28Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
   },
   {
    "id": "36527d339a16",
@@ -843,7 +868,9 @@
    "lang": "bg",
    "title": "Черно море е слабото място в европейската сигурност, предупреди Румъния",
    "titles": {
-    "bg": "Черно море е слабото място в европейската сигурност, предупреди Румъния"
+    "bg": "Черно море е слабото място в европейската сигурност, предупреди Румъния",
+    "en": "The Black Sea is the weak spot in European security, Romania has warned",
+    "ro": "Marea Neagră reprezintă un punct vulnerabil pentru securitatea europeană, a avertizat România"
    },
    "summary": "Румъния иска НАТО да предприеме съвместни действия срещу хибридните атаки в отговор на заплахите от Русия. Това заяви румънският външен министър Дан Никулеску, цитиран от ДПА. Хибридните атаки могат д ...",
    "url": "https://news.bg/int-politics/cherno-more-e-slaboto-myasto-v-evropeyskata-sigurnost-predupredi-rumaniya.html",
@@ -10470,43 +10497,6 @@
    "places": [],
    "also": [],
    "img_tried": true,
-   "img_checked": true
-  },
-  {
-   "id": "510819185cf6",
-   "lang": "ro",
-   "title": "Incident grav în Marea Neagră. Un cargou cu cereale plecat din România se scufundă după ce ar fi fost lovit de drone. Ce s-a întâmplat cu marinarii de la bord UPDATE",
-   "titles": {
-    "ro": "Incident grav în Marea Neagră. Un cargou cu cereale plecat din România se scufundă după ce ar fi fost lovit de drone. Ce s-a întâmplat cu marinarii de la bord UPDATE"
-   },
-   "summary": "Autoritățile bulgare au primit luni, 16 noiembrie, un semnal de urgență de la un cargou aflat în pericol de scufundare în zona economică exclusivă a Bulgariei din Marea Neagră, a anunțat Ministerul Tr ...",
-   "url": "https://ziare.com/nava-scufundata/incident-grav-marea-neagra-cargou-cereale-plecat-romania-2048016",
-   "source": "Ziare.com",
-   "published": "2026-11-16T08:06:00Z",
-   "fetched": "2026-11-26T06:48:47Z",
-   "image": "https://www.antena3.ro/thumbs/amp/2026/11/16/o-nava-cu-cereale-plecata-din-romania-se-scufunda-in-marea-neagra-din-cauze-inca-necunoscute-ce-s-a-intamplat-cu-membrii-echipajului-1119559.webp",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.ZtPWZndOJaKinJS7k_wcXA&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping",
-    "grain"
-   ],
-   "places": [],
-   "also": [
-    {
-     "source": "Antena 3 CNN",
-     "url": "https://www.antena3.ro/externe/o-nava-cu-cereale-plecata-din-romania-se-scufunda-in-marea-neagra-din-cauze-inca-necunoscute-ce-s-a-intamplat-cu-membrii-echipajului-811319.html"
-    },
-    {
-     "source": "Radio Impuls",
-     "url": "https://www.radioimpuls.ro/o-nava-care-transporta-gaze-naturale-de-la-alexandria-catre-portul-romanesc-midia-s-a-scufundat-in-marea-neagra-ce-s-a-intamplat-cu-cei-19-membri-ai-echipajului-20550873"
-    },
-    {
-     "source": "Evenimentul Zilei",
-     "url": "https://evz.ro/o-nava-cu-destinatia-midia-s-a-scufundat-in-marea-neagra-in-largul-bulgariei-autoritatile-cauta-19-membri-ai-echipajului.html"
-    }
-   ],
    "img_checked": true
   }
  ]
