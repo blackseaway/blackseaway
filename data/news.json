@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-28T05:11:00Z",
+ "updated": "2026-11-28T06:09:32Z",
  "items": [
+  {
+   "id": "b147cd890c45",
+   "lang": "ro",
+   "title": "Rusia și Turcia discută reluarea transporturilor de cereale prin Marea Neagră; Ankara lucrează la un nou mecanism pentru securitatea navigației comerciale",
+   "titles": {
+    "ro": "Rusia și Turcia discută reluarea transporturilor de cereale prin Marea Neagră; Ankara lucrează la un nou mecanism pentru securitatea navigației comerciale",
+    "en": "Russia and Turkey are discussing the resumption of grain shipments via the Black Sea; Ankara is working on a new mechanism to ensure the safety of commercial shipping",
+    "bg": "Русия и Турция обсъждат възобновяването на превоза на зърно през Черно море; Анкара разработва нов механизъм за сигурността на търговското корабоплаване"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPbDh5QVJmUTBBbGtMWi1kOE81aEZJRV9jdTVEY2JuWDdBMGxXV2gzSHlfMl9wYU4yc2x0MWY3MHpfQlZzTU5tODVtX3lUUE1Xc3FnMkZlWTc0c24wWGNFUGJONWtCWUhBVFNJcVUxZjZEbXNQWUlGVE5meHZpblpnM0hGRzh4Mk9na2dmd3ZiVDl1UnRZcXlsUlRiLTd3N2ZncW82Rzd3Sk45ODdsV2RkX2VrRndDYzVEanR5RlZaNkRCeHdFUnJIMWRGMWtINF9NT0dOTEhIV3g4X0hHYjBkaGdXTU1uYXRkTzRQaG52OEZLRXNmVnBHWk9xU2lOb3VYajFZSnVjUGtnTHQ5WnJkWUdydUJjUQ?oc=5",
+   "source": "Financial Intelligence",
+   "published": "2026-11-28T05:59:34Z",
+   "fetched": "2026-11-28T06:06:46Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "grain"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
   {
    "id": "c6d85ae610f9",
    "lang": "en",
@@ -1042,7 +1065,9 @@
    "lang": "en",
    "title": "Germany condemns drone attacks and calls on Russia to take concrete steps toward a Black Sea ceasefire",
    "titles": {
-    "en": "Germany condemns drone attacks and calls on Russia to take concrete steps toward a Black Sea ceasefire"
+    "en": "Germany condemns drone attacks and calls on Russia to take concrete steps toward a Black Sea ceasefire",
+    "ro": "Germania condamnă atacurile cu drone și solicită Rusiei să ia măsuri concrete în vederea unui armistițiu în Marea Neagră",
+    "bg": "Германия осъжда атаките с дронове и призовава Русия да предприеме конкретни стъпки за постигане на примирие в Черно море"
    },
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMlVlbGx1eExOSXFCUW5QSEY2WTlDZVNUR1JDOFpub2pkcm01NHYtOVRsM2FSZk9iR2JDelRxSUhHRWNYUWo2VnlRazV6S2RzVzV0MER2dk1SVXU1V2h0WlNMdUJjaXNsczlZenNuSExIa0x1VFJsbnRiYlFvc3ljemNVbHFQMnFyUmZScVg0WXc3aTEzNXJRVVhCc0l3OE1xTXBneGJJdDNVV2Zvdk5td0RR?oc=5",
@@ -10485,29 +10510,6 @@
     "constanta",
     "burgas"
    ],
-   "also": [],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
-   "id": "02968412639e",
-   "lang": "en",
-   "title": "Fighter jets scrambled following Black Sea attacks",
-   "titles": {
-    "en": "Fighter jets scrambled following Black Sea attacks"
-   },
-   "summary": "Prime Minister Luca Niculescu called the attacks ‘unacceptable’ and a ‘violation of international law’ Thank you for your interest. Please complete the form below and a member of the team will be in ...",
-   "url": "https://www.lloydslist.com/LL1159028/Fighter-jets-scrambled-following-Black-Sea-attacks",
-   "source": "Lloyd's List",
-   "published": "2026-11-16T08:30:00Z",
-   "fetched": "2026-11-26T09:22:37Z",
-   "image": "https://www.lloydslist.com/-/media/lloyds-list/images/dry-bulk/2026-new-pictures/bulk-carrier-marsol-pictured-as-calypso.png?rev=a6bcdcabd69f4f31bf4e1fa3b93986fc",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.NQIL96jKl5PmboQkvzYT-A&pid=News",
-   "topics": [
-    "policy",
-    "attacks"
-   ],
-   "places": [],
    "also": [],
    "img_tried": true,
    "img_checked": true
