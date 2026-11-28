@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-28T13:09:22Z",
+ "updated": "2026-11-28T14:14:37Z",
  "source": "Open-Meteo.com",
  "ports": {
   "odesa": {
-   "wave_height": 1.38,
-   "wave_direction": 54,
+   "wave_height": 1.42,
+   "wave_direction": 53,
    "wave_period": 4.6,
    "sea_temp": 11.0,
    "wave_max_24h": 1.5,
@@ -28,17 +28,17 @@
      "wind_max": 15.7
     }
    ],
-   "wind_speed": 19.1,
-   "wind_direction": 27,
+   "wind_speed": 18.3,
+   "wind_direction": 28,
    "wind_gusts": 33.4,
-   "air_temp": 0.9,
+   "air_temp": 0.7,
    "gusts_max_24h": 33.4,
-   "updated": "2026-11-28T13:08:35Z"
+   "updated": "2026-11-28T14:13:49Z"
   },
   "danube": {
-   "wave_height": 2.44,
-   "wave_direction": 59,
-   "wave_period": 5.95,
+   "wave_height": 2.5,
+   "wave_direction": 58,
+   "wave_period": 6.0,
    "sea_temp": 13.2,
    "wave_max_24h": 2.7,
    "days": [
@@ -61,17 +61,17 @@
      "wind_max": 25.6
     }
    ],
-   "wind_speed": 30.8,
+   "wind_speed": 30.9,
    "wind_direction": 40,
    "wind_gusts": 45.1,
-   "air_temp": 5.6,
+   "air_temp": 5.4,
    "gusts_max_24h": 45.9,
-   "updated": "2026-11-28T13:08:37Z"
+   "updated": "2026-11-28T14:13:51Z"
   },
   "constanta": {
-   "wave_height": 3.0,
-   "wave_direction": 52,
-   "wave_period": 6.45,
+   "wave_height": 3.1,
+   "wave_direction": 51,
+   "wave_period": 6.6,
    "sea_temp": 12.6,
    "wave_max_24h": 3.5,
    "days": [
@@ -94,17 +94,17 @@
      "wind_max": 29.9
     }
    ],
-   "wind_speed": 31.2,
-   "wind_direction": 44,
-   "wind_gusts": 45.5,
-   "air_temp": 8.7,
+   "wind_speed": 31.9,
+   "wind_direction": 43,
+   "wind_gusts": 46.7,
+   "air_temp": 8.3,
    "gusts_max_24h": 48.4,
-   "updated": "2026-11-28T13:08:38Z"
+   "updated": "2026-11-28T14:13:52Z"
   },
   "varna": {
-   "wave_height": 2.14,
-   "wave_direction": 56,
-   "wave_period": 5.95,
+   "wave_height": 2.36,
+   "wave_direction": 55,
+   "wave_period": 6.2,
    "sea_temp": 11.9,
    "wave_max_24h": 2.8,
    "days": [
@@ -127,18 +127,18 @@
      "wind_max": 28.8
     }
    ],
-   "wind_speed": 30.0,
-   "wind_direction": 12,
-   "wind_gusts": 44.1,
-   "air_temp": 7.1,
+   "wind_speed": 30.1,
+   "wind_direction": 17,
+   "wind_gusts": 44.3,
+   "air_temp": 7.2,
    "gusts_max_24h": 47.6,
-   "updated": "2026-11-28T13:08:40Z"
+   "updated": "2026-11-28T14:13:54Z"
   },
   "burgas": {
-   "wave_height": 1.94,
-   "wave_direction": 51,
-   "wave_period": 5.6,
-   "sea_temp": 13.6,
+   "wave_height": 2.08,
+   "wave_direction": 52,
+   "wave_period": 5.8,
+   "sea_temp": 13.5,
    "wave_max_24h": 2.8,
    "days": [
     {
@@ -160,17 +160,17 @@
      "wind_max": 16.7
     }
    ],
-   "wind_speed": 14.8,
-   "wind_direction": 18,
-   "wind_gusts": 27.6,
-   "air_temp": 9.4,
+   "wind_speed": 15.7,
+   "wind_direction": 22,
+   "wind_gusts": 29.4,
+   "air_temp": 9.5,
    "gusts_max_24h": 44.9,
-   "updated": "2026-11-28T13:08:41Z"
+   "updated": "2026-11-28T14:13:56Z"
   },
   "bosphorus": {
-   "wave_height": 0.66,
-   "wave_direction": 356,
-   "wave_period": 4.55,
+   "wave_height": 0.78,
+   "wave_direction": 1,
+   "wave_period": 4.85,
    "sea_temp": 15.0,
    "wave_max_24h": 3.0,
    "days": [
@@ -193,17 +193,17 @@
      "wind_max": 21.1
     }
    ],
-   "wind_speed": 6.2,
-   "wind_direction": 39,
-   "wind_gusts": 11.7,
-   "air_temp": 14.5,
+   "wind_speed": 6.5,
+   "wind_direction": 46,
+   "wind_gusts": 12.4,
+   "air_temp": 14.1,
    "gusts_max_24h": 36.9,
-   "updated": "2026-11-28T13:09:18Z"
+   "updated": "2026-11-28T14:14:32Z"
   },
   "georgia": {
    "wave_height": 0.16,
-   "wave_direction": 288,
-   "wave_period": 6.3,
+   "wave_direction": 289,
+   "wave_period": 6.25,
    "sea_temp": 15.9,
    "wave_max_24h": 0.3,
    "days": [
@@ -226,18 +226,18 @@
      "wind_max": 17.0
     }
    ],
-   "wind_speed": 4.3,
-   "wind_direction": 265,
-   "wind_gusts": 5.8,
-   "air_temp": 15.4,
+   "wind_speed": 4.5,
+   "wind_direction": 236,
+   "wind_gusts": 6.2,
+   "air_temp": 15.5,
    "gusts_max_24h": 8.9,
-   "updated": "2026-11-28T13:09:19Z"
+   "updated": "2026-11-28T14:14:34Z"
   },
   "russia": {
-   "wave_height": 1.0,
-   "wave_direction": 36,
-   "wave_period": 3.5,
-   "sea_temp": 14.1,
+   "wave_height": 1.1,
+   "wave_direction": 37,
+   "wave_period": 3.65,
+   "sea_temp": 14.0,
    "wave_max_24h": 1.7,
    "days": [
     {
@@ -259,12 +259,12 @@
      "wind_max": 30.7
     }
    ],
-   "wind_speed": 13.2,
-   "wind_direction": 45,
-   "wind_gusts": 26.2,
-   "air_temp": 5.0,
+   "wind_speed": 14.4,
+   "wind_direction": 47,
+   "wind_gusts": 29.0,
+   "air_temp": 4.2,
    "gusts_max_24h": 41.0,
-   "updated": "2026-11-28T13:09:21Z"
+   "updated": "2026-11-28T14:14:36Z"
   }
  }
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T13:08:34Z",
+ "updated": "2026-11-28T14:13:48Z",
  "items": [
   {
    "id": "113ea33a17e3",
@@ -48,6 +48,57 @@
    "img_checked": true
   },
   {
+   "id": "0fbdfee1b8d9",
+   "lang": "en",
+   "title": "Black Sea incidents surge 10-fold as Ukraine war spills onto NATO's doorstep",
+   "titles": {
+    "en": "Black Sea incidents surge 10-fold as Ukraine war spills onto NATO's doorstep",
+    "ro": "Incidentele din Marea Neagră s-au înmulțit de zece ori, pe măsură ce războiul din Ucraina se extinde până la porțile NATO",
+    "bg": "Инцидентите в Черно море се увеличават 10 пъти, след като войната в Украйна достига прага на НАТО"
+   },
+   "summary": "Black Sea incidents involving drones, mines, and commercial ships jumped to 400-500 this year from under 50 in 2025, a NATO spokesperson says ...",
+   "url": "https://www.turkiyetoday.com/world/black-sea-incidents-surge-10-fold-as-ukraine-war-spills-onto-natos-doorstep-3233393",
+   "source": "Türkiye Today",
+   "published": "2026-11-28T05:42:00Z",
+   "fetched": "2026-11-28T14:11:36Z",
+   "image": "https://img.turkiyetoday.com/images/2026/11/28/black-sea-incidents-surge-tenfold-as-ukraine-war-spills-onto-natos-doorstep-3233393_20261128134016.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.RdvAQkKbddT4-vbjmcfSLw&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "943c869c6429",
+   "lang": "en",
+   "title": "Ukraine Offers Black Sea Farm-Cargo Truce and Awaits Russia's Answer",
+   "titles": {
+    "en": "Ukraine Offers Black Sea Farm-Cargo Truce and Awaits Russia's Answer",
+    "ro": "Ucraina propune un armistițiu privind transporturile agricole pe Marea Neagră și așteaptă răspunsul Rusiei",
+    "bg": "Украйна предлага примирие за селскостопанските превози през Черно море и очаква отговор от Русия"
+   },
+   "summary": "Ukraine's foreign minister said Friday that Kyiv had proposed a Black Sea truce covering farm cargo and merchant shipping and was waiting for Russia's answer.",
+   "url": "https://www.southshorepress.com/world/ukraine-offers-black-sea-farm-cargo-truce-and-awaits-russias-answer-93c5855c",
+   "source": "southshorepress",
+   "published": "2026-11-28T05:26:00Z",
+   "fetched": "2026-11-28T14:11:36Z",
+   "image": "https://pfjuqfybqkepyuuwwnnb.supabase.co/storage/v1/object/public/newspaper-images/4719ebb0-2f0b-4b5e-b052-23da6ad3b4a4.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.v33-QGrDjkole99gv5Lfyw&pid=News",
+   "topics": [
+    "policy",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "6c4861586621",
    "lang": "ro",
    "title": "Insuring vessels on the Danube–Black Sea routes is becoming increasingly problematic",
@@ -71,35 +122,11 @@
     "danube",
     "constanta"
    ],
-   "also": [],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
-   "id": "30fe45179d52",
-   "lang": "ro",
-   "title": "Asigurarea navelor pe rutele Dunăre – Marea Neagră devine din ce în ce mai problematică",
-   "titles": {
-    "ro": "Asigurarea navelor pe rutele Dunăre – Marea Neagră devine din ce în ce mai problematică",
-    "en": "Insuring ships on the Danube–Black Sea routes is becoming increasingly problematic",
-    "bg": "Застраховането на корабите по маршрутите Дунав – Черно море става все по-проблематично"
-   },
-   "summary": "Restricțiile impuse de asigurători din cauza riscurilor de război amenință navigația în zona Sulina și Constanța. Polițele se scumpesc, iar acoperirea devine tot mai greu de obținut.",
-   "url": "https://logos-pres.md/noutati/asigurarea-navelor-pe-rutele-dunare-marea-neagra-devine-din-ce-in-ce-mai-problematica/",
-   "source": "logos-pres",
-   "published": "2026-11-28T04:49:00Z",
-   "fetched": "2026-11-28T13:06:21Z",
-   "image": "https://logos-pres.md/wp-content/uploads/2026/11/dunayskoe-sudohodstvo.webp",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.KzbaCk4X6Zhn_e8lvPgu6A&pid=News",
-   "topics": [
-    "shipping",
-    "insurance"
-   ],
-   "places": [
-    "danube",
-    "constanta"
-   ],
    "also": [
+    {
+     "source": "logos-pres",
+     "url": "https://logos-pres.md/noutati/asigurarea-navelor-pe-rutele-dunare-marea-neagra-devine-din-ce-in-ce-mai-problematica/"
+    },
     {
      "source": "logos-pres.md",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZHdrNnZhWXFxcVBqZHlPcmx6UEs2RXIzM2doN2lDLXFZcnNWSm9VbGgwcWRNM1BJR0NXbXFia1hMaTRxU2Q4NmFKXzF5VXdyRGJzbGZjRVhFT2xINTZUWWtGWHVsZnk1UTcyaEpvaTk4NkR4VDhTSTk0OEt4a1BlWS00VXczNl9JbmZTNG4tRzEtb2JBSDFQdDltckhGNHl3bVkzdlpPTUhsekpJZWtYTEFHNU9WcjA?oc=5"
@@ -321,6 +348,34 @@
    ],
    "places": [],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "b75fb5d570a4",
+   "lang": "bg",
+   "title": "Ambrey: Намаляват плаванията към българските пристанища",
+   "titles": {
+    "bg": "Ambrey: Намаляват плаванията към българските пристанища",
+    "en": "Ambrey: The number of sailings to Bulgarian ports is falling",
+    "ro": "Ambrey: Se reduc numărul de curse către porturile bulgare"
+   },
+   "summary": "Рискът в западната част на Черно море кара корабособственици и екипажи да преосмислят курсовете до Варна и Бургас. Отделна статистика за спада само в българските пристанища засега не е публикувана ...",
+   "url": "https://fakti.bg/bulgaria/1105531-ambrey-namalavat-plavaniata-kam-balgarskite-pristanishta",
+   "source": "ФАКТИ.БГ",
+   "published": "2026-11-27T17:01:00Z",
+   "fetched": "2026-11-28T14:11:36Z",
+   "image": "https://cdn4.focus.bg/fakti/photos/fb/1d8/ambrey-namalavat-plavaniata-kam-balgarskite-pristanishta-1.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.e6GSfQ1JyJknnfTHEJjJfQ&pid=News",
+   "topics": [
+    "shipping",
+    "ports"
+   ],
+   "places": [
+    "varna",
+    "burgas"
+   ],
+   "also": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -666,6 +721,10 @@
     {
      "source": "Флагман.Бг",
      "url": "https://www.flagman.bg/article/395099"
+    },
+    {
+     "source": "bgvoice",
+     "url": "https://bgvoice.com/ministur-dronove-v-cherno-more-shte-ima-no-turistite-napirat-kum-bulgariia"
     }
    ],
    "img_tried": true,
@@ -5718,7 +5777,9 @@
    "lang": "ro",
    "title": "Mine marine și fragmente de drone, în atenția Armatei Române. Misiuni de supraveghere în Marea Neagră și pe Dunăre",
    "titles": {
-    "ro": "Mine marine și fragmente de drone, în atenția Armatei Române. Misiuni de supraveghere în Marea Neagră și pe Dunăre"
+    "ro": "Mine marine și fragmente de drone, în atenția Armatei Române. Misiuni de supraveghere în Marea Neagră și pe Dunăre",
+    "en": "Naval mines and drone debris under scrutiny by the Romanian Armed Forces. Surveillance missions in the Black Sea and on the Danube",
+    "bg": "Морски мини и части от дронове – под наблюдението на румънската армия. Наблюдателни мисии в Черно море и по река Дунав"
    },
    "summary": "Armata Română monitorizează posibile mine marine și fragmente de drone în Marea Neagră și pe Dunăre. Nave militare și o aeronavă franceză participă la misiuni.",
    "url": "https://www.b1tv.ro/eveniment/mine-marine-si-drone-armata-romana-intensifica-patrulele-1753242.html",
@@ -10221,40 +10282,6 @@
    "img_checked": true
   },
   {
-   "id": "fa7a653beb83",
-   "lang": "ro",
-   "title": "O navă cu peste 3.400 de tone de propan s-a scufundat în Marea Neagră, în largul Bulgariei",
-   "titles": {
-    "ro": "O navă cu peste 3.400 de tone de propan s-a scufundat în Marea Neagră, în largul Bulgariei"
-   },
-   "summary": "Citeste despre ➜ O navă cu peste 3.400 de tone de propan s-a scufundat în Marea Neagră, în largul Bulgariei in Forbes Romania ✅ Afla cele mai noi informatii din sfera Actualitate ✅ Stiri si evenimente ...",
-   "url": "https://www.forbes.ro/o-nava-cu-peste-3-400-de-tone-de-propan-s-a-scufundat-in-marea-neagra-in-largul-bulgariei-532112",
-   "source": "Forbes România",
-   "published": "2026-11-17T06:50:00Z",
-   "fetched": "2026-11-27T20:06:13Z",
-   "image": "https://stirileprotv.ro/img/2026/11/17/115725/nava-mariam-m-vadu.jpg?fm=jpg&q=80&fit=crop&crop=779%2C438%2C68%2C0&watermark=og&w=1280",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.Lnd2YzqjUt1s42aHRhd_YA&pid=News",
-   "topics": [
-    "shipping"
-   ],
-   "places": [],
-   "also": [
-    {
-     "source": "Știrile PRO TV",
-     "url": "https://stirileprotv.ro/stiri/international/o-nava-cisterna-pentru-gpl-care-s-a-scufundat-in-largul-bulgariei-a-fost-lovita-de-proiectile.html"
-    },
-    {
-     "source": "Ziua de Constanța",
-     "url": "https://www.ziuaconstanta.ro/stiri/externe/nava-gas-husky-care-s-a-scufundat-in-marea-neagra-a-fost-lovita-de-proiectile-960979.html"
-    },
-    {
-     "source": "Evenimentul Zilei",
-     "url": "https://evz.ro/o-nava-cu-destinatia-midia-s-a-scufundat-in-marea-neagra-in-largul-bulgariei-autoritatile-cauta-19-membri-ai-echipajului.html"
-    }
-   ],
-   "img_checked": true
-  },
-  {
    "id": "3cd82a4b804b",
    "lang": "en",
    "title": "Russia Deepens its Attacks on Black Sea Shipping",
@@ -10571,6 +10598,30 @@
    "img_checked": true
   },
   {
+   "id": "46fdc045436d",
+   "lang": "ro",
+   "title": "Navă lovită de drone rusești, eșuată pe plaja de la Vadu. România cere NATO un coridor de protecție în Marea Neagră. „Aici se atacă pur şi simplu...”",
+   "titles": {
+    "ro": "Navă lovită de drone rusești, eșuată pe plaja de la Vadu. România cere NATO un coridor de protecție în Marea Neagră. „Aici se atacă pur şi simplu...”"
+   },
+   "summary": "O navă comercială de aproximativ 100 de metri, avariată în urma unui atac cu dronă rusească în urmă cu două luni, a ajuns în derivă pe plaja de la Vadu. Incidentul readuce în atenție pericolele tot ma ...",
+   "url": "https://click.ro/actualitate/national/nava-lovita-de-drone-rusesti-esuata-pe-plaja-de-2572064.html",
+   "source": "Click!",
+   "published": "2026-11-17T00:58:00Z",
+   "fetched": "2026-11-28T14:11:36Z",
+   "image": "https://cdn.adh.reperio.news/image-b/b2f30cbd-6edd-43fe-8008-303c3c990817/index.png?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.P_n1sULlnOjETrLs4zMdGA&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "1d832c0707b8",
    "lang": "en",
    "title": "Ship insurance in the Black Sea reaches 10%",
@@ -10594,86 +10645,6 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
-  },
-  {
-   "id": "315142aa1fe8",
-   "lang": "bg",
-   "title": "\"Поели са фатален риск в открито море\": Капитан с подробности за поредния ударен кораб в Черно море",
-   "titles": {
-    "bg": "\"Поели са фатален риск в открито море\": Капитан с подробности за поредния ударен кораб в Черно море"
-   },
-   "summary": "Зачестяващите удари по търговски кораби в Черно море за пореден път показват острата необходимост от нови сили и средства за търсене и спасяване. Това ...",
-   "url": "https://www.actualno.com/crime/poeli-sa-fatalen-risk-v-otkrito-more-kapitan-s-podrobnosti-za-porednija-udaren-korab-v-cherno-more-news_2663680.html",
-   "source": "Actualno.com",
-   "published": "2026-11-16T23:58:00Z",
-   "fetched": "2026-11-25T13:53:52Z",
-   "image": "https://static.actualno.com/actualno_2013/upload/news/2026/11/17/e52e478415487d64c22f25e87757e86c_2663680_1920x1080.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.dp0-Vsrj2fJmWgaXBIUznA&pid=News",
-   "topics": [
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "9b2211f0c3d7",
-   "lang": "en",
-   "title": "LPG tanker reported to have sunk off Bulgaria’s Black Sea coast",
-   "titles": {
-    "en": "LPG tanker reported to have sunk off Bulgaria’s Black Sea coast"
-   },
-   "summary": "A liquefied petroleum gas tanker sent a distress signal on Tuesday off ​Bulgaria's Black Sea coast just ‌miles from where another ship was struck by a drone on Monday, two maritime sources and local ...",
-   "url": "https://kfgo.com/2026/11/17/lpg-tanker-sends-distress-signal-off-bulgarias-black-sea-coast-maritime-security-sources-say/",
-   "source": "KFGO",
-   "published": "2026-11-16T19:17:00Z",
-   "fetched": "2026-11-26T07:20:39Z",
-   "image": "https://media-cdn.socastsrm.com/uploads/station/2105/fbShare.png?r=57822",
-   "fallback_image": "",
-   "topics": [
-    "attacks",
-    "shipping",
-    "energy"
-   ],
-   "places": [],
-   "also": [
-    {
-     "source": "The Sacramento Bee",
-     "url": "https://www.sacbee.com/news/nation-world/world/article318113727.html"
-    },
-    {
-     "source": "Reuters on MSN",
-     "url": "https://www.msn.com/en-us/news/other/lpg-tanker-sends-distress-signal-off-bulgarias-black-sea-coast-maritime-security-sources-say/ar-AA2hBoET"
-    },
-    {
-     "source": "Yahoo",
-     "url": "https://www.yahoo.com/news/articles/second-tanker-two-days-sinks-120910402.html"
-    },
-    {
-     "source": "Reuters on MSN",
-     "url": "https://www.msn.com/en-gb/news/world/lpg-tanker-that-sank-off-bulgaria-on-tuesday-was-hit-by-projectiles-official-says/ar-AA2hHnd2"
-    },
-    {
-     "source": "Yahoo",
-     "url": "https://www.yahoo.com/news/articles/lpg-tanker-sank-off-bulgaria-103424292.html"
-    },
-    {
-     "source": "The Hindu",
-     "url": "https://www.thehindu.com/news/international/lpg-tanker-that-sank-off-bulgaria-was-hit-by-projectiles-official/article71715541.ece"
-    },
-    {
-     "source": "Internazionale",
-     "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/18/lpg-tanker-that-sank-off-bulgaria-on-tuesday-was-hit-by-projectiles-official-says"
-    },
-    {
-     "source": "Reuters",
-     "url": "https://www.reuters.com/world/lpg-tanker-sends-distress-signal-off-bulgarias-black-sea-coast-maritime-security-2026-11-17/"
-    }
-   ],
-   "img_tried": true,
-   "img_checked": true
   }
  ]
 }
