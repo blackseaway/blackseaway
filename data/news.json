@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-28T09:01:58Z",
+ "updated": "2026-11-28T10:00:46Z",
  "items": [
+  {
+   "id": "113ea33a17e3",
+   "lang": "en",
+   "title": "Russian Strikes on Grain Ships Threaten Ukraine’s Black Sea Exports",
+   "titles": {
+    "en": "Russian Strikes on Grain Ships Threaten Ukraine’s Black Sea Exports"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbW5mV2N3cHRLUnQ3Rm5UVDMtTkJuY1Q5TlR5TFlCdEtNdUNXYWtNR3NXeVNPTHZaMjhLOTRJQUpydko5RUxpX0s3cExsdUQ3dFpicGJ4M2R1LTQ5YzR3SlljNXlHbl9STkJ0S1c3cE9YYm92Y3JoamdhYkx2dVdkLU81NGNhOC04WTlsdFRQaTVfTnpsXzU4RXZzTkVLRFFQN2V6SE4wNzM2T0F4YzdPaFU3eGJnX3pxczUycFF3?oc=5",
+   "source": "Global Agriculture",
+   "published": "2026-11-28T09:33:38Z",
+   "fetched": "2026-11-28T09:58:01Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "attacks",
+    "shipping",
+    "grain"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
   {
    "id": "b147cd890c45",
    "lang": "ro",
@@ -22,6 +45,36 @@
    ],
    "places": [],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "325ecd2372f6",
+   "lang": "en",
+   "title": "Turkey pushes for Black Sea shipping deal as UN warns global food crisis looms",
+   "titles": {
+    "en": "Turkey pushes for Black Sea shipping deal as UN warns global food crisis looms",
+    "ro": "Turcia face presiuni pentru încheierea unui acord privind transportul maritim pe Marea Neagră, în timp ce ONU avertizează că se profilează o criză alimentară globală",
+    "bg": "Турция настоява за сключване на споразумение за корабоплаването в Черно море, докато ООН предупреждава, че се задава глобална продоволствена криза"
+   },
+   "summary": "Turkey is intensifying its diplomatic push to halt attacks on commercial shipping in the Black Sea, where Russia’s war in Ukraine has all but frozen exports from a region that is a vital global ...",
+   "url": "https://www.inkl.com/news/turkey-pushes-for-black-sea-shipping-deal-as-un-warns-global-food-crisis-looms",
+   "source": "inkl",
+   "published": "2026-11-28T01:19:00Z",
+   "fetched": "2026-11-28T09:58:01Z",
+   "image": "https://images.inkl.com/s3/article/lead_image/24112693/AP26305797349649.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.d6DC6ifRIkKCOFy-D4Z9Iw&pid=News",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "RFI",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPV2UydUpBWHhVZERJU0dlWi0tQnFyWHBjb1dwY2pnMUxtNHA4OEpINHE0SzZGSWFkWmJ4Z3I5b0V1Q3JBYlVXV0Iya2xncWN5R01YOVpTT0puM1VabFdkSEpUVUYydFhvYUdPb3phQm5CcmprU3FoWXN6QUNTN2JJR2NfN2otWXdqT3lBWTZQcmdELS1KV01tZDRDTWNsNS1iS3NpTExYSlV3dTlLUlBQTlZCRENIalVjLVhPQTl4U3NDNzFSNkY4aVMzWEdmX0laLUNyam03NWRtVTJQcHJjWVp4NDg?oc=5"
+    }
+   ],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -182,31 +235,6 @@
    "img_checked": true
   },
   {
-   "id": "d772a6a55416",
-   "lang": "en",
-   "title": "Shipping disruptions in Black Sea push European wheat to one-month high",
-   "titles": {
-    "en": "Shipping disruptions in Black Sea push European wheat to one-month high",
-    "ro": "Perturbările din transportul maritim pe Marea Neagră determină creșterea prețului grâului european la cel mai ridicat nivel din ultima lună",
-    "bg": "Смущенията в морските превози в Черно море изтласкват цените на европейската пшеница до едномесечен връх"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmX19qc2V5cTNEb2lneUpPOW1jMkZ2WFpNVFQ1UUM5U2ozNUpBUnFTS3dVYTVfLXRvMW9OQmc5alpLR1BNTnNEcDI3ZkpwN2c5VDBtZUdaNGI?oc=5",
-   "source": "وكالة سبأ",
-   "published": "2026-11-27T16:30:34Z",
-   "fetched": "2026-11-27T21:04:02Z",
-   "image": "",
-   "fallback_image": "",
-   "topics": [
-    "policy",
-    "shipping",
-    "grain"
-   ],
-   "places": [],
-   "also": [],
-   "img_checked": true
-  },
-  {
    "id": "5ce464a77363",
    "lang": "en",
    "title": "Ukraine Warns of a Black Sea ‘Hormuz’ as Attacks Threaten Food Aid to 3 Countries at Risk of Famine",
@@ -227,6 +255,35 @@
    ],
    "places": [],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "11b637cc68fc",
+   "lang": "en",
+   "title": "Shipping disruptions in the Black Sea push European wheat prices to their highest levels in a month",
+   "titles": {
+    "en": "Shipping disruptions in the Black Sea push European wheat prices to their highest levels in a month"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTDRDSldDUDR0YkY4MlhlLVpmX2pzaENDbnk4TmNGRU5hSk13cVZzaEYwcmxGdzVpTkxNTHAwUDdiLVVadmdCU3VqX2ZYMjhkQmNtV2k3Z0FXc0UxbGxaSHJ2MlB3TjF1S29JWWdtWWhiemRaZ2lPSmUzMzJxMmx6ekV1VVZTa29Ta3N6OThZUDcxdFdYeFRMYjBvZzB0Q0xUNjd2ODZDVi02eXFoZEhrc19nWEczMERSZ0thelNIMmQ1T1lyWTJRSGhqak9MVjZVNWRCYmE3dFhrU0g3blNrSDh6WFJLQQ?oc=5",
+   "source": "صوت الإمارات",
+   "published": "2026-11-27T16:17:47Z",
+   "fetched": "2026-11-28T09:58:01Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "shipping",
+    "grain",
+    "prices"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "وكالة سبأ",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmX19qc2V5cTNEb2lneUpPOW1jMkZ2WFpNVFQ1UUM5U2ozNUpBUnFTS3dVYTVfLXRvMW9OQmc5alpLR1BNTnNEcDI3ZkpwN2c5VDBtZUdaNGI?oc=5"
+    }
+   ],
    "img_checked": true
   },
   {
@@ -353,6 +410,59 @@
     "policy"
    ],
    "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "ee60cc0899e0",
+   "lang": "ro",
+   "title": "Furtună pe Marea Neagră: Toate porturile maritime românești au fost închise",
+   "titles": {
+    "ro": "Furtună pe Marea Neagră: Toate porturile maritime românești au fost închise",
+    "en": "Storm over the Black Sea: All Romanian seaports have been closed",
+    "bg": "Буря в Черно море: Всички румънски морски пристанища бяха затворени"
+   },
+   "summary": "Toate porturile maritime românești au fost închise, iar manevrele navelor au fost suspendate din cauza furtunii puternice de pe Marea Neagră. În larg, vântul suflă cu viteze de peste 70 km/h, iar valu ...",
+   "url": "https://www.radioconstanta.ro/2026/11/28/furtuna-pe-marea-neagra-toate-porturile-maritime-romanesti-au-fost-inchise/",
+   "source": "radioconstanta",
+   "published": "2026-11-27T13:29:00Z",
+   "fetched": "2026-11-28T09:58:01Z",
+   "image": "https://www.radioconstanta.ro/wp-content/uploads/2026/02/cazino-dec3-furtuna-1-e1771391861811.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.Kg_vEbRRnKD97c00kClQhw&pid=News",
+   "topics": [
+    "shipping",
+    "ports"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "65e060d1dc82",
+   "lang": "ro",
+   "title": "FOTO+VIDEO. Vântul puternic oprește manevrele navelor în porturile Constanța, Midia și Mangalia",
+   "titles": {
+    "ro": "FOTO+VIDEO. Vântul puternic oprește manevrele navelor în porturile Constanța, Midia și Mangalia",
+    "en": "PHOTOS + VIDEO. Strong winds halt ship manoeuvres in the ports of Constanța, Midia and Mangalia",
+    "bg": "ФОТО+ВИДЕО. Силният вятър прекъсва маневрите на корабите в пристанищата Констанца, Мидия и Мангалия"
+   },
+   "summary": "Vantul puternic afecteaza activitatea portuara de la malul Marii Negre. Manevrele navelor maritime si fluviale au fost suspendate in porturile Constanta, Midia si Mangalia, in contextul ...",
+   "url": "https://www.ziuaconstanta.ro/stiri/actualitate/foto-video-vantul-puternic-opreste-manevrele-navelor-in-porturile-constanta-midia-si-mangalia-962177.html",
+   "source": "Ziua de Constanța",
+   "published": "2026-11-27T13:10:00Z",
+   "fetched": "2026-11-28T09:58:01Z",
+   "image": "https://www.ziuaconstanta.ro/images/stories/2026/11/28/Gabriela/mare-4.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.rNDtnx17A7HPNXofs3HJ5A&pid=News",
+   "topics": [
+    "shipping",
+    "ports"
+   ],
+   "places": [
+    "constanta",
+    "mangalia"
+   ],
    "also": [],
    "img_tried": true,
    "img_checked": true
@@ -799,6 +909,10 @@
     {
      "source": "fakti.bg",
      "url": "https://fakti.bg/world/1105269-rusia-iska-da-vkluchi-petrola-v-primirieto-v-cherno-more"
+    },
+    {
+     "source": "Newsquawk",
+     "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNVFllY0JuQVJtRnlPSldzck1SVVlnMk42MnpqbXpQeHRRVU83Q0hWRnVEcVJXRi01OWF0dXRYSlNsSlFBYk9iWDN6RWE2NENtTjY5Njl0b2hHZWxMdGpDRnlRZkZ2eHBDWjVsUVBla0lucF9RT3N5amtaYnctbVZTS21yQWNJa1VBdlgxbkd3XzZEaGwtYXNyUG0teG4taFB0Zl83OU9VMG0xZ2hhaUhlZE5OR3VvZkNZUnNCRzd4QUhHX1NXTENucmVHLVZDb1FSYnFyVU1QQ2FrTHVpTG5ZSkxFV0dvMk91NThvVjFuc0JFMUpvR1VsSDZJUTlEMjUyYS1LSWVLcXlubHNXSVpLdU5lbnhibVNIclQ3V19tTk50U3pSX3RwWUhDazFyZU5WS0ZxTllLYnZnX0E?oc=5"
     }
    ],
    "img_tried": true,
@@ -5007,7 +5121,9 @@
    "lang": "ro",
    "title": "VIDEO. Navă comercială avariată de o dronă în Ucraina, eșuată în apropiere de plaja Vadu / O altă navă de transport de gaze naturale, scufundată în Marea Neagră",
    "titles": {
-    "ro": "VIDEO. Navă comercială avariată de o dronă în Ucraina, eșuată în apropiere de plaja Vadu / O altă navă de transport de gaze naturale, scufundată în Marea Neagră"
+    "ro": "VIDEO. Navă comercială avariată de o dronă în Ucraina, eșuată în apropiere de plaja Vadu / O altă navă de transport de gaze naturale, scufundată în Marea Neagră",
+    "en": "VIDEO. Commercial vessel damaged by a drone in Ukraine, run aground near Vadu beach / Another natural gas tanker has sunk in the Black Sea",
+    "bg": "ВИДЕО. Търговски кораб, повреден от дрон в Украйна, се е засядал в близост до плажа Ваду / Още един кораб за превоз на природен газ се е потънал в Черно море"
    },
    "summary": "Cargoul „Mariam M” a ajuns în derivă după ruperea ancorei și a fost purtat de curenții marini spre coasta României, potrivit informațiilor transmise de ...",
    "url": "https://newmoney.ro/nava-comerciala-avariata-de-o-drona-in-ucraina-esuata-in-apropiere-de-plaja-vadu-o-alta-nava-de-transport-de-gaze-naturale-scufundata-la-marea-neagra/",
@@ -10498,114 +10614,6 @@
      "url": "https://click.ro/actualitate/national/nava-lovita-de-drone-rusesti-esuata-pe-plaja-de-2572064.html"
     }
    ],
-   "img_checked": true
-  },
-  {
-   "id": "d4cd0d6719ae",
-   "lang": "en",
-   "title": "The EU and US are still wondering whether the Black Sea falls within NATO’s remit, while Russia is increasingly boldly testing red lines",
-   "titles": {
-    "en": "The EU and US are still wondering whether the Black Sea falls within NATO’s remit, while Russia is increasingly boldly testing red lines"
-   },
-   "summary": "The escalating naval war between Russia and Ukraine is becoming an increasingly serious challenge for the Alliance in the Black Sea ...",
-   "url": "https://fakti.bg/en/mnenia/1101574-the-eu-and-us-are-still-wondering-whether-the-black-sea-falls-within-natos-remit-while-russia-is-increasingly-boldly-testing-red-lines",
-   "source": "Fakti.bg",
-   "published": "2026-11-16T14:03:00Z",
-   "fetched": "2026-11-25T16:18:55Z",
-   "image": "https://www.bing.com/th?id=ONUT.sA-qBNMiqPkzPyQs0aFO9w&pid=News",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.sA-qBNMiqPkzPyQs0aFO9w&pid=News",
-   "topics": [
-    "policy",
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "02968412639e",
-   "lang": "en",
-   "title": "Fighter jets scrambled following Black Sea attacks",
-   "titles": {
-    "en": "Fighter jets scrambled following Black Sea attacks"
-   },
-   "summary": "Prime Minister Luca Niculescu called the attacks ‘unacceptable’ and a ‘violation of international law’ Thank you for your interest. Please complete the form below and a member of the team will be in ...",
-   "url": "https://www.lloydslist.com/LL1159028/Fighter-jets-scrambled-following-Black-Sea-attacks",
-   "source": "Lloyd's List",
-   "published": "2026-11-16T08:30:00Z",
-   "fetched": "2026-11-28T08:25:49Z",
-   "image": "https://www.lloydslist.com/-/media/lloyds-list/images/dry-bulk/2026-new-pictures/bulk-carrier-marsol-pictured-as-calypso.png?rev=a6bcdcabd69f4f31bf4e1fa3b93986fc",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.NQIL96jKl5PmboQkvzYT-A&pid=News",
-   "topics": [
-    "policy",
-    "attacks"
-   ],
-   "places": [],
-   "trusted": true,
-   "also": [],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
-   "id": "510819185cf6",
-   "lang": "ro",
-   "title": "Incident grav în Marea Neagră. Un cargou cu cereale plecat din România se scufundă după ce ar fi fost lovit de drone. Ce s-a întâmplat cu marinarii de la bord UPDATE",
-   "titles": {
-    "ro": "Incident grav în Marea Neagră. Un cargou cu cereale plecat din România se scufundă după ce ar fi fost lovit de drone. Ce s-a întâmplat cu marinarii de la bord UPDATE"
-   },
-   "summary": "Autoritățile bulgare au primit luni, 16 noiembrie, un semnal de urgență de la un cargou aflat în pericol de scufundare în zona economică exclusivă a Bulgariei din Marea Neagră, a anunțat Ministerul Tr ...",
-   "url": "https://ziare.com/nava-scufundata/incident-grav-marea-neagra-cargou-cereale-plecat-romania-2048016",
-   "source": "Ziare.com",
-   "published": "2026-11-16T08:06:00Z",
-   "fetched": "2026-11-28T08:42:13Z",
-   "image": "https://cdn.knd.ro/media/521/2942/1792/20550873/1/nava-scufundata-marea-neagra.jpg?width=1200&height=630",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.ZtPWZndOJaKinJS7k_wcXA&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping",
-    "grain"
-   ],
-   "places": [],
-   "also": [
-    {
-     "source": "Antena 3 CNN",
-     "url": "https://www.antena3.ro/externe/o-nava-cu-cereale-plecata-din-romania-se-scufunda-in-marea-neagra-din-cauze-inca-necunoscute-ce-s-a-intamplat-cu-membrii-echipajului-811319.html"
-    },
-    {
-     "source": "Radio Impuls",
-     "url": "https://www.radioimpuls.ro/o-nava-care-transporta-gaze-naturale-de-la-alexandria-catre-portul-romanesc-midia-s-a-scufundat-in-marea-neagra-ce-s-a-intamplat-cu-cei-19-membri-ai-echipajului-20550873"
-    },
-    {
-     "source": "Evenimentul Zilei",
-     "url": "https://evz.ro/o-nava-cu-destinatia-midia-s-a-scufundat-in-marea-neagra-in-largul-bulgariei-autoritatile-cauta-19-membri-ai-echipajului.html"
-    }
-   ],
-   "img_checked": true
-  },
-  {
-   "id": "840aa1207022",
-   "lang": "ro",
-   "title": "România cere sprijin UE pentru a neutraliza amenințările Rusiei în Marea Neagră. Neculăescu: „Am avut 3 nave lovite. E inacceptabil”",
-   "titles": {
-    "ro": "România cere sprijin UE pentru a neutraliza amenințările Rusiei în Marea Neagră. Neculăescu: „Am avut 3 nave lovite. E inacceptabil”"
-   },
-   "summary": "România a solicitat luni, alături de Estonia și Suedia, un răspuns european unit la amenințările crescânde din partea Rusiei, de la atacuri cu drone în Marea Neagră până la presupuse acte de sabotaj, ...",
-   "url": "https://www.antena3.ro/actualitate/romania-cere-sprijin-ue-pentru-a-neutraliza-amenintarile-rusiei-in-marea-neagra-neculaescu-am-avut-3-nave-lovite-e-inacceptabil-811367.html",
-   "source": "Antena 3 CNN",
-   "published": "2026-11-16T07:32:00Z",
-   "fetched": "2026-11-28T08:58:54Z",
-   "image": "https://www.antena3.ro/thumbs/amp/2026/11/16/romania-cere-sprijin-ue-pentru-a-neutraliza-amenintarile-rusiei-in-marea-neagra-neculaescu-am-avut-3-nave-lovite-e-inacceptabil-1119678.webp",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.Dvijbs8G0RLzjfDUAGvZ6A&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "also": [],
-   "img_tried": true,
    "img_checked": true
   }
  ]
