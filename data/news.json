@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T04:05:18Z",
+ "updated": "2026-11-28T05:11:00Z",
  "items": [
   {
    "id": "c6d85ae610f9",
@@ -907,7 +907,12 @@
     "shipping"
    ],
    "places": [],
-   "also": [],
+   "also": [
+    {
+     "source": "news.laodong",
+     "url": "https://news.laodong.vn/the-gioi/ukraina-de-xuat-ngung-ban-o-bien-den-cho-phan-hoi-tu-nga-1807956.ldo"
+    }
+   ],
    "img_tried": true,
    "img_checked": true
   },
@@ -916,7 +921,9 @@
    "lang": "ro",
    "title": "Gabriel Oprea cere un scut de securitate la Marea Neagră. NATO a înregistrat până la 500 de incidente în 2026",
    "titles": {
-    "ro": "Gabriel Oprea cere un scut de securitate la Marea Neagră. NATO a înregistrat până la 500 de incidente în 2026"
+    "ro": "Gabriel Oprea cere un scut de securitate la Marea Neagră. NATO a înregistrat până la 500 de incidente în 2026",
+    "en": "Gabriel Oprea calls for a security shield in the Black Sea. NATO recorded up to 500 incidents in 2026",
+    "bg": "Габриел Опреа призовава за създаването на защитен щит в Черно море. НАТО е регистрирало до 500 инцидента през 2026 г."
    },
    "summary": "Gabriel Oprea cere un scut de securitate la Marea Neagră, după ce numărul incidentelor ar fi ajuns la 500 în 2026. UMPMV propune șapte măsuri pentru apărarea României.",
    "url": "https://www.realitatea.net/stiri/politica/gabriel-oprea-cere-un-scut-de-securitate-la-marea-neagra-nato-a-inregistrat-pana-la-500-de-incidente-in-2026-e4xx60",
@@ -938,7 +945,9 @@
    "lang": "en",
    "title": "The Black Sea Has Become the World's Most Dangerous Maritime Route — UN",
    "titles": {
-    "en": "The Black Sea Has Become the World's Most Dangerous Maritime Route — UN"
+    "en": "The Black Sea Has Become the World's Most Dangerous Maritime Route — UN",
+    "ro": "Marea Neagră a devenit cea mai periculoasă rută maritimă din lume — ONU",
+    "bg": "Черно море се превърна в най-опасния морски маршрут в света — ООН"
    },
    "summary": "In 2026, more than 300 attacks were recorded in the Black Sea, resulting in the deaths of at least 40 people. Threats to shipping are hampering Ukrainian food exports, which also affects global food ...",
    "url": "https://ua.news/en/war-vs-rf/chorne-more-stalo-nainebezpechnishim-morskim-marshrutom-u-sviti-oon",
@@ -9808,6 +9817,34 @@
    "img_checked": true
   },
   {
+   "id": "da091e865170",
+   "lang": "ro",
+   "title": "O navă care transporta gaze naturale de la Alexandria către portul românesc Midia S-A SCUFUNDAT în Marea Neagră. CE S-A ÎNTÂMPLAT cu cei 19 membri ai echipajului?",
+   "titles": {
+    "ro": "O navă care transporta gaze naturale de la Alexandria către portul românesc Midia S-A SCUFUNDAT în Marea Neagră. CE S-A ÎNTÂMPLAT cu cei 19 membri ai echipajului?"
+   },
+   "summary": "Noi detalii despre nava scufundată în această dimineață în Marea Neagră. Iată anunțul făcut despre cei 19 membri ai echipajului ...",
+   "url": "https://www.radioimpuls.ro/o-nava-care-transporta-gaze-naturale-de-la-alexandria-catre-portul-romanesc-midia-s-a-scufundat-in-marea-neagra-ce-s-a-intamplat-cu-cei-19-membri-ai-echipajului-20550873",
+   "source": "Radio Impuls",
+   "published": "2026-11-17T07:07:00Z",
+   "fetched": "2026-11-28T05:08:11Z",
+   "image": "https://cdn.knd.ro/media/521/2942/1792/20550873/1/nava-scufundata-marea-neagra.jpg?width=1200&height=630",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.P-a9g1GcW1VRUTdGZgnOWw&pid=News",
+   "topics": [
+    "shipping",
+    "ports"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "Evenimentul Zilei",
+     "url": "https://evz.ro/o-nava-cu-destinatia-midia-s-a-scufundat-in-marea-neagra-in-largul-bulgariei-autoritatile-cauta-19-membri-ai-echipajului.html"
+    }
+   ],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "fa7a653beb83",
    "lang": "ro",
    "title": "O navă cu peste 3.400 de tone de propan s-a scufundat în Marea Neagră, în largul Bulgariei",
@@ -10469,30 +10506,6 @@
    "topics": [
     "policy",
     "attacks"
-   ],
-   "places": [],
-   "also": [],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
-   "id": "eb5d69acd71b",
-   "lang": "en",
-   "title": "Turkey joins Black Sea security talks after drone strikes",
-   "titles": {
-    "en": "Turkey joins Black Sea security talks after drone strikes"
-   },
-   "summary": "Turkish Foreign Minister Hakan Fidan is taking part in talks on Black Sea security and regional economic links in Brussels on Monday, following drone strikes on three commercial vessels near Romania’s ...",
-   "url": "https://www.turkishminute.com/2026/11/16/turkey-joins-black-sea-security-talks-after-drone-strikes/",
-   "source": "Turkish Minute",
-   "published": "2026-11-16T08:29:00Z",
-   "fetched": "2026-11-26T08:29:20Z",
-   "image": "https://www.turkishminute.com/wp-content/uploads/2026/08/turkish-ship-drone-attack-e1787922974729.jpg",
-   "fallback_image": "",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping"
    ],
    "places": [],
    "also": [],
