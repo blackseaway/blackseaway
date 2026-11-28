@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T07:28:10Z",
+ "updated": "2026-11-28T07:45:51Z",
  "items": [
   {
    "id": "b147cd890c45",
@@ -81,12 +81,12 @@
   },
   {
    "id": "50d0c2f538aa",
-   "lang": "en",
+   "lang": "bg",
    "title": "Русия иска петрола в примирието в Черно море",
    "titles": {
-    "en": "Русия иска петрола в примирието в Черно море",
-    "ro": "Rusia dorește petrolul în cadrul armistițiului din Marea Neagră",
-    "bg": "Русия иска петрола като част от примирието в Черно море"
+    "bg": "Русия иска петрола в примирието в Черно море",
+    "en": "Russia wants oil as part of the Black Sea ceasefire",
+    "ro": "Rusia dorește petrolul în cadrul armistițiului din Marea Neagră"
    },
    "summary": "",
    "url": "https://fakti.bg/world/1105269-rusia-iska-da-vkluchi-petrola-v-primirieto-v-cherno-more",
@@ -178,12 +178,12 @@
   },
   {
    "id": "f06096d1af25",
-   "lang": "en",
+   "lang": "bg",
    "title": "На фона на атаките срещу кораби край България : Украйна и Гърция обсъдиха сигурността в Черно море",
    "titles": {
-    "en": "На фона на атаките срещу кораби край България : Украйна и Гърция обсъдиха сигурността в Черно море",
-    "ro": "Pe fondul atacurilor asupra navelor din largul Bulgariei: Ucraina și Grecia au discutat despre securitatea în Marea Neagră",
-    "bg": "На фона на атаките срещу кораби край България: Украйна и Гърция обсъдиха сигурността в Черно море"
+    "bg": "На фона на атаките срещу кораби край България : Украйна и Гърция обсъдиха сигурността в Черно море",
+    "en": "Against the backdrop of attacks on ships off the coast of Bulgaria: Ukraine and Greece discussed security in the Black Sea",
+    "ro": "Pe fondul atacurilor asupra navelor din largul Bulgariei: Ucraina și Grecia au discutat despre securitatea în Marea Neagră"
    },
    "summary": "",
    "url": "https://www.blagoevgrad24.bg/novini/mejdunarodni/Na-fona-na-atakite-sreshtu-korabi-krai-Bulgariya-Ukraina-i-Gurciya-obsudiha-sigurnostta-v-Cherno-more-3063198",
@@ -1360,7 +1360,9 @@
    "lang": "ro",
    "title": "Portul Constanța face un pas spre reducerea poluării. Navele vor putea fi alimentate cu energie electrică direct de la țărm",
    "titles": {
-    "ro": "Portul Constanța face un pas spre reducerea poluării. Navele vor putea fi alimentate cu energie electrică direct de la țărm"
+    "ro": "Portul Constanța face un pas spre reducerea poluării. Navele vor putea fi alimentate cu energie electrică direct de la țărm",
+    "en": "The Port of Constanța is taking a step towards reducing pollution. Ships will be able to be powered by electricity directly from the shore",
+    "bg": "Пристанището в Констанца прави крачка към намаляване на замърсяването. Корабите ще могат да се захранват с електроенергия директно от брега"
    },
    "summary": "Ministrul Transporturilor, Ștefan Ovidiu Popa, a anunțat că echipamentele sistemului E-COLD au ajuns în mare parte în Portul Constanța. Investiția de 29,6 milioane de euro va permite alimentarea navel ...",
    "url": "https://www.mediafax.ro/energie/portul-constanta-face-un-pas-spre-reducerea-poluarii-navele-vor-putea-fi-alimentate-cu-energie-electrica-direct-de-la-tarm-23850532",
@@ -1391,7 +1393,9 @@
    "lang": "ro",
    "title": "CBS News: România, în prima linie a tensiunilor din Marea Neagră, riscuri tot mai mari pentru NATO şi SUA",
    "titles": {
-    "ro": "CBS News: România, în prima linie a tensiunilor din Marea Neagră, riscuri tot mai mari pentru NATO şi SUA"
+    "ro": "CBS News: România, în prima linie a tensiunilor din Marea Neagră, riscuri tot mai mari pentru NATO şi SUA",
+    "en": "CBS News: Romania at the forefront of tensions in the Black Sea; growing risks for NATO and the US",
+    "bg": "CBS News: Румъния – на предната линия на напрежението в Черно море, все по-големи рискове за НАТО и САЩ"
    },
    "summary": "Incidentele maritime din Marea Neagră s-au înmulţit semnificativ de la începutul anului, iar riscurile generate de drone, mine şi nave comerciale afectate de războiul dintre Rusia şi Ucraina se extind ...",
    "url": "https://www.bursa.ro/cbs-news-romania-in-prima-linie-a-tensiunilor-din-marea-neagra-riscuri-tot-mai-mari-pentru-nato-si-sua-22791166",
@@ -6085,10 +6089,10 @@
   },
   {
    "id": "70e1b2bccf1e",
-   "lang": "en",
+   "lang": "ro",
    "title": "Former Bulgarian and Romanian defence ministers call for EU naval mission in the Black Sea",
    "titles": {
-    "en": "Former Bulgarian and Romanian defence ministers call for EU naval mission in the Black Sea"
+    "ro": "Former Bulgarian and Romanian defence ministers call for EU naval mission in the Black Sea"
    },
    "summary": "Boyko Noev and Ioan Mircea Pașcu propose an EUNAVFOR-style operation modelled on Aspides, with Bulgarian and Romanian fleets at its core and EU air support ...",
    "url": "https://eualive.net/former-bulgarian-and-romanian-defence-ministers-call-for-eu-naval-mission-in-the-black-sea/",
@@ -9902,6 +9906,29 @@
    "img_checked": true
   },
   {
+   "id": "da091e865170",
+   "lang": "ro",
+   "title": "O navă care transporta gaze naturale de la Alexandria către portul românesc Midia S-A SCUFUNDAT în Marea Neagră. CE S-A ÎNTÂMPLAT cu cei 19 membri ai echipajului?",
+   "titles": {
+    "ro": "O navă care transporta gaze naturale de la Alexandria către portul românesc Midia S-A SCUFUNDAT în Marea Neagră. CE S-A ÎNTÂMPLAT cu cei 19 membri ai echipajului?"
+   },
+   "summary": "Noi detalii despre nava scufundată în această dimineață în Marea Neagră. Iată anunțul făcut despre cei 19 membri ai echipajului ...",
+   "url": "https://www.radioimpuls.ro/o-nava-care-transporta-gaze-naturale-de-la-alexandria-catre-portul-romanesc-midia-s-a-scufundat-in-marea-neagra-ce-s-a-intamplat-cu-cei-19-membri-ai-echipajului-20550873",
+   "source": "Radio Impuls",
+   "published": "2026-11-17T07:07:00Z",
+   "fetched": "2026-11-28T07:43:08Z",
+   "image": "https://cdn.knd.ro/media/521/2942/1792/20550873/1/nava-scufundata-marea-neagra.jpg?width=1200&height=630",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.P-a9g1GcW1VRUTdGZgnOWw&pid=News",
+   "topics": [
+    "shipping",
+    "ports"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "fa7a653beb83",
    "lang": "ro",
    "title": "O navă cu peste 3.400 de tone de propan s-a scufundat în Marea Neagră, în largul Bulgariei",
@@ -10494,29 +10521,6 @@
    "fallback_image": "http://www.bing.com/th?id=ONUT.sA-qBNMiqPkzPyQs0aFO9w&pid=News",
    "topics": [
     "policy",
-    "shipping"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "e89e429b1a5c",
-   "lang": "en",
-   "title": "Another Ship Sinks in the Black Sea. Crew Members Say It Was Hit by Drones.",
-   "titles": {
-    "en": "Another Ship Sinks in the Black Sea. Crew Members Say It Was Hit by Drones."
-   },
-   "summary": "The cargo ship BETUL 8 sank 40 nautical miles from Cape Kaliakra. All 12 crew members were rescued. Bulgarian authorities have not stated the cause. But crew members say the ship was hit by drones ...",
-   "url": "https://fakti.bg/en/world/1101544-another-ship-sinks-in-the-black-sea-crew-members-say-it-was-hit-by-drones",
-   "source": "Fakti.bg",
-   "published": "2026-11-16T11:23:00Z",
-   "fetched": "2026-11-25T13:53:52Z",
-   "image": "https://www.bing.com/th?id=ONUT.VnORJWTyGfs2vFgIYZGVPQ&pid=News",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.VnORJWTyGfs2vFgIYZGVPQ&pid=News",
-   "topics": [
-    "attacks",
     "shipping"
    ],
    "places": [],
