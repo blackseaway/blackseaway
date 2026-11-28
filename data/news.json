@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T07:45:51Z",
+ "updated": "2026-11-28T08:11:49Z",
  "items": [
   {
    "id": "b147cd890c45",
@@ -78,30 +78,6 @@
    "also": [],
    "img_tried": true,
    "img_checked": true
-  },
-  {
-   "id": "50d0c2f538aa",
-   "lang": "bg",
-   "title": "Русия иска петрола в примирието в Черно море",
-   "titles": {
-    "bg": "Русия иска петрола в примирието в Черно море",
-    "en": "Russia wants oil as part of the Black Sea ceasefire",
-    "ro": "Rusia dorește petrolul în cadrul armistițiului din Marea Neagră"
-   },
-   "summary": "",
-   "url": "https://fakti.bg/world/1105269-rusia-iska-da-vkluchi-petrola-v-primirieto-v-cherno-more",
-   "source": "fakti.bg",
-   "published": "2026-11-27T20:30:00Z",
-   "fetched": "2026-11-27T21:04:02Z",
-   "image": "https://cdn4.focus.bg/fakti/photos/fb/1b4/rusia-iska-da-vkluchi-petrola-v-primirieto-v-cherno-more-1.jpg",
-   "fallback_image": "",
-   "topics": [
-    "energy"
-   ],
-   "places": [],
-   "also": [],
-   "img_checked": true,
-   "img_tried": true
   },
   {
    "id": "56fe106a912b",
@@ -793,7 +769,12 @@
     "energy"
    ],
    "places": [],
-   "also": [],
+   "also": [
+    {
+     "source": "fakti.bg",
+     "url": "https://fakti.bg/world/1105269-rusia-iska-da-vkluchi-petrola-v-primirieto-v-cherno-more"
+    }
+   ],
    "img_tried": true,
    "img_checked": true
   },
@@ -1593,7 +1574,9 @@
    "lang": "ro",
    "title": "Mii de parfumuri susceptibile a fi contrafăcute, în valoare de peste 2,5 milioane de lei, găsite într-un container sosit în Portul Constanţa/ Marfa provenea din India şi ...",
    "titles": {
-    "ro": "Mii de parfumuri susceptibile a fi contrafăcute, în valoare de peste 2,5 milioane de lei, găsite într-un container sosit în Portul Constanţa/ Marfa provenea din India şi ..."
+    "ro": "Mii de parfumuri susceptibile a fi contrafăcute, în valoare de peste 2,5 milioane de lei, găsite într-un container sosit în Portul Constanţa/ Marfa provenea din India şi ...",
+    "en": "Thousands of perfumes suspected of being counterfeit, worth over 2.5 million lei, were found in a container that arrived at the Port of Constanța/ The goods came from India and ...",
+    "bg": "Хиляди парфюми, за които се подозира, че са фалшиви, на стойност над 2,5 милиона леи, бяха открити в контейнер, пристигнал в пристанището на Констанца/ Стоката беше с произход от Индия и ..."
    },
    "summary": "Poliţiştii de frontieră au descoperit mii de parfumuri susceptibile a fi contrafăcute într-un container sosit din India în Portul Constanţa. Valoarea acestora depăşeşte 2,5 milioane de lei. Bunurile e ...",
    "url": "https://www.news.ro/eveniment/mii-parfumuri-susceptibile-contrafacute-valoare-peste-2-5-milioane-lei-gasite-intr-container-sosit-portul-constanta-marfa-provenea-india-era-destinata-unei-firme-republica-moldova-1922404526122026111423012375",
@@ -1642,7 +1625,9 @@
    "lang": "ro",
    "title": "Neptun Deep, între resursa strategică și riscurile din Marea Neagră: UE alocă 50 de milioane de euro",
    "titles": {
-    "ro": "Neptun Deep, între resursa strategică și riscurile din Marea Neagră: UE alocă 50 de milioane de euro"
+    "ro": "Neptun Deep, între resursa strategică și riscurile din Marea Neagră: UE alocă 50 de milioane de euro",
+    "en": "Neptun Deep: between strategic resource and risks in the Black Sea – the EU allocates 50 million euros",
+    "bg": "„Нептун Дийп“ – между стратегическия ресурс и рисковете в Черно море: ЕС отпуска 50 милиона евро"
    },
    "summary": "Securitatea Neptun Deep devine o prioritate europeană, pe fondul riscurilor din Marea Neagră și al finanțării de 50 de milioane de euro.",
    "url": "https://www.sfin.ro/securitatea-neptun-deep/",
@@ -2387,6 +2372,10 @@
     {
      "source": "Informat.ro",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVzR2UUxmSU1BVFRIZUxmQjJLYmdRaFdqaHFja3ZuY05ERi1sUmVnUUJUbUtmLVdKQWhGLVlSdXJ6eWJPMzZCR2lPdjR2djd1b19ZNzlfMU4tM3V1aVFnRDdCajRpRzVDWUJyYURPU2xfekJ3SVhILVhxYnVyWVZFN3hsU3ZSZS1hZmFPU3Iyc1ZnNEVDVFo5TTJQOFI4bWxzVktYaA?oc=5"
+    },
+    {
+     "source": "Cuget Liber",
+     "url": "https://cugetliber.ro/stiri-actualitate-eurodeputatii-bulgari-indeamna-ue-sa-protejeze-transportul-maritim-in-marea-neagra-570870"
     }
    ]
   },
@@ -3455,7 +3444,9 @@
    "lang": "bg",
    "title": "Бойко Ноев: В Черно море не е необходимо да влизат кораби на чужди държави",
    "titles": {
-    "bg": "Бойко Ноев: В Черно море не е необходимо да влизат кораби на чужди държави"
+    "bg": "Бойко Ноев: В Черно море не е необходимо да влизат кораби на чужди държави",
+    "en": "Boyko Noev: There is no need for foreign ships to enter the Black Sea",
+    "ro": "Boiko Noev: Nu este necesar ca nave ale unor țări străine să intre în Marea Neagră"
    },
    "summary": "Бившите министри на отбраната на България и Румъния Бойко Ноев и Йоан Мирча Пашку призоваха Европейския съюз да създаде специализирана военноморска мисия за защита на сигурността и свободата на корабо ...",
    "url": "https://novini.bg/article/2026112418212202383",
@@ -3498,7 +3489,9 @@
    "lang": "ro",
    "title": "VIDEO Figurine cu Moş Crăciun în mărime naturală, găsite într-un container găsit în Marea Neagră / Ar proveni de pe o navă grecească lovită de drone luna trecută",
    "titles": {
-    "ro": "VIDEO Figurine cu Moş Crăciun în mărime naturală, găsite într-un container găsit în Marea Neagră / Ar proveni de pe o navă grecească lovită de drone luna trecută"
+    "ro": "VIDEO Figurine cu Moş Crăciun în mărime naturală, găsite într-un container găsit în Marea Neagră / Ar proveni de pe o navă grecească lovită de drone luna trecută",
+    "en": "VIDEO: Life-size Santa Claus figurines found in a container recovered from the Black Sea / They are believed to have come from a Greek ship struck by drones last month",
+    "bg": "ВИДЕО: Фигури на Дядо Коледа в естествена големина, открити в контейнер, изваден от Черно море / Предполага се, че са от гръцки кораб, ударен от дронове миналия месец"
    },
    "summary": "Autorităţile bulgare au descoperit marţi figurine de Moş Crăciun în mărime naturală, o statuie reprezentând un urs polar şi decoraţiuni festive, după ce au deschis un container maritim eşuat pe ţărm, ...",
    "url": "https://www.g4media.ro/video-figurine-cu-mos-craciun-in-marime-naturala-gasite-intr-un-container-gasit-in-marea-neagra-ar-proveni-de-pe-o-nava-greceasca-lovita-de-drone-luna-trecuta.html",
@@ -9924,7 +9917,12 @@
     "ports"
    ],
    "places": [],
-   "also": [],
+   "also": [
+    {
+     "source": "Evenimentul Zilei",
+     "url": "https://evz.ro/o-nava-cu-destinatia-midia-s-a-scufundat-in-marea-neagra-in-largul-bulgariei-autoritatile-cauta-19-membri-ai-echipajului.html"
+    }
+   ],
    "img_tried": true,
    "img_checked": true
   },
@@ -10527,6 +10525,30 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
+  },
+  {
+   "id": "02968412639e",
+   "lang": "en",
+   "title": "Fighter jets scrambled following Black Sea attacks",
+   "titles": {
+    "en": "Fighter jets scrambled following Black Sea attacks"
+   },
+   "summary": "Prime Minister Luca Niculescu called the attacks ‘unacceptable’ and a ‘violation of international law’ Thank you for your interest. Please complete the form below and a member of the team will be in ...",
+   "url": "https://www.lloydslist.com/LL1159028/Fighter-jets-scrambled-following-Black-Sea-attacks",
+   "source": "Lloyd's List",
+   "published": "2026-11-16T08:30:00Z",
+   "fetched": "2026-11-28T08:08:53Z",
+   "image": "https://www.lloydslist.com/-/media/lloyds-list/images/dry-bulk/2026-new-pictures/bulk-carrier-marsol-pictured-as-calypso.png?rev=a6bcdcabd69f4f31bf4e1fa3b93986fc",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.NQIL96jKl5PmboQkvzYT-A&pid=News",
+   "topics": [
+    "policy",
+    "attacks"
+   ],
+   "places": [],
+   "trusted": true,
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
   }
  ]
 }
