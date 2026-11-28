@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-{% set page_title = (title ~ ' · ' ~ cfg.name) if title else (cfg.name ~ ' · ' ~ t.tagline) %}
+{% set page_title = (title ~ ' · ' ~ cfg.name) if title else t.seo_home_title %}
 <title>{{ page_title }}</title>
 <meta name="description" content="{{ description or t.intro }}">
 {% set page_url = cfg.base_url ~ '/' ~ lang ~ '/' ~ path|replace('index.html','') %}
@@ -54,6 +54,7 @@
   <nav class="wrap main-nav" aria-label="Main">
     <a href="{{ url(lang ~ '/') }}" {% if page_id=='home' %}aria-current="page"{% endif %}>{{ t.nav_home }}</a>
     <a href="{{ url(lang ~ '/news.html') }}" {% if page_id=='news' %}aria-current="page"{% endif %}>{{ t.nav_news }}</a>
+    <a href="{{ url(lang ~ '/topics/') }}" {% if page_id=='topics' %}aria-current="page"{% endif %}>{{ t.nav_topics }}</a>
     <a href="{{ url(lang ~ '/articles/') }}" {% if page_id=='articles' %}aria-current="page"{% endif %}>{{ t.nav_articles }}</a>
     <a href="{{ url(lang ~ '/stats.html') }}" {% if page_id=='stats' %}aria-current="page"{% endif %}>{{ t.nav_stats }}</a>
     <a href="{{ url(lang ~ '/about.html') }}" {% if page_id=='about' %}aria-current="page"{% endif %}>{{ t.nav_about }}</a>

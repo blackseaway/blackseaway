@@ -224,3 +224,22 @@ a.mail { color: var(--link); font-weight: 600; }
 .hero-img { width: 100%; margin: 8px 0 24px; }
 .visually-hidden { position: absolute !important; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 .related { margin-top: 36px; }
+
+/* topics */
+.hub-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; margin-top: 12px; }
+.hub-card { display: block; border: 1px solid var(--line); border-top: 3px solid var(--gold); padding: 14px 16px; }
+.hub-card:hover { text-decoration: none; border-color: var(--ink); }
+.hub-card h3 { margin: 0 0 6px; font-size: 19px; }
+.hub-card p { margin: 0; color: var(--ink-2); font-size: 14px; }
+.hub-links { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+.hub-links a { border: 1px solid var(--line); padding: 6px 12px; border-radius: 999px; font-size: 14px; font-weight: 600; }
+.hub-links a:hover { border-color: var(--ink); text-decoration: none; }
+.hub-prose { font-size: 18px; }
+.hub-prose h2 { font-size: 22px; }
+.hub-wx { display: flex; flex-wrap: wrap; gap: 6px 24px; font-size: 15px; margin: 8px 0; }
+.faq details { border-bottom: 1px solid var(--line); padding: 10px 0; }
+.faq summary { color: var(--ink); font-size: 16px; font-family: var(--serif); font-weight: 600; }
+.faq details p { margin: 8px 0 0; color: var(--ink-2); }
+.narrow-box { max-width: 760px; }
+td.nowrap { white-space: nowrap; }
+.incidents td { font-size: 14px; }

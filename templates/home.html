@@ -83,6 +83,16 @@
     </aside>
   </div>
 
+  {% if hubs %}
+  <section class="section">
+    <h2 class="section-title"><a href="{{ url(lang ~ '/topics/') }}">{{ t.explore }}</a></h2>
+    <div class="hub-links">
+      {% for h in hubs %}<a href="{{ url(lang ~ '/topics/' ~ h.slug ~ '.html') }}">{{ h.versions[lang].title }}</a>{% endfor %}
+      <a href="{{ url(lang ~ '/incidents.html') }}">{{ t.incidents_short }}</a>
+    </div>
+  </section>
+  {% endif %}
+
   {% if ports %}
   <section class="section">
     <h2 class="section-title">{{ t.ports_title }}</h2>

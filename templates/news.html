@@ -1,7 +1,8 @@
 {% extends "base.html" %}
 {% import "_macros.html" as m with context %}
 {% set page_id = 'news' %}
-{% set title = t.all_news %}
+{% set title = t.seo_news_title %}
+{% set description = t.seo_news_desc %}
 {% block content %}
 <div class="wrap block">
   <h1 class="page-title">{{ t.all_news }}</h1>

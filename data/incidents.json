@@ -1,0 +1,29 @@
+{
+  "_comment": "Трекер інцидентів: підтверджені випадки атак на судна та порти. Заповнює редакція. Кожен запис: date (РРРР-ММ-ДД), vessel (назва судна або порт), type (attack/mine/drone_found/port), place (id місця з config/sources.json), description (en; ro і bg за бажанням, інакше перекладаються автоматично), source (назва + посилання).",
+  "incidents": [
+    {
+      "date": "2026-11-15",
+      "vessel": "Three merchant ships",
+      "type": "attack",
+      "place": "danube",
+      "description": {"en": "Romania's prime minister said drones struck three commercial ships near the Sulina canal; Romanian fighter jets were scrambled twice."},
+      "source": {"name": "Reuters via BusinessDay", "url": "https://www.businessday.co.za/world/europe/2026-11-15-three-more-merchant-ships-struck-by-drones-in-black-sea/"}
+    },
+    {
+      "date": "2026-10-28",
+      "vessel": "Contship Jet (container ship)",
+      "type": "attack",
+      "place": "varna",
+      "description": {"en": "Struck by three sea drones off the Bulgarian coast; crew members were evacuated to Varna."},
+      "source": {"name": "AP via The National Herald", "url": "https://www.thenationalherald.com/drones-strike-a-container-ship-off-bulgarias-black-sea-coast-and-its-crew-members-are-rescued/"}
+    },
+    {
+      "date": "2026-09-23",
+      "vessel": "Cargo ship (Antigua and Barbuda flag)",
+      "type": "attack",
+      "place": "odesa",
+      "description": {"en": "Hit while approaching Odesa; the Ukrainian master was killed."},
+      "source": {"name": "SAFETY4SEA / Ambrey", "url": "https://safety4sea.com/ambrey-whole-black-sea-now-a-contested-operating-environment/"}
+    }
+  ]
+}

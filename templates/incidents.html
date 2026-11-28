@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m with context %}
+{% set page_id = 'topics' %}
+{% set title = t.incidents_title %}
+{% set description = t.incidents_intro %}
+{% block meta_extra %}
+<script type="application/ld+json">{{ {
+  "@context": "https://schema.org", "@type": "Dataset", "name": t.incidents_title, "description": t.incidents_intro,
+  "inLanguage": lang, "url": cfg.base_url ~ "/" ~ lang ~ "/incidents.html", "dateModified": news_updated,
+  "creator": {"@id": cfg.base_url ~ "/#org"}, "isAccessibleForFree": true, "spatialCoverage": "Black Sea"
+}|tojson }}</script>
+{% endblock %}
+{% block content %}
+<div class="wrap block">
+  <div class="kicker"><a href="{{ url(lang ~ '/topics/') }}">{{ t.topics_title }}</a></div>
+  <h1 class="page-title">{{ t.incidents_title }}</h1>
+  <p class="lead narrow">{{ t.incidents_intro }}</p>
+  <div class="table-wrap">
+  <table class="ports-table incidents">
+    <thead><tr><th>{{ t.inc_date }}</th><th>{{ t.inc_vessel }}</th><th>{{ t.inc_place }}</th><th>{{ t.inc_what }}</th><th>{{ t.source }}</th></tr></thead>
+    <tbody>
+    {% for i in incidents %}
+      <tr><td class="nowrap">{{ i.date }}</td><td><b>{{ i.vessel }}</b></td><td>{{ place_names.get(i.place, i.place) }}</td>
+      <td>{{ i.description[lang] or i.description.en }}</td>
+      <td>{% if i.source.url %}<a href="{{ i.source.url }}" target="_blank" rel="noopener">{{ i.source.name }}</a>{% else %}{{ i.source.name }}{% endif %}</td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  </div>
+  <p class="note"><a href="mailto:{{ cfg.contact_email }}">{{ cfg.contact_email }}</a></p>
+  <section class="section">
+    <h2 class="section-title">{{ t.latest_attack_reports }}</h2>
+    <ul class="news-list">{% for n in news %}{{ m.news_item(n, t, lang, place_names) }}{% endfor %}</ul>
+    <a class="more-link" href="{{ url(lang ~ '/topics/attacks-on-ships.html') }}">{{ hubs[0].versions[lang].title }} →</a>
+  </section>
+</div>
+{% endblock %}

@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% set page_id = 'topics' %}
+{% set title = t.topics_title %}
+{% set description = t.topics_intro %}
+{% block content %}
+<div class="wrap block">
+  <h1 class="page-title">{{ t.topics_title }}</h1>
+  <p class="lead narrow">{{ t.topics_intro }}</p>
+  {% for grp, label in [('topic', t.topics_group), ('port', t.ports_group)] %}
+  <section class="section">
+    <h2 class="section-title">{{ label }}</h2>
+    <div class="hub-grid">
+      {% for h in hubs if h.group == grp %}{% set hv = h.versions[lang] %}
+      <a class="hub-card" href="{{ url(lang ~ '/topics/' ~ h.slug ~ '.html') }}"><h3>{{ hv.title }}</h3><p>{{ hv.summary }}</p></a>
+      {% endfor %}
+      {% if grp == 'topic' %}<a class="hub-card" href="{{ url(lang ~ '/incidents.html') }}"><h3>{{ t.incidents_short }}</h3><p>{{ t.incidents_intro|truncate(140) }}</p></a>{% endif %}
+    </div>
+  </section>
+  {% endfor %}
+</div>
+{% endblock %}

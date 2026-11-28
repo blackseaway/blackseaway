@@ -116,6 +116,78 @@ def load_posts(cfg: dict) -> list[dict]:
     return posts
 
 
+class _Tr:
+    """Lazy shared DeepL translator with the cache in data/post_translations.json."""
+    def __init__(self):
+        self.cache = load_json(POST_TR_FILE, {}) or {}
+        self.tr = None
+        self.dirty = False
+
+    def get(self, key: str, src: str, lang: str, texts: list[str], html_text: str | None = None):
+        digest = hashlib.sha1(json.dumps([texts, html_text], sort_keys=True).encode()).hexdigest()[:16]
+        c = self.cache.get(key)
+        if c and c.get("hash") == digest:
+            return c["texts"], c.get("html")
+        if OFFLINE:
+            return None
+        if self.tr is None:
+            from translate import Translator
+            self.tr = Translator()
+        res = self.tr.translate([t or " " for t in texts], lang, src)
+        res_html = self.tr.translate([html_text], lang, src, html=True) if (res and html_text) else [None]
+        if not res or res_html is None:
+            return None
+        self.cache[key] = {"hash": digest, "texts": [r.strip() for r in res], "html": res_html[0]}
+        self.dirty = True
+        return self.cache[key]["texts"], res_html[0]
+
+    def save(self):
+        if self.tr is not None:
+            self.tr.save()
+        if self.dirty:
+            save_json(POST_TR_FILE, self.cache)
+
+
+def load_hubs(cfg: dict, tr: _Tr) -> list[dict]:
+    """Topic and port pages from content/topics/*.md (English, translated automatically)."""
+    hubs = []
+    for f in sorted((CONTENT / "topics").glob("*.md")):
+        meta, body = read_md(f)
+        faq = meta.get("faq") or []
+        texts = [str(meta.get("title", f.stem)), str(meta.get("summary", ""))] \
+            + [q["q"] for q in faq] + [q["a"] for q in faq]
+        html_en = md_to_html(body)
+        hub = {"slug": f.stem, "group": meta.get("group", "topic"), "order": meta.get("order", 99),
+               "topics": meta.get("topics") or [], "places": meta.get("places") or [],
+               "port": meta.get("port"), "versions": {}}
+        n = len(faq)
+        for lang in cfg["languages"]:
+            got = (texts, html_en) if lang == "en" else tr.get(f"hub:{f.stem}:{lang}", "en", lang, texts, html_en)
+            auto = lang != "en" and got is not None
+            t, h = got or (texts, html_en)
+            hub["versions"][lang] = {"title": t[0], "summary": t[1], "html": h, "auto": auto,
+                                     "untranslated": got is None,
+                                     "faq": [{"q": t[2 + k], "a": t[2 + n + k]} for k in range(n)]}
+        hubs.append(hub)
+    hubs.sort(key=lambda h: (h["group"] != "topic", h["order"]))
+    return hubs
+
+
+def load_incidents(cfg: dict, tr: _Tr) -> list[dict]:
+    data = (load_json(DATA / "incidents.json", {}) or {}).get("incidents", [])
+    out = []
+    for inc in sorted(data, key=lambda i: i.get("date", ""), reverse=True):
+        desc = dict(inc.get("description") or {})
+        for lang in cfg["languages"]:
+            if not desc.get(lang) and desc.get("en"):
+                key = "inc:" + hashlib.sha1((inc.get("date", "") + inc.get("vessel", "")).encode()).hexdigest()[:10] + ":" + lang
+                got = tr.get(key, "en", lang, [desc["en"]])
+                if got:
+                    desc[lang] = got[0][0]
+        out.append(dict(inc, description=desc))
+    return out
+
+
 def load_page(name: str, lang: str) -> dict:
     p = CONTENT / "pages" / f"{name}.{lang}.md"
     if not p.exists():
@@ -264,6 +336,13 @@ def make_env(cfg, i18n):
     env.filters["pct"] = lambda v: f"{round(v * 100)}%"
     env.filters["compass"] = compass
 
+    def faq_ld(faq):
+        data = {"@context": "https://schema.org", "@type": "FAQPage",
+                "mainEntity": [{"@type": "Question", "name": f["q"],
+                                "acceptedAnswer": {"@type": "Answer", "text": f["a"]}} for f in faq]}
+        return json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
+    env.globals["faq_ld"] = faq_ld
+
     def short_dt(value, lang):
         d = parse_iso(value) if isinstance(value, str) else value
         return f"{d.day} {i18n[lang]['months'][d.month - 1]}, {d.strftime('%H:%M')}"
@@ -374,6 +453,10 @@ def build():
         items = [i for i in items if i["url"] != pin_ext["url"]]
     localize_images(items + ([pin_ext] if pin_ext else []))
     posts = load_posts(cfg)
+    hub_tr = _Tr()
+    hubs = load_hubs(cfg, hub_tr)
+    incidents = load_incidents(cfg, hub_tr)
+    hub_tr.save()
     stats = compute_stats(items, sources)
     ports = compute_ports(items, ports_cfg, weather)
     counters = compute_counters(items)
@@ -415,7 +498,7 @@ def build():
                sections=[{"key": sct["key"], "items": view(sct["items"])} for sct in hl["sections"]], posts=[p for p in posts][:3],
                indicators=[indicator_view(i, lang) for i in indicators][:4], stats=stats,
                ports=[dict(p, latest=[news_view(i, lang) for i in p["latest"]]) for p in ports],
-               counters=counters, safety=safety, weather=weather, **common_ctx)
+               counters=counters, safety=safety, weather=weather, hubs=hubs, **common_ctx)
         render("news.html", "news.html", lang, news=nv, topics=list(sources["topics"].keys()), **common_ctx)
         render("contact.html", "contact.html", lang, **common_ctx)
         render("thanks.html", "thanks.html", lang, **common_ctx)
@@ -427,16 +510,27 @@ def build():
                    related=[r for r in posts if r["slug"] != p["slug"]][:4],
                    og_image=(f"{cfg['base_url']}/{p['image']}" if p.get("image") else None), **common_ctx)
         render("page.html", "about.html", lang, page=load_page("about", lang), **common_ctx)
+        render("topics.html", "topics/index.html", lang, hubs=hubs, **common_ctx)
+        ports_by_id = {p["id"]: p for p in ports}
+        for h in hubs:
+            rel = [i for i in items if set(i["topics"]) & set(h["topics"]) or set(i["places"]) & set(h["places"])]
+            render("topic.html", f"topics/{h['slug']}.html", lang, hub=h, v=h["versions"][lang],
+                   news=[news_view(i, lang) for i in rel[:20]], port=ports_by_id.get(h.get("port")),
+                   others=[o for o in hubs if o["slug"] != h["slug"]], **common_ctx)
+        render("incidents.html", "incidents.html", lang, incidents=incidents,
+               news=[news_view(i, lang) for i in items if "attacks" in i["topics"]][:15], hubs=hubs, **common_ctx)
 
     # root: language redirect + 404
     write(OUT / "index.html", env.get_template("root_index.html").render(t=i18n["en"], lang="en", path=""))
     write(OUT / "404.html", env.get_template("404.html").render(t=i18n["en"], lang="en", path=""))
     write(OUT / "robots.txt", f"User-agent: *\nAllow: /\nDisallow: /*/thanks.html\n"
                               f"Sitemap: {cfg['base_url']}/sitemap.xml\nSitemap: {cfg['base_url']}/news-sitemap.xml\n")
-    write(OUT / "sitemap.xml", sitemap_xml(cfg, posts, news.get("updated")))
+    extra_pages = [("topics/", news.get("updated"), "daily", "0.8"), ("incidents.html", news.get("updated"), "daily", "0.8")]
+    extra_pages += [(f"topics/{h['slug']}.html", news.get("updated"), "hourly", "0.9") for h in hubs]
+    write(OUT / "sitemap.xml", sitemap_xml(cfg, posts, news.get("updated"), extra=extra_pages))
     write(OUT / "news-sitemap.xml", news_sitemap_xml(cfg, posts))
     for lang in cfg["languages"]:  # per-language copies for Search Console properties like /en/
-        write(OUT / lang / "sitemap.xml", sitemap_xml(cfg, posts, news.get("updated"), only=lang))
+        write(OUT / lang / "sitemap.xml", sitemap_xml(cfg, posts, news.get("updated"), only=lang, extra=extra_pages))
         write(OUT / lang / "news-sitemap.xml", news_sitemap_xml(cfg, posts, only=lang))
     for lang in cfg["languages"]:
         write(OUT / f"feed-{lang}.xml", rss_feed(cfg, posts, items, lang))
@@ -471,7 +565,7 @@ def rss_feed(cfg, posts, items, lang="en") -> str:
             f"{body}</channel></rss>\n")
 
 
-def sitemap_xml(cfg, posts, news_updated, only=None) -> str:
+def sitemap_xml(cfg, posts, news_updated, only=None, extra=None) -> str:
     """All pages in all languages, with hreflang alternates and last-modified dates."""
     base, langs = cfg["base_url"], cfg["languages"]
     now = news_updated or iso(now_utc())
@@ -479,6 +573,7 @@ def sitemap_xml(cfg, posts, news_updated, only=None) -> str:
              ("stats.html", now, "daily", "0.7"), ("articles/", now, "daily", "0.8"),
              ("about.html", None, "monthly", "0.4"), ("contact.html", None, "yearly", "0.3")]
     pages += [(f"articles/{p['slug']}.html", p["modified"], "weekly", "0.8") for p in posts]
+    pages += extra or []
     out = []
     for path, lastmod, freq, prio in pages:
         alts = "".join(f'<xhtml:link rel="alternate" hreflang="{l}" href="{base}/{l}/{path}"/>' for l in langs)
