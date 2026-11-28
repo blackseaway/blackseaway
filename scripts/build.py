@@ -383,6 +383,13 @@ def build():
     OUT.mkdir()
     shutil.copytree(ROOT / "assets", OUT / "assets", ignore=shutil.ignore_patterns("fonts"))
     write(OUT / ".nojekyll", "")
+    # site-verification files (Google Search Console etc.): served from the root and from each language folder
+    for f in (ROOT / "static").glob("*"):
+        if f.is_file():
+            shutil.copy2(f, OUT / f.name)
+            for lang in cfg["languages"]:
+                (OUT / lang).mkdir(exist_ok=True)
+                shutil.copy2(f, OUT / lang / f.name)
     if MEDIA.exists():
         shutil.copytree(MEDIA, OUT / "media")
     og_card(OUT / "assets" / "og-default.png", cfg["name"], i18n["en"]["tagline"])
