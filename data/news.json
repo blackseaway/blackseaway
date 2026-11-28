@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T10:00:46Z",
+ "updated": "2026-11-28T11:02:21Z",
  "items": [
   {
    "id": "113ea33a17e3",
@@ -74,6 +74,32 @@
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPV2UydUpBWHhVZERJU0dlWi0tQnFyWHBjb1dwY2pnMUxtNHA4OEpINHE0SzZGSWFkWmJ4Z3I5b0V1Q3JBYlVXV0Iya2xncWN5R01YOVpTT0puM1VabFdkSEpUVUYydFhvYUdPb3phQm5CcmprU3FoWXN6QUNTN2JJR2NfN2otWXdqT3lBWTZQcmdELS1KV01tZDRDTWNsNS1iS3NpTExYSlV3dTlLUlBQTlZCRENIalVjLVhPQTl4U3NDNzFSNkY4aVMzWEdmX0laLUNyam03NWRtVTJQcHJjWVp4NDg?oc=5"
     }
    ],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "62a8ece22eb5",
+   "lang": "bg",
+   "title": "Министърът на туризма не се притеснява от дроновете в Черно море: Европейците вдигнаха прага си ...",
+   "titles": {
+    "bg": "Министърът на туризма не се притеснява от дроновете в Черно море: Европейците вдигнаха прага си ...",
+    "en": "The Minister for Tourism is not concerned about drones in the Black Sea: Europeans have raised their tolerance threshold...",
+    "ro": "Ministrul turismului nu este îngrijorat de prezența dronelor în Marea Neagră: europenii și-au ridicat pragul..."
+   },
+   "summary": "Министърът на туризма Илин Димитров не се притеснява от зачестилите атаки с дронове срещу кораби в Черно море. Според него инцидентите ще продължат, но ...",
+   "url": "https://boulevardbulgaria.bg/articles/ministarat-na-turizma-ne-se-pritesnyava-ot-dronovete-v-cherno-more-evropeytsite-vdignaha-praga-si-na-tarpimost",
+   "source": "Булевард България",
+   "published": "2026-11-28T00:24:00Z",
+   "fetched": "2026-11-28T10:56:43Z",
+   "image": "https://boulevardbulgaria.bg/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgzMTQxLCJwdXIiOiJibG9iX2lkIn19--f04874677c7a3a606eb6301667fe02a08f148e4d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzEyMDAsNjMwXSwic2F2ZXIiOnsicXVhbGl0eSI6MTAwfSwiY29tcG9zaXRlIjpbIi9hcHAvcHVibGljL2ZiLWxvZ28tdGlueS5wbmciLHsiZ3Jhdml0eSI6Ik5vcnRoV2VzdCJ9XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--3150ae6f01f1c856040c655b54666433bcc678f1/%D0%98%D0%BB%D0%B8%D0%BD%20%D0%94%D0%B8%D0%BC%D0%B8%D1%82%D1%80%D0%BE%D0%B2.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.em3BOFGmQNFyKkLylGadxg&pid=News",
+   "topics": [
+    "policy",
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
    "img_tried": true,
    "img_checked": true
   },
@@ -258,35 +284,6 @@
    "img_checked": true
   },
   {
-   "id": "11b637cc68fc",
-   "lang": "en",
-   "title": "Shipping disruptions in the Black Sea push European wheat prices to their highest levels in a month",
-   "titles": {
-    "en": "Shipping disruptions in the Black Sea push European wheat prices to their highest levels in a month"
-   },
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTDRDSldDUDR0YkY4MlhlLVpmX2pzaENDbnk4TmNGRU5hSk13cVZzaEYwcmxGdzVpTkxNTHAwUDdiLVVadmdCU3VqX2ZYMjhkQmNtV2k3Z0FXc0UxbGxaSHJ2MlB3TjF1S29JWWdtWWhiemRaZ2lPSmUzMzJxMmx6ekV1VVZTa29Ta3N6OThZUDcxdFdYeFRMYjBvZzB0Q0xUNjd2ODZDVi02eXFoZEhrc19nWEczMERSZ0thelNIMmQ1T1lyWTJRSGhqak9MVjZVNWRCYmE3dFhrU0g3blNrSDh6WFJLQQ?oc=5",
-   "source": "صوت الإمارات",
-   "published": "2026-11-27T16:17:47Z",
-   "fetched": "2026-11-28T09:58:01Z",
-   "image": "",
-   "fallback_image": "",
-   "topics": [
-    "policy",
-    "shipping",
-    "grain",
-    "prices"
-   ],
-   "places": [],
-   "also": [
-    {
-     "source": "وكالة سبأ",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmX19qc2V5cTNEb2lneUpPOW1jMkZ2WFpNVFQ1UUM5U2ozNUpBUnFTS3dVYTVfLXRvMW9OQmc5alpLR1BNTnNEcDI3ZkpwN2c5VDBtZUdaNGI?oc=5"
-    }
-   ],
-   "img_checked": true
-  },
-  {
    "id": "7b31c89985d9",
    "lang": "en",
    "title": "Russia seeks to bring oil shipments under proposed Black Sea ceasefire",
@@ -365,6 +362,40 @@
    "img_checked": true
   },
   {
+   "id": "4d9c23d3bc00",
+   "lang": "en",
+   "title": "European wheat prices hit one-month high amid Black Sea shipping disruptions",
+   "titles": {
+    "en": "European wheat prices hit one-month high amid Black Sea shipping disruptions"
+   },
+   "summary": "European wheat futures climbed to their highest levels in a month on Friday as disruptions to Black Sea grain shipments amid the ...",
+   "url": "https://sana.sy/en/economic/2362458/",
+   "source": "Syrian Arab News Agency",
+   "published": "2026-11-27T15:01:00Z",
+   "fetched": "2026-11-28T10:56:43Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "policy",
+    "shipping",
+    "grain",
+    "prices"
+   ],
+   "places": [],
+   "also": [
+    {
+     "source": "صوت الإمارات",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTDRDSldDUDR0YkY4MlhlLVpmX2pzaENDbnk4TmNGRU5hSk13cVZzaEYwcmxGdzVpTkxNTHAwUDdiLVVadmdCU3VqX2ZYMjhkQmNtV2k3Z0FXc0UxbGxaSHJ2MlB3TjF1S29JWWdtWWhiemRaZ2lPSmUzMzJxMmx6ekV1VVZTa29Ta3N6OThZUDcxdFdYeFRMYjBvZzB0Q0xUNjd2ODZDVi02eXFoZEhrc19nWEczMERSZ0thelNIMmQ1T1lyWTJRSGhqak9MVjZVNWRCYmE3dFhrU0g3blNrSDh6WFJLQQ?oc=5"
+    },
+    {
+     "source": "وكالة سبأ",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmX19qc2V5cTNEb2lneUpPOW1jMkZ2WFpNVFQ1UUM5U2ozNUpBUnFTS3dVYTVfLXRvMW9OQmc5alpLR1BNTnNEcDI3ZkpwN2c5VDBtZUdaNGI?oc=5"
+    }
+   ],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "4a0343c6229f",
    "lang": "ro",
    "title": "Tribunalul Constanța a deschis procedura generală a insolvenței împotriva HGM Port Logistics SRL, la cererea Euro River Transport SRL și Exim Banca Românească",
@@ -388,6 +419,30 @@
     "constanta"
    ],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "6f56936818a3",
+   "lang": "ro",
+   "title": "Gabriel Oprea: „România are nevoie urgentă de un scut de protecție: pace și libertate navigație în Marea Neagră”",
+   "titles": {
+    "ro": "Gabriel Oprea: „România are nevoie urgentă de un scut de protecție: pace și libertate navigație în Marea Neagră”",
+    "en": "Gabriel Oprea: “Romania urgently needs a protective shield: peace and freedom of navigation in the Black Sea”",
+    "bg": "Габриел Опреа: „Румъния се нуждае спешно от защитен щит: мир и свобода на корабоплаването в Черно море“"
+   },
+   "summary": "Președintele PPMP, general (r.) Gabriel Oprea, face cinci recomandări pentru un climat de pace în regiunea Mării Negre.",
+   "url": "https://www.stiripesurse.ro/gabriel-oprea-romania-are-nevoie-urgenta-de-un-scut-de-protectie-pace-si-libertate-navigatie-in-marea-neagra_3940617",
+   "source": "Stiri pe surse",
+   "published": "2026-11-27T14:08:00Z",
+   "fetched": "2026-11-28T10:56:43Z",
+   "image": "https://www.stiripesurse.ro/media/images/202610/og_1600x900/gabriel-oprea_G7f6X.jpg",
+   "fallback_image": "",
+   "topics": [
+    "policy"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -879,6 +934,10 @@
     {
      "source": "TradeWinds News",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSTVqNlFsUjlkUjJFZHdIa0ZPbG5wMWZHT21jeml3VGtMOXEzdGdFUUZyaEVadWxaOFI3S2FwVVYwUktrVTlDYm9ZRjFfU0ZoLUo3M0p5elB2bmRvTDZYQ0RtVVBuSHcwa0M0WFY0c2FTdWlOcjkzbGt5ZVA4eXVMUjNwUHdHUWJzempzMWFpeG9tNFI0M1RSRmoxTWJSRWtpM2c4SjB5dENvYmJXeFRxNGlDUGdkUm95YjhzUmh4VzNvZWNN?oc=5"
+    },
+    {
+     "source": "Marine Insight",
+     "url": "https://www.marineinsight.com/russia-strikes-grain-ships-near-odesa-gladiator-virtuous-striker-attack-odesa-gr/"
     }
    ],
    "img_tried": true,
@@ -1107,6 +1166,10 @@
     {
      "source": "news.laodong",
      "url": "https://news.laodong.vn/the-gioi/ukraina-de-xuat-ngung-ban-o-bien-den-cho-phan-hoi-tu-nga-1807956.ldo"
+    },
+    {
+     "source": "Tempo.co English",
+     "url": "https://en.tempo.co/read/2124597/ukraine-awaits-russias-response-to-black-sea-ceasefire-proposal"
     }
    ],
    "img_tried": true,
@@ -5414,7 +5477,9 @@
    "lang": "bg",
    "title": "САЩ: Русия удари корабите в Черно море",
    "titles": {
-    "bg": "САЩ: Русия удари корабите в Черно море"
+    "bg": "САЩ: Русия удари корабите в Черно море",
+    "en": "US: Russia struck ships in the Black Sea",
+    "ro": "SUA: Rusia a atacat navele din Marea Neagră"
    },
    "summary": "За САЩ няма никакво съмнение, че Русия е ударила търговските кораби в Черно море. Това стана ясно от изявления на постоянния представител на САЩ в НАТО - посланик Матю Уитакър, който изненадващо се ...",
    "url": "https://www.segabg.com/hot/category-bulgaria/sasht-rusiya-udari-korabite-cherno-more",
@@ -5438,7 +5503,9 @@
    "lang": "en",
    "title": "India Urges UN to Protect Black Sea Grain Routes and Seafarers",
    "titles": {
-    "en": "India Urges UN to Protect Black Sea Grain Routes and Seafarers"
+    "en": "India Urges UN to Protect Black Sea Grain Routes and Seafarers",
+    "ro": "India îndeamnă ONU să protejeze rutele de transport al cerealelor din Marea Neagră și pe marinari",
+    "bg": "Индия призовава ООН да защити маршрутите за превоз на зърно през Черно море и моряците"
    },
    "summary": "India urged the United Nations Security Council on November 23 to protect Black Sea grain routes and end attacks on commercial vessels, warning that disruptions to food, fuel, and fertilizer ...",
    "url": "https://southasianherald.com/india-urges-un-to-protect-black-sea-grain-routes-and-seafarers/",
@@ -10563,58 +10630,6 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
-  },
-  {
-   "id": "403d122378d6",
-   "lang": "en",
-   "title": "Over 300 attacks, more than 30 seafarer deaths and disrupted trade: How the Black Sea is becoming a major maritime danger zone",
-   "titles": {
-    "en": "Over 300 attacks, more than 30 seafarer deaths and disrupted trade: How the Black Sea is becoming a major maritime danger zone"
-   },
-   "summary": "Over 300 attacks in the Black Sea have killed more than 30 seafarers this year, disrupted commercial shipping and heightened security concerns for NATO ...",
-   "url": "https://www.wionews.com/world/over-300-attacks-more-than-30-seafarer-deaths-and-disrupted-trade-how-the-black-sea-is-becoming-a-major-maritime-danger-zone-1794482234631",
-   "source": "WION",
-   "published": "2026-11-16T14:31:00Z",
-   "fetched": "2026-11-26T09:27:09Z",
-   "image": "",
-   "fallback_image": "",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "also": [],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
-   "id": "9a742634fcf9",
-   "lang": "ro",
-   "title": "Observator » Evenimente » O navă lovită de drone ruseşti a eşuat pe plaja de la Vadu. România cere protecţie NATO în Marea Neagră",
-   "titles": {
-    "ro": "Observator » Evenimente » O navă lovită de drone ruseşti a eşuat pe plaja de la Vadu. România cere protecţie NATO în Marea Neagră"
-   },
-   "summary": "O navă de 100 de metri lungime a eşuat astăzi pe o plajă din apropiere de Mamaia după ce a fost lovită de drone. Este primul vas care ajunge pe ţărmul românesc de la începerea războiului. Pentru că Ma ...",
-   "url": "https://observatornews.ro/eveniment/o-nava-lovita-de-drone-rusesti-a-esuat-pe-plaja-de-la-vadu-romania-cere-protectie-nato-in-marea-neagra-672523.html",
-   "source": "Observator News",
-   "published": "2026-11-16T14:06:00Z",
-   "fetched": "2026-11-26T06:09:03Z",
-   "image": "https://cdn.adh.reperio.news/image-b/b2f30cbd-6edd-43fe-8008-303c3c990817/index.png?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.GKq-J8CfoLgAeSAmqZ6x_g&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping"
-   ],
-   "places": [],
-   "also": [
-    {
-     "source": "Click!",
-     "url": "https://click.ro/actualitate/national/nava-lovita-de-drone-rusesti-esuata-pe-plaja-de-2572064.html"
-    }
-   ],
-   "img_checked": true
   }
  ]
 }
