@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T06:09:32Z",
+ "updated": "2026-11-28T07:12:56Z",
  "items": [
   {
    "id": "b147cd890c45",
@@ -1089,7 +1089,9 @@
    "lang": "en",
    "title": "EU wheat extends gains on Black Sea disruption",
    "titles": {
-    "en": "EU wheat extends gains on Black Sea disruption"
+    "en": "EU wheat extends gains on Black Sea disruption",
+    "ro": "Prețul grâului din UE își continuă creșterea pe fondul perturbărilor din regiunea Mării Negre",
+    "bg": "Цената на пшеницата в ЕС продължава да се покачва на фона на прекъсванията в доставките от Черно море"
    },
    "summary": "PARIS: Euronext wheat prices climbed to one-month highs on Friday as ongoing war disruption to Black Sea trade maintained expectations of strong demand for European Union supplies. Gains on broader ...",
    "url": "https://www.arabnews.com/world/eu-wheat-extends-gains-on-black-sea-disruption-3014261",
@@ -1163,7 +1165,9 @@
    "lang": "ro",
    "title": "Compania Națională Administrația Porturilor Maritime SA Constanța oferă spre închiriere în Portul Constanța un spațiu administrativ",
    "titles": {
-    "ro": "Compania Națională Administrația Porturilor Maritime SA Constanța oferă spre închiriere în Portul Constanța un spațiu administrativ"
+    "ro": "Compania Națională Administrația Porturilor Maritime SA Constanța oferă spre închiriere în Portul Constanța un spațiu administrativ",
+    "en": "The National Maritime Ports Administration Company SA, Constanța, is offering an office space for rent in the Port of Constanța",
+    "bg": "Националната компания „Администрация на морските пристанища“ АД Констанца предлага под наем административни помещения в пристанището на Констанца"
    },
    "summary": "Compania Nationala Administratia Porturilor Maritime SA Constanta, adresa postala Incinta Port Constanta, Gara Maritima, Cod postal 900900, Romania, RC J1998002308138 EUID ...",
    "url": "https://www.ziuaconstanta.ro/informatii/anunturi-speciale/compania-nationala-administratia-porturilor-maritime-sa-constanta-ofera-spre-inchiriere-in-portul-constanta-un-spatiu-administrativ-961970.html",
@@ -10207,6 +10211,10 @@
     {
      "source": "Newsweek Romania",
      "url": "https://newsweek.ro/actualitate/alerta-pe-marea-neagra-o-nava-cu-propan-care-se-indrepta-spre-navodari-s-a-scufundat-dupa-un-atac-cu-drone"
+    },
+    {
+     "source": "Cuget Liber",
+     "url": "https://cugetliber.ro/stiri-eveniment-un-nou-atac-in-marea-neagra-petrolier-care-se-indrepta-spre-portul-midia-ar-fi-fost-lovit-de-drone-in-apropierea-bulgariei-570095"
     }
    ],
    "img_checked": true
