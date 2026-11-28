@@ -459,7 +459,8 @@ def translate_missing(items: list[dict], langs: list[str], per_run: int) -> int:
     if tr.disabled_reason:
         print(f"[deepl] translation skipped: {tr.disabled_reason}")
         return 0
-    todo = [i for i in sorted(items, key=lambda i: i["published"], reverse=True)
+    # stories with pictures go to the featured block and sections, so translate them first
+    todo = [i for i in sorted(items, key=lambda i: (bool(i.get("image")), i["published"]), reverse=True)
             if any(lang not in i["titles"] for lang in langs)][:per_run]
     done = 0
     for target in langs:
