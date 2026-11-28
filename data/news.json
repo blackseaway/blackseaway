@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-28T15:57:18Z",
+ "updated": "2026-11-28T16:59:17Z",
  "items": [
+  {
+   "id": "2160b81672b4",
+   "lang": "en",
+   "title": "Russia says it struck Kyiv power infrastructure and a military cargo ship in Black Sea",
+   "titles": {
+    "en": "Russia says it struck Kyiv power infrastructure and a military cargo ship in Black Sea"
+   },
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ3p6RHJka3FQYlF4NzhFaTM4TlNUTWJWd1FOdVlESGhiWkZIQ1AzR2JKLU4xMEhKVlVtZC1OQUpZRUxEQkRLSXZoMEFCM1FNZE1UVm42WmJsSEF4aHVfVFp3eEVTWGwzMkY2VGFzdlJ3dEpXQUZUOU4zN0NSZTNwc0xfSzJWV2V3NS1Bb2RJb0lFSFJBLXNGSFdORmY0M3NVN2NuZUxzX0RublR5b0hBbWRVWnFmSmQxZTVBU1RIT2lqY3dqSUloSjhxak9wREowSnFIc3o1c3dJeDhR?oc=5",
+   "source": "Business Upturn",
+   "published": "2026-11-28T16:35:55Z",
+   "fetched": "2026-11-28T16:56:27Z",
+   "image": "",
+   "fallback_image": "",
+   "topics": [
+    "attacks",
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_checked": true
+  },
   {
    "id": "a61ed5e55a2b",
    "lang": "en",
@@ -350,6 +372,31 @@
    "img_checked": true
   },
   {
+   "id": "9f435d476f03",
+   "lang": "bg",
+   "title": "Ненчев: Напрежението в Черно море ще ескалира",
+   "titles": {
+    "bg": "Ненчев: Напрежението в Черно море ще ескалира",
+    "en": "Nenchev: Tensions in the Black Sea will escalate",
+    "ro": "Nenchev: Tensiunile din Marea Neagră se vor intensifica"
+   },
+   "summary": "Бившият министър на отбраната призова България да преосмисли стратегията си за национална сигурност и да засили готовността си за реакция при заплахи от дронове ...",
+   "url": "https://fakti.bg/bulgaria/1105598-nenchev-naprejenieto-v-cherno-more-shte-eskalira",
+   "source": "ФАКТИ.БГ",
+   "published": "2026-11-27T20:27:00Z",
+   "fetched": "2026-11-28T16:56:27Z",
+   "image": "https://cdn4.focus.bg/fakti/photos/fb/a39/nenchev-naprejenieto-v-cherno-more-shte-eskalira-1.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.RT7XzDltqCkEJm2w4aT-2g&pid=News",
+   "topics": [
+    "policy",
+    "attacks"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "321804209316",
    "lang": "bg",
    "title": "Николай Ненчев: Редица европейски държави назоваха чий са дроновете в Черно море",
@@ -367,6 +414,31 @@
    "fallback_image": "http://www.bing.com/th?id=ONUT.jU8PENpI40PeNtfSgUzlFw&pid=News",
    "topics": [
     "attacks"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "b7e7ff195fb8",
+   "lang": "en",
+   "title": "French Mirages Conducted a Reconnaissance Mission over the Black Sea",
+   "titles": {
+    "en": "French Mirages Conducted a Reconnaissance Mission over the Black Sea",
+    "ro": "Avioanele Mirage franceze au efectuat o misiune de recunoaștere deasupra Mării Negre",
+    "bg": "Френски изтребители „Мираж“ проведоха разузнавателна мисия над Черно море"
+   },
+   "summary": "Two fighter jets were supported by a tanker aircraft, while a NATO aircraft monitored the airspace over Romania ...",
+   "url": "https://fakti.bg/en/bulgaria/1105579-french-mirages-conducted-a-reconnaissance-mission-over-the-black-sea",
+   "source": "Fakti.bg",
+   "published": "2026-11-27T19:09:00Z",
+   "fetched": "2026-11-28T16:56:27Z",
+   "image": "https://www.bing.com/th?id=ONUT.UqOe-NdTE8l2zbTqpjOheA&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.UqOe-NdTE8l2zbTqpjOheA&pid=News",
+   "topics": [
+    "policy",
+    "energy"
    ],
    "places": [],
    "also": [],
@@ -444,34 +516,6 @@
    ],
    "places": [],
    "also": [],
-   "img_checked": true
-  },
-  {
-   "id": "b75fb5d570a4",
-   "lang": "bg",
-   "title": "Ambrey: Намаляват плаванията към българските пристанища",
-   "titles": {
-    "bg": "Ambrey: Намаляват плаванията към българските пристанища",
-    "en": "Ambrey: The number of sailings to Bulgarian ports is falling",
-    "ro": "Ambrey: Se reduc numărul de curse către porturile bulgare"
-   },
-   "summary": "Рискът в западната част на Черно море кара корабособственици и екипажи да преосмислят курсовете до Варна и Бургас. Отделна статистика за спада само в българските пристанища засега не е публикувана ...",
-   "url": "https://fakti.bg/bulgaria/1105531-ambrey-namalavat-plavaniata-kam-balgarskite-pristanishta",
-   "source": "ФАКТИ.БГ",
-   "published": "2026-11-27T17:01:00Z",
-   "fetched": "2026-11-28T14:11:36Z",
-   "image": "https://cdn4.focus.bg/fakti/photos/fb/1d8/ambrey-namalavat-plavaniata-kam-balgarskite-pristanishta-1.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.e6GSfQ1JyJknnfTHEJjJfQ&pid=News",
-   "topics": [
-    "shipping",
-    "ports"
-   ],
-   "places": [
-    "varna",
-    "burgas"
-   ],
-   "also": [],
-   "img_tried": true,
    "img_checked": true
   },
   {
@@ -605,6 +649,36 @@
    "img_checked": true
   },
   {
+   "id": "82f5cbb85852",
+   "lang": "bg",
+   "title": "Компания за сигурност на морепаването: Намаляват плаванията към български пристанища",
+   "titles": {
+    "bg": "Компания за сигурност на морепаването: Намаляват плаванията към български пристанища",
+    "en": "Maritime security company: Number of sailings to Bulgarian ports is falling",
+    "ro": "Companie de securitate maritimă: Se reduc cursele către porturile bulgare"
+   },
+   "summary": "Новинарски сайт за всичко случващо се във Варна и цяла България. Политика, световни новини, наука, спорт, хороскопи, криминални.",
+   "url": "https://dnesplus.bg/bulgaria/kompania-za-sigurnost-na-morepavaneto-namalyavat-plavaniyata-kam-balgarski-pristanishta_1241198",
+   "source": "dnesplus",
+   "published": "2026-11-27T16:00:00Z",
+   "fetched": "2026-11-28T16:56:27Z",
+   "image": "https://cdn4.focus.bg/fakti/photos/fb/1d8/ambrey-namalavat-plavaniata-kam-balgarskite-pristanishta-1.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.yLGWoEPCZR3WBi7O0r8gfA&pid=News",
+   "topics": [
+    "ports"
+   ],
+   "places": [
+    "varna"
+   ],
+   "also": [
+    {
+     "source": "ФАКТИ.БГ",
+     "url": "https://fakti.bg/bulgaria/1105531-ambrey-namalavat-plavaniata-kam-balgarskite-pristanishta"
+    }
+   ],
+   "img_checked": true
+  },
+  {
    "id": "4d9c23d3bc00",
    "lang": "en",
    "title": "European wheat prices hit one-month high amid Black Sea shipping disruptions",
@@ -684,7 +758,12 @@
     "policy"
    ],
    "places": [],
-   "also": [],
+   "also": [
+    {
+     "source": "albapesurse",
+     "url": "https://www.albapesurse.ro/gabriel-oprea-protectie-urgenta-pentru-romania-la-marea-neagra/28/11/2026/129621/"
+    }
+   ],
    "img_tried": true,
    "img_checked": true
   },
@@ -6499,7 +6578,9 @@
    "lang": "bg",
    "title": "Международният форум за договаряне удължи рисковите зони за корабоплаването в Черно море",
    "titles": {
-    "bg": "Международният форум за договаряне удължи рисковите зони за корабоплаването в Черно море"
+    "bg": "Международният форум за договаряне удължи рисковите зони за корабоплаването в Черно море",
+    "en": "The International Maritime Organisation has extended the high-risk areas for shipping in the Black Sea",
+    "ro": "Forumul internațional de negociere a prelungit zonele de risc pentru navigația pe Marea Neagră"
    },
    "summary": "Международният форум за колективно договаряне (IBF) удължи до 3 декември 2026 г. действието на списъка с определените рискови зони за корабоплаването. Сред тях е и Черно море. Решението е взето на 18 ...",
    "url": "https://www.24chasa.bg/biznes/article/23979233",
@@ -10568,78 +10649,6 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
-  },
-  {
-   "id": "8433e6fc7ce5",
-   "lang": "ro",
-   "title": "Ministrul Apărării, despre atacurile cu drone din Marea Neagră: „Este o amenințare care crește“",
-   "titles": {
-    "ro": "Ministrul Apărării, despre atacurile cu drone din Marea Neagră: „Este o amenințare care crește“"
-   },
-   "summary": "Ministrul Apărării, Ștefan Radu Oprea, spune că alertele de dronă din zona Tulcea și Sulina s-au înmulțit, amintind că, recent, patru nave au fost lovite lângă Sulina. Amenințarea afectează și ...",
-   "url": "https://stirileprotv.ro/stiri/politic/ministrul-apararii-despre-atacurile-cu-drone-din-marea-neagra-este-o-amenintare-care-creste.html",
-   "source": "Știrile PRO TV",
-   "published": "2026-11-17T02:41:00Z",
-   "fetched": "2026-11-25T14:08:21Z",
-   "image": "https://stirileprotv.ro/img/2026/11/17/084030/radu-oprea-armata-2-facebook-mapn.jpg?fm=jpg&q=80&fit=crop&crop=2048%2C1153%2C0%2C43&watermark=og&w=1280",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.nZe1V1NDMO6okwk2wtRVHQ&pid=News",
-   "topics": [
-    "policy",
-    "attacks",
-    "shipping"
-   ],
-   "places": [
-    "danube"
-   ],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "35e2bd1c1aae",
-   "lang": "ro",
-   "title": "Alertă pe Marea Neagră: O navă așteptată în Portul Midia a emis un semnal de primejdie",
-   "titles": {
-    "ro": "Alertă pe Marea Neagră: O navă așteptată în Portul Midia a emis un semnal de primejdie"
-   },
-   "summary": "Un tanc specializat în transportul de gaze petroliere lichefiate (LPG), care avea ca destinație Portul Midia (Năvodari), a emis un semnal de primejdie în dimineața zilei de marți, 17 noiembrie, în lar ...",
-   "url": "https://www.radioconstanta.ro/2026/11/17/alerta-pe-marea-neagra-o-nava-asteptata-in-portul-midia-a-emis-un-semnal-de-primejdie/",
-   "source": "radioconstanta",
-   "published": "2026-11-17T02:30:00Z",
-   "fetched": "2026-11-26T06:48:47Z",
-   "image": "https://www.radioconstanta.ro/wp-content/uploads/2026/11/Captura-de-ecran-2026-11-17-102744.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.UjM-0dSalcgfJ-ykCHLL_w&pid=News",
-   "topics": [
-    "shipping",
-    "energy",
-    "ports"
-   ],
-   "places": [],
-   "img_tried": true,
-   "img_checked": true,
-   "also": []
-  },
-  {
-   "id": "adb33b7fe24e",
-   "lang": "en",
-   "title": "EU, Black Sea, South Caucasus and Central Asia advance cooperation on cross-regional security and connectivity",
-   "titles": {
-    "en": "EU, Black Sea, South Caucasus and Central Asia advance cooperation on cross-regional security and connectivity"
-   },
-   "summary": "On 16 November, EU High Representative Kaja Kallas, European Commissioner for Enlargement Marta Kos, and Commissioner for International Partnerships Jozef Síkela hosted in Brussels representatives ...",
-   "url": "https://euneighbourseast.eu/news/latest-news/eu-black-sea-south-caucasus-and-central-asia-advance-cooperation-on-cross-regional-security-and-connectivity/",
-   "source": "EU NEIGHBOURS east",
-   "published": "2026-11-17T02:25:00Z",
-   "fetched": "2026-11-26T13:28:33Z",
-   "image": "https://euneighbourseast.eu/wp-content/uploads/2026/11/p-045988_00-06_01-original-351008-scaled-e1794910662930.jpeg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.AgPqjaCwEcH74vU7C3ks5w&pid=News",
-   "topics": [
-    "policy"
-   ],
-   "places": [],
-   "also": [],
-   "img_tried": true,
-   "img_checked": true
   }
  ]
 }

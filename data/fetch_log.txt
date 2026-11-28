@@ -1,10 +1,10 @@
 [fetch]  35/ 51 kept  Google News en
-[fetch]  14/ 29 kept  Google News en
-[fetch]  17/ 28 kept  Google News en
+[fetch]  13/ 29 kept  Google News en
+[fetch]  18/ 28 kept  Google News en
 [fetch]   5/  7 kept  Google News en
-[fetch]  29/ 38 kept  Google News en
-[fetch]  11/ 24 kept  Google News en
-[fetch]  10/ 31 kept  Google News en
+[fetch]  33/ 46 kept  Google News en
+[fetch]  18/ 45 kept  Google News en
+[fetch]  15/ 55 kept  Google News en
 [fetch]   9/ 30 kept  Google News ro
 [fetch]   7/ 16 kept  Google News ro
 [fetch]   7/ 19 kept  Google News ro
@@ -30,52 +30,52 @@
 [fetch]   0/ 30 kept  Ukrinform
 [fetch]   0/ 29 kept  Euromaidan Press
 [fetch]   0/  0 kept  Novinite.com
-[fetch]   1/215 kept  Digi24
+[fetch]   1/207 kept  Digi24
 [fetch] FAIL https://www.bta.bg/bg/rss/free: HTTP Error 429: Too Many Requests
 [fetch]   0/ 30 kept  Дневник
 [fetch]   0/ 10 kept  Naval News
 [fetch]   0/ 30 kept  USNI News
-[fetch]  11/ 12 kept  Bing News en
+[fetch]  12/ 12 kept  Bing News en
 [fetch]  11/ 11 kept  Bing News en
 [fetch]   8/ 11 kept  Bing News en
 [fetch]   1/ 12 kept  Bing News en
-[fetch]   7/  9 kept  Bing News en
+[fetch]   8/ 10 kept  Bing News en
+[fetch]   7/ 12 kept  Bing News ro
 [fetch]  10/ 12 kept  Bing News ro
-[fetch]  10/ 12 kept  Bing News ro
-[fetch]  10/ 11 kept  Bing News bg
-[fetch]   9/ 11 kept  Bing News en
-[fetch]   8/  9 kept  Bing News en
-[fetch]   5/  9 kept  Bing News en
-[fetch]   9/ 12 kept  Bing News en
-[fetch]  11/ 12 kept  Bing News ro
-[fetch]   8/ 12 kept  Bing News ro
-[fetch]   5/ 12 kept  Bing News ro
+[fetch]   9/ 11 kept  Bing News bg
+[fetch]   8/ 12 kept  Bing News en
+[fetch]   8/ 10 kept  Bing News en
+[fetch]   3/  6 kept  Bing News en
+[fetch]  10/ 12 kept  Bing News en
+[fetch]   6/ 12 kept  Bing News ro
+[fetch]   7/ 12 kept  Bing News ro
+[fetch]   4/ 12 kept  Bing News ro
 [fetch]  12/ 12 kept  Bing News ro
 [fetch]  11/ 12 kept  Bing News bg
 [fetch]   5/ 12 kept  Bing News bg
-[fetch]   1/ 10 kept  Bing News bg
+[fetch]   1/  7 kept  Bing News bg
 [fetch]   8/ 12 kept  Bing News en
 [fetch]   8/ 12 kept  Bing News en
 [fetch]   3/ 11 kept  Bing News en
-[fetch]  10/ 12 kept  Bing News en
-[fetch]   6/ 12 kept  Bing News en
-[fetch]   7/ 12 kept  Bing News ro
+[fetch]   8/ 12 kept  Bing News en
+[fetch]   7/ 12 kept  Bing News en
+[fetch]  11/ 12 kept  Bing News ro
 [fetch]  10/ 11 kept  Bing News ro
 [fetch]   8/ 12 kept  Bing News bg
 [fetch]   3/ 10 kept  Bing News bg
 [fetch]   4/ 12 kept  Bing News en
 [fetch]   8/ 11 kept  Bing News en
 [fetch]   0/ 12 kept  Bing News en
-[fetch]   1/ 11 kept  Bing News en
+[fetch]   1/ 10 kept  Bing News en
 [fetch]   0/  0 kept  Bing News en
 [fetch]   0/ 10 kept  Bing News en
-[fetch]   0/ 10 kept  Bing News en
+[fetch]   0/  9 kept  Bing News en
 [fetch]   0/  0 kept  Bing News en
 [fetch]   0/ 12 kept  Bing News en
 [fetch]   0/  0 kept  Bing News en
 [fetch] FAIL gdelt:"black sea" (attack OR drone OR shipping OR vessel OR tanker OR insurance OR port): HTTP Error 429: Too Many Requests
 [images] 2/2 pictures found
-[images] verified 5: 3 usable on the site
-[deepl] translated 8 headlines, used this month ≈ 127000 chars
-[news] +19 new, 400 total, 23 from the last 24 h, newest 2026-11-28T15:01:00Z
+[images] verified 4: 3 usable on the site
+[deepl] translated 8 headlines, used this month ≈ 127570 chars
+[news] +12 new, 400 total, 20 from the last 24 h, newest 2026-11-28T16:35:55Z
 [weather] 8/8 ports updated
