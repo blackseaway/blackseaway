@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T07:18:20Z",
+ "updated": "2026-11-28T07:28:10Z",
  "items": [
   {
    "id": "b147cd890c45",
@@ -304,6 +304,34 @@
    "img_checked": true
   },
   {
+   "id": "68ab7696d5a9",
+   "lang": "ro",
+   "title": "Investiție de aproape 30 de milioane de euro în Portul Constanța. Navele vor putea opri motoarele în timpul staționării la cheu",
+   "titles": {
+    "ro": "Investiție de aproape 30 de milioane de euro în Portul Constanța. Navele vor putea opri motoarele în timpul staționării la cheu",
+    "en": "An investment of nearly 30 million euros in the Port of Constanța. Ships will be able to switch off their engines whilst berthed at the quay",
+    "bg": "Инвестиция от близо 30 милиона евро в пристанището на Констанца. Корабите ще могат да изключват двигателите си, докато са акостирали на кея"
+   },
+   "summary": "Proiectul de modernizare a infrastructurii energetice din Portul Constanța intră într-o nouă etapă. O mare parte dintre echipamentele necesare implementării sistemului E-COLD, care va permite alimenta ...",
+   "url": "https://atacdeconstanta.com/investitie-de-aproape-30-de-milioane-de-euro-in-portul-constanta-navele-vor-putea-opri-motoarele-in-timpul-stationarii-la-cheu/",
+   "source": "atacdeconstanta",
+   "published": "2026-11-27T16:00:00Z",
+   "fetched": "2026-11-28T07:22:37Z",
+   "image": "https://www.bing.com/th?id=ONUT.pM1cP50TtDE1vMLniCVSHQ&pid=News",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.pM1cP50TtDE1vMLniCVSHQ&pid=News",
+   "topics": [
+    "policy",
+    "shipping",
+    "ports"
+   ],
+   "places": [
+    "constanta"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
    "id": "4a0343c6229f",
    "lang": "ro",
    "title": "Tribunalul Constanța a deschis procedura generală a insolvenței împotriva HGM Port Logistics SRL, la cererea Euro River Transport SRL și Exim Banca Românească",
@@ -376,6 +404,30 @@
    ],
    "places": [],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "26f7a13b945c",
+   "lang": "bg",
+   "title": "Рискът за корабите в Черно море може да намалее чрез информационен център",
+   "titles": {
+    "bg": "Рискът за корабите в Черно море може да намалее чрез информационен център",
+    "en": "The risk to ships in the Black Sea could be reduced through an information centre",
+    "ro": "Riscul pentru navele din Marea Neagră ar putea fi redus prin intermediul unui centru de informare"
+   },
+   "summary": "Центърът за наблюдение в Черно море, за който Брюксел отпусна 50 милиона долара, трябва да бъде готов по-скоро, призова председателят на Европейската ...",
+   "url": "https://darik.bg/riskat-za-korabite-v-cherno-more-moze-da-namalee-chrez-informacionen-centar~553717.html",
+   "source": "darik",
+   "published": "2026-11-27T10:59:00Z",
+   "fetched": "2026-11-28T07:22:37Z",
+   "image": "https://darik.bg/media/830/gettyimages-1595924519~33.og.jpg",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.hg9EQeclXZgg1lHU5VSQtg&pid=News",
+   "topics": [
+    "shipping"
+   ],
+   "places": [],
+   "also": [],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -9850,34 +9902,6 @@
    "img_checked": true
   },
   {
-   "id": "da091e865170",
-   "lang": "ro",
-   "title": "O navă care transporta gaze naturale de la Alexandria către portul românesc Midia S-A SCUFUNDAT în Marea Neagră. CE S-A ÎNTÂMPLAT cu cei 19 membri ai echipajului?",
-   "titles": {
-    "ro": "O navă care transporta gaze naturale de la Alexandria către portul românesc Midia S-A SCUFUNDAT în Marea Neagră. CE S-A ÎNTÂMPLAT cu cei 19 membri ai echipajului?"
-   },
-   "summary": "Noi detalii despre nava scufundată în această dimineață în Marea Neagră. Iată anunțul făcut despre cei 19 membri ai echipajului ...",
-   "url": "https://www.radioimpuls.ro/o-nava-care-transporta-gaze-naturale-de-la-alexandria-catre-portul-romanesc-midia-s-a-scufundat-in-marea-neagra-ce-s-a-intamplat-cu-cei-19-membri-ai-echipajului-20550873",
-   "source": "Radio Impuls",
-   "published": "2026-11-17T07:07:00Z",
-   "fetched": "2026-11-28T05:08:11Z",
-   "image": "https://cdn.knd.ro/media/521/2942/1792/20550873/1/nava-scufundata-marea-neagra.jpg?width=1200&height=630",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.P-a9g1GcW1VRUTdGZgnOWw&pid=News",
-   "topics": [
-    "shipping",
-    "ports"
-   ],
-   "places": [],
-   "also": [
-    {
-     "source": "Evenimentul Zilei",
-     "url": "https://evz.ro/o-nava-cu-destinatia-midia-s-a-scufundat-in-marea-neagra-in-largul-bulgariei-autoritatile-cauta-19-membri-ai-echipajului.html"
-    }
-   ],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
    "id": "fa7a653beb83",
    "lang": "ro",
    "title": "O navă cu peste 3.400 de tone de propan s-a scufundat în Marea Neagră, în largul Bulgariei",
@@ -10499,32 +10523,6 @@
    "img_tried": true,
    "img_checked": true,
    "also": []
-  },
-  {
-   "id": "43335df59781",
-   "lang": "ro",
-   "title": "Constanţa 78%, Odesa 0%, Burgas 22%. Războiul a dat României cel mai bun port din Marea Neagră. România nu ştie ce să facă cu el",
-   "titles": {
-    "ro": "Constanţa 78%, Odesa 0%, Burgas 22%. Războiul a dat României cel mai bun port din Marea Neagră. România nu ştie ce să facă cu el"
-   },
-   "summary": "Trei porturi, trei poveşti diferite. Constanţa are azi 78% din piaţa maritimă a Mării Negre. Odesa are 0,01%. Burgas are 22% şi exact ...",
-   "url": "https://www.zf.ro/zf-24/constanta-78-odesa-0-burgas-22-razboiul-a-dat-romaniei-cel-mai-bun-port-din-marea-neagra-romania-nu-stie-ce-sa-faca-cu-el-23283117",
-   "source": "Ziarul Financiar",
-   "published": "2026-11-16T10:04:00Z",
-   "fetched": "2026-11-26T22:02:07Z",
-   "image": "https://storage0.dms.mpinteractiv.ro/media/1/1481/10376/23283117/2/02.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.cPCA3w735jQOXrlRm5AyEg&pid=News",
-   "topics": [
-    "ports"
-   ],
-   "places": [
-    "odesa",
-    "constanta",
-    "burgas"
-   ],
-   "also": [],
-   "img_tried": true,
-   "img_checked": true
   }
  ]
 }
