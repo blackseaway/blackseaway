@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T11:57:47Z",
+ "updated": "2026-11-28T13:08:34Z",
  "items": [
   {
    "id": "113ea33a17e3",
@@ -45,6 +45,67 @@
    ],
    "places": [],
    "also": [],
+   "img_checked": true
+  },
+  {
+   "id": "6c4861586621",
+   "lang": "ro",
+   "title": "Insuring vessels on the Danube–Black Sea routes is becoming increasingly problematic",
+   "titles": {
+    "ro": "Insuring vessels on the Danube–Black Sea routes is becoming increasingly problematic",
+    "en": "Insuring vessels on the Danube–Black Sea routes is becoming increasingly problematic",
+    "bg": "Застраховането на кораби по маршрутите по река Дунав и Черно море става все по-проблематично"
+   },
+   "summary": "War risks and insurers’ territorial restrictions threaten shipping near Sulina and Constanța. Premiums are rising, while insurance coverage is becoming increasingly difficult to secure.",
+   "url": "https://logos-pres.md/en/news/insuring-vessels-on-the-danube-black-sea-routes-is-becoming-increasingly-problematic/",
+   "source": "logos-pres",
+   "published": "2026-11-28T04:49:00Z",
+   "fetched": "2026-11-28T13:06:21Z",
+   "image": "https://logos-pres.md/wp-content/uploads/2026/11/dunayskoe-sudohodstvo.webp",
+   "fallback_image": "",
+   "topics": [
+    "shipping",
+    "insurance"
+   ],
+   "places": [
+    "danube",
+    "constanta"
+   ],
+   "also": [],
+   "img_tried": true,
+   "img_checked": true
+  },
+  {
+   "id": "30fe45179d52",
+   "lang": "ro",
+   "title": "Asigurarea navelor pe rutele Dunăre – Marea Neagră devine din ce în ce mai problematică",
+   "titles": {
+    "ro": "Asigurarea navelor pe rutele Dunăre – Marea Neagră devine din ce în ce mai problematică",
+    "en": "Insuring ships on the Danube–Black Sea routes is becoming increasingly problematic",
+    "bg": "Застраховането на корабите по маршрутите Дунав – Черно море става все по-проблематично"
+   },
+   "summary": "Restricțiile impuse de asigurători din cauza riscurilor de război amenință navigația în zona Sulina și Constanța. Polițele se scumpesc, iar acoperirea devine tot mai greu de obținut.",
+   "url": "https://logos-pres.md/noutati/asigurarea-navelor-pe-rutele-dunare-marea-neagra-devine-din-ce-in-ce-mai-problematica/",
+   "source": "logos-pres",
+   "published": "2026-11-28T04:49:00Z",
+   "fetched": "2026-11-28T13:06:21Z",
+   "image": "https://logos-pres.md/wp-content/uploads/2026/11/dunayskoe-sudohodstvo.webp",
+   "fallback_image": "http://www.bing.com/th?id=ONUT.KzbaCk4X6Zhn_e8lvPgu6A&pid=News",
+   "topics": [
+    "shipping",
+    "insurance"
+   ],
+   "places": [
+    "danube",
+    "constanta"
+   ],
+   "also": [
+    {
+     "source": "logos-pres.md",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZHdrNnZhWXFxcVBqZHlPcmx6UEs2RXIzM2doN2lDLXFZcnNWSm9VbGgwcWRNM1BJR0NXbXFia1hMaTRxU2Q4NmFKXzF5VXdyRGJzbGZjRVhFT2xINTZUWWtGWHVsZnk1UTcyaEpvaTk4NkR4VDhTSTk0OEt4a1BlWS00VXczNl9JbmZTNG4tRzEtb2JBSDFQdDltckhGNHl3bVkzdlpPTUhsekpJZWtYTEFHNU9WcjA?oc=5"
+    }
+   ],
+   "img_tried": true,
    "img_checked": true
   },
   {
@@ -393,58 +454,6 @@
    "img_checked": true
   },
   {
-   "id": "ded62ee9d15e",
-   "lang": "bg",
-   "title": "Дронове в Черно море ще има, но туристите искат да почиват у нас: Илин Димитров очаква силен ...",
-   "titles": {
-    "bg": "Дронове в Черно море ще има, но туристите искат да почиват у нас: Илин Димитров очаква силен ...",
-    "en": "There will be drones in the Black Sea, but tourists want to holiday here: Ilin Dimitrov expects a strong ...",
-    "ro": "Vor fi drone în Marea Neagră, dar turiștii vor să-și petreacă vacanța la noi: Ilin Dimitrov se așteaptă la un sezon puternic..."
-   },
-   "summary": "Министърът на туризма не вижда основания за тревога, отчита между 30 и 40% очакван ръст на германския пазар и сериозно увеличение на полетите до Бургас и Варна ...",
-   "url": "https://www.flagman.bg/article/395099",
-   "source": "Флагман.Бг",
-   "published": "2026-11-27T15:30:00Z",
-   "fetched": "2026-11-28T11:54:58Z",
-   "image": "https://www.flagman.bg/news/2026/11/28/179586093355437.jpg",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.sDyQbRKfEvWrpOUg7dET_A&pid=News",
-   "topics": [
-    "policy",
-    "attacks"
-   ],
-   "places": [
-    "varna",
-    "burgas"
-   ],
-   "also": [],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
-   "id": "98a68c44ab40",
-   "lang": "ro",
-   "title": "CBS: Marea Neagră riscă să atragă SUA într-un război cu Rusia. Incidentele maritime au crescut de zece ori",
-   "titles": {
-    "ro": "CBS: Marea Neagră riscă să atragă SUA într-un război cu Rusia. Incidentele maritime au crescut de zece ori",
-    "en": "CBS: The Black Sea risks dragging the US into a war with Russia. Maritime incidents have increased tenfold",
-    "bg": "CBS: Черно море рискува да въвлече САЩ във война с Русия. Морските инциденти са се увеличили десетократно"
-   },
-   "summary": "NATO a înregistrat între 400 și 500 de incidente în Marea Neagră în 2026, față de mai puțin de 50 în anul precedent. Cel puțin 40 de marinari au murit ...",
-   "url": "https://alephnews.ro/guvern/cbs-marea-neagra-risca-sa-atraga-sua-intr-un-razboi-cu-rusia-incidentele-maritime-au-crescut-de-zece-ori/",
-   "source": "Aleph News",
-   "published": "2026-11-27T15:06:00Z",
-   "fetched": "2026-11-28T11:54:58Z",
-   "image": "https://media.alephnews.ro/2026/11/nava-lovita-5.png",
-   "fallback_image": "http://www.bing.com/th?id=ONUT.NBhb5GNnYDzz-W-DgpK-wg&pid=News",
-   "topics": [
-    "policy"
-   ],
-   "places": [],
-   "also": [],
-   "img_tried": true,
-   "img_checked": true
-  },
-  {
    "id": "4d9c23d3bc00",
    "lang": "en",
    "title": "European wheat prices hit one-month high amid Black Sea shipping disruptions",
@@ -653,7 +662,12 @@
     "shipping"
    ],
    "places": [],
-   "also": [],
+   "also": [
+    {
+     "source": "Флагман.Бг",
+     "url": "https://www.flagman.bg/article/395099"
+    }
+   ],
    "img_tried": true,
    "img_checked": true
   },
@@ -1505,7 +1519,12 @@
     "attacks"
    ],
    "places": [],
-   "also": [],
+   "also": [
+    {
+     "source": "Aleph News",
+     "url": "https://alephnews.ro/guvern/cbs-marea-neagra-risca-sa-atraga-sua-intr-un-razboi-cu-rusia-incidentele-maritime-au-crescut-de-zece-ori/"
+    }
+   ],
    "img_tried": true,
    "img_checked": true
   },
@@ -5650,7 +5669,9 @@
    "lang": "bg",
    "title": "Екорискове заради войната: Превръща ли се дъното на Черно море в гробище за кораби?",
    "titles": {
-    "bg": "Екорискове заради войната: Превръща ли се дъното на Черно море в гробище за кораби?"
+    "bg": "Екорискове заради войната: Превръща ли се дъното на Черно море в гробище за кораби?",
+    "en": "Environmental risks caused by the war: Is the Black Sea seabed turning into a ship graveyard?",
+    "ro": "Riscuri ecologice cauzate de război: Se transformă fundul Mării Negre într-un cimitir de nave?"
    },
    "summary": "Най-големият проблем според учените е, че никой не знае какво е имало на борда на стотиците ударени и потънали кораби ...",
    "url": "https://btvnovinite.bg/bulgaria/ekoriskove-zaradi-vojnata-prevrashta-li-se-danoto-na-cherno-more-v-grobishte-za-korabi.html",
@@ -5673,7 +5694,9 @@
    "lang": "ro",
    "title": "Luca Niculescu, interviu în Franța: Securitatea la Marea Neagră, viitorul economiei și prezența americană în România",
    "titles": {
-    "ro": "Luca Niculescu, interviu în Franța: Securitatea la Marea Neagră, viitorul economiei și prezența americană în România"
+    "ro": "Luca Niculescu, interviu în Franța: Securitatea la Marea Neagră, viitorul economiei și prezența americană în România",
+    "en": "Luca Niculescu, interview in France: Security in the Black Sea region, the future of the economy and the US presence in Romania",
+    "bg": "Лука Никулеску, интервю във Франция: Сигурността в Черноморския регион, бъдещето на икономиката и американското присъствие в Румъния"
    },
    "summary": "Luca Niculescu, prim-ministrul României, subliniază provocările economice și amenințările rusești în interviul acordat L'Express.",
    "url": "https://www.dcnews.ro/luca-niculescu-interviu-franta-securitatea-marea-neagra_1098294.html",
@@ -10223,6 +10246,10 @@
     {
      "source": "Ziua de Constanța",
      "url": "https://www.ziuaconstanta.ro/stiri/externe/nava-gas-husky-care-s-a-scufundat-in-marea-neagra-a-fost-lovita-de-proiectile-960979.html"
+    },
+    {
+     "source": "Evenimentul Zilei",
+     "url": "https://evz.ro/o-nava-cu-destinatia-midia-s-a-scufundat-in-marea-neagra-in-largul-bulgariei-autoritatile-cauta-19-membri-ai-echipajului.html"
     }
    ],
    "img_checked": true
