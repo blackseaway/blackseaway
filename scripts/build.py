@@ -435,6 +435,9 @@ def build():
                               f"Sitemap: {cfg['base_url']}/sitemap.xml\nSitemap: {cfg['base_url']}/news-sitemap.xml\n")
     write(OUT / "sitemap.xml", sitemap_xml(cfg, posts, news.get("updated")))
     write(OUT / "news-sitemap.xml", news_sitemap_xml(cfg, posts))
+    for lang in cfg["languages"]:  # per-language copies for Search Console properties like /en/
+        write(OUT / lang / "sitemap.xml", sitemap_xml(cfg, posts, news.get("updated"), only=lang))
+        write(OUT / lang / "news-sitemap.xml", news_sitemap_xml(cfg, posts, only=lang))
     for lang in cfg["languages"]:
         write(OUT / f"feed-{lang}.xml", rss_feed(cfg, posts, items, lang))
     write(OUT / "feed.xml", rss_feed(cfg, posts, items, "en"))
@@ -468,7 +471,7 @@ def rss_feed(cfg, posts, items, lang="en") -> str:
             f"{body}</channel></rss>\n")
 
 
-def sitemap_xml(cfg, posts, news_updated) -> str:
+def sitemap_xml(cfg, posts, news_updated, only=None) -> str:
     """All pages in all languages, with hreflang alternates and last-modified dates."""
     base, langs = cfg["base_url"], cfg["languages"]
     now = news_updated or iso(now_utc())
@@ -480,21 +483,21 @@ def sitemap_xml(cfg, posts, news_updated) -> str:
     for path, lastmod, freq, prio in pages:
         alts = "".join(f'<xhtml:link rel="alternate" hreflang="{l}" href="{base}/{l}/{path}"/>' for l in langs)
         alts += f'<xhtml:link rel="alternate" hreflang="x-default" href="{base}/{cfg["default_language"]}/{path}"/>'
-        for l in langs:
+        for l in ([only] if only else langs):
             out.append(f"<url><loc>{base}/{l}/{path}</loc>" + (f"<lastmod>{lastmod}</lastmod>" if lastmod else "")
                        + f"<changefreq>{freq}</changefreq><priority>{prio}</priority>{alts}</url>")
     return ('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
             'xmlns:xhtml="http://www.w3.org/1999/xhtml">' + "".join(out) + "</urlset>\n")
 
 
-def news_sitemap_xml(cfg, posts) -> str:
+def news_sitemap_xml(cfg, posts, only=None) -> str:
     """Google News sitemap: our own articles from the last 2 days."""
     cutoff = dt.date.today() - dt.timedelta(days=2)
     out = []
     for p in posts:
         if p["date"] < cutoff:
             continue
-        for l in cfg["languages"]:
+        for l in ([only] if only else cfg["languages"]):
             v = p["versions"][l]
             out.append(f"<url><loc>{cfg['base_url']}/{l}/articles/{p['slug']}.html</loc><news:news>"
                        f"<news:publication><news:name>{cfg['name']}</news:name><news:language>{l}</news:language>"
